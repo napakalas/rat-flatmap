@@ -1,0 +1,14 @@
+{
+    "id": "rat-flatmap",
+    "models": "NCBITaxon:10114",
+    "description": "description.json",
+    "properties": "properties.json",
+    "sources": [
+        {
+            "id": "whole-rat",
+            "href": "rat_flatmap.svg",
+            "kind": "base"
+        }
+    ],
+    "anatomicalMap": "anatomical_map.json"
+}

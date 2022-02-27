@@ -1,0 +1,3651 @@
+{
+    "classes": {
+        "ardell_1": {
+            "label": "atrial intracardiac ganglion"
+        },
+        "ardell_2": {
+            "label": "ventricular intracardiac ganglion"
+        },
+        "ardell_3": {
+            "label": "mediastinal ganglion"
+        },
+        "body_1": {
+            "tooltip": false
+        },
+        "body_2": {
+            "tooltip": false
+        },
+        "body_3": {
+            "tooltip": false
+        },
+        "body_4": {
+            "tooltip": false
+        },
+        "body_5": {
+            "tooltip": false
+        },
+        "body_6": {
+            "tooltip": false
+        },
+        "bolser_2": {
+            "label": "external carotid nerve plexus"
+        },
+        "brain_13": {
+            "label": "BRGTN"
+        },
+        "brain_14": {
+            "label": "VLPAG"
+        },
+        "brain_35": {
+            "tooltip": false
+        },
+        "keast_1": {
+            "models": "EMAPA:31526",
+            "label": "bladder nerves",
+            "type": "nerve"
+        },
+        "keast_2": {
+            "type": "nerve"
+        },
+        "keast_4": {
+            "type": "nerve"
+        },
+        "keast_5": {
+            "type": "nerve"
+        },
+        "keast_7": {
+            "type": "nerve"
+        },
+        "respiratory_3": {
+            "label": "Trachea"
+        },
+        "respiratory_6": {
+            "tooltip": false
+        },
+        "respiratory_7": {
+            "tooltip": false
+        }
+    },
+    "features": {
+        "S33_C1": {
+            "class": "spinal_33"
+        },
+        "S33_C2": {
+            "class": "spinal_33"
+        },
+        "S33_C3": {
+            "class": "spinal_33"
+        },
+        "S33_C4": {
+            "class": "spinal_33"
+        },
+        "S33_C5": {
+            "class": "spinal_33"
+        },
+        "S33_C6": {
+            "class": "spinal_33"
+        },
+        "S33_C7": {
+            "class": "spinal_33"
+        },
+        "S33_C8": {
+            "class": "spinal_33"
+        },
+        "S33_L1": {
+            "class": "spinal_33"
+        },
+        "S33_L2": {
+            "class": "spinal_33"
+        },
+        "S33_L3": {
+            "class": "spinal_33"
+        },
+        "S33_L4": {
+            "class": "spinal_33"
+        },
+        "S33_L5": {
+            "class": "spinal_33"
+        },
+        "S33_L6": {
+            "class": "spinal_33"
+        },
+        "S33_S1": {
+            "class": "spinal_33"
+        },
+        "S33_S2": {
+            "class": "spinal_33"
+        },
+        "S33_S3": {
+            "class": "spinal_33"
+        },
+        "S33_T1": {
+            "class": "spinal_33"
+        },
+        "S33_T10": {
+            "class": "spinal_33"
+        },
+        "S33_T11": {
+            "class": "spinal_33"
+        },
+        "S33_T12": {
+            "class": "spinal_33"
+        },
+        "S33_T13": {
+            "class": "spinal_33"
+        },
+        "S33_T2": {
+            "class": "spinal_33"
+        },
+        "S33_T3": {
+            "class": "spinal_33"
+        },
+        "S33_T4": {
+            "class": "spinal_33"
+        },
+        "S33_T5": {
+            "class": "spinal_33"
+        },
+        "S33_T6": {
+            "class": "spinal_33"
+        },
+        "S33_T7": {
+            "class": "spinal_33"
+        },
+        "S33_T8": {
+            "class": "spinal_33"
+        },
+        "S33_T9": {
+            "class": "spinal_33"
+        },
+        "S34_C1": {
+            "class": "spinal_34"
+        },
+        "S34_C2": {
+            "class": "spinal_34"
+        },
+        "S34_C3": {
+            "class": "spinal_34"
+        },
+        "S34_C4": {
+            "class": "spinal_34"
+        },
+        "S34_C5": {
+            "class": "spinal_34"
+        },
+        "S34_C6": {
+            "class": "spinal_34"
+        },
+        "S34_C7": {
+            "class": "spinal_34"
+        },
+        "S34_C8": {
+            "class": "spinal_34"
+        },
+        "S34_L1": {
+            "models": "UBERON:0002181",
+            "class": "spinal_34"
+        },
+        "S34_L2": {
+            "models": "UBERON:0002181",
+            "class": "spinal_34"
+        },
+        "S34_L3": {
+            "class": "spinal_34"
+        },
+        "S34_L4": {
+            "class": "spinal_34"
+        },
+        "S34_L5": {
+            "class": "spinal_34"
+        },
+        "S34_L6": {
+            "class": "spinal_34"
+        },
+        "S34_S1": {
+            "class": "spinal_34"
+        },
+        "S34_S2": {
+            "class": "spinal_34"
+        },
+        "S34_S3": {
+            "class": "spinal_34"
+        },
+        "S34_T1": {
+            "class": "spinal_34"
+        },
+        "S34_T10": {
+            "class": "spinal_34"
+        },
+        "S34_T11": {
+            "class": "spinal_34"
+        },
+        "S34_T12": {
+            "class": "spinal_34"
+        },
+        "S34_T13": {
+            "class": "spinal_34"
+        },
+        "S34_T2": {
+            "class": "spinal_34"
+        },
+        "S34_T3": {
+            "class": "spinal_34"
+        },
+        "S34_T4": {
+            "class": "spinal_34"
+        },
+        "S34_T5": {
+            "class": "spinal_34"
+        },
+        "S34_T6": {
+            "class": "spinal_34"
+        },
+        "S34_T7": {
+            "class": "spinal_34"
+        },
+        "S34_T8": {
+            "class": "spinal_34"
+        },
+        "S34_T9": {
+            "class": "spinal_34"
+        },
+        "S35_C1": {
+            "class": "spinal_35"
+        },
+        "S35_C2": {
+            "class": "spinal_35"
+        },
+        "S35_C3": {
+            "class": "spinal_35"
+        },
+        "S35_C4": {
+            "class": "spinal_35"
+        },
+        "S35_C5": {
+            "class": "spinal_35"
+        },
+        "S35_C6": {
+            "class": "spinal_35"
+        },
+        "S35_C7": {
+            "class": "spinal_35"
+        },
+        "S35_C8": {
+            "class": "spinal_35"
+        },
+        "S35_L1": {
+            "class": "spinal_35"
+        },
+        "S35_L2": {
+            "class": "spinal_35"
+        },
+        "S35_L3": {
+            "class": "spinal_35"
+        },
+        "S35_L4": {
+            "class": "spinal_35"
+        },
+        "S35_L5": {
+            "class": "spinal_35"
+        },
+        "S35_L6": {
+            "class": "spinal_35"
+        },
+        "S35_S1": {
+            "class": "spinal_35"
+        },
+        "S35_S2": {
+            "class": "spinal_35"
+        },
+        "S35_S3": {
+            "class": "spinal_35"
+        },
+        "S35_T1": {
+            "class": "spinal_35"
+        },
+        "S35_T10": {
+            "class": "spinal_35"
+        },
+        "S35_T11": {
+            "class": "spinal_35"
+        },
+        "S35_T12": {
+            "class": "spinal_35"
+        },
+        "S35_T13": {
+            "class": "spinal_35"
+        },
+        "S35_T2": {
+            "class": "spinal_35"
+        },
+        "S35_T3": {
+            "class": "spinal_35"
+        },
+        "S35_T4": {
+            "class": "spinal_35"
+        },
+        "S35_T5": {
+            "class": "spinal_35"
+        },
+        "S35_T6": {
+            "class": "spinal_35"
+        },
+        "S35_T7": {
+            "class": "spinal_35"
+        },
+        "S35_T8": {
+            "class": "spinal_35"
+        },
+        "S35_T9": {
+            "class": "spinal_35"
+        },
+        "S36_C1": {
+            "class": "spinal_36"
+        },
+        "S36_C2": {
+            "class": "spinal_36"
+        },
+        "S36_C3": {
+            "class": "spinal_36"
+        },
+        "S36_C4": {
+            "class": "spinal_36"
+        },
+        "S36_C5": {
+            "class": "spinal_36"
+        },
+        "S36_C6": {
+            "class": "spinal_36"
+        },
+        "S36_C7": {
+            "class": "spinal_36"
+        },
+        "S36_C8": {
+            "class": "spinal_36"
+        },
+        "S36_L1": {
+            "class": "spinal_36"
+        },
+        "S36_L2": {
+            "class": "spinal_36"
+        },
+        "S36_L3": {
+            "class": "spinal_36"
+        },
+        "S36_L4": {
+            "class": "spinal_36"
+        },
+        "S36_L5": {
+            "class": "spinal_36"
+        },
+        "S36_L6": {
+            "class": "spinal_36"
+        },
+        "S36_S1": {
+            "class": "spinal_36"
+        },
+        "S36_S2": {
+            "class": "spinal_36"
+        },
+        "S36_S3": {
+            "class": "spinal_36"
+        },
+        "S36_T1": {
+            "class": "spinal_36"
+        },
+        "S36_T10": {
+            "class": "spinal_36"
+        },
+        "S36_T11": {
+            "class": "spinal_36"
+        },
+        "S36_T12": {
+            "class": "spinal_36"
+        },
+        "S36_T13": {
+            "class": "spinal_36"
+        },
+        "S36_T2": {
+            "class": "spinal_36"
+        },
+        "S36_T3": {
+            "class": "spinal_36"
+        },
+        "S36_T4": {
+            "class": "spinal_36"
+        },
+        "S36_T5": {
+            "class": "spinal_36"
+        },
+        "S36_T6": {
+            "class": "spinal_36"
+        },
+        "S36_T7": {
+            "class": "spinal_36"
+        },
+        "S36_T8": {
+            "class": "spinal_36"
+        },
+        "S36_T9": {
+            "class": "spinal_36"
+        },
+        "S37_C1": {
+            "class": "spinal_37"
+        },
+        "S37_C2": {
+            "class": "spinal_37"
+        },
+        "S37_C3": {
+            "class": "spinal_37"
+        },
+        "S37_C4": {
+            "class": "spinal_37"
+        },
+        "S37_C5": {
+            "class": "spinal_37"
+        },
+        "S37_C6": {
+            "class": "spinal_37"
+        },
+        "S37_C7": {
+            "class": "spinal_37"
+        },
+        "S37_C8": {
+            "class": "spinal_37"
+        },
+        "S37_L1": {
+            "class": "spinal_37"
+        },
+        "S37_L2": {
+            "class": "spinal_37"
+        },
+        "S37_L3": {
+            "class": "spinal_37"
+        },
+        "S37_L4": {
+            "class": "spinal_37"
+        },
+        "S37_L5": {
+            "class": "spinal_37"
+        },
+        "S37_L6": {
+            "class": "spinal_37"
+        },
+        "S37_S1": {
+            "class": "spinal_37"
+        },
+        "S37_S2": {
+            "class": "spinal_37"
+        },
+        "S37_S3": {
+            "class": "spinal_37"
+        },
+        "S37_T1": {
+            "class": "spinal_37"
+        },
+        "S37_T10": {
+            "class": "spinal_37"
+        },
+        "S37_T11": {
+            "class": "spinal_37"
+        },
+        "S37_T12": {
+            "class": "spinal_37"
+        },
+        "S37_T13": {
+            "class": "spinal_37"
+        },
+        "S37_T2": {
+            "class": "spinal_37"
+        },
+        "S37_T3": {
+            "class": "spinal_37"
+        },
+        "S37_T4": {
+            "class": "spinal_37"
+        },
+        "S37_T5": {
+            "class": "spinal_37"
+        },
+        "S37_T6": {
+            "class": "spinal_37"
+        },
+        "S37_T7": {
+            "class": "spinal_37"
+        },
+        "S37_T8": {
+            "class": "spinal_37"
+        },
+        "S37_T9": {
+            "class": "spinal_37"
+        },
+        "S38_C4": {
+            "class": "spinal_38"
+        },
+        "S38_C5": {
+            "class": "spinal_38"
+        },
+        "S38_C6": {
+            "class": "spinal_38"
+        },
+        "S38_C7": {
+            "class": "spinal_38"
+        },
+        "S38_C8": {
+            "class": "spinal_38"
+        },
+        "S38_L3": {
+            "class": "spinal_38"
+        },
+        "S38_L4": {
+            "class": "spinal_38"
+        },
+        "S38_L5": {
+            "class": "spinal_38"
+        },
+        "S38_L6": {
+            "class": "spinal_38"
+        },
+        "S38_S3": {
+            "class": "spinal_38"
+        },
+        "S38_T1": {
+            "class": "spinal_38"
+        },
+        "S39_C1": {
+            "class": "spinal_39"
+        },
+        "S39_C2": {
+            "class": "spinal_39"
+        },
+        "S39_C3": {
+            "class": "spinal_39"
+        },
+        "S39_C4": {
+            "class": "spinal_39"
+        },
+        "S39_C5": {
+            "class": "spinal_39"
+        },
+        "S39_C6": {
+            "class": "spinal_39"
+        },
+        "S39_C7": {
+            "class": "spinal_39"
+        },
+        "S39_C8": {
+            "class": "spinal_39"
+        },
+        "S39_L1": {
+            "class": "spinal_39"
+        },
+        "S39_L2": {
+            "class": "spinal_39"
+        },
+        "S39_L3": {
+            "class": "spinal_39"
+        },
+        "S39_L4": {
+            "class": "spinal_39"
+        },
+        "S39_L5": {
+            "class": "spinal_39"
+        },
+        "S39_L6": {
+            "class": "spinal_39"
+        },
+        "S39_S1": {
+            "class": "spinal_39"
+        },
+        "S39_S2": {
+            "class": "spinal_39"
+        },
+        "S39_S3": {
+            "class": "spinal_39"
+        },
+        "S39_T1": {
+            "class": "spinal_39"
+        },
+        "S39_T10": {
+            "class": "spinal_39"
+        },
+        "S39_T11": {
+            "class": "spinal_39"
+        },
+        "S39_T12": {
+            "class": "spinal_39"
+        },
+        "S39_T13": {
+            "class": "spinal_39"
+        },
+        "S39_T2": {
+            "class": "spinal_39"
+        },
+        "S39_T3": {
+            "class": "spinal_39"
+        },
+        "S39_T4": {
+            "class": "spinal_39"
+        },
+        "S39_T5": {
+            "class": "spinal_39"
+        },
+        "S39_T6": {
+            "class": "spinal_39"
+        },
+        "S39_T7": {
+            "class": "spinal_39"
+        },
+        "S39_T8": {
+            "class": "spinal_39"
+        },
+        "S39_T9": {
+            "class": "spinal_39"
+        },
+        "S40_C1": {
+            "class": "spinal_40"
+        },
+        "S40_C2": {
+            "class": "spinal_40"
+        },
+        "S40_C3": {
+            "class": "spinal_40"
+        },
+        "S40_C4": {
+            "class": "spinal_40"
+        },
+        "S40_C5": {
+            "class": "spinal_40"
+        },
+        "S40_C6": {
+            "class": "spinal_40"
+        },
+        "S40_C7": {
+            "class": "spinal_40"
+        },
+        "S40_C8": {
+            "class": "spinal_40"
+        },
+        "S40_L1": {
+            "class": "spinal_40"
+        },
+        "S40_L2": {
+            "class": "spinal_40"
+        },
+        "S40_L3": {
+            "class": "spinal_40"
+        },
+        "S40_L4": {
+            "class": "spinal_40"
+        },
+        "S40_L5": {
+            "class": "spinal_40"
+        },
+        "S40_L6": {
+            "class": "spinal_40"
+        },
+        "S40_S1": {
+            "class": "spinal_40"
+        },
+        "S40_S2": {
+            "class": "spinal_40"
+        },
+        "S40_T1": {
+            "class": "spinal_40"
+        },
+        "S40_T10": {
+            "class": "spinal_40"
+        },
+        "S40_T11": {
+            "class": "spinal_40"
+        },
+        "S40_T12": {
+            "class": "spinal_40"
+        },
+        "S40_T13": {
+            "class": "spinal_40"
+        },
+        "S40_T2": {
+            "class": "spinal_40"
+        },
+        "S40_T3": {
+            "class": "spinal_40"
+        },
+        "S40_T4": {
+            "class": "spinal_40"
+        },
+        "S40_T5": {
+            "class": "spinal_40"
+        },
+        "S40_T6": {
+            "class": "spinal_40"
+        },
+        "S40_T7": {
+            "class": "spinal_40"
+        },
+        "S40_T8": {
+            "class": "spinal_40"
+        },
+        "S40_T9": {
+            "class": "spinal_40"
+        },
+        "S41_1_C1": {
+            "class": "spinal_41"
+        },
+        "S41_1_C2": {
+            "class": "spinal_41"
+        },
+        "S41_1_C3": {
+            "class": "spinal_41"
+        },
+        "S41_1_C4": {
+            "class": "spinal_41"
+        },
+        "S41_1_C5": {
+            "class": "spinal_41"
+        },
+        "S41_1_C6": {
+            "class": "spinal_41"
+        },
+        "S41_1_C7": {
+            "class": "spinal_41"
+        },
+        "S41_1_C8": {
+            "class": "spinal_41"
+        },
+        "S41_1_L1": {
+            "class": "spinal_41"
+        },
+        "S41_1_L2": {
+            "class": "spinal_41"
+        },
+        "S41_1_L3": {
+            "class": "spinal_41"
+        },
+        "S41_1_L4": {
+            "class": "spinal_41"
+        },
+        "S41_1_L5": {
+            "class": "spinal_41"
+        },
+        "S41_1_L6": {
+            "class": "spinal_41"
+        },
+        "S41_1_S1": {
+            "class": "spinal_41"
+        },
+        "S41_1_T1": {
+            "class": "spinal_41"
+        },
+        "S41_1_T10": {
+            "class": "spinal_41"
+        },
+        "S41_1_T11": {
+            "class": "spinal_41"
+        },
+        "S41_1_T12": {
+            "class": "spinal_41"
+        },
+        "S41_1_T13": {
+            "class": "spinal_41"
+        },
+        "S41_1_T2": {
+            "class": "spinal_41"
+        },
+        "S41_1_T3": {
+            "class": "spinal_41"
+        },
+        "S41_1_T4": {
+            "class": "spinal_41"
+        },
+        "S41_1_T5": {
+            "class": "spinal_41"
+        },
+        "S41_1_T6": {
+            "class": "spinal_41"
+        },
+        "S41_1_T7": {
+            "class": "spinal_41"
+        },
+        "S41_1_T8": {
+            "class": "spinal_41"
+        },
+        "S41_1_T9": {
+            "class": "spinal_41"
+        },
+        "S41_2_C1": {
+            "class": "spinal_41"
+        },
+        "S41_2_C2": {
+            "class": "spinal_41"
+        },
+        "S41_2_C3": {
+            "class": "spinal_41"
+        },
+        "S41_2_C4": {
+            "class": "spinal_41"
+        },
+        "S41_2_C5": {
+            "class": "spinal_41"
+        },
+        "S41_2_C6": {
+            "class": "spinal_41"
+        },
+        "S41_2_C7": {
+            "class": "spinal_41"
+        },
+        "S41_2_C8": {
+            "class": "spinal_41"
+        },
+        "S41_2_L1": {
+            "class": "spinal_41"
+        },
+        "S41_2_L2": {
+            "class": "spinal_41"
+        },
+        "S41_2_L3": {
+            "class": "spinal_41"
+        },
+        "S41_2_L4": {
+            "class": "spinal_41"
+        },
+        "S41_2_L5": {
+            "class": "spinal_41"
+        },
+        "S41_2_L6": {
+            "class": "spinal_41"
+        },
+        "S41_2_S1": {
+            "class": "spinal_41"
+        },
+        "S41_2_T1": {
+            "class": "spinal_41"
+        },
+        "S41_2_T10": {
+            "class": "spinal_41"
+        },
+        "S41_2_T11": {
+            "class": "spinal_41"
+        },
+        "S41_2_T12": {
+            "class": "spinal_41"
+        },
+        "S41_2_T13": {
+            "class": "spinal_41"
+        },
+        "S41_2_T2": {
+            "class": "spinal_41"
+        },
+        "S41_2_T3": {
+            "class": "spinal_41"
+        },
+        "S41_2_T4": {
+            "class": "spinal_41"
+        },
+        "S41_2_T5": {
+            "class": "spinal_41"
+        },
+        "S41_2_T6": {
+            "class": "spinal_41"
+        },
+        "S41_2_T7": {
+            "class": "spinal_41"
+        },
+        "S41_2_T8": {
+            "class": "spinal_41"
+        },
+        "S41_2_T9": {
+            "class": "spinal_41"
+        },
+        "S41_3_C2": {
+            "class": "spinal_41"
+        },
+        "S41_3_C3": {
+            "class": "spinal_41"
+        },
+		"S41_4_C3": {
+            "class": "spinal_41"
+        },
+        "S41_3_C4": {
+            "class": "spinal_41"
+        },
+        "S41_3_C5": {
+            "class": "spinal_41"
+        },
+        "S41_3_C6": {
+            "class": "spinal_41"
+        },
+        "S41_3_C7": {
+            "class": "spinal_41"
+        },
+        "S41_3_C8": {
+            "class": "spinal_41"
+        },
+        "S41_3_L1": {
+            "class": "spinal_41"
+        },
+        "S41_3_L2": {
+            "class": "spinal_41"
+        },
+        "S41_3_L3": {
+            "class": "spinal_41"
+        },
+        "S41_3_L4": {
+            "class": "spinal_41"
+        },
+        "S41_3_L5": {
+            "class": "spinal_41"
+        },
+        "S41_3_L6": {
+            "class": "spinal_41"
+        },
+        "S41_3_S1": {
+            "class": "spinal_41"
+        },
+        "S41_3_T1": {
+            "class": "spinal_41"
+        },
+        "S41_3_T10": {
+            "class": "spinal_41"
+        },
+        "S41_3_T11": {
+            "class": "spinal_41"
+        },
+        "S41_3_T12": {
+            "class": "spinal_41"
+        },
+        "S41_3_T2": {
+            "class": "spinal_41"
+        },
+        "S41_3_T7": {
+            "class": "spinal_41"
+        },
+        "S41_3_T9": {
+            "class": "spinal_41"
+        },
+        "S41_4_C4": {
+            "class": "spinal_41"
+        },
+        "S41_4_C5": {
+            "class": "spinal_41"
+        },
+        "S41_4_C6": {
+            "class": "spinal_41"
+        },
+        "S41_4_C7": {
+            "class": "spinal_41"
+        },
+        "S41_4_C8": {
+            "class": "spinal_41"
+        },
+        "S41_4_L1": {
+            "class": "spinal_41"
+        },
+        "S41_4_L4": {
+            "class": "spinal_41"
+        },
+        "S41_4_L5": {
+            "class": "spinal_41"
+        },
+        "S41_4_L6": {
+            "class": "spinal_41"
+        },
+        "S41_4_T1": {
+            "class": "spinal_41"
+        },
+        "S41_5_C5": {
+            "class": "spinal_41"
+        },
+        "S41_5_C6": {
+            "class": "spinal_41"
+        },
+        "S41_5_C7": {
+            "class": "spinal_41"
+        },
+        "S41_5_C8": {
+            "class": "spinal_41"
+        },
+        "S41_5_L4": {
+            "class": "spinal_41"
+        },
+        "S41_5_L5": {
+            "class": "spinal_41"
+        },
+        "S41_5_L6": {
+            "class": "spinal_41"
+        },
+        "S41_6_C7": {
+            "class": "spinal_41"
+        },
+        "S41_6_C8": {
+            "class": "spinal_41"
+        },
+        "S41_7_C7": {
+            "class": "spinal_41"
+        },
+        "S41_S2": {
+            "class": "spinal_41"
+        },
+        "S41_S3": {
+            "class": "spinal_41"
+        },
+        "S42_C1": {
+            "class": "spinal_42"
+        },
+        "S42_C2": {
+            "class": "spinal_42"
+        },
+        "S42_C3": {
+            "class": "spinal_42"
+        },
+        "S42_C4": {
+            "class": "spinal_42"
+        },
+        "S42_C5": {
+            "class": "spinal_42"
+        },
+        "S42_C6": {
+            "class": "spinal_42"
+        },
+        "S42_C7": {
+            "class": "spinal_42"
+        },
+        "S42_C8": {
+            "class": "spinal_42"
+        },
+        "S42_L1": {
+            "class": "spinal_42"
+        },
+        "S42_L2": {
+            "class": "spinal_42"
+        },
+        "S42_L3": {
+            "class": "spinal_42"
+        },
+        "S42_L4": {
+            "class": "spinal_42"
+        },
+        "S42_L5": {
+            "class": "spinal_42"
+        },
+        "S42_L6": {
+            "class": "spinal_42"
+        },
+        "S42_S1": {
+            "class": "spinal_42"
+        },
+        "S42_S2": {
+            "class": "spinal_42"
+        },
+        "S42_S3": {
+            "class": "spinal_42"
+        },
+        "S42_T1": {
+            "class": "spinal_42"
+        },
+        "S42_T10": {
+            "class": "spinal_42"
+        },
+        "S42_T11": {
+            "class": "spinal_42"
+        },
+        "S42_T12": {
+            "class": "spinal_42"
+        },
+        "S42_T13": {
+            "class": "spinal_42"
+        },
+        "S42_T2": {
+            "class": "spinal_42"
+        },
+        "S42_T3": {
+            "class": "spinal_42"
+        },
+        "S42_T4": {
+            "class": "spinal_42"
+        },
+        "S42_T5": {
+            "class": "spinal_42"
+        },
+        "S42_T6": {
+            "class": "spinal_42"
+        },
+        "S42_T7": {
+            "class": "spinal_42"
+        },
+        "S42_T8": {
+            "class": "spinal_42"
+        },
+        "S42_T9": {
+            "class": "spinal_42"
+        },
+        "S43_C1": {
+            "class": "spinal_43"
+        },
+        "S43_C2": {
+            "class": "spinal_43"
+        },
+        "S43_C3": {
+            "class": "spinal_43"
+        },
+        "S43_C4": {
+            "class": "spinal_43"
+        },
+        "S43_C5": {
+            "class": "spinal_43"
+        },
+        "S43_C6": {
+            "class": "spinal_43"
+        },
+        "S43_C7": {
+            "class": "spinal_43"
+        },
+        "S43_C8": {
+            "class": "spinal_43"
+        },
+        "S43_L1": {
+            "models": "EMAPA:25269",
+            "class": "spinal_43"
+        },
+        "S43_L2": {
+            "models": "EMAPA:25271",
+            "class": "spinal_43"
+        },
+        "S43_L3": {
+            "class": "spinal_43"
+        },
+        "S43_L4": {
+            "class": "spinal_43"
+        },
+        "S43_L5": {
+            "class": "spinal_43"
+        },
+        "S43_L6": {
+            "class": "spinal_43"
+        },
+        "S43_S1": {
+            "class": "spinal_43"
+        },
+        "S43_S2": {
+            "class": "spinal_43"
+        },
+        "S43_S3": {
+            "class": "spinal_43"
+        },
+        "S43_T1": {
+            "class": "spinal_43"
+        },
+        "S43_T10": {
+            "class": "spinal_43"
+        },
+        "S43_T11": {
+            "class": "spinal_43"
+        },
+        "S43_T12": {
+            "class": "spinal_43"
+        },
+        "S43_T13": {
+            "class": "spinal_43"
+        },
+        "S43_T2": {
+            "class": "spinal_43"
+        },
+        "S43_T3": {
+            "class": "spinal_43"
+        },
+        "S43_T4": {
+            "class": "spinal_43"
+        },
+        "S43_T5": {
+            "class": "spinal_43"
+        },
+        "S43_T6": {
+            "class": "spinal_43"
+        },
+        "S43_T7": {
+            "class": "spinal_43"
+        },
+        "S43_T8": {
+            "class": "spinal_43"
+        },
+        "S43_T9": {
+            "class": "spinal_43"
+        },
+        "S44_C1": {
+            "class": "spinal_44"
+        },
+        "S44_C2": {
+            "class": "spinal_44"
+        },
+        "S44_C3": {
+            "class": "spinal_44"
+        },
+        "S44_C4": {
+            "class": "spinal_44"
+        },
+        "S44_C5": {
+            "class": "spinal_44"
+        },
+        "S44_C6": {
+            "class": "spinal_44"
+        },
+        "S44_C7": {
+            "class": "spinal_44"
+        },
+        "S44_C8": {
+            "class": "spinal_44"
+        },
+        "S44_L1": {
+            "class": "spinal_44"
+        },
+        "S44_L2": {
+            "class": "spinal_44"
+        },
+        "S44_L3": {
+            "class": "spinal_44"
+        },
+        "S44_L4": {
+            "class": "spinal_44"
+        },
+        "S44_L5": {
+            "class": "spinal_44"
+        },
+        "S44_L6": {
+            "class": "spinal_44"
+        },
+        "S44_S1": {
+            "class": "spinal_44"
+        },
+        "S44_S2": {
+            "class": "spinal_44"
+        },
+        "S44_S3": {
+            "class": "spinal_44"
+        },
+        "S44_T1": {
+            "class": "spinal_44"
+        },
+        "S44_T10": {
+            "class": "spinal_44"
+        },
+        "S44_T11": {
+            "class": "spinal_44"
+        },
+        "S44_T12": {
+            "class": "spinal_44"
+        },
+        "S44_T13": {
+            "class": "spinal_44"
+        },
+        "S44_T2": {
+            "class": "spinal_44"
+        },
+        "S44_T3": {
+            "class": "spinal_44"
+        },
+        "S44_T4": {
+            "class": "spinal_44"
+        },
+        "S44_T5": {
+            "class": "spinal_44"
+        },
+        "S44_T6": {
+            "class": "spinal_44"
+        },
+        "S44_T7": {
+            "class": "spinal_44"
+        },
+        "S44_T8": {
+            "class": "spinal_44"
+        },
+        "S44_T9": {
+            "class": "spinal_44"
+        },
+        "S45_C1": {
+            "class": "spinal_45"
+        },
+        "S45_C2": {
+            "class": "spinal_45"
+        },
+        "S45_C3": {
+            "class": "spinal_45"
+        },
+        "S45_C4": {
+            "class": "spinal_45"
+        },
+        "S45_C5": {
+            "class": "spinal_45"
+        },
+        "S45_C6": {
+            "class": "spinal_45"
+        },
+        "S45_C7": {
+            "class": "spinal_45"
+        },
+        "S45_C8": {
+            "class": "spinal_45"
+        },
+        "S45_L1": {
+            "models": "UBERON:0002857",
+            "class": "spinal_45"
+        },
+        "S45_L2": {
+            "models": "UBERON:0002856",
+            "class": "spinal_45"
+        },
+        "S45_L3": {
+            "class": "spinal_45"
+        },
+        "S45_L4": {
+            "class": "spinal_45"
+        },
+        "S45_L5": {
+            "class": "spinal_45"
+        },
+        "S45_L6": {
+            "class": "spinal_45"
+        },
+        "S45_S1": {
+            "class": "spinal_45"
+        },
+        "S45_S2": {
+            "class": "spinal_45"
+        },
+        "S45_S3": {
+            "class": "spinal_45"
+        },
+        "S45_T1": {
+            "class": "spinal_45"
+        },
+        "S45_T10": {
+            "class": "spinal_45"
+        },
+        "S45_T11": {
+            "class": "spinal_45"
+        },
+        "S45_T12": {
+            "class": "spinal_45"
+        },
+        "S45_T13": {
+            "class": "spinal_45"
+        },
+        "S45_T2": {
+            "class": "spinal_45"
+        },
+        "S45_T3": {
+            "class": "spinal_45"
+        },
+        "S45_T4": {
+            "class": "spinal_45"
+        },
+        "S45_T5": {
+            "class": "spinal_45"
+        },
+        "S45_T6": {
+            "class": "spinal_45"
+        },
+        "S45_T7": {
+            "class": "spinal_45"
+        },
+        "S45_T8": {
+            "class": "spinal_45"
+        },
+        "S45_T9": {
+            "class": "spinal_45"
+        },
+        "S46_L1": {
+            "models": "FMA:6540",
+            "class": "spinal_46"
+        },
+        "S46_L2": {
+            "models": "FMA:6541",
+            "class": "spinal_46"
+        },
+        "S46_L3": {
+            "class": "spinal_46"
+        },
+        "S46_L4": {
+            "class": "spinal_46"
+        },
+        "S46_L5": {
+            "class": "spinal_46"
+        },
+        "S46_L6": {
+            "class": "spinal_46"
+        },
+        "S46_S1": {
+            "class": "spinal_46"
+        },
+        "S46_S2": {
+            "class": "spinal_46"
+        },
+        "S46_S3": {
+            "class": "spinal_46"
+        },
+        "S46_T10": {
+            "class": "spinal_46"
+        },
+        "S46_T11": {
+            "class": "spinal_46"
+        },
+        "S46_T12": {
+            "class": "spinal_46"
+        },
+        "S46_T13": {
+            "class": "spinal_46"
+        },
+        "S46_T2": {
+            "class": "spinal_46"
+        },
+        "S46_T3": {
+            "class": "spinal_46"
+        },
+        "S46_T4": {
+            "class": "spinal_46"
+        },
+        "S46_T5": {
+            "class": "spinal_46"
+        },
+        "S46_T6": {
+            "class": "spinal_46"
+        },
+        "S46_T7": {
+            "class": "spinal_46"
+        },
+        "S46_T8": {
+            "class": "spinal_46"
+        },
+        "S46_T9": {
+            "class": "spinal_46"
+        },
+        "S48_L1": {
+            "models": "FMA:12697",
+            "class": "spinal_48"
+        },
+        "S48_L2": {
+            "models": "FMA:12698",
+            "class": "spinal_48"
+        },
+        "S48_S2": {
+            "class": "spinal_48"
+        },
+        "S48_S3": {
+            "class": "spinal_48"
+        },
+        "S48_T1": {
+            "class": "spinal_48"
+        },
+        "S48_T10": {
+            "class": "spinal_48"
+        },
+        "S48_T11": {
+            "class": "spinal_48"
+        },
+        "S48_T12": {
+            "class": "spinal_48"
+        },
+        "S48_T13": {
+            "class": "spinal_48"
+        },
+        "S48_T2": {
+            "class": "spinal_48"
+        },
+        "S48_T3": {
+            "class": "spinal_48"
+        },
+        "S48_T4": {
+            "class": "spinal_48"
+        },
+        "S48_T5": {
+            "class": "spinal_48"
+        },
+        "S48_T6": {
+            "class": "spinal_48"
+        },
+        "S48_T7": {
+            "class": "spinal_48"
+        },
+        "S48_T8": {
+            "class": "spinal_48"
+        },
+        "S48_T9": {
+            "class": "spinal_48"
+        },
+        "S49_L1": {
+            "models": "FMA:65910",
+            "class": "spinal_49"
+        },
+        "S49_L2": {
+            "models": "FMA:65911",
+            "class": "spinal_49"
+        },
+        "S49_L3": {
+            "class": "spinal_49"
+        },
+        "S49_L4": {
+            "class": "spinal_49"
+        },
+        "S49_L5": {
+            "class": "spinal_49"
+        },
+        "S49_L6": {
+            "class": "spinal_49"
+        },
+        "S49_S1": {
+            "class": "spinal_49"
+        },
+        "S49_S2": {
+            "class": "spinal_49"
+        },
+        "S49_S3": {
+            "class": "spinal_49"
+        },
+        "S49_T10": {
+            "class": "spinal_49"
+        },
+        "S49_T11": {
+            "class": "spinal_49"
+        },
+        "S49_T12": {
+            "class": "spinal_49"
+        },
+        "S49_T13": {
+            "class": "spinal_49"
+        },
+        "S49_T2": {
+            "class": "spinal_49"
+        },
+        "S49_T3": {
+            "class": "spinal_49"
+        },
+        "S49_T4": {
+            "class": "spinal_49"
+        },
+        "S49_T5": {
+            "class": "spinal_49"
+        },
+        "S49_T6": {
+            "class": "spinal_49"
+        },
+        "S49_T7": {
+            "class": "spinal_49"
+        },
+        "S49_T8": {
+            "class": "spinal_49"
+        },
+        "S49_T9": {
+            "class": "spinal_49"
+        },
+        "S50_C1_T": {
+            "class": "spinal_50"
+        },
+        "S50_C2_T": {
+            "class": "spinal_50"
+        },
+        "S50_C3_T": {
+            "class": "spinal_50"
+        },
+        "S50_C4_T": {
+            "class": "spinal_50"
+        },
+        "S50_C5_T": {
+            "class": "spinal_50"
+        },
+        "S50_C6_T": {
+            "class": "spinal_50"
+        },
+        "S50_C7_T": {
+            "class": "spinal_50"
+        },
+        "S50_C8_T": {
+            "class": "spinal_50"
+        },
+        "S50_L1_B": {
+            "class": "spinal_50"
+        },
+        "S50_L1_T": {
+            "class": "spinal_50"
+        },
+        "S50_L2_B": {
+            "class": "spinal_50"
+        },
+        "S50_L2_T": {
+            "class": "spinal_50"
+        },
+        "S50_L3_B": {
+            "class": "spinal_50"
+        },
+        "S50_L3_T": {
+            "class": "spinal_50"
+        },
+        "S50_L4_B": {
+            "class": "spinal_50"
+        },
+        "S50_L4_T": {
+            "class": "spinal_50"
+        },
+        "S50_L5_B": {
+            "class": "spinal_50"
+        },
+        "S50_L5_T": {
+            "class": "spinal_50"
+        },
+        "S50_L6_B": {
+            "class": "spinal_50"
+        },
+        "S50_L6_T": {
+            "class": "spinal_50"
+        },
+        "S50_S1_B": {
+            "class": "spinal_50"
+        },
+        "S50_S1_T": {
+            "class": "spinal_50"
+        },
+        "S50_S2_B": {
+            "class": "spinal_50"
+        },
+        "S50_S2_T": {
+            "class": "spinal_50"
+        },
+        "S50_S3_B": {
+            "class": "spinal_50"
+        },
+        "S50_S3_T": {
+            "class": "spinal_50"
+        },
+        "S50_T10_B": {
+            "class": "spinal_50"
+        },
+        "S50_T10_T": {
+            "class": "spinal_50"
+        },
+        "S50_T11_B": {
+            "class": "spinal_50"
+        },
+        "S50_T11_T": {
+            "class": "spinal_50"
+        },
+        "S50_T12_B": {
+            "class": "spinal_50"
+        },
+        "S50_T12_T": {
+            "class": "spinal_50"
+        },
+        "S50_T13_B": {
+            "class": "spinal_50"
+        },
+        "S50_T13_T": {
+            "class": "spinal_50"
+        },
+        "S50_T1_B": {
+            "class": "spinal_50"
+        },
+        "S50_T1_T": {
+            "class": "spinal_50"
+        },
+        "S50_T2_B": {
+            "class": "spinal_50"
+        },
+        "S50_T2_T": {
+            "class": "spinal_50"
+        },
+        "S50_T3_B": {
+            "class": "spinal_50"
+        },
+        "S50_T3_T": {
+            "class": "spinal_50"
+        },
+        "S50_T4_B": {
+            "class": "spinal_50"
+        },
+        "S50_T4_T": {
+            "class": "spinal_50"
+        },
+        "S50_T5_B": {
+            "class": "spinal_50"
+        },
+        "S50_T5_T": {
+            "class": "spinal_50"
+        },
+        "S50_T6_B": {
+            "class": "spinal_50"
+        },
+        "S50_T6_T": {
+            "class": "spinal_50"
+        },
+        "S50_T7_B": {
+            "class": "spinal_50"
+        },
+        "S50_T7_T": {
+            "class": "spinal_50"
+        },
+        "S50_T8_B": {
+            "class": "spinal_50"
+        },
+        "S50_T8_T": {
+            "class": "spinal_50"
+        },
+        "S50_T9_B": {
+            "class": "spinal_50"
+        },
+        "S50_T9_T": {
+            "class": "spinal_50"
+        },
+        "S51_L6": {
+            "class": "spinal_51"
+        },
+        "S51_S1": {
+            "class": "spinal_51"
+        },
+        "S51_S2": {
+            "class": "spinal_51"
+        },
+        "S51_S3": {
+            "class": "spinal_51"
+        },
+        "S52_L1": {
+            "class": "spinal_52"
+        },
+        "S52_L2": {
+            "class": "spinal_52"
+        },
+        "S52_T11": {
+            "class": "spinal_52"
+        },
+        "S52_T12": {
+            "class": "spinal_52"
+        },
+        "S52_T13": {
+            "class": "spinal_52"
+        },
+        "ardell_1-1": {
+            "class": "ardell_1"
+        },
+        "ardell_2-1": {
+            "class": "ardell_2"
+        },
+        "ardell_3-1": {
+            "class": "ardell_3"
+        },
+        "body_1-1": {
+            "class": "body_1"
+        },
+        "body_2-1": {
+            "class": "body_2"
+        },
+        "body_3-1": {
+            "class": "body_3"
+        },
+        "body_4-1": {
+            "class": "body_4"
+        },
+        "body_4-2": {
+            "class": "body_4"
+        },
+        "body_5-1": {
+            "class": "body_5"
+        },
+        "body_6-1": {
+            "class": "body_6"
+        },
+        "body_7-1": {
+            "class": "body_7"
+        },
+        "body_7-2": {
+            "class": "body_7"
+        },
+		"body_8-1": {
+            "class": "body_8"
+        },
+        "bolser10_1": {
+            "class": "bolser_10"
+        },
+        "bolser10_2": {
+            "class": "bolser_10"
+        },
+        "bolser13_1": {
+            "class": "bolser_13"
+        },
+        "bolser13_2": {
+            "class": "bolser_13"
+        },
+        "bolser_20-1": {
+            "class": "bolser_20"
+        },
+        "bolser21_1": {
+            "class": "bolser_21"
+        },
+        "bolser21_2": {
+            "class": "bolser_21"
+        },
+        "bolser26_1": {
+            "class": "bolser_26"
+        },
+        "bolser26_2": {
+            "class": "bolser_26"
+        },
+        "bolser26_3": {
+            "class": "bolser_26"
+        },
+        "bolser2_1": {
+            "class": "bolser_2"
+        },
+        "bolser2_2": {
+            "class": "bolser_2"
+        },
+        "bolser_1-1": {
+            "class": "bolser_1"
+        },
+        "bolser_11-1": {
+            "class": "bolser_11"
+        },
+        "bolser_12-1": {
+            "class": "bolser_12"
+        },
+        "bolser_14-1": {
+            "class": "bolser_14"
+        },
+        "bolser_15-1": {
+            "class": "bolser_15"
+        },
+        "bolser_16-1": {
+            "class": "bolser_16"
+        },
+        "bolser_17-1": {
+            "class": "bolser_17"
+        },
+        "bolser_18-1": {
+            "class": "bolser_18"
+        },
+        "bolser_19-1": {
+            "class": "bolser_19"
+        },
+        "bolser_23-1": {
+            "class": "bolser_23"
+        },
+        "bolser_24-1": {
+            "class": "bolser_24"
+        },
+        "bolser_25-1": {
+            "class": "bolser_25"
+        },
+        "bolser_3-1": {
+            "class": "bolser_3"
+        },
+        "bolser_4-1": {
+            "class": "bolser_4"
+        },
+        "bolser_5-1": {
+            "class": "bolser_5"
+        },
+        "bolser_6-1": {
+            "class": "bolser_6"
+        },
+        "bolser_7-1": {
+            "class": "bolser_7"
+        },
+        "bolser_8-1": {
+            "class": "bolser_8"
+        },
+        "bolser_9-1": {
+            "class": "bolser_9"
+        },
+		"bolser_9-2": {
+            "class": "bolser_9"
+        },
+        "brain_10-2": {
+            "class": "brain_10"
+        },
+        "brain_11-1": {
+            "class": "brain_11"
+        },
+        "brain_11-2": {
+            "class": "brain_11"
+        },
+        "brain_12-1": {
+            "class": "brain_12"
+        },
+        "brain_12-2": {
+            "class": "brain_12"
+        },
+        "brain_13-1": {
+            "class": "brain_13"
+        },
+        "brain_9-1": {
+            "class": "brain_9"
+        },
+        "brain_9-2": {
+            "class": "brain_9"
+        },
+        "brain_1-1": {
+            "class": "brain_1"
+        },
+        "brain_1-2": {
+            "class": "brain_1"
+        },
+        "brain_14-1": {
+            "class": "brain_14"
+        },
+        "brain_15-1": {
+            "class": "brain_15"
+        },
+        "brain_16-1": {
+            "class": "brain_16"
+        },
+        "brain_17-1": {
+            "class": "brain_17"
+        },
+        "brain_18-1": {
+            "class": "brain_18"
+        },
+        "brain_19-1": {
+            "class": "brain_19"
+        },
+        "brain_2-1": {
+            "class": "brain_2"
+        },
+        "brain_20-1": {
+            "class": "brain_20"
+        },
+        "brain_21-1": {
+            "class": "brain_21"
+        },
+        "brain_23_1": {
+            "class": "brain_23"
+        },
+        "brain_23_2": {
+            "class": "brain_23"
+        },
+        "brain_23_3": {
+            "class": "brain_23"
+        },
+        "brain_23_4": {
+            "class": "brain_23"
+        },
+        "brain_24-1": {
+            "class": "brain_24"
+        },
+        "brain_25-1": {
+            "class": "brain_25"
+        },
+        "brain_26-1": {
+            "class": "brain_26"
+        },
+        "brain_27-1": {
+            "class": "brain_27"
+        },
+        "brain_3-1": {
+            "class": "brain_3"
+        },
+        "brain_32-1": {
+            "class": "brain_32"
+        },
+        "brain_33-1": {
+            "class": "brain_33"
+        },
+        "brain_34-1": {
+            "class": "brain_34"
+        },
+        "brain_35-1": {
+            "class": "brain_35"
+        },
+		"brain_39-1": {
+            "class": "brain_39"
+        },
+		"brain_41-1": {
+            "class": "brain_41"
+        },
+		"brain_42-1": {
+            "class": "brain_42"
+        },
+		"brain_43-1": {
+            "class": "brain_43"
+        },
+        "brain_4-1": {
+            "class": "brain_4"
+        },
+        "brain_5-1": {
+            "class": "brain_5"
+        },
+        "brain_6-1": {
+            "class": "brain_6"
+        },
+        "brain_7-1": {
+            "class": "brain_7"
+        },
+        "brain_8-1": {
+            "class": "brain_8"
+        },
+        "cardio_10-1": {
+            "class": "cardio_10"
+        },
+        "cardio_10-2": {
+            "class": "cardio_10"
+        },
+        "cardio_11-1": {
+            "class": "cardio_11"
+        },
+        "cardio_12-1": {
+            "class": "cardio_12"
+        },
+        "cardio_13-1": {
+            "class": "cardio_13"
+        },
+        "cardio_16-1": {
+            "class": "cardio_16"
+        },
+        "cardio_17-1": {
+            "class": "cardio_17"
+        },
+        "cardio_18-1": {
+            "class": "cardio_18"
+        },
+        "cardio_19-1": {
+            "class": "cardio_19"
+        },
+        "cardio_2-1": {
+            "class": "cardio_2"
+        },
+        "cardio_20-1": {
+            "class": "cardio_20"
+        },
+        "cardio_21-1": {
+            "class": "cardio_21"
+        },
+        "cardio_22-1": {
+            "class": "cardio_22"
+        },
+        "cardio_23-1": {
+            "class": "cardio_23"
+        },
+        "cardio_24-1": {
+            "class": "cardio_24"
+        },
+        "cardio_25-1": {
+            "class": "cardio_25"
+        },
+        "cardio_3-1": {
+            "class": "cardio_3"
+        },
+        "cardio_4-1": {
+            "class": "cardio_4"
+        },
+        "cardio_5-1": {
+            "class": "cardio_5"
+        },
+        "cardio_6-1": {
+            "class": "cardio_6"
+        },
+        "cardio_7-1": {
+            "class": "cardio_7"
+        },
+        "cardio_8-1": {
+            "class": "cardio_8"
+        },
+        "cardio_9-1": {
+            "class": "cardio_9"
+        },
+        "cardio_9-2": {
+            "class": "cardio_9"
+        },
+        "circulatory_1-1": {
+            "class": "circulatory_1"
+        },
+        "connection_1-1": {
+            "class": "connection_1"
+        },
+        "connection_1-2": {
+            "class": "connection_1"
+        },
+        "data_1": {
+            "label": "Intrinsic cardiac neurons",
+            "datasets": [
+                "https://sparc.science/datasets/29?type=dataset"
+            ]
+        },
+        "data_2": {
+            "models": "UBERON:0001884",
+            "datasets": [
+                "https://sparc.science/datasets/52?type=dataset",
+                "https://sparc.science/datasets/52?type=dataset"
+            ]
+        },
+        "data_3": {
+            "models": "UBERON:0001649",
+            "datasets": [
+                "https://sparc.science/datasets/48?type=dataset"
+            ]
+        },
+        "data_4": {
+            "label": "Cardiac cells",
+            "datasets": [
+                "https://sparc.science/datasets/23?type=dataset"
+            ]
+        },
+        "digestive_10-1": {
+            "class": "digestive_10"
+        },
+        "digestive_10-2": {
+            "class": "digestive_10"
+        },
+        "digestive_12-1": {
+            "class": "digestive_12"
+        },
+        "digestive_13-1": {
+            "class": "digestive_13"
+        },
+        "digestive_14-1": {
+            "class": "digestive_14"
+        },
+        "digestive_15-1": {
+            "class": "digestive_15"
+        },
+        "digestive_16-1": {
+            "class": "digestive_16"
+        },
+        "digestive_16-2": {
+            "class": "digestive_16"
+        },
+        "digestive_17-1": {
+            "class": "digestive_17"
+        },
+        "digestive_18-1": {
+            "class": "digestive_18"
+        },
+        "digestive_19-1": {
+            "class": "digestive_19"
+        },
+        "digestive_2-1": {
+            "class": "digestive_2"
+        },
+        "digestive_20-1": {
+            "class": "digestive_20"
+        },
+        "digestive_21-1": {
+            "class": "digestive_21"
+        },
+        "digestive_3-1": {
+            "class": "digestive_3"
+        },
+        "digestive_34-1": {
+            "class": "digestive_34"
+        },
+        "digestive_35-1": {
+            "class": "digestive_35"
+        },
+        "digestive_36-1": {
+            "class": "digestive_36"
+        },
+        "digestive_37-1": {
+            "class": "digestive_37"
+        },
+        "digestive_38-1": {
+            "class": "digestive_38"
+        },
+        "digestive_39-1": {
+            "class": "digestive_39"
+        },
+        "digestive_4-1": {
+            "class": "digestive_4"
+        },
+        "digestive_40-1": {
+            "class": "digestive_40"
+        },
+        "digestive_41-1": {
+            "class": "digestive_41"
+        },
+        "digestive_42-1": {
+            "class": "digestive_42"
+        },
+        "digestive_43-1": {
+            "class": "digestive_43"
+        },
+		"digestive_44-1": {
+            "class": "digestive_44"
+        },
+        "digestive_5-1": {
+            "class": "digestive_5"
+        },
+        "digestive_6-1": {
+            "class": "digestive_6"
+        },
+        "digestive_6-2": {
+            "class": "digestive_6"
+        },
+        "digestive_6-3": {
+            "class": "digestive_6"
+        },
+        "digestive_6-4": {
+            "class": "digestive_6"
+        },
+        "digestive_7-1": {
+            "class": "digestive_7"
+        },
+        "digestive_7-2": {
+            "class": "digestive_7"
+        },
+        "digestive_7-3": {
+            "class": "digestive_7"
+        },
+        "digestive_7-4": {
+            "class": "digestive_7"
+        },
+        "digestive_8-1": {
+            "class": "digestive_8"
+        },
+        "digestive_9-1": {
+            "class": "digestive_9"
+        },
+        "endocrine_1-1": {
+            "class": "endocrine_1"
+        },
+        "endocrine_1-2": {
+            "class": "endocrine_1"
+        },
+        "endocrine_2-1": {
+            "class": "endocrine_2"
+        },
+        "endocrine_3-1": {
+            "class": "endocrine_3"
+        },
+        "endocrine_3_1": {
+            "class": "receptor_3"
+        },
+        "endocrine_3_2": {
+            "class": "receptor_3"
+        },
+        "endocrine_3_3": {
+            "class": "receptor_3"
+        },
+        "endocrine_4-1": {
+            "class": "endocrine_4"
+        },
+        "endocrine_5-1": {
+            "class": "endocrine_5"
+        },
+        "endocrine_6_1": {
+            "class": "endocrine_6"
+        },
+        "endocrine_6_2": {
+            "class": "endocrine_6"
+        },
+        "endocrine_6_3": {
+            "class": "endocrine_6"
+        },
+        "keast_1-1": {
+            "class": "keast_1"
+        },
+        "keast_2-1": {
+            "class": "keast_2"
+        },
+        "keast_3-1": {
+            "class": "keast_3"
+        },
+        "keast_4-1": {
+            "class": "keast_4"
+        },
+        "keast_5-1": {
+            "class": "keast_5"
+        },
+        "keast_6-1": {
+            "class": "keast_6"
+        },
+        "keast_7-1": {
+            "class": "keast_7"
+        },
+        "lung_1_1": {
+            "class": "lung_1"
+        },
+        "lung_1_2": {
+            "class": "lung_1"
+        },
+        "lung_1_3": {
+            "class": "lung_1"
+        },
+        "lung_1_4": {
+            "class": "lung_1"
+        },
+        "lung_2-1": {
+            "class": "lung_2"
+        },
+        "lung_data": {
+            "models": "UBERON:0002048",
+            "scaffolds": [
+                "lung"
+            ]
+        },
+        "mawe_1-1": {
+            "class": "mawe_1"
+        },
+        "mawe_2-1": {
+            "class": "mawe_2"
+        },
+        "muscle_1-1": {
+            "class": "muscle_1"
+        },
+        "muscle_2-1": {
+            "class": "muscle_2"
+        },
+        "receptor_1-1": {
+            "class": "receptor_1"
+        },
+        "receptor_1-2": {
+            "class": "receptor_1"
+        },
+        "receptor_1-3": {
+            "class": "receptor_1"
+        },
+        "receptor_1-4": {
+            "class": "receptor_1"
+        },
+        "receptor_2-1": {
+            "class": "receptor_2"
+        },
+        "receptor_2-2": {
+            "class": "receptor_2"
+        },
+        "receptor_2-3": {
+            "class": "receptor_2"
+        },
+        "receptor_2-4": {
+            "class": "receptor_2"
+        },
+        "reproductive_1-1": {
+            "class": "reproductive_1"
+        },
+        "reproductive_2-1": {
+            "class": "reproductive_2"
+        },
+        "reproductive_3-1": {
+            "class": "reproductive_3"
+        },
+        "reproductive_3-2": {
+            "class": "reproductive_3"
+        },
+        "reproductive_4-1": {
+            "class": "reproductive_4"
+        },
+        "reproductive_4-2": {
+            "class": "reproductive_4"
+        },
+        "reproductive_5-1": {
+            "class": "reproductive_5"
+        },
+		"reproductive_8-1": {
+            "class": "reproductive_8"
+        },
+		"reproductive_8-2": {
+            "class": "reproductive_8"
+        },
+		"reproductive_9-1": {
+            "class": "reproductive_9"
+        },
+		"reproductive_9-2": {
+            "class": "reproductive_9"
+        },
+		"reproductive_10-1": {
+            "class": "reproductive_10"
+        },
+		"reproductive_10-2": {
+            "class": "reproductive_10"
+        },
+        "respiratory_11-1": {
+            "class": "respiratory_11"
+        },
+        "respiratory_10-1": {
+            "class": "respiratory_10"
+        },
+        "respiratory_12-1": {
+            "class": "respiratory_12"
+        },
+		"respiratory_14-1": {
+            "class": "respiratory_14"
+        },
+        "respiratory_15-1": {
+            "class": "respiratory_15"
+        },
+        "respiratory_16-1": {
+            "class": "respiratory_16"
+        },
+        "respiratory_17-1": {
+            "class": "respiratory_17"
+        },
+        "respiratory_18-1": {
+            "class": "respiratory_18"
+        },
+        "respiratory_19-1": {
+            "class": "respiratory_19"
+        },
+		"respiratory_20-1": {
+            "class": "respiratory_20"
+        },
+        "respiratory_2-1": {
+            "class": "respiratory_2"
+        },
+        "respiratory_3-1": {
+            "class": "respiratory_3"
+        },
+        "respiratory_4-1": {
+            "class": "respiratory_4"
+        },
+        "respiratory_5-1": {
+            "class": "respiratory_5"
+        },
+        "respiratory_6-1": {
+            "class": "respiratory_6"
+        },
+        "respiratory_7-1": {
+            "class": "respiratory_7"
+        },
+        "respiratory_8-1": {
+            "class": "respiratory_8"
+        },
+        "respiratory_9-1": {
+            "class": "respiratory_9"
+        },
+        "scaffold_1": {
+            "models": "UBERON:0000948",
+            "scaffolds": [
+                "heart"
+            ]
+        },
+        "scaffold_2": {
+            "models": "UBERON:0001155",
+            "scaffolds": [
+                "colon"
+            ]
+        },
+        "scaffold_3": {
+            "models": "UBERON:0001255",
+            "scaffolds": [
+                "bladder"
+            ]
+        },
+        "scaffold_4": {
+            "models": "UBERON:0000945",
+            "scaffolds": [
+                "stomach"
+            ]
+        },
+        "simulation_1": {
+            "models": "UBERON:0001759",
+            "simulations": []
+        },
+        "simulation_2": {
+            "models": "UBERON:0000948",
+            "simulations": []
+        },
+        "simulation_3": {
+            "label": "cardiac ventricular cells",
+            "simulations": [
+                "https://sparc.science/datasets/63?type=dataset"
+            ]
+        },
+        "spinal_1-1": {
+            "class": "spinal_1"
+        },
+        "spinal_10-1": {
+            "class": "spinal_10"
+        },
+        "spinal_11-1": {
+            "class": "spinal_11"
+        },
+        "spinal_12-1": {
+            "class": "spinal_12"
+        },
+        "spinal_13-1": {
+            "class": "spinal_13"
+        },
+        "spinal_14-1": {
+            "class": "spinal_14"
+        },
+        "spinal_15-1": {
+            "class": "spinal_15"
+        },
+        "spinal_16-1": {
+            "class": "spinal_16"
+        },
+        "spinal_17-1": {
+            "class": "spinal_17"
+        },
+        "spinal_18-1": {
+            "class": "spinal_18"
+        },
+        "spinal_19-1": {
+            "class": "spinal_19"
+        },
+        "spinal_2-1": {
+            "class": "spinal_2"
+        },
+        "spinal_20-1": {
+            "class": "spinal_20"
+        },
+        "spinal_21-1": {
+            "class": "spinal_21"
+        },
+        "spinal_22-1": {
+            "class": "spinal_22"
+        },
+        "spinal_23-1": {
+            "class": "spinal_23"
+        },
+        "spinal_24-1": {
+            "class": "spinal_24"
+        },
+        "spinal_25-1": {
+            "class": "spinal_25"
+        },
+        "spinal_26-1": {
+            "class": "spinal_26"
+        },
+        "spinal_27-1": {
+            "class": "spinal_27"
+        },
+        "spinal_28-1": {
+            "class": "spinal_28"
+        },
+        "spinal_29-1": {
+            "class": "spinal_29"
+        },
+        "spinal_3-1": {
+            "class": "spinal_3"
+        },
+        "spinal_30-1": {
+            "class": "spinal_30"
+        },
+        "spinal_31-1": {
+            "class": "spinal_31"
+        },
+        "spinal_31-10": {
+            "class": "spinal_31"
+        },
+        "spinal_31-100": {
+            "class": "spinal_31"
+        },
+        "spinal_31-101": {
+            "class": "spinal_31"
+        },
+        "spinal_31-102": {
+            "class": "spinal_31"
+        },
+        "spinal_31-103": {
+            "class": "spinal_31"
+        },
+        "spinal_31-104": {
+            "class": "spinal_31"
+        },
+        "spinal_31-105": {
+            "class": "spinal_31"
+        },
+        "spinal_31-106": {
+            "class": "spinal_31"
+        },
+        "spinal_31-107": {
+            "class": "spinal_31"
+        },
+        "spinal_31-108": {
+            "class": "spinal_31"
+        },
+        "spinal_31-109": {
+            "class": "spinal_31"
+        },
+        "spinal_31-11": {
+            "class": "spinal_31"
+        },
+        "spinal_31-110": {
+            "class": "spinal_31"
+        },
+        "spinal_31-111": {
+            "class": "spinal_31"
+        },
+        "spinal_31-112": {
+            "class": "spinal_31"
+        },
+        "spinal_31-113": {
+            "class": "spinal_31"
+        },
+        "spinal_31-114": {
+            "class": "spinal_31"
+        },
+        "spinal_31-115": {
+            "class": "spinal_31"
+        },
+        "spinal_31-116": {
+            "class": "spinal_31"
+        },
+        "spinal_31-117": {
+            "class": "spinal_31"
+        },
+        "spinal_31-118": {
+            "class": "spinal_31"
+        },
+        "spinal_31-119": {
+            "class": "spinal_31"
+        },
+        "spinal_31-12": {
+            "class": "spinal_31"
+        },
+        "spinal_31-120": {
+            "class": "spinal_31"
+        },
+        "spinal_31-121": {
+            "class": "spinal_31"
+        },
+        "spinal_31-122": {
+            "class": "spinal_31"
+        },
+        "spinal_31-123": {
+            "class": "spinal_31"
+        },
+        "spinal_31-124": {
+            "class": "spinal_31"
+        },
+        "spinal_31-125": {
+            "class": "spinal_31"
+        },
+        "spinal_31-126": {
+            "class": "spinal_31"
+        },
+        "spinal_31-127": {
+            "class": "spinal_31"
+        },
+        "spinal_31-128": {
+            "class": "spinal_31"
+        },
+        "spinal_31-129": {
+            "class": "spinal_31"
+        },
+        "spinal_31-13": {
+            "class": "spinal_31"
+        },
+        "spinal_31-130": {
+            "class": "spinal_31"
+        },
+        "spinal_31-131": {
+            "class": "spinal_31"
+        },
+        "spinal_31-132": {
+            "class": "spinal_31"
+        },
+        "spinal_31-133": {
+            "class": "spinal_31"
+        },
+        "spinal_31-134": {
+            "class": "spinal_31"
+        },
+        "spinal_31-135": {
+            "class": "spinal_31"
+        },
+        "spinal_31-136": {
+            "class": "spinal_31"
+        },
+        "spinal_31-137": {
+            "class": "spinal_31"
+        },
+        "spinal_31-138": {
+            "class": "spinal_31"
+        },
+        "spinal_31-139": {
+            "class": "spinal_31"
+        },
+        "spinal_31-14": {
+            "class": "spinal_31"
+        },
+        "spinal_31-140": {
+            "class": "spinal_31"
+        },
+        "spinal_31-141": {
+            "class": "spinal_31"
+        },
+        "spinal_31-142": {
+            "class": "spinal_31"
+        },
+        "spinal_31-143": {
+            "class": "spinal_31"
+        },
+        "spinal_31-144": {
+            "class": "spinal_31"
+        },
+        "spinal_31-145": {
+            "class": "spinal_31"
+        },
+        "spinal_31-146": {
+            "class": "spinal_31"
+        },
+        "spinal_31-147": {
+            "class": "spinal_31"
+        },
+        "spinal_31-148": {
+            "class": "spinal_31"
+        },
+        "spinal_31-149": {
+            "class": "spinal_31"
+        },
+        "spinal_31-15": {
+            "class": "spinal_31"
+        },
+        "spinal_31-150": {
+            "class": "spinal_31"
+        },
+        "spinal_31-151": {
+            "class": "spinal_31"
+        },
+        "spinal_31-152": {
+            "class": "spinal_31"
+        },
+        "spinal_31-153": {
+            "class": "spinal_31"
+        },
+        "spinal_31-154": {
+            "class": "spinal_31"
+        },
+        "spinal_31-155": {
+            "class": "spinal_31"
+        },
+        "spinal_31-156": {
+            "class": "spinal_31"
+        },
+        "spinal_31-157": {
+            "class": "spinal_31"
+        },
+        "spinal_31-158": {
+            "class": "spinal_31"
+        },
+        "spinal_31-159": {
+            "class": "spinal_31"
+        },
+        "spinal_31-16": {
+            "class": "spinal_31"
+        },
+        "spinal_31-160": {
+            "class": "spinal_31"
+        },
+        "spinal_31-161": {
+            "class": "spinal_31"
+        },
+        "spinal_31-162": {
+            "class": "spinal_31"
+        },
+        "spinal_31-163": {
+            "class": "spinal_31"
+        },
+        "spinal_31-164": {
+            "class": "spinal_31"
+        },
+        "spinal_31-165": {
+            "class": "spinal_31"
+        },
+        "spinal_31-166": {
+            "class": "spinal_31"
+        },
+        "spinal_31-167": {
+            "class": "spinal_31"
+        },
+        "spinal_31-168": {
+            "class": "spinal_31"
+        },
+        "spinal_31-169": {
+            "class": "spinal_31"
+        },
+        "spinal_31-17": {
+            "class": "spinal_31"
+        },
+        "spinal_31-170": {
+            "class": "spinal_31"
+        },
+        "spinal_31-171": {
+            "class": "spinal_31"
+        },
+        "spinal_31-172": {
+            "class": "spinal_31"
+        },
+        "spinal_31-173": {
+            "class": "spinal_31"
+        },
+        "spinal_31-174": {
+            "class": "spinal_31"
+        },
+        "spinal_31-175": {
+            "class": "spinal_31"
+        },
+        "spinal_31-176": {
+            "class": "spinal_31"
+        },
+        "spinal_31-177": {
+            "class": "spinal_31"
+        },
+        "spinal_31-178": {
+            "class": "spinal_31"
+        },
+        "spinal_31-179": {
+            "class": "spinal_31"
+        },
+        "spinal_31-18": {
+            "class": "spinal_31"
+        },
+        "spinal_31-180": {
+            "class": "spinal_31"
+        },
+        "spinal_31-19": {
+            "class": "spinal_31"
+        },
+        "spinal_31-2": {
+            "class": "spinal_31"
+        },
+        "spinal_31-20": {
+            "class": "spinal_31"
+        },
+        "spinal_31-21": {
+            "class": "spinal_31"
+        },
+        "spinal_31-22": {
+            "class": "spinal_31"
+        },
+        "spinal_31-23": {
+            "class": "spinal_31"
+        },
+        "spinal_31-24": {
+            "class": "spinal_31"
+        },
+        "spinal_31-25": {
+            "class": "spinal_31"
+        },
+        "spinal_31-26": {
+            "class": "spinal_31"
+        },
+        "spinal_31-27": {
+            "class": "spinal_31"
+        },
+        "spinal_31-28": {
+            "class": "spinal_31"
+        },
+        "spinal_31-29": {
+            "class": "spinal_31"
+        },
+        "spinal_31-3": {
+            "class": "spinal_31"
+        },
+        "spinal_31-30": {
+            "class": "spinal_31"
+        },
+        "spinal_31-31": {
+            "class": "spinal_31"
+        },
+        "spinal_31-32": {
+            "class": "spinal_31"
+        },
+        "spinal_31-33": {
+            "class": "spinal_31"
+        },
+        "spinal_31-34": {
+            "class": "spinal_31"
+        },
+        "spinal_31-35": {
+            "class": "spinal_31"
+        },
+        "spinal_31-36": {
+            "class": "spinal_31"
+        },
+        "spinal_31-37": {
+            "class": "spinal_31"
+        },
+        "spinal_31-38": {
+            "class": "spinal_31"
+        },
+        "spinal_31-39": {
+            "class": "spinal_31"
+        },
+        "spinal_31-4": {
+            "class": "spinal_31"
+        },
+        "spinal_31-40": {
+            "class": "spinal_31"
+        },
+        "spinal_31-41": {
+            "class": "spinal_31"
+        },
+        "spinal_31-42": {
+            "class": "spinal_31"
+        },
+        "spinal_31-43": {
+            "class": "spinal_31"
+        },
+        "spinal_31-44": {
+            "class": "spinal_31"
+        },
+        "spinal_31-45": {
+            "class": "spinal_31"
+        },
+        "spinal_31-46": {
+            "class": "spinal_31"
+        },
+        "spinal_31-47": {
+            "class": "spinal_31"
+        },
+        "spinal_31-48": {
+            "class": "spinal_31"
+        },
+        "spinal_31-49": {
+            "class": "spinal_31"
+        },
+        "spinal_31-5": {
+            "class": "spinal_31"
+        },
+        "spinal_31-50": {
+            "class": "spinal_31"
+        },
+        "spinal_31-51": {
+            "class": "spinal_31"
+        },
+        "spinal_31-52": {
+            "class": "spinal_31"
+        },
+        "spinal_31-53": {
+            "class": "spinal_31"
+        },
+        "spinal_31-54": {
+            "class": "spinal_31"
+        },
+        "spinal_31-55": {
+            "class": "spinal_31"
+        },
+        "spinal_31-56": {
+            "class": "spinal_31"
+        },
+        "spinal_31-57": {
+            "class": "spinal_31"
+        },
+        "spinal_31-58": {
+            "class": "spinal_31"
+        },
+        "spinal_31-59": {
+            "class": "spinal_31"
+        },
+        "spinal_31-6": {
+            "class": "spinal_31"
+        },
+        "spinal_31-60": {
+            "class": "spinal_31"
+        },
+        "spinal_31-61": {
+            "class": "spinal_31"
+        },
+        "spinal_31-62": {
+            "class": "spinal_31"
+        },
+        "spinal_31-63": {
+            "class": "spinal_31"
+        },
+        "spinal_31-64": {
+            "class": "spinal_31"
+        },
+        "spinal_31-65": {
+            "class": "spinal_31"
+        },
+        "spinal_31-66": {
+            "class": "spinal_31"
+        },
+        "spinal_31-67": {
+            "class": "spinal_31"
+        },
+        "spinal_31-68": {
+            "class": "spinal_31"
+        },
+        "spinal_31-69": {
+            "class": "spinal_31"
+        },
+        "spinal_31-7": {
+            "class": "spinal_31"
+        },
+        "spinal_31-70": {
+            "class": "spinal_31"
+        },
+        "spinal_31-71": {
+            "class": "spinal_31"
+        },
+        "spinal_31-72": {
+            "class": "spinal_31"
+        },
+        "spinal_31-73": {
+            "class": "spinal_31"
+        },
+        "spinal_31-74": {
+            "class": "spinal_31"
+        },
+        "spinal_31-75": {
+            "class": "spinal_31"
+        },
+        "spinal_31-76": {
+            "class": "spinal_31"
+        },
+        "spinal_31-77": {
+            "class": "spinal_31"
+        },
+        "spinal_31-78": {
+            "class": "spinal_31"
+        },
+        "spinal_31-79": {
+            "class": "spinal_31"
+        },
+        "spinal_31-8": {
+            "class": "spinal_31"
+        },
+        "spinal_31-80": {
+            "class": "spinal_31"
+        },
+        "spinal_31-81": {
+            "class": "spinal_31"
+        },
+        "spinal_31-82": {
+            "class": "spinal_31"
+        },
+        "spinal_31-83": {
+            "class": "spinal_31"
+        },
+        "spinal_31-84": {
+            "class": "spinal_31"
+        },
+        "spinal_31-85": {
+            "class": "spinal_31"
+        },
+        "spinal_31-86": {
+            "class": "spinal_31"
+        },
+        "spinal_31-87": {
+            "class": "spinal_31"
+        },
+        "spinal_31-88": {
+            "class": "spinal_31"
+        },
+        "spinal_31-89": {
+            "class": "spinal_31"
+        },
+        "spinal_31-9": {
+            "class": "spinal_31"
+        },
+        "spinal_31-90": {
+            "class": "spinal_31"
+        },
+        "spinal_31-91": {
+            "class": "spinal_31"
+        },
+        "spinal_31-92": {
+            "class": "spinal_31"
+        },
+        "spinal_31-93": {
+            "class": "spinal_31"
+        },
+        "spinal_31-94": {
+            "class": "spinal_31"
+        },
+        "spinal_31-95": {
+            "class": "spinal_31"
+        },
+        "spinal_31-96": {
+            "class": "spinal_31"
+        },
+        "spinal_31-97": {
+            "class": "spinal_31"
+        },
+        "spinal_31-98": {
+            "class": "spinal_31"
+        },
+        "spinal_31-99": {
+            "class": "spinal_31"
+        },
+        "spinal_32-1": {
+            "class": "spinal_32"
+        },
+        "spinal_32-10": {
+            "class": "spinal_32"
+        },
+        "spinal_32-11": {
+            "class": "spinal_32"
+        },
+        "spinal_32-12": {
+            "class": "spinal_32"
+        },
+        "spinal_32-13": {
+            "class": "spinal_32"
+        },
+        "spinal_32-14": {
+            "class": "spinal_32"
+        },
+        "spinal_32-15": {
+            "class": "spinal_32"
+        },
+        "spinal_32-16": {
+            "class": "spinal_32"
+        },
+        "spinal_32-17": {
+            "class": "spinal_32"
+        },
+        "spinal_32-18": {
+            "class": "spinal_32"
+        },
+        "spinal_32-19": {
+            "class": "spinal_32"
+        },
+        "spinal_32-2": {
+            "class": "spinal_32"
+        },
+        "spinal_32-20": {
+            "class": "spinal_32"
+        },
+        "spinal_32-21": {
+            "class": "spinal_32"
+        },
+        "spinal_32-22": {
+            "class": "spinal_32"
+        },
+        "spinal_32-23": {
+            "class": "spinal_32"
+        },
+        "spinal_32-24": {
+            "class": "spinal_32"
+        },
+        "spinal_32-25": {
+            "class": "spinal_32"
+        },
+        "spinal_32-26": {
+            "class": "spinal_32"
+        },
+        "spinal_32-27": {
+            "class": "spinal_32"
+        },
+        "spinal_32-28": {
+            "class": "spinal_32"
+        },
+        "spinal_32-29": {
+            "class": "spinal_32"
+        },
+        "spinal_32-3": {
+            "class": "spinal_32"
+        },
+        "spinal_32-30": {
+            "class": "spinal_32"
+        },
+        "spinal_32-31": {
+            "class": "spinal_32"
+        },
+        "spinal_32-32": {
+            "class": "spinal_32"
+        },
+        "spinal_32-33": {
+            "class": "spinal_32"
+        },
+        "spinal_32-34": {
+            "class": "spinal_32"
+        },
+        "spinal_32-35": {
+            "class": "spinal_32"
+        },
+        "spinal_32-36": {
+            "class": "spinal_32"
+        },
+        "spinal_32-37": {
+            "class": "spinal_32"
+        },
+        "spinal_32-38": {
+            "class": "spinal_32"
+        },
+        "spinal_32-39": {
+            "class": "spinal_32"
+        },
+        "spinal_32-4": {
+            "class": "spinal_32"
+        },
+        "spinal_32-40": {
+            "class": "spinal_32"
+        },
+        "spinal_32-41": {
+            "class": "spinal_32"
+        },
+        "spinal_32-42": {
+            "class": "spinal_32"
+        },
+        "spinal_32-43": {
+            "class": "spinal_32"
+        },
+        "spinal_32-44": {
+            "class": "spinal_32"
+        },
+        "spinal_32-45": {
+            "class": "spinal_32"
+        },
+        "spinal_32-46": {
+            "class": "spinal_32"
+        },
+        "spinal_32-47": {
+            "class": "spinal_32"
+        },
+        "spinal_32-48": {
+            "class": "spinal_32"
+        },
+        "spinal_32-49": {
+            "class": "spinal_32"
+        },
+        "spinal_32-5": {
+            "class": "spinal_32"
+        },
+        "spinal_32-50": {
+            "class": "spinal_32"
+        },
+        "spinal_32-51": {
+            "class": "spinal_32"
+        },
+        "spinal_32-52": {
+            "class": "spinal_32"
+        },
+        "spinal_32-53": {
+            "class": "spinal_32"
+        },
+        "spinal_32-54": {
+            "class": "spinal_32"
+        },
+        "spinal_32-55": {
+            "class": "spinal_32"
+        },
+        "spinal_32-56": {
+            "class": "spinal_32"
+        },
+        "spinal_32-57": {
+            "class": "spinal_32"
+        },
+        "spinal_32-58": {
+            "class": "spinal_32"
+        },
+        "spinal_32-59": {
+            "class": "spinal_32"
+        },
+        "spinal_32-6": {
+            "class": "spinal_32"
+        },
+        "spinal_32-60": {
+            "class": "spinal_32"
+        },
+        "spinal_32-61": {
+            "class": "spinal_32"
+        },
+        "spinal_32-62": {
+            "class": "spinal_32"
+        },
+        "spinal_32-63": {
+            "class": "spinal_32"
+        },
+        "spinal_32-64": {
+            "class": "spinal_32"
+        },
+        "spinal_32-65": {
+            "class": "spinal_32"
+        },
+        "spinal_32-66": {
+            "class": "spinal_32"
+        },
+        "spinal_32-67": {
+            "class": "spinal_32"
+        },
+        "spinal_32-68": {
+            "class": "spinal_32"
+        },
+        "spinal_32-69": {
+            "class": "spinal_32"
+        },
+        "spinal_32-7": {
+            "class": "spinal_32"
+        },
+        "spinal_32-70": {
+            "class": "spinal_32"
+        },
+        "spinal_32-71": {
+            "class": "spinal_32"
+        },
+        "spinal_32-72": {
+            "class": "spinal_32"
+        },
+        "spinal_32-73": {
+            "class": "spinal_32"
+        },
+        "spinal_32-74": {
+            "class": "spinal_32"
+        },
+        "spinal_32-75": {
+            "class": "spinal_32"
+        },
+        "spinal_32-76": {
+            "class": "spinal_32"
+        },
+        "spinal_32-77": {
+            "class": "spinal_32"
+        },
+        "spinal_32-78": {
+            "class": "spinal_32"
+        },
+        "spinal_32-79": {
+            "class": "spinal_32"
+        },
+        "spinal_32-8": {
+            "class": "spinal_32"
+        },
+        "spinal_32-80": {
+            "class": "spinal_32"
+        },
+        "spinal_32-81": {
+            "class": "spinal_32"
+        },
+        "spinal_32-82": {
+            "class": "spinal_32"
+        },
+        "spinal_32-83": {
+            "class": "spinal_32"
+        },
+        "spinal_32-84": {
+            "class": "spinal_32"
+        },
+        "spinal_32-85": {
+            "class": "spinal_32"
+        },
+        "spinal_32-86": {
+            "class": "spinal_32"
+        },
+        "spinal_32-87": {
+            "class": "spinal_32"
+        },
+        "spinal_32-88": {
+            "class": "spinal_32"
+        },
+        "spinal_32-89": {
+            "class": "spinal_32"
+        },
+        "spinal_32-9": {
+            "class": "spinal_32"
+        },
+        "spinal_32-90": {
+            "class": "spinal_32"
+        },
+        "spinal_4-1": {
+            "class": "spinal_4"
+        },
+        "spinal_47-1": {
+            "class": "spinal_47"
+        },
+        "spinal_5-1": {
+            "class": "spinal_5"
+        },
+        "spinal_53-1": {
+            "class": "spinal_53"
+        },
+        "spinal_54-1": {
+            "class": "spinal_54"
+        },
+        "spinal_55-1": {
+            "class": "spinal_55"
+        },
+        "spinal_6-1": {
+            "class": "spinal_6"
+        },
+        "spinal_7-1": {
+            "class": "spinal_7"
+        },
+        "spinal_8-1": {
+            "class": "spinal_8"
+        },
+        "spinal_9-1": {
+            "class": "spinal_9"
+        },
+        "urinary_10-1": {
+            "class": "urinary_10"
+        },
+        "urinary_11-1": {
+            "class": "urinary_11"
+        },
+        "urinary_12-1": {
+            "class": "urinary_12"
+        },
+        "urinary_12-2": {
+            "class": "urinary_12"
+        },
+        "urinary_13-1": {
+            "class": "urinary_13"
+        },
+        "urinary_13-2": {
+            "class": "urinary_13"
+        },
+        "urinary_14-1": {
+            "class": "urinary_14"
+        },
+        "urinary_2-1": {
+            "class": "urinary_2"
+        },
+        "urinary_3-1": {
+            "class": "urinary_3"
+        },
+        "urinary_4-1": {
+            "class": "urinary_4"
+        },
+        "urinary_5-1": {
+            "class": "urinary_5"
+        },
+        "urinary_6-1": {
+            "class": "urinary_6"
+        },
+        "urinary_7-1": {
+            "class": "urinary_7"
+        },
+        "urinary_8-1": {
+            "class": "urinary_8"
+        },
+        "urinary_9-1": {
+            "class": "urinary_9"
+        }
+    },
+    "networks": [
+        {
+            "id": "neural",
+            "centrelines": [
+                {
+                    "id": "L1_dorsal_root",
+                    "connects": [
+                        "L1-spinal",
+                        "S45_L1",
+                        "L1_dorsal_root_end"
+                    ],
+                    "containedIn": [
+                        "S45_L1"
+                    ],
+                    "contained-in": [
+                        "S45_L1"
+                    ]
+                },
+                {
+                    "id": "L1_ventral_root",
+                    "connects": [
+                        "L1-spinal",
+                        "L1_ventral_root_end"
+                    ],
+                    "containedIn": [
+                        "S43_L1",
+                        "S50_L1_T",
+                        "S50_L1_B"
+                    ],
+                    "contained-in": [
+                        "S43_L1",
+                        "S50_L1_T",
+                        "S50_L1_B"
+                    ]
+                },
+                {
+                    "id": "L1_ventral_root_ramus",
+                    "connects": [
+                        "L1-spinal",
+                        "L1_ventral_root_ramus_end"
+                    ],
+                    "containedIn": [
+                        "S43_L1",
+                        "S48_L1",
+                        "S46_L1",
+                        "S49_L1"
+                    ],
+                    "contained-in": [
+                        "S43_L1",
+                        "S48_L1",
+                        "S46_L1",
+                        "S49_L1"
+                    ]
+                },
+                {
+                    "id": "L1_spinal_n",
+                    "connects": [
+                        "L1-spinal",
+                        "L1_L2_spinal_n-lumbar_splanchnic_n"
+                    ],
+                    "contained-in": []
+                },
+                {
+                    "id": "L2_dorsal_root",
+                    "connects": [
+                        "L2-spinal",
+                        "S45_L2",
+                        "L2_dorsal_root_end"
+                    ],
+                    "containedIn": [
+                        "S45_L2"
+                    ],
+                    "contained-in": [
+                        "S45_L2"
+                    ]
+                },
+                {
+                    "id": "L2_ventral_root_ramus",
+                    "connects": [
+                        "L2-spinal",
+                        "L2_ventral_root_ramus_end"
+                    ],
+                    "containedIn": [
+                        "S43_L2",
+                        "S48_L2",
+                        "S46_L2",
+                        "S49_L2"
+                    ],
+                    "contained-in": [
+                        "S43_L2",
+                        "S48_L2",
+                        "S46_L2",
+                        "S49_L2"
+                    ]
+                },
+                {
+                    "id": "L2_spinal_n",
+                    "connects": [
+                        "L2-spinal",
+                        "L1_L2_spinal_n-lumbar_splanchnic_n"
+                    ],
+                    "contained-in": []
+                },
+                {
+                    "id": "L6_dorsal_root",
+                    "connects": [
+                        "L6-spinal",
+                        "S45_L6",
+                        "L6_dorsal_root_end"
+                    ],
+                    "contained-in": []
+                },
+                {
+                    "id": "L6_ventral_root",
+                    "connects": [
+                        "L6-spinal",
+                        "L6_ventral_root_end"
+                    ],
+                    "contained-in": []
+                },
+                {
+                    "id": "L6_spinal_n",
+                    "connects": [
+                        "L6-spinal",
+                        "L6_S1_spinal_n-pelvic_splanchnic_n"
+                    ],
+                    "contained-in": []
+                },
+                {
+                    "id": "S1_dorsal_root",
+                    "connects": [
+                        "S1-spinal",
+                        "S45_S1",
+                        "S1_dorsal_root_end"
+                    ],
+                    "contained-in": []
+                },
+                {
+                    "id": "S1_ventral_root",
+                    "connects": [
+                        "S1-spinal",
+                        "S1_ventral_root_end"
+                    ],
+                    "contained-in": []
+                },
+                {
+                    "id": "S1_spinal_n",
+                    "connects": [
+                        "S1-spinal",
+                        "L6_S1_spinal_n-pelvic_splanchnic_n"
+                    ],
+                    "contained-in": []
+                },
+                {
+                    "id": "lumbar_splanchnic_n",
+                    "connects": [
+                        "L1_L2_spinal_n-lumbar_splanchnic_n",
+                        "keast_6-1"
+                    ],
+                    "containedIn": [
+                        "keast_7"
+                    ],
+                    "contained-in": [
+                        "keast_7-1"
+                    ]
+                },
+                {
+                    "id": "pelvic_splanchnic_n",
+                    "connects": [
+                        "L6_S1_spinal_n-pelvic_splanchnic_n",
+                        "keast_3-1"
+                    ],
+                    "containedIn": [
+                        "keast_4"
+                    ],
+                    "contained-in": [
+                        "keast_4-1"
+                    ]
+                },
+                {
+                    "id": "hypogastric_n",
+                    "connects": [
+                        "keast_6-1",
+                        "keast_3-1"
+                    ],
+                    "containedIn": [
+                        "keast_5"
+                    ],
+                    "contained-in": [
+                        "keast_5-1"
+                    ]
+                },
+                {
+                    "id": "bladder_n",
+                    "connects": [
+                        "keast_3-1",
+                        "bladder_n-bladder"
+                    ],
+                    "containedIn": [
+                        "keast_1"
+                    ],
+                    "contained-in": [
+                        "keast_1-1"
+                    ]
+                }
+            ]
+        }
+    ]
+}

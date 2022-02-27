@@ -1,0 +1,1050 @@
+{
+    "urinary_1": {
+        "term": "UBERON:0001008",
+        "name": "renal system"
+    },
+    "urinary_2": {
+        "term": "UBERON:0001255",
+        "name": "urinary bladder"
+    },
+    "urinary_3": {
+        "term": "UBERON:0006082",
+        "name": "fundus of urinary bladder"
+    },
+    "urinary_4": {
+        "term": "UBERON:0001258",
+        "name": "neck of urinary bladder"
+    },
+    "urinary_5": {
+        "term": "UBERON:0004919",
+        "name": "external urethral sphincter"
+    },
+    "urinary_6": {
+        "term": "UBERON:0000483",
+        "name": "epithelium"
+    },
+    "urinary_7": {
+        "term": "UBERON:0001135",
+        "name": "smooth muscle tissue"
+    },
+    "urinary_8": {
+        "term": "UBERON:0035965",
+        "name": "wall of blood vessel"
+    },
+    "urinary_9": {
+        "term": "UBERON:0000483",
+        "name": "epithelium"
+    },
+    "urinary_10": {
+        "term": "UBERON:0004230",
+        "name": "urinary bladder neck smooth muscle"
+    },
+    "urinary_11": {
+        "term": "UBERON:0035965",
+        "name": "wall of blood vessel"
+    },
+    "urinary_12": {
+        "term": "UBERON:0000056",
+        "name": "ureter"
+    },
+    "urinary_13": {
+        "term": "UBERON:0002113",
+        "name": "kidney"
+    },
+    "urinary_14": {
+        "term": "UBERON:0000057",
+        "name": "urethra"
+    },
+    "cardio_1": {
+        "term": "UBERON:0004535",
+        "name": "cardiovascular system"
+    },
+    "cardio_2": {
+        "term": "UBERON:0000948",
+        "name": "heart"
+    },
+    "cardio_3": {
+        "term": "UBERON:0001508",
+        "name": "arch of aorta"
+    },
+    "cardio_4": {
+        "term": "UBERON:0001629",
+        "name": "carotid body"
+    },
+    "cardio_5": {
+        "term": "UBERON:0003708",
+        "name": "carotid sinus"
+    },
+    "cardio_6": {
+        "term": "UBERON:0000947",
+        "name": "aorta"
+    },
+    "cardio_7": {
+        "term": "UBERON:0001585",
+        "name": "anterior vena cava"
+    },
+    "cardio_8": {
+        "term": "UBERON:0002333",
+        "name": "pulmonary trunk"
+    },
+    "cardio_9": {
+        "term": "UBERON:0002079",
+        "name": "left cardiac atrium"
+    },
+    "cardio_10": {
+        "term": "UBERON:0002078",
+        "name": "right cardiac atrium"
+    },
+    "cardio_11": {
+        "term": "UBERON:0002084",
+        "name": "heart left ventricle"
+    },
+    "cardio_12": {
+        "term": "UBERON:0002080",
+        "name": "heart right ventricle"
+    },
+    "cardio_13": {
+        "term": "ILX:0738316",
+        "name": "Aortic arch baroreceptors"
+    },
+    "cardio_14": {
+        "term": "UBERON:0001530",
+        "name": "common carotid artery plus branches"
+    },
+    "cardio_15": {
+        "term": "UBERON:0001532",
+        "name": "internal carotid artery"
+    },
+    "cardio_16": {
+        "term": "UBERON:0004664",
+        "name": "aorta tunica adventitia"
+    },
+    "cardio_17": {
+        "term": "UBERON:0005742",
+        "name": "adventitia"
+    },
+    "cardio_18": {
+        "term": "UBERON:0001986",
+        "name": "endothelium"
+    },
+    "cardio_19": {
+        "term": "UBERON:0003380",
+        "name": "cardiac muscle of left atrium"
+    },
+    "cardio_20": {
+        "term": "UBERON:0001986",
+        "name": "endothelium"
+    },
+    "cardio_21": {
+        "term": "UBERON:0003379",
+        "name": "cardiac muscle of right atrium"
+    },
+    "cardio_22": {
+        "term": "UBERON:0001986",
+        "name": "endothelium"
+    },
+    "cardio_23": {
+        "term": "UBERON:0003381",
+        "name": "cardiac muscle of right ventricle"
+    },
+    "cardio_24": {
+        "term": "UBERON:0001986",
+        "name": "endothelium"
+    },
+    "cardio_25": {
+        "term": "UBERON:0003382",
+        "name": "cardiac muscle of left ventricle"
+    },
+    "cardio_26": {
+        "term": "UBERON:0001072",
+        "name": "posterior vena cava"
+    },
+    "respiratory_1": {
+        "term": "UBERON:0001004",
+        "name": "respiratory system"
+    },
+    "respiratory_2": {
+        "term": "UBERON:0002048",
+        "name": "lung"
+    },
+    "respiratory_3": {
+        "term": "UBERON:0003126",
+        "name": "trachea"
+    },
+    "respiratory_4": {
+        "term": "UBERON:0001103",
+        "name": "diaphragm"
+    },
+    "respiratory_5": {
+        "term": "ILX:0738326",
+        "name": "Wall of larynx"
+    },
+    "respiratory_6": {
+        "term": "UBERON:0003604",
+        "name": "trachea cartilage"
+    },
+    "respiratory_7": {
+        "term": "UBERON:0000211",
+        "name": "ligament"
+    },
+    "respiratory_8": {
+        "term": "ILX:0738317",
+        "name": "Laryngeal mechanoreceptors"
+    },
+    "respiratory_9": {
+        "term": "UBERON:0002375",
+        "name": "cricoid cartilage"
+    },
+    "respiratory_10": {
+        "term": "UBERON:0001738",
+        "name": "thyroid cartilage"
+    },
+    "respiratory_11": {
+        "term": "UBERON:0000388",
+        "name": "epiglottis"
+    },
+    "respiratory_12": {
+        "term": "ILX:0738318",
+        "name": "Epiglottic mechanoreceptors"
+    },
+    "respiratory_13": {
+        "term": "UBERON:0001707",
+        "name": "nasal cavity"
+    },
+    "respiratory_14": {
+        "term": "UBERON:0001740",
+        "name": "arytenoid cartilage"
+    },
+    "respiratory_15": {
+        "term": "UBERON:0001005",
+        "name": "respiratory airway"
+    },
+    "respiratory_16": {
+        "term": "UBERON:0003387",
+        "name": "smooth muscle of trachea"
+    },
+    "respiratory_17": {
+        "term": "UBERON:0004242",
+        "name": "bronchus smooth muscle"
+    },
+    "respiratory_18": {
+        "term": "UBERON:0004515",
+        "name": "smooth muscle tissue of bronchiole"
+    },
+    "respiratory_19": {
+        "term": "UBERON:0004516",
+        "name": "smooth muscle tissue of terminal bronchiole"
+    },
+	"respiratory_20": {
+        "term": "UBERON:0007196",
+        "name": "tracheobronchial tree"
+    },
+    "digestive_1": {
+        "term": "UBERON:0001007",
+        "name": "digestive system"
+    },
+    "digestive_2": {
+        "term": "UBERON:0000945",
+        "name": "stomach"
+    },
+    "digestive_3": {
+        "term": "UBERON:0000059",
+        "name": "large intestine"
+    },
+    "digestive_4": {
+        "term": "UBERON:0001155",
+        "name": "colon"
+    },
+    "digestive_5": {
+        "term": "UBERON:0002108",
+        "name": "small intestine"
+    },
+    "digestive_6": {
+        "term": "UBERON:0001831",
+        "name": "parotid gland"
+    },
+    "digestive_7": {
+        "term": "UBERON:0001113",
+        "name": "lobe of liver"
+    },
+    "digestive_8": {
+        "term": "UBERON:0002107",
+        "name": "liver"
+    },
+    "digestive_9": {
+        "term": "UBERON:0001264",
+        "name": "pancreas"
+    },
+    "digestive_10": {
+        "term": "UBERON:0002106",
+        "name": "spleen"
+    },
+    "digestive_11": {
+        "term": "UBERON:0005020",
+        "name": "mucosa of tongue"
+    },
+    "digestive_12": {
+        "term": "UBERON:0001043",
+        "name": "esophagus"
+    },
+    "digestive_13": {
+        "term": "UBERON:0001153",
+        "name": "caecum"
+    },
+    "digestive_14": {
+        "term": "UBERON:0001156",
+        "name": "ascending colon"
+    },
+    "digestive_15": {
+        "term": "UBERON:0001157",
+        "name": "transverse colon"
+    },
+    "digestive_16": {
+        "term": "UBERON:0001158",
+        "name": "descending colon"
+    },
+    "digestive_17": {
+        "term": "UBERON:0001052",
+        "name": "rectum"
+    },
+    "digestive_18": {
+        "term": "UBERON:0001161",
+        "name": "body of stomach"
+    },
+    "digestive_19": {
+        "term": "UBERON:0001160",
+        "name": "fundus of stomach"
+    },
+    "digestive_20": {
+        "term": "UBERON:0001162",
+        "name": "cardia of stomach"
+    },
+    "digestive_21": {
+        "term": "UBERON:0001166",
+        "name": "pylorus"
+    },
+    "digestive_24": {
+        "term": "UBERON:0002116",
+        "name": "ileum"
+    },
+    "digestive_25": {
+        "term": "UBERON:0002115",
+        "name": "jejunum"
+    },
+    "digestive_26": {
+        "term": "UBERON:0002114",
+        "name": "duodenum"
+    },
+    "digestive_27": {
+        "term": "UBERON:0000167",
+        "name": "oral cavity"
+    },
+    "digestive_28": {
+        "term": "UBERON:0008972",
+        "name": "right colon"
+    },
+    "digestive_29": {
+        "term": "UBERON:0001157",
+        "name": "transverse colon"
+    },
+    "digestive_30": {
+        "term": "UBERON:0008971",
+        "name": "left colon"
+    },
+    "digestive_31": {
+        "term": "UBERON:0002110",
+        "name": "gall bladder"
+    },
+    "digestive_32": {
+        "term": "UBERON:0001159",
+        "name": "sigmoid colon"
+    },
+    "digestive_33": {
+        "term": "UBERON:0001736",
+        "name": "submandibular gland"
+    },
+    "digestive_34": {
+        "term": "UBERON:0001206",
+        "name": "serosa of small intestine"
+    },
+    "digestive_35": {
+        "term": "UBERON:0012402",
+        "name": "small intestine smooth muscle longitudinal layer"
+    },
+    "digestive_36": {
+        "term": "UBERON:0002439",
+        "name": "myenteric nerve plexus"
+    },
+    "digestive_37": {
+        "term": "UBERON:0012401",
+        "name": "small intestine smooth muscle circular layer"
+    },
+    "digestive_38": {
+        "term": "UBERON:0005304",
+        "name": "submucous nerve plexus"
+    },
+    "digestive_39": {
+        "term": "UBERON:0001238",
+        "name": "lamina propria of small intestine"
+    },
+    "digestive_40": {
+        "term": "UBERON:0001902",
+        "name": "epithelium of small intestine"
+    },
+    "digestive_41": {
+        "term": "UBERON:0018543",
+        "name": "lumen of intestine"
+    },
+    "digestive_42": {
+        "term": "UBERON:0003454",
+        "name": "small intestine Peyer's patch"
+    },
+    "digestive_43": {
+        "term": "UBERON:0001210",
+        "name": "muscularis mucosae of small intestine"
+    },
+	"digestive_44": {
+        "term": "UBERON:0002394",
+        "name": "bile duct"
+    },
+    "reproductive_1": {
+        "term": "UBERON:0000995",
+        "name": "uterus"
+    },
+    "reproductive_2": {
+        "term": "UBERON:0000996",
+        "name": "vagina"
+    },
+    "reproductive_3": {
+        "term": "UBERON:0000473",
+        "name": "testis"
+    },
+    "reproductive_4": {
+        "term": "UBERON:0000992",
+        "name": "ovary"
+    },
+    "reproductive_5": {
+        "term": "UBERON:0002367",
+        "name": "prostate gland"
+    },
+    "reproductive_6": {
+        "term": "UBERON:0002247",
+        "name": "uterine horn"
+    },
+    "reproductive_7": {
+        "term": "UBERON:0003885",
+        "name": "mesometrium"
+    },
+    "reproductive_8": {
+        "term": "UBERON:0003889",
+        "name": "fallopian tube"
+    },
+	"reproductive_9": {
+        "term": "UBERON:0001301",
+        "name": "epididymis"
+    },
+	"reproductive_10": {
+        "term": "UBERON:0000998",
+        "name": "seminal vesicle"
+    },
+    "muscle_1": {
+        "term": "ILX:0738319",
+        "name": "T1-T2 intercostal muscle"
+    },
+    "muscle_2": {
+        "term": "UBERON:0001134",
+        "name": "skeletal muscle tissue"
+    },
+    "endocrine_1": {
+        "term": "UBERON:0002046",
+        "name": "thyroid gland"
+    },
+    "endocrine_2": {
+        "term": "UBERON:0002370",
+        "name": "thymus"
+    },
+    "endocrine_3": {
+        "term": "UBERON:0002369",
+        "name": "adrenal gland"
+    },
+    "endocrine_4": {
+        "term": "UBERON:0009753",
+        "name": "adrenal gland cortex zone"
+    },
+    "endocrine_5": {
+        "term": "UBERON:0001236",
+        "name": "adrenal medulla"
+    },
+    "endocrine_6": {
+        "term": "ILX:0102147",
+        "name": "Chromaffin cell"
+    },
+    "body_1": {
+        "term": "UBERON:0000019",
+        "name": "camera-type eye"
+    },
+    "body_2": {
+        "term": "UBERON:0006378",
+        "name": "strand of vibrissa hair"
+    },
+    "body_3": {
+        "term": "UBERON:0000978",
+        "name": "leg"
+    },
+    "body_4": {
+        "term": "UBERON:0002415",
+        "name": "tail"
+    },
+    "body_5": {
+        "term": "UBERON:0001690",
+        "name": "ear"
+    },
+    "body_6": {
+        "term": "UBERON:0013702",
+        "name": "body proper"
+    },
+    "body_7": {
+        "term": "UBERON:0000165",
+        "name": "mouth"
+    },
+    "body_8": {
+        "term": "UBERON:0001723",
+        "name": "tongue"
+    },
+    "circulatory_1": {
+        "term": "UBERON:0001981",
+        "name": "blood vessel"
+    },
+    "receptor_1": {
+        "term": "ILX:0100241",
+        "name": "Acetylcholine (muscarinic) receptor"
+    },
+    "receptor_2": {
+        "term": "ILX:0101253",
+        "name": "Beta2 receptor"
+    },
+    "receptor_3": {
+        "term": "ILX:0107579",
+        "name": "Nicotinic Acetylcholine Receptor"
+    },
+    "spinal_1": {
+        "term": "UBERON:0006469",
+        "name": "C1 segment of cervical spinal cord"
+    },
+    "spinal_2": {
+        "term": "UBERON:0006489",
+        "name": "C2 segment of cervical spinal cord"
+    },
+    "spinal_3": {
+        "term": "UBERON:0006488",
+        "name": "C3 segment of cervical spinal cord"
+    },
+    "spinal_4": {
+        "term": "UBERON:0006490",
+        "name": "C4 segment of cervical spinal cord"
+    },
+    "spinal_5": {
+        "term": "UBERON:0006491",
+        "name": "C5 segment of cervical spinal cord"
+    },
+    "spinal_6": {
+        "term": "UBERON:0006492",
+        "name": "C6 segment of cervical spinal cord"
+    },
+    "spinal_7": {
+        "term": "UBERON:0006493",
+        "name": "C7 segment of cervical spinal cord"
+    },
+    "spinal_8": {
+        "term": "UBERON:0006470",
+        "name": "C8 segment of cervical spinal cord"
+    },
+    "spinal_9": {
+        "term": "UBERON:0006457",
+        "name": "first thoracic spinal cord segment"
+    },
+    "spinal_10": {
+        "term": "UBERON:0006458",
+        "name": "second thoracic spinal cord segment"
+    },
+    "spinal_11": {
+        "term": "UBERON:0006459",
+        "name": "third thoracic spinal cord segment"
+    },
+    "spinal_12": {
+        "term": "UBERON:0006452",
+        "name": "fourth thoracic spinal cord segment"
+    },
+    "spinal_13": {
+        "term": "UBERON:0006453",
+        "name": "fifth thoracic spinal cord segment"
+    },
+    "spinal_14": {
+        "term": "UBERON:0006454",
+        "name": "sixth thoracic spinal cord segment"
+    },
+    "spinal_15": {
+        "term": "UBERON:0006455",
+        "name": "seventh thoracic spinal cord segment"
+    },
+    "spinal_16": {
+        "term": "UBERON:0006456",
+        "name": "eighth thoracic spinal cord segment"
+    },
+    "spinal_17": {
+        "term": "UBERON:0006465",
+        "name": "ninth thoracic spinal cord segment"
+    },
+    "spinal_18": {
+        "term": "UBERON:0006466",
+        "name": "tenth thoracic spinal cord segment"
+    },
+    "spinal_19": {
+        "term": "UBERON:0006467",
+        "name": "eleventh thoracic spinal cord segment"
+    },
+    "spinal_20": {
+        "term": "UBERON:0006468",
+        "name": "twelfth thoracic spinal cord segment"
+    },
+    "spinal_21": {
+        "term": "ILX:0738431",
+        "name": "thirteenth thoracic spinal cord segment"
+    },
+    "spinal_22": {
+        "term": "UBERON:0006448",
+        "name": "first lumbar spinal cord segment"
+    },
+    "spinal_23": {
+        "term": "UBERON:0006450",
+        "name": "second lumbar spinal cord segment"
+    },
+    "spinal_24": {
+        "term": "UBERON:0006449",
+        "name": "third lumbar spinal cord segment"
+    },
+    "spinal_25": {
+        "term": "UBERON:0006451",
+        "name": "fourth lumbar spinal cord segment"
+    },
+    "spinal_26": {
+        "term": "UBERON:0006447",
+        "name": "fifth lumbar spinal cord segment"
+    },
+    "spinal_27": {
+        "term": "ILX:0738432",
+        "name": "Sixth lumbar spinal cord segment"
+    },
+    "spinal_28": {
+        "term": "UBERON:0006460",
+        "name": "first sacral spinal cord segment"
+    },
+    "spinal_29": {
+        "term": "UBERON:0006461",
+        "name": "second sacral spinal cord segment"
+    },
+    "spinal_30": {
+        "term": "UBERON:0006462",
+        "name": "third sacral spinal cord segment"
+    },
+    "spinal_31": {
+        "term": "UBERON:0002318",
+        "name": "white matter of spinal cord"
+    },
+    "spinal_32": {
+        "term": "UBERON:0002315",
+        "name": "gray matter of spinal cord"
+    },
+    "spinal_33": {
+        "term": "UBERON:0006118",
+        "name": "lamina I of gray matter of spinal cord"
+    },
+    "spinal_34": {
+        "term": "UBERON:0016573",
+        "name": "obsolete lamina II of gray matter of spinal cord"
+    },
+    "spinal_35": {
+        "term": "UBERON:0016574",
+        "name": "lamina III of gray matter of spinal cord"
+    },
+    "spinal_36": {
+        "term": "UBERON:0016575",
+        "name": "lamina IV of gray matter of spinal cord"
+    },
+    "spinal_37": {
+        "term": "UBERON:0016576",
+        "name": "lamina V of gray matter of spinal cord"
+    },
+    "spinal_38": {
+        "term": "UBERON:0016577",
+        "name": "lamina VI of gray matter of spinal cord"
+    },
+    "spinal_39": {
+        "term": "UBERON:0016578",
+        "name": "lamina VII of gray matter of spinal cord"
+    },
+    "spinal_40": {
+        "term": "UBERON:0016579",
+        "name": "lamina VIII of gray matter of spinal cord"
+    },
+    "spinal_41": {
+        "term": "UBERON:0016580",
+        "name": "lamina IX of gray matter of spinal cord"
+    },
+    "spinal_42": {
+        "term": "UBERON:0004677",
+        "name": "spinal cord gray commissure"
+    },
+    "spinal_43": {
+        "term": "UBERON:0002260",
+        "name": "ventral root of spinal cord"
+    },
+    "spinal_44": {
+        "term": "UBERON:0002261",
+        "name": "dorsal root of spinal cord"
+    },
+    "spinal_45": {
+        "term": "UBERON:0000044",
+        "name": "dorsal root ganglion"
+    },
+    "spinal_46": {
+        "term": "UBERON:0001807",
+        "name": "paravertebral ganglion"
+    },
+    "spinal_47": {
+        "term": "UBERON:0000407",
+        "name": "sympathetic trunk"
+    },
+    "spinal_48": {
+        "term": "FMA:5875",
+        "name": "White communicating ramus"
+    },
+    "spinal_49": {
+        "term": "FMA:5876",
+        "name": "Gray communicating ramus"
+    },
+    "spinal_50": {
+        "term": "UBERON:0001780",
+        "name": "spinal nerve"
+    },
+    "spinal_51": {
+        "term": "UBERON:0011776",
+        "name": "Dorsal commissural nucleus"
+    },
+    "spinal_52": {
+        "term": "UBERON:0011776",
+        "name": "Dorsal commissural nucleus"
+    },
+    "spinal_53": {
+        "term": "UBERON:0002240",
+        "name": "spinal cord"
+    },
+    "spinal_54": {
+        "term": "ILX:0738324",
+        "name": "Phrenic nucleus of C4"
+    },
+    "spinal_55": {
+        "term": "ILX:0738325",
+        "name": "Phrenic nucleus of C5"
+    },
+    "brain_1": {
+        "term": "UBERON:0001898",
+        "name": "hypothalamus"
+    },
+    "brain_2": {
+        "term": "UBERON:0001897",
+        "name": "dorsal plus ventral thalamus"
+    },
+    "brain_3": {
+        "term": "UBERON:0002336",
+        "name": "corpus callosum"
+    },
+    "brain_4": {
+        "term": "UBERON:0000446",
+        "name": "septum of telencephalon"
+    },
+    "brain_5": {
+        "term": "UBERON:0000007",
+        "name": "pituitary gland"
+    },
+    "brain_6": {
+        "term": "UBERON:0002129",
+        "name": "cerebellar cortex"
+    },
+    "brain_7": {
+        "term": "UBERON:0027333",
+        "name": "arbor vitae"
+    },
+    "brain_8": {
+        "term": "UBERON:0002037",
+        "name": "cerebellum"
+    },
+    "brain_9": {
+        "term": "UBERON:0001930",
+        "name": "paraventricular nucleus of hypothalamus"
+    },
+    "brain_10": {
+        "term": "UBERON:0009918",
+        "name": "retrotrapezoid nucleus"
+    },
+    "brain_11": {
+        "term": "UBERON:0005807",
+        "name": "rostral ventrolateral medulla"
+    },
+    "brain_12": {
+        "term": "UBERON:0009050",
+        "name": "nucleus of solitary tract"
+    },
+    "brain_15": {
+        "term": "UBERON:0007769",
+        "name": "medial preoptic region"
+    },
+    "brain_16": {
+        "term": "UBERON:0002625",
+        "name": "median preoptic nucleus"
+    },
+    "brain_17": {
+        "term": "UBERON:0001880",
+        "name": "bed nucleus of stria terminalis"
+    },
+    "brain_18": {
+        "term": "UBERON:0001931",
+        "name": "lateral preoptic nucleus"
+    },
+    "brain_19": {
+        "term": "UBERON:0002273",
+        "name": "lateral zone of hypothalamus"
+    },
+    "brain_20": {
+        "term": "UBERON:0002883",
+        "name": "central amygdaloid nucleus"
+    },
+    "brain_21": {
+        "term": "UBERON:0000956",
+        "name": "cerebral cortex"
+    },
+    "brain_22": {
+        "term": "UBERON:0005366",
+        "name": "olfactory lobe"
+    },
+    "brain_23": {
+        "term": "UBERON:0001981",
+        "name": "blood vessel"
+    },
+    "brain_24": {
+        "term": "UBERON:0002264",
+        "name": "olfactory bulb"
+    },
+    "brain_25": {
+        "term": "UBERON:0001891",
+        "name": "midbrain"
+    },
+    "brain_26": {
+        "term": "UBERON:0000988",
+        "name": "pons"
+    },
+    "brain_27": {
+        "term": "UBERON:0001896",
+        "name": "medulla oblongata"
+    },
+    "brain_28": {
+        "term": "UBERON:0001890",
+        "name": "forebrain"
+    },
+    "brain_29": {
+        "term": "UBERON:0001894",
+        "name": "diencephalon"
+    },
+    "brain_31": {
+        "term": "UBERON:0001869",
+        "name": "cerebral hemisphere"
+    },
+    "brain_32": {
+        "term": "UBERON:0002022",
+        "name": "insula"
+    },
+    "brain_33": {
+        "term": "UBERON:0001719",
+        "name": "nucleus ambiguus"
+    },
+    "brain_34": {
+        "term": "UBERON:0002870",
+        "name": "dorsal motor nucleus of vagus nerve"
+    },
+    "brain_35": {
+        "term": "UBERON:0000955",
+        "name": "brain"
+    },
+    "brain_36": {
+        "term": "UBERON:0001928",
+        "name": "preoptic area"
+    },
+    "brain_37": {
+        "term": "UBERON:0001908",
+        "name": "optic tract"
+    },
+    "brain_38": {
+        "term": "UBERON:0002743",
+        "name": "basal forebrain"
+    },
+	"brain_39": {
+        "term": "UBERON:0001063",
+        "name": "flocculus"
+    },
+	"brain_40": {
+        "term": "UBERON:0001905",
+        "name": "pineal body"
+    },
+	"brain_41": {
+        "term": "UBERON:0001945",
+        "name": "superior colliculus"
+    },
+	"brain_42": {
+        "term": "UBERON:0001946",
+        "name": "inferior colliculus"
+    },
+	"brain_43": {
+        "term": "UBERON:0002265",
+        "name": "olfactory tract"
+    },
+    "bolser_1": {
+        "term": "ILX:0738312",
+        "name": "Aortic arch depressor nerve"
+    },
+    "bolser_3": {
+        "term": "ILX:0738308",
+        "name": "External branch of inferior laryngeal nerve"
+    },
+    "bolser_4": {
+        "term": "ILX:0738374",
+        "name": "External branch of superior laryngeal nerve"
+    },
+    "bolser_5": {
+        "term": "UBERON:0001649",
+        "name": "glossopharyngeal nerve"
+    },
+    "bolser_6": {
+        "term": "ILX:0738293",
+        "name": "Ganglioglomerular nerve"
+    },
+    "bolser_7": {
+        "term": "UBERON:0009009",
+        "name": "carotid sinus nerve"
+    },
+    "bolser_8": {
+        "term": "UBERON:0001650",
+        "name": "hypoglossal nerve"
+    },
+    "bolser_9": {
+        "term": "UBERON:0002440",
+        "name": "inferior cervical ganglion"
+    },
+    "bolser_10": {
+        "term": "UBERON:0002024",
+        "name": "internal carotid nerve plexus"
+    },
+    "bolser_11": {
+        "term": "ILX:0738309",
+        "name": "Internal branch of inferior laryngeal nerve"
+    },
+    "bolser_12": {
+        "term": "UBERON:0003716",
+        "name": "recurrent laryngeal nerve"
+    },
+    "bolser_13": {
+        "term": "ILX:0738373",
+        "name": "Internal branch of superior laryngeal nerve"
+    },
+    "bolser_14": {
+        "term": "UBERON:0001990",
+        "name": "middle cervical ganglion"
+    },
+    "bolser_15": {
+        "term": "ILX:0485722",
+        "name": "Nodose Ganglion"
+    },
+    "bolser_16": {
+        "term": "ILX:0738315",
+        "name": "Pharyngeal branch of the Hypoglossal nerve"
+    },
+    "bolser_17": {
+        "term": "UBERON:0001884",
+        "name": "phrenic nerve"
+    },
+    "bolser_18": {
+        "term": "UBERON:0001701",
+        "name": "glossopharyngeal ganglion"
+    },
+    "bolser_19": {
+        "term": "ILX:0738313",
+        "name": "Rami glomi carotici"
+    },
+    "bolser_20": {
+        "term": "UBERON:0001989",
+        "name": "superior cervical ganglion"
+    },
+    "bolser_21": {
+        "term": "UBERON:0011326",
+        "name": "superior laryngeal nerve"
+    },
+    "bolser_22": {
+        "term": "ILX:0738342",
+        "name": "T1 paravertebral ganglion"
+    },
+    "bolser_23": {
+        "term": "ILX:0738292",
+        "name": "MCG-SCG sympathetic cord"
+    },
+    "bolser_24": {
+        "term": "ILX:0738290",
+        "name": "ICG-MCG sympathetic cord"
+    },
+    "bolser_25": {
+        "term": "ILX:0738291",
+        "name": "T1-ICG sympathetic cord"
+    },
+    "bolser_26": {
+        "term": "UBERON:0001759",
+        "name": "vagus nerve"
+    },
+    "keast_2": {
+        "term": "UBERON:0011390",
+        "name": "pudendal nerve"
+    },
+    "keast_3": {
+        "term": "UBERON:0016508",
+        "name": "pelvic ganglion"
+    },
+    "keast_4": {
+        "term": "UBERON:0018675",
+        "name": "pelvic splanchnic nerve"
+    },
+    "keast_5": {
+        "term": "UBERON:0005303",
+        "name": "hypogastric nerve"
+    },
+    "keast_6": {
+        "term": "UBERON:0005453",
+        "name": "inferior mesenteric ganglion"
+    },
+    "keast_7": {
+        "term": "UBERON:0018683",
+        "name": "lumbar splanchnic nerve"
+    },
+    "connection_1": {
+        "term": "UBERON:0002441",
+        "name": "cervicothoracic ganglion"
+    },
+    "mawe_1": {
+        "term": "UBERON:0005479",
+        "name": "superior mesenteric ganglion"
+    },
+    "lung_1": {
+        "term": "UBERON:0001808",
+        "name": "parasympathetic ganglion"
+    },
+    "lung_2": {
+        "term": "UBERON:0003715",
+        "name": "splanchnic nerve"
+    }
+}
