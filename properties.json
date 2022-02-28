@@ -1810,9 +1810,6 @@
         "bolser13_2": {
             "class": "bolser_13"
         },
-        "bolser_20-1": {
-            "class": "bolser_20"
-        },
         "bolser21_1": {
             "class": "bolser_21"
         },
@@ -2001,6 +1998,9 @@
         },
 		"brain_43-1": {
             "class": "brain_43"
+        },
+		"brain_44-1": {
+            "class": "brain_44"
         },
         "brain_4-1": {
             "class": "brain_4"
@@ -3438,6 +3438,99 @@
         },
         "urinary_9-1": {
             "class": "urinary_9"
+        },
+		"ganglion_1-1": {
+            "class": "ganglion_1"
+        },
+		"ganglion_2-1": {
+            "class": "ganglion_2"
+        },
+		"ganglion_3-1": {
+            "class": "ganglion_3"
+        },
+		"plexus_1-1": {
+            "class": "plexus_1"
+        },
+		"plexus_2-1": {
+            "class": "plexus_2"
+        },
+		"plexus_3-1": {
+            "class": "plexus_3"
+        },
+		"plexus_4-1": {
+            "class": "plexus_4"
+        },
+		"plexus_5-1": {
+            "class": "plexus_5"
+        },
+		"plexus_6-1": {
+            "class": "plexus_6"
+        },
+		"label_1-1": {
+            "class": "label_1"
+        },
+		"label_2-1": {
+            "class": "label_2"
+        },
+		"label_3-1": {
+            "class": "label_3"
+        },
+		"label_4-1": {
+            "class": "label_4"
+        },
+		"label_5-1": {
+            "class": "label_5"
+        },
+		"label_6-1": {
+            "class": "label_6"
+        },
+		"label_7-1": {
+            "class": "label_7"
+        },
+		"label_8-1": {
+            "class": "label_8"
+        },
+		"label_9-1": {
+            "class": "label_9"
+        },
+		"label_10-1": {
+            "class": "label_10"
+        },
+		"label_11-1": {
+            "class": "label_11"
+        },
+		"label_12-1": {
+            "class": "label_12"
+        },
+		"label_13-1": {
+            "class": "label_13"
+        },
+		"label_14-1": {
+            "class": "label_14"
+        },
+		"label_15-1": {
+            "class": "label_15"
+        },
+		"label_16-1": {
+            "class": "label_16"
+        },
+		"label_17-1": {
+            "class": "label_17"
+        },
+		"label_18-1": {
+            "class": "label_18"
+        },
+		"label_19-1": {
+            "class": "label_19"
+        },
+		"label_20-1": {
+            "class": "label_20"
+        },
+		"label_21-1": {
+            "class": "label_21"
+        },
+		"label_22-1": {
+            "class": "label_22"
         }
     },
     "networks": [
@@ -3445,18 +3538,759 @@
             "id": "neural",
             "centrelines": [
                 {
-                    "id": "L1_dorsal_root",
+                    "id": "n_1",
                     "connects": [
-                        "L1-spinal",
-                        "S45_L1",
-                        "L1_dorsal_root_end"
+                        "brain_44-1",
+                        "point_1"
+                    ],
+                    "contained-in": []
+                },
+                {
+                    "id": "n_2",
+                    "connects": [
+                        "brain_12-1",
+                        "point_1"
+                    ],
+					"contained-in": []
+                },
+                {
+                    "id": "n_3",
+                    "connects": [
+                        "brain_34-1",
+                        "point_1"
+                    ],
+                    "containedIn": [],
+                    "contained-in": []
+                },
+                {
+                    "id": "n_4",
+                    "connects": [
+                        "brain_33-1",
+                        "point_1"
+                    ],
+					"contained-in": []
+                },
+                {
+                    "id": "n_5",
+                    "connects": [
+                        "point_1",
+                        "point_36"
                     ],
                     "containedIn": [
-                        "S45_L1"
+						"ganglion_1",
+						"ganglion_2",
+						"point_2",
+						"point_4",
+						"point_5",
+						"point_11",
+						"point_14",
+						"point_16",
+						"point_22",
+						"point_26",
+						"point_30",
+						"point_31",
+						"point_32",
+						"point_34",
+						"point_35",
+						"point_36"
+					],
+                    "contained-in": [
+						"ganglion_1-1",
+						"ganglion_2-1",
+						"point_2",
+						"point_4",
+						"point_5",
+						"point_11",
+						"point_14",
+						"point_16",
+						"point_22",
+						"point_26",
+						"point_30",
+						"point_31",
+						"point_32",
+						"point_34",
+						"point_35",
+						"point_36"
+					]
+                },
+                {
+                    "id": "n_6",
+                    "connects": [
+                        "point_4",
+                        "label_1-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_68",
+                    "connects": [
+                        "point_2",
+                        "point_3"
+                    ],
+                    "contained-in": []
+                },
+                {
+                    "id": "n_7",
+                    "connects": [
+                        "point_5",
+                        "point_10"
+                    ],
+                    "containedIn": [
+                        "point_6",
+						"point_8"
                     ],
                     "contained-in": [
-                        "S45_L1"
+                        "point_6",
+						"point_8"
                     ]
+                },
+                {
+                    "id": "n_8",
+                    "connects": [
+                        "point_8",
+                        "point_9"
+                    ],
+                    "contained-in": []
+                },
+                {
+                    "id": "n_9",
+                    "connects": [
+                        "point_10",
+                        "label_3-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_10",
+                    "connects": [
+                        "point_10",
+                        "label_2-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_11",
+                    "connects": [
+                        "point_10",
+                        "label_4-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_12",
+                    "connects": [
+                        "point_6",
+                        "point_7"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_13",
+                    "connects": [
+                        "point_11",
+                        "point_13"
+                    ],
+                    "containedIn": [
+                        "point_12"
+                    ],
+                    "contained-in": [
+                        "point_12"
+                    ]
+                },
+				{
+                    "id": "n_14",
+                    "connects": [
+                        "point_13",
+                        "label_5-1"
+                    ],
+                    "containedIn": [
+                        "plexus_2"
+                    ],
+                    "contained-in": [
+                        "plexus_2-1"
+                    ]
+                },
+				{
+                    "id": "n_15",
+                    "connects": [
+                        "point_13",
+                        "label_6-1"
+                    ],
+                    "containedIn": [
+                        "plexus_2"
+                    ],
+                    "contained-in": [
+                        "plexus_2-1"
+                    ]
+                },
+				{
+                    "id": "n_16",
+                    "connects": [
+                        "point_14",
+                        "cardio_4-1"
+                    ],
+                    "containedIn": [
+                        "point_15"
+                    ],
+                    "contained-in": [
+                        "point_15"
+                    ]
+                },
+				{
+                    "id": "n_17",
+                    "connects": [
+                        "point_16",
+                        "point_18"
+                    ],
+                    "containedIn": [
+                        "point_17"
+                    ],
+                    "contained-in": [
+                        "point_17"
+                    ]
+                },
+				{
+                    "id": "n_18",
+                    "connects": [
+                        "point_18",
+                        "point_19"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_19",
+                    "connects": [
+                        "point_19",
+                        "point_20"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_20",
+                    "connects": [
+                        "point_20",
+                        "label_8-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_21",
+                    "connects": [
+                        "point_20",
+                        "respiratory_11-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_22",
+                    "connects": [
+                        "point_20",
+                        "label_7-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_23",
+                    "connects": [
+                        "point_20",
+                        "respiratory_5-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_24",
+                    "connects": [
+                        "point_19",
+                        "point_21"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_25",
+                    "connects": [
+                        "point_21",
+                        "label_10-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_26",
+                    "connects": [
+                        "point_21",
+                        "label_11-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_27",
+                    "connects": [
+                        "point_21",
+                        "label_12-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_28",
+                    "connects": [
+                        "point_21",
+                        "point_37"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_29",
+                    "connects": [
+                        "point_18",
+                        "external_laryngeal_n_branching_point"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_30",
+                    "connects": [
+                        "point_22",
+                        "point_24"
+                    ],
+                    "containedIn": [
+                        "point_23"
+                    ],
+                    "contained-in": [
+                        "point_23"
+                    ]
+                },
+				{
+                    "id": "n_31",
+                    "connects": [
+                        "point_24",
+                        "plexus_3-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_32",
+                    "connects": [
+                        "point_24",
+                        "point_25"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_33",
+                    "connects": [
+                        "point_25",
+                        "plexus_3-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_34",
+                    "connects": [
+                        "point_25",
+                        "plexus_3-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_35",
+                    "connects": [
+                        "point_24",
+                        "plexus_3-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_36",
+                    "connects": [
+                        "point_26",
+                        "point_28"
+                    ],
+                    "containedIn": [
+                        "point_27"
+                    ],
+                    "contained-in": [
+                        "point_27"
+                    ]
+                },
+				{
+                    "id": "n_37",
+                    "connects": [
+                        "point_28",
+                        "label_9-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_38",
+                    "connects": [
+                        "point_28",
+                        "point_29"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_39",
+                    "connects": [
+                        "point_29",
+                        "label_15-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_40",
+                    "connects": [
+                        "point_29",
+                        "label_16-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_41",
+                    "connects": [
+                        "point_29",
+                        "label_17-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_42",
+                    "connects": [
+                        "point_29",
+                        "label_18-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_43",
+                    "connects": [
+                        "point_29",
+                        "label_19-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_44",
+                    "connects": [
+                        "point_29",
+                        "label_20-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_45",
+                    "connects": [
+                        "point_29",
+                        "label_21-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_46",
+                    "connects": [
+                        "point_29",
+                        "label_22-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_47",
+                    "connects": [
+                        "point_28",
+                        "label_13-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_48",
+                    "connects": [
+                        "point_28",
+                        "respiratory_8-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_49",
+                    "connects": [
+                        "point_28",
+                        "respiratory_11-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_50",
+                    "connects": [
+                        "point_28",
+                        "point_38"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_51",
+                    "connects": [
+                        "point_30",
+                        "plexus_4-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_52",
+                    "connects": [
+                        "point_31",
+                        "respiratory_17-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_53",
+                    "connects": [
+                        "point_32",
+                        "point_33"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_54",
+                    "connects": [
+                        "point_33",
+                        "plexus_5-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_55",
+                    "connects": [
+                        "point_33",
+                        "plexus_5-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_56",
+                    "connects": [
+                        "point_34",
+                        "digestive_9-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_57",
+                    "connects": [
+                        "point_35",
+                        "plexus_6-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_58",
+                    "connects": [
+                        "point_36",
+                        "urinary_13-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_59",
+                    "connects": [
+                        "ganglion_3-1",
+                        "plexus_1-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_60",
+                    "connects": [
+                        "ganglion_3-1",
+                        "point_12"
+                    ],
+                    "contained-in": []
+                },{
+                    "id": "n_61",
+                    "connects": [
+                        "ganglion_3-1",
+                        "point_15"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_62",
+                    "connects": [
+                        "ganglion_3-1",
+                        "point_17"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_63",
+                    "connects": [
+                        "ganglion_3-1",
+                        "point_23"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_64",
+                    "connects": [
+                        "ganglion_3-1",
+                        "point_27"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_65",
+                    "connects": [
+                        "external_laryngeal_n_branching_point",
+                        "label_14-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_66",
+                    "connects": [
+                        "external_laryngeal_n_branching_point",
+                        "label_15-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "n_67",
+                    "connects": [
+                        "external_laryngeal_n_branching_point",
+                        "plexus_2-1"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "C3_dorsal_root",
+                    "connects": [
+                        "C3_spinal",
+                        "C3_dorsal_root_end"
+                    ],
+                    "containedIn": [
+                        "S44_C3",
+						"S45_C3",
+						"S50_C3_B"
+                    ],
+                    "contained-in": [
+                        "S44_C3",
+						"S45_C3",
+						"S50_C3_B"
+                    ]
+                },
+				{
+                    "id": "C4_dorsal_root",
+                    "connects": [
+                        "C4_spinal",
+                        "C4_dorsal_root_end"
+                    ],
+                    "containedIn": [
+                        "S44_C4",
+						"S45_C4",
+						"S50_C4_B"
+                    ],
+                    "contained-in": [
+                        "S44_C4",
+						"S45_C4",
+						"S50_C4_B"
+                    ]
+                },
+				{
+                    "id": "C5_dorsal_root",
+                    "connects": [
+                        "C5_spinal",
+                        "C5_dorsal_root_end"
+                    ],
+                    "containedIn": [
+                        "S44_C5",
+						"S45_L1",
+						"S50_C5_B"
+                    ],
+                    "contained-in": [
+                        "S44_C5",
+						"S45_L1",
+						"S50_C5_B"
+                    ]
+                },
+				{
+                    "id": "C3_ventral_root",
+                    "connects": [
+                        "C3_spinal",
+                        "C3_ventral_root_end"
+                    ],
+                    "containedIn": [
+                        "S43_C3",
+                        "S50_C3_T",
+                        "S50_C3_B"
+                    ],
+                    "contained-in": [
+                        "S43_C3",
+                        "S50_C3_T",
+                        "S50_C3_B"
+                    ]
+                },
+				{
+                    "id": "C4_ventral_root",
+                    "connects": [
+                        "C4_spinal",
+                        "C4_ventral_root_end"
+                    ],
+                    "containedIn": [
+                        "S43_C4",
+                        "S50_C4_T",
+                        "S50_C4_B"
+                    ],
+                    "contained-in": [
+                        "S43_C4",
+                        "S50_C4_T",
+                        "S50_C4_B"
+                    ]
+                },
+				{
+                    "id": "C5_ventral_root",
+                    "connects": [
+                        "C5_spinal",
+                        "C5_ventral_root_end"
+                    ],
+                    "containedIn": [
+                        "S43_C5",
+                        "S50_C5_T",
+                        "S50_C5_B"
+                    ],
+                    "contained-in": [
+                        "S43_C5",
+                        "S50_C5_T",
+                        "S50_C5_B"
+                    ]
+                },
+				{
+                    "id": "C3_spinal_n",
+                    "connects": [
+                        "C3_spinal",
+                        "C3_C5_spinal_n-phrenic_n"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "C4_spinal_n",
+                    "connects": [
+                        "C4_spinal",
+                        "C3_C5_spinal_n-phrenic_n"
+                    ],
+                    "contained-in": []
+                },
+                {
+                    "id": "C5_spinal_n",
+                    "connects": [
+                        "C5_spinal",
+                        "C3_C5_spinal_n-phrenic_n"
+                    ],
+                    "contained-in": []
+                },
+				{
+                    "id": "phrenic_n",
+                    "connects": [
+                        "C3_C5_spinal_n-phrenic_n",
+                        "phrenic_n_branching_point"
+                    ],
+                    "contained-in": []
                 }
             ]
         }
