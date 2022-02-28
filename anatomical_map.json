@@ -907,6 +907,10 @@
         "term": "UBERON:0002265",
         "name": "olfactory tract"
     },
+	"brain_44": {
+        "term": "UBERON:0002925",
+        "name": "trigeminal nucleus"
+    },
     "bolser_1": {
         "term": "ILX:0738312",
         "name": "Aortic arch depressor nerve"
@@ -1046,5 +1050,129 @@
     "lung_2": {
         "term": "UBERON:0003715",
         "name": "splanchnic nerve"
+    },
+	"ganglion_1": {
+        "term": "UBERON:0005364",
+        "name": "superior vagus X ganglion"
+    },
+	"ganglion_2": {
+        "term": "UBERON:0005363",
+        "name": "inferior vagus X ganglion"
+    },
+	"ganglion_3": {
+        "term": "UBERON:0001989",
+        "name": "superior cervical ganglion"
+    },
+	"plexus_1": {
+        "term": "FMA:67532",
+        "name": "external carotid nerve plexus"
+    },
+	"plexus_2": {
+        "term": "UBERON:0011325",
+        "name": "pharyngeal nerve plexus"
+    },
+	"plexus_3": {
+        "term": "UBERON:0002008",
+        "name": "cardiac nerve plexus"
+    },
+	"plexus_4": {
+        "term": "UBERON:0002009",
+        "name": "pulmonary nerve plexus"
+    },
+	"plexus_5": {
+        "term": "FMA:6225",
+        "name": "esophageal nerve plexus"
+    },
+	"plexus_6": {
+        "term": "FMA:6633",
+        "name": "left gastric nerve plexus"
+    },
+	"label_1": {
+        "term": "",
+        "name": "dura mater in the posterior cranial fossa"
+    },
+	"label_2": {
+        "term": "",
+        "name": "posterior wall of external acoustic meatus"
+    },
+	"label_3": {
+        "term": "",
+        "name": "floor of external acoustic meatus"
+    },
+	"label_4": {
+        "term": "UBERON:0002364",
+        "name": "tympanic membrane"
+    },
+	"label_5": {
+        "term": "UBERON:0010033",
+        "name": "back part of the tongue*"
+    },
+	"label_6": {
+        "term": "UBERON:0006562",
+        "name": "pharynx)"
+    },
+	"label_7": {
+        "term": "FMA:55031",
+        "name": "mucosa of pharynx"
+    },
+	"label_8": {
+        "term": "UBERON:0013165",
+        "name": "epiglottic vallecula"
+    },
+	"label_9": {
+        "term": "UBERON:0001824",
+        "name": "mucosa of larynx"
+    },
+	"label_10": {
+        "term": "UBERON:0014385",
+        "name": "aryepiglottic fold"
+    },
+	"label_11": {
+        "term": "",
+        "name": "arytenoideus"
+    },
+	"label_12": {
+        "term": "",
+        "name": "mucosa of arytenoid cartilage"
+    },
+	"label_13": {
+        "term": "",
+        "name": "vocal_cords"
+    },
+	"label_14": {
+        "term": "UBERON:0001566",
+        "name": "cricothyroid muscle"
+    },
+	"label_15": {
+        "term": "UBERON:0001570",
+        "name": "inferior pharyngeal constrictor"
+    },
+	"label_16": {
+        "term": "",
+        "name": "ceratocricoid"
+    },
+	"label_17": {
+        "term": "UBERON:0008573",
+        "name": "lateral crico-arytenoid"
+    },
+	"label_18": {
+        "term": "UBERON:0008575",
+        "name": "oblique arytenoid"
+    },
+	"label_19": {
+        "term": "UBERON:0008572",
+        "name": "posterior crico-arytenoid"
+    },
+	"label_20": {
+        "term": "FMA:46588",
+        "name": "hyro-arytenoid"
+    },
+	"label_21": {
+        "term": "UBERON:0008574",
+        "name": "transverse arytenoid"
+    },
+	"label_22": {
+        "term": "UBERON:0008577",
+        "name": "vocalis muscle"
     }
 }
