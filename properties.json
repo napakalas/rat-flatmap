@@ -4087,8 +4087,56 @@
                     ],
                     "contained-in": [
                         "S44_C5",
-						"S45_L1",
+						"S45_C5",
 						"S50_C5_B"
+                    ]
+                },
+				{
+                    "id": "L1_dorsal_root",
+                    "connects": [
+                        "L1_spinal",
+                        "L1_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S44_L1",
+						"S45_L1",
+						"S50_L1_B"
+                    ]
+                },
+				{
+                    "id": "L2_dorsal_root",
+                    "connects": [
+                        "L2_spinal",
+                        "L2_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S44_L2",
+						"S45_L2",
+						"S50_L2_B"
+                    ]
+                },
+				{
+                    "id": "L6_dorsal_root",
+                    "connects": [
+                        "L6_spinal",
+                        "L6_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S44_L6",
+						"S45_L6",
+						"S50_L6_B"
+                    ]
+                },
+				{
+                    "id": "S1_dorsal_root",
+                    "connects": [
+                        "S1_spinal",
+                        "S1_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S44_S1",
+						"S45_S1",
+						"S50_S1_B"
                     ]
                 },
 				{
@@ -4128,6 +4176,42 @@
                     ]
                 },
 				{
+                    "id": "L5_ventral_root",
+                    "connects": [
+                        "L5_spinal",
+                        "L5_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_L5",
+                        "S50_L5_T",
+                        "S50_L5_B"
+                    ]
+                },
+				{
+                    "id": "L6_ventral_root",
+                    "connects": [
+                        "L6_spinal",
+                        "L6_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_L6",
+                        "S50_L6_T",
+                        "S50_L6_B"
+                    ]
+                },
+				{
+                    "id": "S1_ventral_root",
+                    "connects": [
+                        "S1_spinal",
+                        "S1_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_S1",
+                        "S50_S1_T",
+                        "S50_S1_B"
+                    ]
+                },
+				{
                     "id": "C3_spinal_n",
                     "connects": [
                         "C3_spinal",
@@ -4149,10 +4233,272 @@
                     ]
                 },
 				{
+                    "id": "L1_ventral_root_ramus",
+                    "connects": [
+                        "L1_spinal",
+                        "L1_ventral_root_end"
+                    ],
+					"contained-in": [
+                        "S43_L1",
+						"S50_L1",
+                        "S48_L1",
+                        "S46_L1",
+                        "S49_L1"
+                    ]
+                },
+				{
+                    "id": "L2_ventral_root_ramus",
+                    "connects": [
+                        "L2_spinal",
+                        "L2_ventral_root_end"
+                    ],
+					"contained-in": [
+                        "S43_L2",
+						"S50_L1",
+                        "S48_L2",
+                        "S46_L2",
+                        "S49_L2"
+                    ]
+                },
+				{
+                    "id": "L1_ventral_root_paravertebral_ganglion",
+                    "connects": [
+                        "L1_spinal",
+                        "S46_L1"
+                    ],
+					"contained-in": [
+                        "S43_L1",
+						"S50_L1",
+						"spinal_47-1",
+                        "S48_L1"                        
+                    ]
+                },
+				{
+                    "id": "L2_ventral_root_paravertebral_ganglion",
+                    "connects": [
+                        "L2_spinal",
+                        "S46_L2"
+                    ],
+					"contained-in": [
+                        "S43_L2",
+						"S50_L2",
+						"spinal_47-1",
+                        "S48_L2"                                            
+                    ]
+                },
+				{
+                    "id": "L6_paravertebral_ganglion",
+                    "connects": [
+                        "L6_spinal",
+                        "S46_L6"
+                    ],
+					"contained-in": [                        
+						"S50_L1",
+                        "S48_L1",
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "S1_paravertebral_ganglion",
+                    "connects": [
+                        "S1_spinal",
+                        "S46_S1"
+                    ],
+					"contained-in": [                       
+						"S50_L2",
+                        "S48_L2",
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "sympathetic_trunk_T11-T12",
+                    "connects": [
+                        "S46_T11",
+                        "S46_T12"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "sympathetic_trunk_T12-T13",
+                    "connects": [
+                        "S46_T12",
+                        "S46_T13"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "sympathetic_trunk_T13-L1",
+                    "connects": [
+                        "S46_T13",
+                        "S46_L1"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "sympathetic_trunk_L1-L2",
+                    "connects": [
+                        "S46_L1",
+                        "S46_L2"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "sympathetic_trunk_L2-L3",
+                    "connects": [
+                        "S46_L2",
+                        "S46_L3"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "sympathetic_trunk_L3-L4",
+                    "connects": [
+                        "S46_L3",
+                        "S46_L4"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "sympathetic_trunk_L4-L5",
+                    "connects": [
+                        "S46_L4",
+                        "S46_L5"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "sympathetic_trunk_L5-L6",
+                    "connects": [
+                        "S46_L5",
+                        "S46_L6"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "sympathetic_trunk_L6-S1",
+                    "connects": [
+                        "S46_L6",
+                        "S46_S1"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "sympathetic_trunk_S1-S2",
+                    "connects": [
+                        "S46_S1",
+                        "S46_S2"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
+                    ]
+                },				
+				{
                     "id": "phrenic_n",
                     "connects": [
                         "C3_C5_spinal_n-phrenic_n",
                         "phrenic_n_branching_point"
+                    ]
+                },
+				{
+                    "id": "bladder_n",
+                    "connects": [
+                        "keast_3-1",
+                        "bladder_n-bladder"
+                    ]
+                },
+				{
+                    "id": "hypogastric_n",
+                    "connects": [
+                        "keast_6-1",
+                        "keast_3-1"
+                    ]
+                },
+				{
+                    "id": "lumbar_splanchnic_n",
+                    "connects": [
+                        "lumbar_splanchnic_n_start",
+                        "keast_6-1"
+                    ]
+                },
+				{
+                    "id": "L1_spinal_n",
+                    "connects": [
+                        "L1_spinal",
+                        "lumbar_splanchnic_n_start"
+                    ]
+                },
+				{
+                    "id": "L2_spinal_n",
+                    "connects": [
+                        "L2_spinal",
+                        "lumbar_splanchnic_n_start"
+                    ]
+                },
+				{
+                    "id": "pelvic_splanchnic_n",
+                    "connects": [
+                        "pelvic_splanchnic_n_start",
+                        "keast_3-1"
+                    ]
+                },
+				{
+                    "id": "pudendal_n",
+                    "connects": [
+                        "pudendal_n_start",
+                        "pudendal_n_branching_point"
+                    ]
+                },
+				{
+                    "id": "L5_spinal_n",
+                    "connects": [
+                        "L5_spinal",
+                        "pudendal_n_start"
+                    ]
+                },
+				{
+                    "id": "L6_spinal_n-1",
+                    "connects": [
+                        "L6_spinal",
+                        "pudendal_n_start"
+                    ]
+                },
+				{
+                    "id": "L6_spinal_n-2",
+                    "connects": [
+                        "L6_spinal",
+                        "pelvic_splanchnic_n_start"
+                    ]
+                },
+				{
+                    "id": "S1_spinal_n-1",
+                    "connects": [
+                        "S1_spinal",
+                        "pudendal_n_start"
+                    ]
+                },
+				{
+                    "id": "S1_spinal_n-2",
+                    "connects": [
+                        "S1_spinal",
+                        "pelvic_splanchnic_n_start"
                     ]
                 }
             ]
