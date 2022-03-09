@@ -4092,6 +4092,114 @@
                     ]
                 },
 				{
+                    "id": "C6_dorsal_root",
+                    "connects": [
+                        "C6_spinal",
+                        "C6_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S44_C6",
+						"S45_C6",
+						"S50_C6_B"
+                    ]
+                },
+				{
+                    "id": "C7_dorsal_root",
+                    "connects": [
+                        "C7_spinal",
+                        "C7_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S44_C7",
+						"S45_C7",
+						"S50_C7_B"
+                    ]
+                },
+				{
+                    "id": "C8_dorsal_root",
+                    "connects": [
+                        "C8_spinal",
+                        "C8_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S44_C8",
+						"S45_C8",
+						"S50_C8_B"
+                    ]
+                },
+				{
+                    "id": "T1_dorsal_root",
+                    "connects": [
+                        "T1_spinal",
+                        "T1_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S44_T1",
+						"S45_T1",
+						"S50_T1_B"
+                    ]
+                },
+				{
+                    "id": "T2_dorsal_root",
+                    "connects": [
+                        "T2_spinal",
+                        "T2_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S44_T2",
+						"S45_T2",
+						"S50_T2_B"
+                    ]
+                },
+				{
+                    "id": "T3_dorsal_root",
+                    "connects": [
+                        "T3_spinal",
+                        "T3_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S44_T3",
+						"S45_T3",
+						"S50_T3_B"
+                    ]
+                },
+				{
+                    "id": "T4_dorsal_root",
+                    "connects": [
+                        "T4_spinal",
+                        "T4_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S44_T4",
+						"S45_T4",
+						"S50_T4_B"
+                    ]
+                },
+				{
+                    "id": "T5_dorsal_root",
+                    "connects": [
+                        "T5_spinal",
+                        "T5_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S44_T5",
+						"S45_T5",
+						"S50_T5_B"
+                    ]
+                },
+				{
+                    "id": "T6_dorsal_root",
+                    "connects": [
+                        "T6_spinal",
+                        "T6_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S44_T6",
+						"S45_T6",
+						"S50_T6_B"
+                    ]
+                },
+				{
                     "id": "L1_dorsal_root",
                     "connects": [
                         "L1_spinal",
@@ -4212,6 +4320,77 @@
                     ]
                 },
 				{
+                    "id": "T1_gray_ramus-spinal_n",
+                    "connects": [
+                        "connection_1-1",
+                        "T1_spinal"
+                    ],
+                    "contained-in": [
+                        "spinal_47-1",
+                        "S50_T1"
+                    ]
+                },
+				{
+                    "id": "T2_gray_ramus-spinal_n",
+                    "connects": [
+                        "S46_T2",
+                        "T2_spinal"
+                    ],
+                    "contained-in": [
+                        "spinal_47-1",
+                        "S49_T2",
+                        "S50_T2"
+                    ]
+                },
+				{
+                    "id": "T3_gray_ramus-spinal_n",
+                    "connects": [
+                        "S46_T3",
+                        "T3_spinal"
+                    ],
+                    "contained-in": [
+                        "spinal_47-1",
+                        "S49_T3",
+                        "S50_T3"
+                    ]
+                },
+				{
+                    "id": "T4_gray_ramus-spinal_n",
+                    "connects": [
+                        "S46_T4",
+                        "T4_spinal"
+                    ],
+                    "contained-in": [
+                        "spinal_47-1",
+                        "S49_T4",
+                        "S50_T4"
+                    ]
+                },
+				{
+                    "id": "T5_gray_ramus-spinal_n",
+                    "connects": [
+                        "S46_T5",
+                        "T5_spinal"
+                    ],
+                    "contained-in": [
+                        "spinal_47-1",
+                        "S49_T5",
+                        "S50_T5"
+                    ]
+                },
+				{
+                    "id": "T6_gray_ramus-spinal_n",
+                    "connects": [
+                        "S46_T6",
+                        "T6_spinal"
+                    ],
+                    "contained-in": [
+                        "spinal_47-1",
+                        "S49_T6",
+                        "S50_T6"
+                    ]
+                },
+				{
                     "id": "C3_spinal_n",
                     "connects": [
                         "C3_spinal",
@@ -4230,6 +4409,153 @@
                     "connects": [
                         "C5_spinal",
                         "C3_C5_spinal_n-phrenic_n"
+                    ]
+                },
+				{
+                    "id": "C6_spinal_n",
+                    "connects": [
+                        "C6_spinal",
+                        "ardell_1_start-1"
+                    ]
+                },
+				{
+                    "id": "C7_spinal_n",
+                    "connects": [
+                        "C7_spinal",
+                        "ardell_1_start-2"
+                    ]
+                },
+				{
+                    "id": "C8_spinal_n",
+                    "connects": [
+                        "C8_spinal",
+                        "ardell_1_start-3"
+                    ]
+                },
+				{
+                    "id": "T1_spinal_n-1",
+                    "connects": [
+                        "T1_spinal",
+                        "ardell_1_start-4"
+                    ]
+                },
+				{
+                    "id": "T1_spinal_n-2",
+                    "connects": [
+                        "T1_spinal",
+                        "ardell_6_start-4"
+                    ]
+                },
+				{
+                    "id": "T2_spinal_n-1",
+                    "connects": [
+                        "T2_spinal",
+                        "ardell_1_start-5"
+                    ]
+                },
+				{
+                    "id": "T2_spinal_n-2",
+                    "connects": [
+                        "T2_spinal",
+                        "ardell_6_start-5"
+                    ]
+                },
+				{
+                    "id": "T3_spinal_n-1",
+                    "connects": [
+                        "T3_spinal",
+                        "ardell_1_start-6"
+                    ]
+                },
+				{
+                    "id": "T3_spinal_n-2",
+                    "connects": [
+                        "T3_spinal",
+                        "ardell_6_start-6"
+                    ]
+                },
+				{
+                    "id": "T4_spinal_n-1",
+                    "connects": [
+                        "T4_spinal",
+                        "ardell_1_start-7"
+                    ]
+                },
+				{
+                    "id": "T4_spinal_n-2",
+                    "connects": [
+                        "T4_spinal",
+                        "ardell_6_start-7"
+                    ]
+                },
+				{
+                    "id": "T5_spinal_n-1",
+                    "connects": [
+                        "T5_spinal",
+                        "ardell_1_start-8"
+                    ]
+                },
+				{
+                    "id": "T5_spinal_n-2",
+                    "connects": [
+                        "T5_spinal",
+                        "ardell_6_start-8"
+                    ]
+                },
+				{
+                    "id": "T6_spinal_n-1",
+                    "connects": [
+                        "T6_spinal",
+                        "ardell_1_start-9"
+                    ]
+                },
+				{
+                    "id": "T6_spinal_n-2",
+                    "connects": [
+                        "T6_spinal",
+                        "ardell_6_start-9"
+                    ]
+                },
+				{
+                    "id": "T1_paravertebral_ganglion-ardell_5",
+                    "connects": [
+                        "connection_1-1",
+                        "ardell_5_start-1"
+                    ]
+                },
+				{
+                    "id": "T2_paravertebral_ganglion-ardell_5",
+                    "connects": [
+                        "S46_T2",
+                        "ardell_5_start-2"
+                    ]
+                },
+				{
+                    "id": "T3_paravertebral_ganglion-ardell_5",
+                    "connects": [
+                        "S46_T3",
+                        "ardell_5_start-3"
+                    ]
+                },
+				{
+                    "id": "T4_paravertebral_ganglion-ardell_5",
+                    "connects": [
+                        "S46_T4",
+                        "ardell_5_start-4"
+                    ]
+                },
+				{
+                    "id": "T5_paravertebral_ganglion-ardell_5",
+                    "connects": [
+                        "S46_T5",
+                        "ardell_5_start-5"
+                    ]
+                },
+				{
+                    "id": "T6_paravertebral_ganglion-ardell_5",
+                    "connects": [
+                        "S46_T6",
+                        "ardell_5_start-6"
                     ]
                 },
 				{
@@ -4258,6 +4584,82 @@
                         "S48_L2",
                         "S46_L2",
                         "S49_L2"
+                    ]
+                },
+				{
+                    "id": "T1_ventral_root_paravertebral_ganglion",
+                    "connects": [
+                        "T1_spinal",
+                        "connection_1-1"
+                    ],
+					"contained-in": [
+                        "S43_L1",
+						"S50_L1"                        
+                    ]
+                },
+				{
+                    "id": "T2_ventral_root_paravertebral_ganglion",
+                    "connects": [
+                        "T2_spinal",
+                        "S46_T2"
+                    ],
+					"contained-in": [
+                        "S43_T2",
+						"S50_T2",
+						"spinal_47-1",
+                        "S48_T2"                        
+                    ]
+                },
+				{
+                    "id": "T3_ventral_root_paravertebral_ganglion",
+                    "connects": [
+                        "T3_spinal",
+                        "S46_T3"
+                    ],
+					"contained-in": [
+                        "S43_T3",
+						"S50_T3",
+						"spinal_47-1",
+                        "S48_T3"                        
+                    ]
+                },
+				{
+                    "id": "T4_ventral_root_paravertebral_ganglion",
+                    "connects": [
+                        "T4_spinal",
+                        "S46_T4"
+                    ],
+					"contained-in": [
+                        "S43_T4",
+						"S50_T4",
+						"spinal_47-1",
+                        "S48_T4"                        
+                    ]
+                },
+				{
+                    "id": "T5_ventral_root_paravertebral_ganglion",
+                    "connects": [
+                        "T5_spinal",
+                        "S46_T5"
+                    ],
+					"contained-in": [
+                        "S43_T5",
+						"S50_T5",
+						"spinal_47-1",
+                        "S48_T5"                        
+                    ]
+                },
+				{
+                    "id": "T6_ventral_root_paravertebral_ganglion",
+                    "connects": [
+                        "T6_spinal",
+                        "S46_T6"
+                    ],
+					"contained-in": [
+                        "S43_T6",
+						"S50_T6",
+						"spinal_47-1",
+                        "S48_T6"                        
                     ]
                 },
 				{
@@ -4307,6 +4709,106 @@
 					"contained-in": [                       
 						"S50_L2",
                         "S48_L2",
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "ICG-CTG_sympathetic_cord",
+                    "connects": [
+                        "bolser_9-2",
+                        "connection_1-1"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "SCG-MCG_sympathetic_cord",
+                    "connects": [
+                        "ganglion_3-1",
+                        "bolser_14-1"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "MCG-ICG_sympathetic_cord",
+                    "connects": [
+                        "bolser_14-1",
+                        "bolser_9-2"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "sympathetic_trunk_T1-T2",
+                    "connects": [
+                        "connection_1-1",
+                        "S46_T2"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "sympathetic_trunk_T2-T3",
+                    "connects": [
+                        "S46_T2",
+                        "S46_T3"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "sympathetic_trunk_T3-T4",
+                    "connects": [
+                        "S46_T3",
+                        "S46_T4"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "sympathetic_trunk_T4-T5",
+                    "connects": [
+                        "S46_T4",
+                        "S46_T5"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "sympathetic_trunk_T5-T6",
+                    "connects": [
+                        "S46_T5",
+                        "S46_T6"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "sympathetic_trunk_T6-T7",
+                    "connects": [
+                        "S46_T6",
+                        "S46_T7"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "sympathetic_trunk_T7-T8",
+                    "connects": [
+                        "S46_T7",
+                        "S46_T8"
+                    ],
+					"contained-in": [                       
 						"spinal_47-1"
                     ]
                 },
@@ -4499,6 +5001,96 @@
                     "connects": [
                         "S1_spinal",
                         "pelvic_splanchnic_n_start"
+                    ]
+                },
+				{
+                    "id": "ardell_1",
+                    "connects": [
+                        "ardell_1_start-1",
+						"ardell_1_start-2",
+						"ardell_1_start-3",
+						"ardell_1_start-4",
+						"ardell_1_start-5",
+						"ardell_1_start-6",
+						"ardell_1_start-7",
+						"ardell_1_start-8",
+						"ardell_1_start-9",
+                        "ardell_1_branching_point"
+                    ]
+                },
+				{
+                    "id": "MCG-ardell_2",
+                    "connects": [
+                        "bolser_14-1",
+                        "ardell_2_start"
+                    ]
+                },
+				{
+                    "id": "ICG-ardell_2",
+                    "connects": [
+                        "bolser_9-2",
+                        "ardell_2_start"
+                    ]
+                },
+				{
+                    "id": "ardell_2",
+                    "connects": [
+                        "ardell_2_start",
+                        "ardell_2_branching_point"
+                    ]
+                },
+				{
+                    "id": "ardell_3",
+                    "connects": [
+                        "ganglion_1-1",
+                        "ardell_3_branching_point"
+                    ]
+                },
+				{
+                    "id": "ardell_4",
+                    "connects": [
+                        "point_1",
+                        "ardell_4_branching_point"
+                    ]
+                },
+				{
+                    "id": "ardell_5",
+                    "connects": [
+                        "ardell_5_start-1",
+						"ardell_5_start-2",
+						"ardell_5_start-3",
+						"ardell_5_start-4",
+						"ardell_5_start-5",
+						"ardell_5_start-6",
+                        "ardell_5_branching_point"
+                    ]
+                },
+				{
+                    "id": "SCG-ardell_6",
+                    "connects": [
+                        "ganglion_3-1",
+                        "ardell_6_start-1"
+                    ]
+                },
+				{
+                    "id": "MCG-ardell_6",
+                    "connects": [
+                        "bolser_14-1",
+                        "ardell_6_start-2"
+                    ]
+                },
+				{
+                    "id": "ICG-ardell_6",
+                    "connects": [
+                        "bolser_9-2",
+                        "ardell_6_start-3"
+                    ]
+                },
+				{
+                    "id": "ardell_6",
+                    "connects": [
+                        "ardell_6_start-1",
+                        "ardell_6_branching_point"
                     ]
                 }
             ]
