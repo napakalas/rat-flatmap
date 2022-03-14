@@ -1015,7 +1015,7 @@
         "term": "UBERON:0011390",
         "name": "pudendal nerve"
     },
-    "keast_3": {
+    "ganglion_4": {
         "term": "UBERON:0016508",
         "name": "pelvic ganglion"
     },
@@ -1027,7 +1027,7 @@
         "term": "UBERON:0005303",
         "name": "hypogastric nerve"
     },
-    "keast_6": {
+    "ganglion_5": {
         "term": "UBERON:0005453",
         "name": "inferior mesenteric ganglion"
     },
