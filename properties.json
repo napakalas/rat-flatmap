@@ -1,9 +1,9 @@
 {
     "classes": {
-        "ardell_1": {
+        "ganglion_6": {
             "label": "atrial intracardiac ganglion"
         },
-        "ardell_2": {
+        "ganglion_7": {
             "label": "ventricular intracardiac ganglion"
         },
         "ardell_3": {
@@ -1759,11 +1759,11 @@
         "S52_T13": {
             "class": "spinal_52"
         },
-        "ardell_1-1": {
-            "class": "ardell_1"
+        "ganglion_6-1": {
+            "class": "ganglion_6"
         },
-        "ardell_2-1": {
-            "class": "ardell_2"
+        "ganglion_7-1": {
+            "class": "ganglion_7"
         },
         "ardell_3-1": {
             "class": "ardell_3"
@@ -2279,8 +2279,8 @@
         "keast_2-1": {
             "class": "keast_2"
         },
-        "keast_3-1": {
-            "class": "keast_3"
+        "ganglion_4-1": {
+            "class": "ganglion_4"
         },
         "keast_4-1": {
             "class": "keast_4"
@@ -2288,8 +2288,8 @@
         "keast_5-1": {
             "class": "keast_5"
         },
-        "keast_6-1": {
-            "class": "keast_6"
+        "ganglion_5-1": {
+            "class": "ganglion_5"
         },
         "keast_7-1": {
             "class": "keast_7"
@@ -4922,22 +4922,22 @@
 				{
                     "id": "bladder_n",
                     "connects": [
-                        "keast_3-1",
+                        "ganglion_4-1",
                         "bladder_n-bladder"
                     ]
                 },
 				{
                     "id": "hypogastric_n",
                     "connects": [
-                        "keast_6-1",
-                        "keast_3-1"
+                        "ganglion_5-1",
+                        "ganglion_4-1"
                     ]
                 },
 				{
                     "id": "lumbar_splanchnic_n",
                     "connects": [
                         "lumbar_splanchnic_n_start",
-                        "keast_6-1"
+                        "ganglion_5-1"
                     ]
                 },
 				{
@@ -4958,7 +4958,7 @@
                     "id": "pelvic_splanchnic_n",
                     "connects": [
                         "pelvic_splanchnic_n_start",
-                        "keast_3-1"
+                        "ganglion_4-1"
                     ]
                 },
 				{
