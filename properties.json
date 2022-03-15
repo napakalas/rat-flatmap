@@ -6,7 +6,7 @@
         "ganglion_7": {
             "label": "ventricular intracardiac ganglion"
         },
-        "ardell_3": {
+        "ganglion_8": {
             "label": "mediastinal ganglion"
         },
         "body_1": {
@@ -1765,8 +1765,8 @@
         "ganglion_7-1": {
             "class": "ganglion_7"
         },
-        "ardell_3-1": {
-            "class": "ardell_3"
+        "ganglion_8-1": {
+            "class": "ganglion_8"
         },
         "body_1-1": {
             "class": "body_1"
@@ -1824,15 +1824,6 @@
         },
         "bolser26_3": {
             "class": "bolser_26"
-        },
-        "bolser2_1": {
-            "class": "bolser_2"
-        },
-        "bolser2_2": {
-            "class": "bolser_2"
-        },
-        "bolser_1-1": {
-            "class": "bolser_1"
         },
         "bolser_11-1": {
             "class": "bolser_11"
@@ -3466,6 +3457,9 @@
 		"plexus_6-1": {
             "class": "plexus_6"
         },
+		"plexus_7-1": {
+            "class": "plexus_7"
+        },
 		"label_1-1": {
             "class": "label_1"
         },
@@ -5091,6 +5085,93 @@
                     "connects": [
                         "ardell_6_start-1",
                         "ardell_6_branching_point"
+                    ]
+                },
+				{
+                    "id": "bolser_1",
+                    "connects": [
+                        "ganglion_1-1",
+                        "bolser_1_branching_point"
+                    ]
+				},
+				{
+                    "id": "bolser_2",
+                    "connects": [
+                        "point_28",
+                        "bolser_2_branching_point"
+                    ]
+				},
+				{
+                    "id": "bolser_3",
+                    "connects": [
+                        "point_28",
+                        "bolser_3_branching_point"
+                    ]
+				},
+				{
+                    "id": "bolser_4",
+                    "connects": [
+                        "point_21",
+                        "respiratory_5-1"
+                    ]
+				},
+				{
+                    "id": "bolser_5",
+                    "connects": [
+                        "point_21",
+                        "respiratory_11-1"
+                    ]
+				},
+				{
+                    "id": "bolser_6",
+                    "connects": [
+                        "plexus_1-1",
+                        "bolser_6_branching_point"
+                    ]
+				},
+				{
+                    "id": "bolser_7",
+                    "connects": [
+                        "ganglion_3-1",
+                        "plexus_7-1"
+                    ]
+				},
+				{
+                    "id": "bolser_8",
+                    "connects": [
+                        "plexus_7-1",
+                        "bolser_8_branching_point"
+                    ]
+				},
+				{
+                    "id": "bolser_9",
+                    "connects": [
+                        "bolser_8_branching_point",
+                        "bolser_9_branching_point"
+                    ]
+				},
+				{
+                    "id": "bolser_10",
+                    "connects": [
+                        "bolser_8_branching_point",
+                        "respiratory_11-1"
+                    ]
+				},
+				{
+                    "id": "n_68",
+                    "connects": [
+                        "brain_12-1",
+                        "point_39"
+                    ]
+                },
+				{
+                    "id": "n_69",
+                    "connects": [
+                        "point_39",
+                        "point_40"
+                    ],
+					"contained-in": [                       
+						"spinal_47-1"
                     ]
                 }
             ]
