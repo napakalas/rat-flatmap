@@ -1039,7 +1039,7 @@
         "term": "UBERON:0005479",
         "name": "superior mesenteric ganglion"
     },
-    "lung_1": {
+    "ganglion_8": {
         "term": "UBERON:0001808",
         "name": "parasympathetic ganglion"
     },
@@ -1086,7 +1086,7 @@
 	"plexus_7": {
         "term": "UBERON:0002024",
         "name": "internal carotid nerve plexus"
-    }
+    },
 	"label_1": {
         "term": "",
         "name": "dura mater in the posterior cranial fossa"
