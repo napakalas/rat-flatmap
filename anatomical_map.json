@@ -911,10 +911,6 @@
         "term": "UBERON:0002925",
         "name": "trigeminal nucleus"
     },
-    "bolser_1": {
-        "term": "ILX:0738312",
-        "name": "Aortic arch depressor nerve"
-    },
     "bolser_3": {
         "term": "ILX:0738308",
         "name": "External branch of inferior laryngeal nerve"
@@ -1087,6 +1083,10 @@
         "term": "FMA:6633",
         "name": "left gastric nerve plexus"
     },
+	"plexus_7": {
+        "term": "UBERON:0002024",
+        "name": "internal carotid nerve plexus"
+    }
 	"label_1": {
         "term": "",
         "name": "dura mater in the posterior cranial fossa"
