@@ -27,9 +27,6 @@
         "body_6": {
             "tooltip": false
         },
-        "bolser_2": {
-            "label": "external carotid nerve plexus"
-        },
         "brain_13": {
             "label": "BRGTN"
         },
@@ -1768,6 +1765,18 @@
         "ganglion_8-1": {
             "class": "ganglion_8"
         },
+		"ganglion_9-1": {
+            "class": "ganglion_9"
+        },
+		"ganglion_10-1": {
+            "class": "ganglion_10"
+        },
+		"ganglion_11-1": {
+            "class": "ganglion_11"
+        },
+		"ganglion_12-1": {
+            "class": "ganglion_12"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -1798,12 +1807,6 @@
 		"body_8-1": {
             "class": "body_8"
         },
-        "bolser10_1": {
-            "class": "bolser_10"
-        },
-        "bolser10_2": {
-            "class": "bolser_10"
-        },
         "bolser13_1": {
             "class": "bolser_13"
         },
@@ -1816,26 +1819,11 @@
         "bolser21_2": {
             "class": "bolser_21"
         },
-        "bolser26_1": {
-            "class": "bolser_26"
-        },
-        "bolser26_2": {
-            "class": "bolser_26"
-        },
-        "bolser26_3": {
-            "class": "bolser_26"
-        },
         "bolser_11-1": {
             "class": "bolser_11"
         },
         "bolser_12-1": {
             "class": "bolser_12"
-        },
-        "bolser_14-1": {
-            "class": "bolser_14"
-        },
-        "bolser_15-1": {
-            "class": "bolser_15"
         },
         "bolser_16-1": {
             "class": "bolser_16"
@@ -1843,20 +1831,8 @@
         "bolser_17-1": {
             "class": "bolser_17"
         },
-        "bolser_18-1": {
-            "class": "bolser_18"
-        },
         "bolser_19-1": {
             "class": "bolser_19"
-        },
-        "bolser_23-1": {
-            "class": "bolser_23"
-        },
-        "bolser_24-1": {
-            "class": "bolser_24"
-        },
-        "bolser_25-1": {
-            "class": "bolser_25"
         },
         "bolser_3-1": {
             "class": "bolser_3"
@@ -1875,12 +1851,6 @@
         },
         "bolser_8-1": {
             "class": "bolser_8"
-        },
-        "bolser_9-1": {
-            "class": "bolser_9"
-        },
-		"bolser_9-2": {
-            "class": "bolser_9"
         },
         "brain_10-2": {
             "class": "brain_10"
@@ -3373,6 +3343,15 @@
         "spinal_55-1": {
             "class": "spinal_55"
         },
+		"spinal_56-1": {
+            "class": "spinal_56"
+        },
+		"spinal_57-1": {
+            "class": "spinal_57"
+        },
+		"spinal_58-1": {
+            "class": "spinal_58"
+        },
         "spinal_6-1": {
             "class": "spinal_6"
         },
@@ -3525,6 +3504,9 @@
         },
 		"label_22-1": {
             "class": "label_22"
+        },
+		"label_23-1": {
+            "class": "label_23"
         }
     },
     "networks": [
@@ -4047,6 +4029,13 @@
                     "connects": [
                         "external_laryngeal_n_branching_point",
                         "plexus_2-1"
+                    ]
+                },
+				{
+                    "id": "n_68",
+                    "connects": [
+                        "external_laryngeal_n_branching_point",
+                        "point_41"
                     ]
                 },
 				{
@@ -5206,10 +5195,17 @@
                     ]
                 },
 				{
-                    "id": "L1_spinal_n",
+                    "id": "L1_spinal_n-1",
                     "connects": [
                         "L1_spinal",
                         "lumbar_splanchnic_n_start"
+                    ]
+                },
+				{
+                    "id": "L1_spinal_n-2",
+                    "connects": [
+                        "L1_spinal",
+                        "splanchnic_n_start-14"
                     ]
                 },
 				{
@@ -5377,14 +5373,14 @@
                     "id": "bolser_2",
                     "connects": [
                         "point_28",
-                        "bolser_2_branching_point"
+                        "respiratory_11-1"
                     ]
 				},
 				{
                     "id": "bolser_3",
                     "connects": [
                         "point_28",
-                        "bolser_3_branching_point"
+                        "respiratory_11-1"
                     ]
 				},
 				{
@@ -5437,20 +5433,38 @@
                     ]
 				},
 				{
-                    "id": "n_69",
+                    "id": "bolser_11",
                     "connects": [
                         "brain_12-1",
-                        "point_39"
+                        "ganglion_12-1"
                     ]
                 },
 				{
-                    "id": "n_70",
+                    "id": "bolser_12",
                     "connects": [
-                        "point_39",
+                        "ganglion_12-1",
                         "point_40"
-                    ],
-					"contained-in": [                       
-						"spinal_47-1"
+                    ]
+                },
+				{
+                    "id": "bolser_13",
+                    "connects": [
+                        "ganglion_12-1",
+                        "point_42"
+                    ]
+                },
+				{
+                    "id": "bolser_14",
+                    "connects": [
+                        "external_laryngeal_n_branching_point",
+                        "respiratory_11-1"
+                    ]
+                },
+				{
+                    "id": "bolser_15",
+                    "connects": [
+                        "external_laryngeal_n_branching_point",
+                        "respiratory_5-1"
                     ]
                 },
 				{
