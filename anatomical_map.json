@@ -747,6 +747,18 @@
         "term": "ILX:0738325",
         "name": "Phrenic nucleus of C5"
     },
+	"spinal_56": {
+        "term": "ILX:0738292",
+        "name": "MCG-SCG sympathetic cord"
+    },
+    "spinal_57": {
+        "term": "ILX:0738290",
+        "name": "ICG-MCG sympathetic cord"
+    },
+    "spinal_58": {
+        "term": "ILX:0738291",
+        "name": "T1-ICG sympathetic cord"
+    },
     "brain_1": {
         "term": "UBERON:0001898",
         "name": "hypothalamus"
@@ -935,14 +947,6 @@
         "term": "UBERON:0001650",
         "name": "hypoglossal nerve"
     },
-    "bolser_9": {
-        "term": "UBERON:0002440",
-        "name": "inferior cervical ganglion"
-    },
-    "bolser_10": {
-        "term": "UBERON:0002024",
-        "name": "internal carotid nerve plexus"
-    },
     "bolser_11": {
         "term": "ILX:0738309",
         "name": "Internal branch of inferior laryngeal nerve"
@@ -955,14 +959,6 @@
         "term": "ILX:0738373",
         "name": "Internal branch of superior laryngeal nerve"
     },
-    "bolser_14": {
-        "term": "UBERON:0001990",
-        "name": "middle cervical ganglion"
-    },
-    "bolser_15": {
-        "term": "ILX:0485722",
-        "name": "Nodose Ganglion"
-    },
     "bolser_16": {
         "term": "ILX:0738315",
         "name": "Pharyngeal branch of the Hypoglossal nerve"
@@ -971,41 +967,13 @@
         "term": "UBERON:0001884",
         "name": "phrenic nerve"
     },
-    "bolser_18": {
-        "term": "UBERON:0001701",
-        "name": "glossopharyngeal ganglion"
-    },
     "bolser_19": {
         "term": "ILX:0738313",
         "name": "Rami glomi carotici"
     },
-    "bolser_20": {
-        "term": "UBERON:0001989",
-        "name": "superior cervical ganglion"
-    },
     "bolser_21": {
         "term": "UBERON:0011326",
         "name": "superior laryngeal nerve"
-    },
-    "bolser_22": {
-        "term": "ILX:0738342",
-        "name": "T1 paravertebral ganglion"
-    },
-    "bolser_23": {
-        "term": "ILX:0738292",
-        "name": "MCG-SCG sympathetic cord"
-    },
-    "bolser_24": {
-        "term": "ILX:0738290",
-        "name": "ICG-MCG sympathetic cord"
-    },
-    "bolser_25": {
-        "term": "ILX:0738291",
-        "name": "T1-ICG sympathetic cord"
-    },
-    "bolser_26": {
-        "term": "UBERON:0001759",
-        "name": "vagus nerve"
     },
     "keast_2": {
         "term": "UBERON:0011390",
@@ -1031,10 +999,6 @@
         "term": "UBERON:0018683",
         "name": "lumbar splanchnic nerve"
     },
-    "connection_1": {
-        "term": "UBERON:0002441",
-        "name": "cervicothoracic ganglion"
-    },
     "mawe_1": {
         "term": "UBERON:0005479",
         "name": "superior mesenteric ganglion"
@@ -1042,6 +1006,22 @@
     "ganglion_8": {
         "term": "UBERON:0001808",
         "name": "parasympathetic ganglion"
+    },
+	"ganglion_9": {
+        "term": "UBERON:0001990",
+        "name": "middle cervical ganglion"
+    },
+	"ganglion_10": {
+        "term": "UBERON:0002440",
+        "name": "inferior cervical ganglion"
+    },
+	"ganglion_11": {
+        "term": "UBERON:0002441",
+        "name": "cervicothoracic ganglion"
+    },
+	"ganglion_12": {
+        "term": "UBERON:0001701",
+        "name": "glossopharyngeal ganglion"
     },
     "lung_2": {
         "term": "UBERON:0003715",
@@ -1109,7 +1089,7 @@
     },
 	"label_6": {
         "term": "UBERON:0006562",
-        "name": "pharynx)"
+        "name": "pharynx"
     },
 	"label_7": {
         "term": "FMA:55031",
@@ -1165,7 +1145,7 @@
     },
 	"label_20": {
         "term": "FMA:46588",
-        "name": "hyro-arytenoid"
+        "name": "thyro-arytenoid"
     },
 	"label_21": {
         "term": "UBERON:0008574",
@@ -1174,5 +1154,9 @@
 	"label_22": {
         "term": "UBERON:0008577",
         "name": "vocalis muscle"
+    },
+	"label_23": {
+        "term": "FMA:55406F",
+        "name": "laryngeal vestibule"
     }
 }
