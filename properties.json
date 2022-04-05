@@ -9,6 +9,24 @@
         "ganglion_8": {
             "label": "mediastinal ganglion"
         },
+		"label_1": {
+        	"label": "dura mater in the posterior cranial fossa"
+   		},
+		"label_2": {
+        	"label": "posterior wall of external acoustic meatus"
+    	},
+		"label_3": {
+        	"label": "floor of external acoustic meatus"
+    	},
+		"label_11": {
+        	"label": "arytenoideus"
+    	},
+		"label_12": {
+        	"label": "mucosa of arytenoid cartilage"
+    	},
+		"label_13": {
+        	"label": "vocal cords"
+    	},
         "body_1": {
             "tooltip": false
         },
