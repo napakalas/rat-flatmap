@@ -1067,18 +1067,6 @@
         "term": "UBERON:0002024",
         "name": "internal carotid nerve plexus"
     },
-	"label_1": {
-        "term": "",
-        "name": "dura mater in the posterior cranial fossa"
-    },
-	"label_2": {
-        "term": "",
-        "name": "posterior wall of external acoustic meatus"
-    },
-	"label_3": {
-        "term": "",
-        "name": "floor of external acoustic meatus"
-    },
 	"label_4": {
         "term": "UBERON:0002364",
         "name": "tympanic membrane"
@@ -1107,18 +1095,6 @@
         "term": "UBERON:0014385",
         "name": "aryepiglottic fold"
     },
-	"label_11": {
-        "term": "",
-        "name": "arytenoideus"
-    },
-	"label_12": {
-        "term": "",
-        "name": "mucosa of arytenoid cartilage"
-    },
-	"label_13": {
-        "term": "",
-        "name": "vocal_cords"
-    },
 	"label_14": {
         "term": "UBERON:0001566",
         "name": "cricothyroid muscle"
@@ -1128,8 +1104,8 @@
         "name": "inferior pharyngeal constrictor"
     },
 	"label_16": {
-        "term": "",
-        "name": "ceratocricoid"
+        "term": "FMA:77283",
+        "name": "ceratocricoid ligament"
     },
 	"label_17": {
         "term": "UBERON:0008573",
