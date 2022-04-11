@@ -5483,6 +5483,9 @@
                     "connects": [
                         "ganglion_4-1",
                         "bladder_n-bladder"
+                    ],
+                    "contained-in": [
+                        "keast_1-1"
                     ]
                 },
                 {
@@ -5490,6 +5493,9 @@
                     "connects": [
                         "ganglion_5-1",
                         "ganglion_4-1"
+                    ],
+                    "contained-in": [
+                        "keast_5-1"
                     ]
                 },
                 {
@@ -5497,6 +5503,9 @@
                     "connects": [
                         "lumbar_splanchnic_n_start",
                         "ganglion_5-1"
+                    ],
+                    "contained-in": [
+                        "keast_7-1"
                     ]
                 },
                 {
@@ -5525,6 +5534,9 @@
                     "connects": [
                         "pelvic_splanchnic_n_start",
                         "ganglion_4-1"
+                    ],
+                    "contained-in": [
+                        "keast_4-1"
                     ]
                 },
                 {
@@ -5532,6 +5544,9 @@
                     "connects": [
                         "pudendal_n_start",
                         "pudendal_n_branching_point"
+                    ],
+                    "contained-in": [
+                        "keast_2-1"
                     ]
                 },
                 {
