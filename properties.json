@@ -180,12 +180,10 @@
             "class": "spinal_34"
         },
         "S34_L1": {
-            "models": "UBERON:0002181",
-            "class": "spinal_34"
+            "models": "UBERON:0002181"
         },
         "S34_L2": {
-            "models": "UBERON:0002181",
-            "class": "spinal_34"
+            "models": "UBERON:0002181"
         },
         "S34_L3": {
             "class": "spinal_34"
@@ -1142,12 +1140,10 @@
             "class": "spinal_43"
         },
         "S43_L1": {
-            "models": "EMAPA:25269",
-            "class": "spinal_43"
+            "models": "EMAPA:25269"
         },
         "S43_L2": {
-            "models": "EMAPA:25271",
-            "class": "spinal_43"
+            "models": "EMAPA:25271"
         },
         "S43_L3": {
             "class": "spinal_43"
@@ -1159,10 +1155,10 @@
             "class": "spinal_43"
         },
         "S43_L6": {
-            "class": "spinal_43"
+            "models": "EMAPA:25279"
         },
         "S43_S1": {
-            "class": "spinal_43"
+            "models": "EMAPA:25281"
         },
         "S43_S2": {
             "class": "spinal_43"
@@ -1324,12 +1320,10 @@
             "class": "spinal_45"
         },
         "S45_L1": {
-            "models": "UBERON:0002857",
-            "class": "spinal_45"
+            "models": "UBERON:0002857"
         },
         "S45_L2": {
-            "models": "UBERON:0002856",
-            "class": "spinal_45"
+            "models": "UBERON:0002856"
         },
         "S45_L3": {
             "class": "spinal_45"
@@ -1341,10 +1335,10 @@
             "class": "spinal_45"
         },
         "S45_L6": {
-            "class": "spinal_45"
+            "models": "EMAPA:25169"
         },
         "S45_S1": {
-            "class": "spinal_45"
+            "models": "UBERON:0002860"
         },
         "S45_S2": {
             "class": "spinal_45"
@@ -1392,12 +1386,10 @@
             "class": "spinal_45"
         },
         "S46_L1": {
-            "models": "FMA:6540",
-            "class": "spinal_46"
+            "models": "FMA:6540"
         },
         "S46_L2": {
-            "models": "FMA:6541",
-            "class": "spinal_46"
+            "models": "FMA:6541"
         },
         "S46_L3": {
             "class": "spinal_46"
@@ -1457,12 +1449,10 @@
             "class": "spinal_46"
         },
         "S48_L1": {
-            "models": "FMA:12697",
-            "class": "spinal_48"
+            "models": "FMA:12697"
         },
         "S48_L2": {
-            "models": "FMA:12698",
-            "class": "spinal_48"
+            "models": "FMA:12698"
         },
         "S48_S2": {
             "class": "spinal_48"
@@ -1510,12 +1500,10 @@
             "class": "spinal_48"
         },
         "S49_L1": {
-            "models": "FMA:65910",
-            "class": "spinal_49"
+            "models": "FMA:65910"
         },
         "S49_L2": {
             "models": "FMA:65911",
-            "class": "spinal_49"
         },
         "S49_L3": {
             "class": "spinal_49"
