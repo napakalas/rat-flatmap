@@ -54,23 +54,6 @@
         "brain_35": {
             "tooltip": false
         },
-        "keast_1": {
-            "models": "EMAPA:31526",
-            "label": "bladder nerves",
-            "type": "nerve"
-        },
-        "keast_2": {
-            "type": "nerve"
-        },
-        "keast_4": {
-            "type": "nerve"
-        },
-        "keast_5": {
-            "type": "nerve"
-        },
-        "keast_7": {
-            "type": "nerve"
-        },
         "respiratory_3": {
             "label": "Trachea"
         },
@@ -2253,25 +2236,35 @@
             "class": "endocrine_6"
         },
         "keast_1-1": {
-            "class": "keast_1"
+            "class": "keast_1",
+            "type": "nerve",
+            "models": "EMAPA:31526"
         },
         "keast_2-1": {
-            "class": "keast_2"
+            "class": "keast_2",
+            "type": "nerve",
+            "models": "UBERON:0001759"
         },
         "ganglion_4-1": {
             "class": "ganglion_4"
         },
         "keast_4-1": {
-            "class": "keast_4"
+            "class": "keast_4",
+            "type": "nerve",
+            "models": "UBERON:0018675"
         },
         "keast_5-1": {
-            "class": "keast_5"
+            "class": "keast_5",
+            "type": "nerve",
+            "models": "UBERON:0005303"
         },
         "ganglion_5-1": {
             "class": "ganglion_5"
         },
         "keast_7-1": {
-            "class": "keast_7"
+            "class": "keast_7",
+            "type": "nerve",
+            "models": "UBERON:0018683"
         },
         "lung_1_2": {
             "class": "lung_1"
@@ -3522,6 +3515,302 @@
         },
         "label_23-1": {
             "class": "label_23"
+        },
+        "vagus_1": {
+            "type": "nerve",
+            "models": "FMA:6232"
+        },
+        "vagus_2": {
+            "type": "nerve",
+            "models": "FMA:6692"
+        },
+        "vagus_3": {
+            "type": "nerve",
+            "models": "FMA:6691"
+        },
+        "vagus_4": {
+            "type": "nerve",
+            "models": "FMA:6694"
+        },
+        "vagus_5": {
+            "type": "nerve",
+            "models": "FMA:53593"
+        },
+        "vagus_6": {
+            "type": "nerve",
+            "models": "FMA:6695"
+        },
+        "recurrent_laryngeal_1": {
+            "type": "nerve",
+            "models": "FMA:6246"
+        },
+        "recurrent_laryngeal_2": {
+            "type": "nerve",
+            "models": "FMA:6251"
+        },
+        "recurrent_laryngeal_3": {
+            "type": "nerve",
+            "models": "FMA:6250"
+        },
+        "recurrent_laryngeal_4": {
+            "type": "nerve",
+            "models": "FMA:6248"
+        },
+        "recurrent_laryngeal_5": {
+            "type": "nerve",
+            "models": "FMA:6710"
+        },
+        "recurrent_laryngeal_6": {
+            "type": "nerve",
+            "models": "FMA:6249"
+        },
+        "recurrent_laryngeal_7": {
+            "type": "nerve",
+            "models": "FMA:53526"
+        },
+        "recurrent_laryngeal_8": {
+            "type": "nerve",
+            "models": "FMA:53524"
+        },
+        " recurrent_laryngeal_9": {
+            "type": "nerve",
+            "models": "FMA:53614"
+        },
+        "recurrent_laryngeal_10": {
+            "type": "nerve",
+            "models": "FMA:6253"
+        },
+        "recurrent_laryngeal_11": {
+            "type": "nerve",
+            "models": "FMA:6255"
+        },
+        "recurrent_laryngeal_12": {
+            "type": "nerve",
+            "models": "FMA:6252"
+        },
+        "recurrent_laryngeal_13": {
+            "type": "nerve",
+            "models": "FMA:6256"
+        },
+        "recurrent_laryngeal_14": {
+            "type": "nerve",
+            "models": "FMA:6254"
+        },
+        "recurrent_laryngeal_15": {
+            "type": "nerve",
+            "models": "FMA:6257"
+        },
+        "superior_laryngeal_1": {
+            "type": "nerve",
+            "models": "FMA:6239"
+        },
+        "superior_laryngeal_2": {
+            "type": "nerve",
+            "models": "FMA:6240"
+        },
+        "superior_laryngeal_3": {
+            "type": "nerve",
+            "models": "FMA:6243"
+        },
+        "superior_laryngeal_4": {
+            "type": "nerve",
+            "models": "FMA:6242"
+        },
+        "superior_laryngeal_5": {
+            "type": "nerve",
+            "models": "FMA:6241"
+        },
+        "superior_laryngeal_6": {
+            "type": "nerve",
+            "models": "FMA:6699"
+        },
+        "superior_laryngeal_7": {
+            "type": "nerve",
+            "models": "FMA:53543"
+        },
+        "superior_laryngeal_8": {
+            "type": "nerve",
+            "models": "FMA:6700"
+        },
+        "superior_laryngeal_9": {
+            "type": "nerve",
+            "models": "FMA:53544"
+        },
+        "superior_laryngeal_10": {
+            "type": "nerve",
+            "models": "FMA:6703"
+        },
+        "superior_laryngeal_11": {
+            "type": "nerve",
+            "models": "FMA:6702"
+        },
+        "superior_laryngeal_12": {
+            "type": "nerve",
+            "models": "FMA:6704"
+        },
+        "superior_laryngeal_13": {
+            "type": "nerve",
+            "models": "FMA:6697"
+        },
+        "superior_laryngeal_14": {
+            "type": "nerve",
+            "models": "FMA:6705"
+        },
+        "superior_laryngeal_15": {
+            "type": "nerve",
+            "models": "FMA:6707"
+        },
+        "superior_laryngeal_16": {
+            "type": "nerve",
+            "models": "FMA:6706"
+        },
+        "superior_laryngeal_17": {
+            "type": "nerve",
+            "models": "FMA:6709"
+        },
+        "superior_laryngeal_18": {
+            "type": "nerve",
+            "models": "FMA:6708"
+        },
+        "vagus_7": {
+            "type": "nerve",
+            "models": "FMA:77213"
+        },
+        "vagus_8": {
+            "type": "nerve",
+            "models": "FMA:6237"
+        },
+        "vagus_9": {
+            "type": "nerve",
+            "models": "FMA:6247"
+        },
+        "cardiac_vagus_1": {
+            "type": "nerve",
+            "models": "FMA:53612"
+        },
+        "cardiac_vagus_2": {
+            "type": "nerve",
+            "models": "FMA:6711"
+        },
+        "cardiac_vagus_3": {
+            "type": "nerve",
+            "models": "FMA:53600"
+        },
+        "cardiac_vagus_4": {
+            "type": "nerve",
+            "models": "FMA:53601"
+        },
+        "cardiac_vagus_5": {
+            "type": "nerve",
+            "models": "FMA:6245"
+        },
+        "cardiac_vagus_6": {
+            "type": "nerve",
+            "models": "FMA:6244"
+        },
+        "esophageal_vagus_1": {
+            "type": "nerve",
+            "models": "FMA:65514"
+        },
+        "esophageal_vagus_2": {
+            "type": "nerve",
+            "models": "FMA:6715"
+        },
+        "esophageal_vagus_3": {
+            "type": "nerve",
+            "models": "FMA:6716"
+        },
+        "vagus_10": {
+            "type": "nerve",
+            "models": "FMA:78582"
+        },
+        "vagus_11": {
+            "type": "nerve",
+            "models": "FMA:6231"
+        },
+        "pharyngeal_vagus_1": {
+            "type": "nerve",
+            "models": "FMA:6234"
+        },
+        "pharyngeal_vagus_2": {
+            "type": "nerve",
+            "models": "FMA:6235"
+        },
+        "pharyngeal_vagus_3": {
+            "type": "nerve",
+            "models": "FMA:6236"
+        },
+        "vagus_12": {
+            "type": "nerve",
+            "models": "FMA:65515"
+        },
+        "vagus_13": {
+            "type": "nerve",
+            "models": "FMA:6670"
+        },
+        "vagus_14": {
+            "type": "nerve",
+            "models": "FMA:6233"
+        },
+        "bolser_101": {
+            "type": "nerve",
+            "models": "UBERON:0001884"
+        },
+        "bolser_102": {
+            "type": "nerve",
+            "models": "UBERON:0001650"
+        },
+        "bolser_103": {
+            "type": "nerve",
+            "models": "ILX:0738315"
+        },
+        "bolser_104": {
+            "type": "nerve",
+            "models": "ILX:0738293"
+        },
+        "bolser_105": {
+            "type": "nerve",
+            "models": "ILX:0738312"
+        },
+        "bolser_106": {
+            "type": "nerve",
+            "models": "UBERON:0001649"
+        },
+        "bolser_107": {
+            "type": "nerve",
+            "models": "FMA:53488"
+        },
+        "bolser_108": {
+            "type": "nerve",
+            "models": "ILX:0738313"
+        },
+        "bolser_109": {
+            "type": "nerve",
+            "models": ""
+        },
+        "bolser_110": {
+            "type": "nerve",
+            "models": ""
+        },
+        "bolser_111": {
+            "type": "nerve",
+            "models": ""
+        },
+        "bolser_112": {
+            "type": "nerve",
+            "models": ""
+        },
+        "bolser_113": {
+            "type": "nerve",
+            "models": ""
+        },
+        "bolser_114": {
+            "type": "nerve",
+            "models": ""
+        },
+        "splanchnic": {
+            "type": "nerve",
+            "models": "UBERON:0003715"
         }
     },
     "networks": [
