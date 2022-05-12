@@ -2045,9 +2045,6 @@
         "circulatory_1-1": {
             "class": "circulatory_1"
         },
-        "connection_1-1": {
-            "class": "connection_1"
-        },
         "connection_1-2": {
             "class": "connection_1"
         },
@@ -3513,12 +3510,6 @@
         "label_23-1": {
             "class": "label_23"
         },
-        "label_24-1": {
-            "class": "label_24"
-        },
-        "label_25-1": {
-            "class": "label_25"
-        },
         "vagus_1": {
             "type": "nerve",
             "models": "FMA:6232"
@@ -4613,7 +4604,7 @@
                 {
                     "id": "T1_gray_ramus-spinal_n",
                     "connects": [
-                        "connection_1-1",
+                        "ganglion_11-1",
                         "T1_spinal"
                     ],
                     "contained-in": [
@@ -4901,7 +4892,7 @@
                 {
                     "id": "T1_paravertebral_ganglion-ardell_5",
                     "connects": [
-                        "connection_1-1",
+                        "ganglion_11-1",
                         "ardell_5_start-1"
                     ]
                 },
@@ -4949,7 +4940,7 @@
                     "contained-in": [
                         "S43_T1",
                         "S50_T1",
-                        "connection_1-1"
+                        "ganglion_11-1"
                     ]
                 },
                 {
@@ -5152,7 +5143,7 @@
                     "id": "T1_ventral_root_paravertebral_ganglion",
                     "connects": [
                         "T1_spinal",
-                        "connection_1-1"
+                        "ganglion_11-1"
                     ],
                     "contained-in": [
                         "S43_L1",
@@ -5278,7 +5269,7 @@
                     "id": "ICG-CTG_sympathetic_cord",
                     "connects": [
                         "bolser_9-2",
-                        "connection_1-1"
+                        "ganglion_11-1"
                     ],
                     "contained-in": [
                         "spinal_47-1"
@@ -5307,7 +5298,7 @@
                 {
                     "id": "sympathetic_trunk_T1-T2",
                     "connects": [
-                        "connection_1-1",
+                        "ganglion_11-1",
                         "S46_T2"
                     ],
                     "contained-in": [
@@ -5812,15 +5803,15 @@
                 {
                     "id": "CNS_1-1",
                     "connects": [
-                        "label_24-1",
-                        "label_25-1"
+                        "brain_26-1",
+                        "brain_25-1"
                     ]
                 },
                 {
                     "id": "CNS_1-2",
                     "connects": [
                         "brain_17-1",
-                        "label_24-1"
+                        "brain_25-1"
                     ]
                 }
             ]

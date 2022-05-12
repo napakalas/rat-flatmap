@@ -1139,18 +1139,6 @@
         "term": "FMA:55406",
         "name": "laryngeal vestibule"
     },
-    "label_24": {
-        "term": "UBERON:0001891",
-        "name": "midbrain"
-    },
-    "label_25": {
-        "term": "UBERON:0000988",
-        "name": "pons"
-    },
-    "connection_1": {
-        "term": "UBERON:0002441",
-        "name": "Cervothoracic Ganglion"
-    },
     "CNS_1": {
         "term": "UBERON:0001017",
         "name": "central nervous system"
