@@ -959,6 +959,10 @@
         "term": "ILX:0738373",
         "name": "Internal branch of superior laryngeal nerve"
     },
+    "bolser_14": {
+        "term": "UBERON:0001990",
+        "name": "Middle Cervical Ganglion"
+    },
     "bolser_16": {
         "term": "ILX:0738315",
         "name": "Pharyngeal branch of the Hypoglossal nerve"
@@ -1132,7 +1136,23 @@
         "name": "vocalis muscle"
     },
     "label_23": {
-        "term": "FMA:55406F",
+        "term": "FMA:55406",
         "name": "laryngeal vestibule"
+    },
+    "label_24": {
+        "term": "UBERON:0001891",
+        "name": "midbrain"
+    },
+    "label_25": {
+        "term": "UBERON:0000988",
+        "name": "pons"
+    },
+    "connection_1": {
+        "term": "UBERON:0002441",
+        "name": "Cervothoracic Ganglion"
+    },
+    "CNS_1": {
+        "term": "UBERON: 0001017",
+        "name": "Central Nervous System"
     }
 }

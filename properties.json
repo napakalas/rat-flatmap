@@ -1802,6 +1802,9 @@
         "bolser13_2": {
             "class": "bolser_13"
         },
+        "bolser_14-1": {
+            "class": "bolser_14"
+        },
         "bolser21_1": {
             "class": "bolser_21"
         },
@@ -2047,6 +2050,12 @@
         },
         "connection_1-2": {
             "class": "connection_1"
+        },
+        "CNS_1-1": {
+            "class": "CNS_1"
+        },
+        "CNS_1-2": {
+            "class": "CNS_1"
         },
         "data_1": {
             "label": "Intrinsic cardiac neurons",
@@ -3503,6 +3512,12 @@
         },
         "label_23-1": {
             "class": "label_23"
+        },
+        "label_24-1": {
+            "class": "label_24"
+        },
+        "label_25-1": {
+            "class": "label_25"
         },
         "vagus_1": {
             "type": "nerve",
@@ -5792,6 +5807,20 @@
                         "splanchnic_n_start-12",
                         "splanchnic_n_start-13",
                         "splanchnic_n_branching_point"
+                    ]
+                },
+                {
+                    "id": "CNS_1-1",
+                    "connects": [
+                        "label_24-1",
+                        "label_25-1"
+                    ]
+                },
+                {
+                    "id": "CNS_1-2",
+                    "connects": [
+                        "brain_17-1",
+                        "label_24-1"
                     ]
                 }
             ]
