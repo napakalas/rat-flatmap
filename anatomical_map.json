@@ -235,7 +235,7 @@
         "term": "UBERON:0004516",
         "name": "smooth muscle tissue of terminal bronchiole"
     },
-	"respiratory_20": {
+    "respiratory_20": {
         "term": "UBERON:0007196",
         "name": "tracheobronchial tree"
     },
@@ -403,7 +403,7 @@
         "term": "UBERON:0001210",
         "name": "muscularis mucosae of small intestine"
     },
-	"digestive_44": {
+    "digestive_44": {
         "term": "UBERON:0002394",
         "name": "bile duct"
     },
@@ -439,11 +439,11 @@
         "term": "UBERON:0003889",
         "name": "fallopian tube"
     },
-	"reproductive_9": {
+    "reproductive_9": {
         "term": "UBERON:0001301",
         "name": "epididymis"
     },
-	"reproductive_10": {
+    "reproductive_10": {
         "term": "UBERON:0000998",
         "name": "seminal vesicle"
     },
@@ -747,7 +747,7 @@
         "term": "ILX:0738325",
         "name": "Phrenic nucleus of C5"
     },
-	"spinal_56": {
+    "spinal_56": {
         "term": "ILX:0738292",
         "name": "MCG-SCG sympathetic cord"
     },
@@ -899,27 +899,27 @@
         "term": "UBERON:0002743",
         "name": "basal forebrain"
     },
-	"brain_39": {
+    "brain_39": {
         "term": "UBERON:0001063",
         "name": "flocculus"
     },
-	"brain_40": {
+    "brain_40": {
         "term": "UBERON:0001905",
         "name": "pineal body"
     },
-	"brain_41": {
+    "brain_41": {
         "term": "UBERON:0001945",
         "name": "superior colliculus"
     },
-	"brain_42": {
+    "brain_42": {
         "term": "UBERON:0001946",
         "name": "inferior colliculus"
     },
-	"brain_43": {
+    "brain_43": {
         "term": "UBERON:0002265",
         "name": "olfactory tract"
     },
-	"brain_44": {
+    "brain_44": {
         "term": "UBERON:0002925",
         "name": "trigeminal nucleus"
     },
@@ -1007,19 +1007,19 @@
         "term": "UBERON:0001808",
         "name": "parasympathetic ganglion"
     },
-	"ganglion_9": {
+    "ganglion_9": {
         "term": "UBERON:0001990",
         "name": "middle cervical ganglion"
     },
-	"ganglion_10": {
+    "ganglion_10": {
         "term": "UBERON:0002440",
         "name": "inferior cervical ganglion"
     },
-	"ganglion_11": {
+    "ganglion_11": {
         "term": "UBERON:0002441",
         "name": "cervicothoracic ganglion"
     },
-	"ganglion_12": {
+    "ganglion_12": {
         "term": "UBERON:0001701",
         "name": "glossopharyngeal ganglion"
     },
@@ -1027,111 +1027,111 @@
         "term": "UBERON:0003715",
         "name": "splanchnic nerve"
     },
-	"ganglion_1": {
+    "ganglion_1": {
         "term": "UBERON:0005364",
         "name": "superior vagus X ganglion"
     },
-	"ganglion_2": {
+    "ganglion_2": {
         "term": "UBERON:0005363",
         "name": "inferior vagus X ganglion"
     },
-	"ganglion_3": {
+    "ganglion_3": {
         "term": "UBERON:0001989",
         "name": "superior cervical ganglion"
     },
-	"plexus_1": {
+    "plexus_1": {
         "term": "FMA:67532",
         "name": "external carotid nerve plexus"
     },
-	"plexus_2": {
+    "plexus_2": {
         "term": "UBERON:0011325",
         "name": "pharyngeal nerve plexus"
     },
-	"plexus_3": {
+    "plexus_3": {
         "term": "UBERON:0002008",
         "name": "cardiac nerve plexus"
     },
-	"plexus_4": {
+    "plexus_4": {
         "term": "UBERON:0002009",
         "name": "pulmonary nerve plexus"
     },
-	"plexus_5": {
+    "plexus_5": {
         "term": "FMA:6225",
         "name": "esophageal nerve plexus"
     },
-	"plexus_6": {
+    "plexus_6": {
         "term": "FMA:6633",
         "name": "left gastric nerve plexus"
     },
-	"plexus_7": {
+    "plexus_7": {
         "term": "UBERON:0002024",
         "name": "internal carotid nerve plexus"
     },
-	"label_4": {
+    "label_4": {
         "term": "UBERON:0002364",
         "name": "tympanic membrane"
     },
-	"label_5": {
+    "label_5": {
         "term": "UBERON:0010033",
         "name": "back part of the tongue*"
     },
-	"label_6": {
+    "label_6": {
         "term": "UBERON:0006562",
         "name": "pharynx"
     },
-	"label_7": {
+    "label_7": {
         "term": "FMA:55031",
         "name": "mucosa of pharynx"
     },
-	"label_8": {
+    "label_8": {
         "term": "UBERON:0013165",
         "name": "epiglottic vallecula"
     },
-	"label_9": {
+    "label_9": {
         "term": "UBERON:0001824",
         "name": "mucosa of larynx"
     },
-	"label_10": {
+    "label_10": {
         "term": "UBERON:0014385",
         "name": "aryepiglottic fold"
     },
-	"label_14": {
+    "label_14": {
         "term": "UBERON:0001566",
         "name": "cricothyroid muscle"
     },
-	"label_15": {
+    "label_15": {
         "term": "UBERON:0001570",
         "name": "inferior pharyngeal constrictor"
     },
-	"label_16": {
+    "label_16": {
         "term": "FMA:77283",
         "name": "ceratocricoid ligament"
     },
-	"label_17": {
+    "label_17": {
         "term": "UBERON:0008573",
         "name": "lateral crico-arytenoid"
     },
-	"label_18": {
+    "label_18": {
         "term": "UBERON:0008575",
         "name": "oblique arytenoid"
     },
-	"label_19": {
+    "label_19": {
         "term": "UBERON:0008572",
         "name": "posterior crico-arytenoid"
     },
-	"label_20": {
+    "label_20": {
         "term": "FMA:46588",
         "name": "thyro-arytenoid"
     },
-	"label_21": {
+    "label_21": {
         "term": "UBERON:0008574",
         "name": "transverse arytenoid"
     },
-	"label_22": {
+    "label_22": {
         "term": "UBERON:0008577",
         "name": "vocalis muscle"
     },
-	"label_23": {
+    "label_23": {
         "term": "FMA:55406F",
         "name": "laryngeal vestibule"
     }
