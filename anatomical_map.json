@@ -1138,9 +1138,5 @@
     "label_23": {
         "term": "FMA:55406",
         "name": "laryngeal vestibule"
-    },
-    "CNS_1": {
-        "term": "UBERON:0001017",
-        "name": "central nervous system"
     }
 }

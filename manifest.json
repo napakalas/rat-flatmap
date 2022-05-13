@@ -12,7 +12,6 @@
     ],
     "anatomicalMap": "anatomical_map.json",
     "neuronConnectivity": [
-        "https://apinatomy.org/uris/models/keast-bladder",
-        "https://apinatomy.org/uris/models/ard-arm-cardiac"
+        "https://apinatomy.org/uris/models/keast-bladder"
     ]
 }
