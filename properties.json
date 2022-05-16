@@ -1393,10 +1393,12 @@
             "models": "FMA:6541"
         },
         "S46_L3": {
-            "class": "spinal_46"
+            "class": "spinal_46",
+            "models": "FMA:6542"
         },
         "S46_L4": {
-            "class": "spinal_46"
+            "class": "spinal_46",
+            "models": "FMA:6543"
         },
         "S46_L5": {
             "class": "spinal_46"
