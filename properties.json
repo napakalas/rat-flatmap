@@ -1424,10 +1424,12 @@
             "class": "spinal_46"
         },
         "S46_T12": {
-            "class": "spinal_46"
+            "class": "spinal_46",
+            "models": "FMA:6485"
         },
         "S46_T13": {
-            "class": "spinal_46"
+            "class": "spinal_46",
+            "models": "ILX:0739295"
         },
         "S46_T2": {
             "class": "spinal_46"
