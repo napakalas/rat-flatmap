@@ -1152,7 +1152,8 @@
             "class": "spinal_43"
         },
         "S43_L5": {
-            "class": "spinal_43"
+            "class": "spinal_43",
+            "models": "EMAPA:25277"
         },
         "S43_L6": {
             "models": "EMAPA:25279"
@@ -2231,7 +2232,7 @@
         "keast_2-1": {
             "class": "keast_2",
             "type": "nerve",
-            "models": "UBERON:0001759"
+            "models": "UBERON:0011390"
         },
         "ganglion_4-1": {
             "class": "ganglion_4"
