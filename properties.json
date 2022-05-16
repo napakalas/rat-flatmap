@@ -5361,6 +5361,36 @@
                     ]
                 },
                 {
+                    "id": "sympathetic_trunk_T8-T9",
+                    "connects": [
+                        "S46_T8",
+                        "S46_T9"
+                    ],
+                    "contained-in": [
+                        "spinal_47-1"
+                    ]
+                },
+                {
+                    "id": "sympathetic_trunk_T9-T10",
+                    "connects": [
+                        "S46_T9",
+                        "S46_T10"
+                    ],
+                    "contained-in": [
+                        "spinal_47-1"
+                    ]
+                },
+                {
+                    "id": "sympathetic_trunk_T10-T11",
+                    "connects": [
+                        "S46_T10",
+                        "S46_T11"
+                    ],
+                    "contained-in": [
+                        "spinal_47-1"
+                    ]
+                },
+                {
                     "id": "sympathetic_trunk_T11-T12",
                     "connects": [
                         "S46_T11",
