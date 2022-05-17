@@ -1401,12 +1401,6 @@
         "S46_L5": {
             "class": "spinal_61"
         },
-        "S46_L6": {
-            "class": "spinal_62"
-        },
-        "S46_S1": {
-            "class": "spinal_66"
-        },
         "S46_S2": {
             "class": "spinal_46"
         },
@@ -1745,6 +1739,18 @@
         },
         "S52_T13": {
             "class": "spinal_52"
+        },
+        "S62_L6": {
+            "class": "spinal_62"
+        },
+        "S66_S1": {
+            "class": "spinal_66"
+        },
+        "S67_L6": {
+            "class": "spinal_67"
+        },
+        "S68_S1": {
+            "class": "spinal_68"
         },
         "ganglion_6-1": {
             "class": "ganglion_6"
@@ -4606,7 +4612,7 @@
                         "T1_spinal"
                     ],
                     "contained-in": [
-                        "spinal_4cd 7-1",
+                        "spinal_47-1",
                         "S50_T1"
                     ]
                 },
@@ -4668,6 +4674,30 @@
                         "spinal_47-1",
                         "S49_T6",
                         "S50_T6"
+                    ]
+                },
+                {
+                    "id": "L6_gray_ramus-spinal_n",
+                    "connects": [
+                        "S62_L6",
+                        "L6_spinal"
+                    ],
+                    "contained-in": [
+                        "spinal_47-1",
+                        "S67_L6",
+                        "S50_L6"
+                    ]
+                },
+                {
+                    "id": "S1_gray_ramus-spinal_n",
+                    "connects": [
+                        "S66_S1",
+                        "S1_spinal"
+                    ],
+                    "contained-in": [
+                        "spinal_47-1",
+                        "S68_S1",
+                        "S50_S1"
                     ]
                 },
                 {
@@ -5243,7 +5273,7 @@
                     "id": "L6_paravertebral_ganglion",
                     "connects": [
                         "L6_spinal",
-                        "S46_L6"
+                        "S62_L6"
                     ],
                     "contained-in": [
                         "S50_L1",
@@ -5255,7 +5285,7 @@
                     "id": "S1_paravertebral_ganglion",
                     "connects": [
                         "S1_spinal",
-                        "S46_S1"
+                        "S66_S1"
                     ],
                     "contained-in": [
                         "S50_L2",
@@ -5467,7 +5497,7 @@
                     "id": "sympathetic_trunk_L5-L6",
                     "connects": [
                         "S46_L5",
-                        "S46_L6"
+                        "S62_L6"
                     ],
                     "contained-in": [
                         "spinal_47-1"
@@ -5476,8 +5506,8 @@
                 {
                     "id": "sympathetic_trunk_L6-S1",
                     "connects": [
-                        "S46_L6",
-                        "S46_S1"
+                        "S62_L6",
+                        "S66_S1"
                     ],
                     "contained-in": [
                         "spinal_47-1"
@@ -5486,7 +5516,7 @@
                 {
                     "id": "sympathetic_trunk_S1-S2",
                     "connects": [
-                        "S46_S1",
+                        "S66_S1",
                         "S46_S2"
                     ],
                     "contained-in": [

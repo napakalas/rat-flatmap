@@ -791,6 +791,14 @@
         "term": "FMA:6552",
         "name": "First sacral ganglion"
     },
+    "spinal_67": {
+        "term": "ILX:0739299",
+        "name": "Gray communicating ramus of sixth lumbar nerve"
+    },
+    "spinal_68": {
+        "term": "FMA:65986",
+        "name": "Gray communicating ramus of first sacral nerve"
+    },
     "brain_1": {
         "term": "UBERON:0001898",
         "name": "hypothalamus"
