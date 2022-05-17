@@ -787,6 +787,10 @@
         "term": "ILX:0777088",
         "name": "L1 - L2 Interganglionic segment"
     },
+    "spinal_66": {
+        "term": "FMA:6552",
+        "name": "First sacral ganglion"
+    },
     "brain_1": {
         "term": "UBERON:0001898",
         "name": "hypothalamus"
