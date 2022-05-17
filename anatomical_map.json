@@ -831,6 +831,10 @@
         "term": "UBERON:0009050",
         "name": "nucleus of solitary tract"
     },
+    "brain_13": {
+        "term": "UBERON:0007632",
+        "name": "Barrington's nucleus"
+    },
     "brain_15": {
         "term": "UBERON:0007769",
         "name": "medial preoptic region"
