@@ -759,6 +759,30 @@
         "term": "ILX:0738291",
         "name": "T1-ICG sympathetic cord"
     },
+    "spinal_59": {
+        "term": "FMA:6542",
+        "name": "Third lumbar ganglion"
+    },
+    "spinal_60": {
+        "term": "FMA:6543",
+        "name": "Fourth lumbar ganglion"
+    },
+    "spinal_61": {
+        "term": "ILX:0739296",
+        "name": "Fifth lumbar sympathetic ganglion"
+    },
+    "spinal_62": {
+        "term": "ILX:0739297",
+        "name": "Sixth lumbar sympathetic ganglion"
+    },
+    "spinal_63": {
+        "term": "FMA:6485",
+        "name": "Twelfth thoracic ganglion"
+    },
+    "spinal_64": {
+        "term": "ILX:0739295",
+        "name": "Thirteenth thoracic ganglion"
+    },
     "brain_1": {
         "term": "UBERON:0001898",
         "name": "hypothalamus"

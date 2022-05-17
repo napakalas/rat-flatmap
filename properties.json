@@ -1393,20 +1393,16 @@
             "models": "FMA:6541"
         },
         "S46_L3": {
-            "class": "spinal_46",
-            "models": "FMA:6542"
+            "class": "spinal_59"
         },
         "S46_L4": {
-            "class": "spinal_46",
-            "models": "FMA:6543"
+            "class": "spinal_60"
         },
         "S46_L5": {
-            "class": "spinal_46",
-            "models": "ILX:0739296"
+            "class": "spinal_61"
         },
         "S46_L6": {
-            "class": "spinal_46",
-            "models": "ILX:0739297"
+            "class": "spinal_62"
         },
         "S46_S1": {
             "class": "spinal_46"
@@ -1424,12 +1420,10 @@
             "class": "spinal_46"
         },
         "S46_T12": {
-            "class": "spinal_46",
-            "models": "FMA:6485"
+            "class": "spinal_63"
         },
         "S46_T13": {
-            "class": "spinal_46",
-            "models": "ILX:0739295"
+            "class": "spinal_64"
         },
         "S46_T2": {
             "class": "spinal_46"
