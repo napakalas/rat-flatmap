@@ -783,6 +783,10 @@
         "term": "ILX:0739295",
         "name": "Thirteenth thoracic ganglion"
     },
+    "spinal_65": {
+        "term": "ILX:0777088",
+        "name": "L1 - L2 Interganglionic segment"
+    },
     "brain_1": {
         "term": "UBERON:0001898",
         "name": "hypothalamus"

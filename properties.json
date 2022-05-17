@@ -3361,6 +3361,9 @@
         "spinal_9-1": {
             "class": "spinal_9"
         },
+        "spinal_65-1": {
+            "class": "spinal_65"
+        },
         "urinary_10-1": {
             "class": "urinary_10"
         },
@@ -5421,13 +5424,13 @@
                     ]
                 },
                 {
-                    "id": "sympathetic_trunk_L1-L2",
+                    "id": "L1-L2_interganglionic_segment",
                     "connects": [
                         "S46_L1",
                         "S46_L2"
                     ],
                     "contained-in": [
-                        "spinal_47-1"
+                        "spinal_65-1"
                     ]
                 },
                 {
