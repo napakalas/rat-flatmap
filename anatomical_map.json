@@ -52,8 +52,12 @@
         "name": "kidney"
     },
     "urinary_14": {
-        "term": "UBERON:0000057",
+        "term": "EMAPA:36117",
         "name": "urethra"
+    },
+    "urinary_15": {
+        "term": "UBERON:0000057",
+        "name": "rhabdosphincter of female"
     },
     "cardio_1": {
         "term": "UBERON:0004535",
