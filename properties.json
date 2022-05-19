@@ -49,7 +49,7 @@
             "label": "Barrington's nucleus"
         },
         "brain_14": {
-            "label": "VLPAG"
+            "label": "Ventrolateral Periaqueductal Gray"
         },
         "brain_35": {
             "tooltip": false
@@ -4342,6 +4342,48 @@
                     "connects": [
                         "external_laryngeal_n_branching_point",
                         "point_41"
+                    ]
+                },
+                {
+                    "id": "n_69",
+                    "connects": [
+                        "brain_13",
+                        "brain_14"
+                    ]
+                },
+                {
+                    "id": "n_70",
+                    "connects": [
+                        "brain_13",
+                        "brain_19"
+                    ]
+                },
+                {
+                    "id": "n_71",
+                    "connects": [
+                        "brain_13",
+                        "brain_17"
+                    ]
+                },
+                {
+                    "id": "n_72",
+                    "connects": [
+                        "brain_13",
+                        "brain_20"
+                    ]
+                },
+                {
+                    "id": "n_73",
+                    "connects": [
+                        "brain_13",
+                        "brain_15"
+                    ]
+                },
+                {
+                    "id": "n_74",
+                    "connects": [
+                        "brain_13",
+                        "brain_16"
                     ]
                 },
                 {
