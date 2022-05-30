@@ -63,6 +63,10 @@
         "term": "UBERON:0002384",
         "name": "connective tissue"
     },
+    "urinary_17": {
+        "term": "EMAPA:32269",
+        "name": "Rhabdosphincter of male"
+    },
     "cardio_1": {
         "term": "UBERON:0004535",
         "name": "cardiovascular system"
