@@ -59,6 +59,10 @@
         "term": "UBERON:0000057",
         "name": "rhabdosphincter of female"
     },
+    "urinary_16": {
+        "term": "UBERON:0002384",
+        "name": "connective tissue"
+    },
     "cardio_1": {
         "term": "UBERON:0004535",
         "name": "cardiovascular system"

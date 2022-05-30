@@ -3416,7 +3416,13 @@
             "class": "urinary_9"
         },
         "urinary_15-1": {
-            "class": "urinary_15-1"
+            "class": "urinary_15"
+        },
+        "urinary_16-1": {
+            "class": "urinary_16"
+        },
+        "urinary_16-2": {
+            "class": "urinary_16"
         },
         "ganglion_1-1": {
             "class": "ganglion_1"
