@@ -5489,6 +5489,7 @@
                 },
                 {
                     "id": "sympathetic_trunk_T12-T13",
+                    "models": "ILX:0777086",
                     "connects": [
                         "S46_T12",
                         "S46_T13"
@@ -5499,6 +5500,7 @@
                 },
                 {
                     "id": "sympathetic_trunk_T13-L1",
+                    "models": "ILX:0777087",
                     "connects": [
                         "S46_T13",
                         "S46_L1"
@@ -5509,6 +5511,7 @@
                 },
                 {
                     "id": "L1-L2_interganglionic_segment",
+                    "models": "ILX:0777088",
                     "connects": [
                         "S46_L1",
                         "S46_L2"
@@ -5519,6 +5522,7 @@
                 },
                 {
                     "id": "sympathetic_trunk_L2-L3",
+                    "models": "ILX:0777089",
                     "connects": [
                         "S46_L2",
                         "S46_L3"
@@ -5529,6 +5533,7 @@
                 },
                 {
                     "id": "sympathetic_trunk_L3-L4",
+                    "models": "ILX:0777090",
                     "connects": [
                         "S46_L3",
                         "S46_L4"
@@ -5539,6 +5544,7 @@
                 },
                 {
                     "id": "sympathetic_trunk_L4-L5",
+                    "models": "ILX:0777091",
                     "connects": [
                         "S46_L4",
                         "S46_L5"
@@ -5549,6 +5555,7 @@
                 },
                 {
                     "id": "sympathetic_trunk_L5-L6",
+                    "models": "ILX:0777092",
                     "connects": [
                         "S46_L5",
                         "S62_L6"
@@ -5559,6 +5566,7 @@
                 },
                 {
                     "id": "sympathetic_trunk_L6-S1",
+                    "models": "ILX:0777093",
                     "connects": [
                         "S62_L6",
                         "S66_S1"
