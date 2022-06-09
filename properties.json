@@ -4664,10 +4664,6 @@
                     "connects": [
                         "ganglion_11-1",
                         "T1_spinal"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1",
-                        "S50_T1"
                     ]
                 },
                 {
@@ -4677,9 +4673,7 @@
                         "T2_spinal"
                     ],
                     "contained-in": [
-                        "spinal_47-1",
-                        "S49_T2",
-                        "S50_T2"
+                        "S49_T2"
                     ]
                 },
                 {
@@ -4689,9 +4683,7 @@
                         "T3_spinal"
                     ],
                     "contained-in": [
-                        "spinal_47-1",
-                        "S49_T3",
-                        "S50_T3"
+                        "S49_T3"
                     ]
                 },
                 {
@@ -4701,9 +4693,7 @@
                         "T4_spinal"
                     ],
                     "contained-in": [
-                        "spinal_47-1",
-                        "S49_T4",
-                        "S50_T4"
+                        "S49_T4"
                     ]
                 },
                 {
@@ -4713,9 +4703,7 @@
                         "T5_spinal"
                     ],
                     "contained-in": [
-                        "spinal_47-1",
-                        "S49_T5",
-                        "S50_T5"
+                        "S49_T5"
                     ]
                 },
                 {
@@ -4725,9 +4713,7 @@
                         "T6_spinal"
                     ],
                     "contained-in": [
-                        "spinal_47-1",
-                        "S49_T6",
-                        "S50_T6"
+                        "S49_T6"
                     ]
                 },
                 {
@@ -4737,9 +4723,7 @@
                         "L6_spinal"
                     ],
                     "contained-in": [
-                        "spinal_47-1",
-                        "S67_L6",
-                        "S50_L6"
+                        "S49_L6"
                     ]
                 },
                 {
@@ -4749,9 +4733,7 @@
                         "S1_spinal"
                     ],
                     "contained-in": [
-                        "spinal_47-1",
-                        "S68_S1",
-                        "S50_S1"
+                        "S49_S1"
                     ]
                 },
                 {
@@ -5021,7 +5003,6 @@
                     ],
                     "contained-in": [
                         "S43_T1",
-                        "S50_T1",
                         "ganglion_11-1"
                     ]
                 },
@@ -5033,9 +5014,7 @@
                     ],
                     "contained-in": [
                         "S43_T2",
-                        "S50_T2",
                         "S48_T2",
-                        "S46_T2",
                         "S49_T2"
                     ]
                 },
@@ -5047,9 +5026,7 @@
                     ],
                     "contained-in": [
                         "S43_T3",
-                        "S50_T3",
                         "S48_T3",
-                        "S46_T3",
                         "S49_T3"
                     ]
                 },
@@ -5061,9 +5038,7 @@
                     ],
                     "contained-in": [
                         "S43_T4",
-                        "S50_T4",
                         "S48_T4",
-                        "S46_T4",
                         "S49_T4"
                     ]
                 },
@@ -5075,9 +5050,7 @@
                     ],
                     "contained-in": [
                         "S43_T5",
-                        "S50_T5",
                         "S48_T5",
-                        "S46_T5",
                         "S49_T5"
                     ]
                 },
@@ -5089,9 +5062,7 @@
                     ],
                     "contained-in": [
                         "S43_T6",
-                        "S50_T6",
                         "S48_T6",
-                        "S46_T6",
                         "S49_T6"
                     ]
                 },
@@ -5103,9 +5074,7 @@
                     ],
                     "contained-in": [
                         "S43_T7",
-                        "S50_T7",
                         "S48_T7",
-                        "S46_T7",
                         "S49_T7"
                     ]
                 },
@@ -5117,9 +5086,7 @@
                     ],
                     "contained-in": [
                         "S43_T8",
-                        "S50_T8",
                         "S48_T8",
-                        "S46_T8",
                         "S49_T8"
                     ]
                 },
@@ -5131,9 +5098,7 @@
                     ],
                     "contained-in": [
                         "S43_T9",
-                        "S50_T9",
                         "S48_T9",
-                        "S46_T9",
                         "S49_T9"
                     ]
                 },
@@ -5145,9 +5110,7 @@
                     ],
                     "contained-in": [
                         "S43_T10",
-                        "S50_T10",
                         "S48_T10",
-                        "S46_T10",
                         "S49_T10"
                     ]
                 },
@@ -5159,9 +5122,7 @@
                     ],
                     "contained-in": [
                         "S43_T11",
-                        "S50_T11",
                         "S48_T11",
-                        "S46_T11",
                         "S49_T11"
                     ]
                 },
@@ -5173,9 +5134,7 @@
                     ],
                     "contained-in": [
                         "S43_T12",
-                        "S50_T12",
                         "S48_T12",
-                        "S46_T12",
                         "S49_T12"
                     ]
                 },
@@ -5187,9 +5146,7 @@
                     ],
                     "contained-in": [
                         "S43_T13",
-                        "S50_T13",
                         "S48_T13",
-                        "S46_T13",
                         "S49_T13"
                     ]
                 },
@@ -5201,9 +5158,7 @@
                     ],
                     "contained-in": [
                         "S43_L1",
-                        "S50_L1",
                         "S48_L1",
-                        "S46_L1",
                         "S49_L1"
                     ]
                 },
@@ -5215,111 +5170,94 @@
                     ],
                     "contained-in": [
                         "S43_L2",
-                        "S50_L2",
                         "S48_L2",
-                        "S46_L2",
                         "S49_L2"
                     ]
                 },
                 {
                     "id": "T1_ventral_root_paravertebral_ganglion",
                     "connects": [
-                        "T1_spinal",
+                        "T1_ventral_root_end",
                         "ganglion_11-1"
                     ],
                     "contained-in": [
-                        "S43_L1",
-                        "S50_L1"
+                        "S43_T1"
                     ]
                 },
                 {
                     "id": "T2_ventral_root_paravertebral_ganglion",
                     "connects": [
-                        "T2_spinal",
+                        "T2_ventral_root_end",
                         "S46_T2"
                     ],
                     "contained-in": [
                         "S43_T2",
-                        "S50_T2",
-                        "spinal_47-1",
                         "S48_T2"
                     ]
                 },
                 {
                     "id": "T3_ventral_root_paravertebral_ganglion",
                     "connects": [
-                        "T3_spinal",
+                        "T3_ventral_root_end",
                         "S46_T3"
                     ],
                     "contained-in": [
                         "S43_T3",
-                        "S50_T3",
-                        "spinal_47-1",
                         "S48_T3"
                     ]
                 },
                 {
                     "id": "T4_ventral_root_paravertebral_ganglion",
                     "connects": [
-                        "T4_spinal",
+                        "T4_ventral_root_end",
                         "S46_T4"
                     ],
                     "contained-in": [
                         "S43_T4",
-                        "S50_T4",
-                        "spinal_47-1",
                         "S48_T4"
                     ]
                 },
                 {
                     "id": "T5_ventral_root_paravertebral_ganglion",
                     "connects": [
-                        "T5_spinal",
+                        "T5_ventral_root_end",
                         "S46_T5"
                     ],
                     "contained-in": [
                         "S43_T5",
-                        "S50_T5",
-                        "spinal_47-1",
                         "S48_T5"
                     ]
                 },
                 {
                     "id": "T6_ventral_root_paravertebral_ganglion",
                     "connects": [
-                        "T6_spinal",
+                        "T6_ventral_root_end",
                         "S46_T6"
                     ],
                     "contained-in": [
                         "S43_T6",
-                        "S50_T6",
-                        "spinal_47-1",
                         "S48_T6"
                     ]
                 },
                 {
                     "id": "L1_ventral_root_paravertebral_ganglion",
                     "connects": [
-                        "L1_spinal",
+                        "L1_ventral_root_end",
                         "S46_L1"
                     ],
                     "contained-in": [
                         "S43_L1",
-                        "S50_L1",
-                        "spinal_47-1",
                         "S48_L1"
                     ]
                 },
                 {
                     "id": "L2_ventral_root_paravertebral_ganglion",
                     "connects": [
-                        "L2_spinal",
+                        "L2_ventral_root_end",
                         "S46_L2"
                     ],
                     "contained-in": [
                         "S43_L2",
-                        "S50_L2",
-                        "spinal_47-1",
                         "S48_L2"
                     ]
                 },
@@ -5330,9 +5268,7 @@
                         "S62_L6"
                     ],
                     "contained-in": [
-                        "S50_L1",
-                        "S48_L1",
-                        "spinal_47-1"
+                        "S48_L6"
                     ]
                 },
                 {
@@ -5342,9 +5278,7 @@
                         "S66_S1"
                     ],
                     "contained-in": [
-                        "S50_L2",
-                        "S48_L2",
-                        "spinal_47-1"
+                        "S48_S1"
                     ]
                 },
                 {
@@ -5352,9 +5286,6 @@
                     "connects": [
                         "bolser_9-2",
                         "ganglion_11-1"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5362,9 +5293,6 @@
                     "connects": [
                         "ganglion_3-1",
                         "ganglion_9-1"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5372,9 +5300,6 @@
                     "connects": [
                         "ganglion_9-1",
                         "bolser_9-2"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5382,9 +5307,6 @@
                     "connects": [
                         "ganglion_11-1",
                         "S46_T2"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5392,9 +5314,6 @@
                     "connects": [
                         "S46_T2",
                         "S46_T3"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5402,9 +5321,6 @@
                     "connects": [
                         "S46_T3",
                         "S46_T4"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5412,9 +5328,6 @@
                     "connects": [
                         "S46_T4",
                         "S46_T5"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5422,9 +5335,6 @@
                     "connects": [
                         "S46_T5",
                         "S46_T6"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5432,9 +5342,6 @@
                     "connects": [
                         "S46_T6",
                         "S46_T7"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5442,9 +5349,6 @@
                     "connects": [
                         "S46_T7",
                         "S46_T8"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5452,9 +5356,6 @@
                     "connects": [
                         "S46_T8",
                         "S46_T9"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5462,9 +5363,6 @@
                     "connects": [
                         "S46_T9",
                         "S46_T10"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5472,9 +5370,6 @@
                     "connects": [
                         "S46_T10",
                         "S46_T11"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5482,9 +5377,6 @@
                     "connects": [
                         "S46_T11",
                         "S46_T12"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5493,9 +5385,6 @@
                     "connects": [
                         "S46_T12",
                         "S46_T13"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5504,9 +5393,6 @@
                     "connects": [
                         "S46_T13",
                         "S46_L1"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5515,9 +5401,6 @@
                     "connects": [
                         "S46_L1",
                         "S46_L2"
-                    ],
-                    "contained-in": [
-                        "spinal_65-1"
                     ]
                 },
                 {
@@ -5526,9 +5409,6 @@
                     "connects": [
                         "S46_L2",
                         "S46_L3"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5537,9 +5417,6 @@
                     "connects": [
                         "S46_L3",
                         "S46_L4"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5548,9 +5425,6 @@
                     "connects": [
                         "S46_L4",
                         "S46_L5"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5559,9 +5433,6 @@
                     "connects": [
                         "S46_L5",
                         "S62_L6"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5570,9 +5441,6 @@
                     "connects": [
                         "S62_L6",
                         "S66_S1"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5580,9 +5448,6 @@
                     "connects": [
                         "S66_S1",
                         "S46_S2"
-                    ],
-                    "contained-in": [
-                        "spinal_47-1"
                     ]
                 },
                 {
@@ -5597,9 +5462,6 @@
                     "connects": [
                         "ganglion_4-1",
                         "bladder_n-bladder"
-                    ],
-                    "contained-in": [
-                        "keast_1-1"
                     ]
                 },
                 {
