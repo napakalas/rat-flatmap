@@ -5459,6 +5459,7 @@
                 },
                 {
                     "id": "bladder_n",
+                    "models": "EMAPA:31526",
                     "connects": [
                         "ganglion_4-1",
                         "bladder_n-bladder"
@@ -5466,6 +5467,7 @@
                 },
                 {
                     "id": "hypogastric_n",
+                    "models": "UBERON:0005303",
                     "connects": [
                         "ganglion_5-1",
                         "ganglion_4-1"
@@ -5476,6 +5478,7 @@
                 },
                 {
                     "id": "lumbar_splanchnic_n",
+                    "models": "UBERON:0018683",
                     "connects": [
                         "lumbar_splanchnic_n_start",
                         "ganglion_5-1"
@@ -5507,22 +5510,18 @@
                 },
                 {
                     "id": "pelvic_splanchnic_n",
+                    "models": "UBERON:0018675",
                     "connects": [
                         "pelvic_splanchnic_n_start",
                         "ganglion_4-1"
-                    ],
-                    "contained-in": [
-                        "keast_4-1"
                     ]
                 },
                 {
                     "id": "pudendal_n",
+                    "models": "UBERON:0011390",
                     "connects": [
                         "pudendal_n_start",
                         "pudendal_n_branching_point"
-                    ],
-                    "contained-in": [
-                        "keast_2-1"
                     ]
                 },
                 {
