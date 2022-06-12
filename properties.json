@@ -4356,43 +4356,43 @@
                 {
                     "id": "n_69",
                     "connects": [
-                        "brain_13",
-                        "brain_14"
+                        "brain_13-1",
+                        "brain_14-1"
                     ]
                 },
                 {
                     "id": "n_70",
                     "connects": [
-                        "brain_13",
-                        "brain_19"
+                        "brain_13-1",
+                        "brain_19-1"
                     ]
                 },
                 {
                     "id": "n_71",
                     "connects": [
-                        "brain_13",
-                        "brain_17"
+                        "brain_13-1",
+                        "brain_17-1"
                     ]
                 },
                 {
                     "id": "n_72",
                     "connects": [
-                        "brain_13",
-                        "brain_20"
+                        "brain_13-1",
+                        "brain_20-1"
                     ]
                 },
                 {
                     "id": "n_73",
                     "connects": [
-                        "brain_13",
-                        "brain_15"
+                        "brain_13-1",
+                        "brain_15-1"
                     ]
                 },
                 {
                     "id": "n_74",
                     "connects": [
-                        "brain_13",
-                        "brain_16"
+                        "brain_13-1",
+                        "brain_16-1"
                     ]
                 },
                 {
