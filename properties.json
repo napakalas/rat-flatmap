@@ -3582,7 +3582,7 @@
             "type": "nerve",
             "models": "FMA:53524"
         },
-        " recurrent_laryngeal_9": {
+        "recurrent_laryngeal_9": {
             "type": "nerve",
             "models": "FMA:53614"
         },
@@ -5683,7 +5683,8 @@
                     "connects": [
                         "plexus_7-1",
                         "bolser_8_branching_point"
-                    ]
+                    ],
+                    "models": ""
                 },
                 {
                     "id": "bolser_9",
