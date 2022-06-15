@@ -56,6 +56,12 @@
         }
     },
     "features": {
+        "pons": {
+            "class": "brain_26"
+        },
+        "medulla": {
+            "class": "brain_27"
+        },
         "S33_C1": {
             "class": "spinal_33"
         },
