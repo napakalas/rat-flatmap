@@ -3582,7 +3582,7 @@
             "type": "nerve",
             "models": "FMA:53524"
         },
-        " recurrent_laryngeal_9": {
+        "recurrent_laryngeal_9": {
             "type": "nerve",
             "models": "FMA:53614"
         },
@@ -3857,6 +3857,7 @@
                 },
                 {
                     "id": "n_5",
+                    "models": "UBERON:0001759",
                     "connects": [
                         "point_1",
                         "point_36"
