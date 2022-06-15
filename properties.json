@@ -45,17 +45,8 @@
         "body_6": {
             "tooltip": false
         },
-        "brain_13": {
-            "label": "Barrington's nucleus"
-        },
-        "brain_14": {
-            "label": "Ventrolateral Periaqueductal Gray"
-        },
         "brain_35": {
             "tooltip": false
-        },
-        "respiratory_3": {
-            "label": "Trachea"
         },
         "respiratory_6": {
             "tooltip": false
