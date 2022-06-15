@@ -3890,6 +3890,7 @@
                 },
                 {
                     "id": "n_6_X",
+                    "models": "FMA:6233",
                     "connects": [
                         "point_2",
                         "point_3"
@@ -3897,6 +3898,7 @@
                 },
                 {
                     "id": "n_7",
+                    "models": "FMA:6232",
                     "connects": [
                         "point_5",
                         "point_10"
@@ -3908,6 +3910,7 @@
                 },
                 {
                     "id": "n_8",
+                    "models": "FMA:6691",
                     "connects": [
                         "point_8",
                         "point_9"
@@ -3915,6 +3918,7 @@
                 },
                 {
                     "id": "n_9",
+                    "models": "FMA:53593",
                     "connects": [
                         "point_10",
                         "label_3-1"
@@ -3922,6 +3926,7 @@
                 },
                 {
                     "id": "n_10",
+                    "models": "FMA:6694",
                     "connects": [
                         "point_10",
                         "label_2-1"
@@ -3929,6 +3934,7 @@
                 },
                 {
                     "id": "n_11",
+                    "models": "FMA:6695",
                     "connects": [
                         "point_10",
                         "label_4-1"
@@ -3936,6 +3942,7 @@
                 },
                 {
                     "id": "n_12",
+                    "models": "FMA:6692",
                     "connects": [
                         "point_6",
                         "point_7"
@@ -3943,6 +3950,7 @@
                 },
                 {
                     "id": "n_13",
+                    "models": "FMA:6234",
                     "connects": [
                         "point_11",
                         "point_13"
@@ -3953,6 +3961,7 @@
                 },
                 {
                     "id": "n_14",
+                    "models": "FMA:6235",
                     "connects": [
                         "point_13",
                         "label_5-1"
@@ -3963,6 +3972,7 @@
                 },
                 {
                     "id": "n_15",
+                    "models": "FMA:6236",
                     "connects": [
                         "point_13",
                         "label_6-1"
@@ -3973,6 +3983,7 @@
                 },
                 {
                     "id": "n_16",
+                    "models": "FMA:6237",
                     "connects": [
                         "point_14",
                         "cardio_4-1"
@@ -3983,6 +3994,7 @@
                 },
                 {
                     "id": "n_17",
+                    "models": "FMA:6239",
                     "connects": [
                         "point_16",
                         "point_18"
@@ -3993,6 +4005,7 @@
                 },
                 {
                     "id": "n_18",
+                    "models": "FMA:6240",
                     "connects": [
                         "point_18",
                         "point_19"
@@ -4000,6 +4013,7 @@
                 },
                 {
                     "id": "n_19",
+                    "models": "FMA:6241",
                     "connects": [
                         "point_19",
                         "point_20"
@@ -4007,6 +4021,7 @@
                 },
                 {
                     "id": "n_20",
+                    "models": "FMA:6703",
                     "connects": [
                         "point_20",
                         "label_8-1"
@@ -4014,6 +4029,7 @@
                 },
                 {
                     "id": "n_21",
+                    "models": "FMA:6702",
                     "connects": [
                         "point_20",
                         "respiratory_11-1"
@@ -4021,6 +4037,7 @@
                 },
                 {
                     "id": "n_22",
+                    "models": "FMA:6697",
                     "connects": [
                         "point_20",
                         "label_7-1"
@@ -4028,6 +4045,7 @@
                 },
                 {
                     "id": "n_23",
+                    "models": "FMA:6704",
                     "connects": [
                         "point_20",
                         "respiratory_5-1"
@@ -4035,6 +4053,7 @@
                 },
                 {
                     "id": "n_24",
+                    "models": "FMA:6242",
                     "connects": [
                         "point_19",
                         "point_21"
@@ -4042,6 +4061,7 @@
                 },
                 {
                     "id": "n_25",
+                    "models": "FMA:6699",
                     "connects": [
                         "point_21",
                         "label_10-1"
@@ -4049,6 +4069,7 @@
                 },
                 {
                     "id": "n_26",
+                    "models": "FMA:53543",
                     "connects": [
                         "point_21",
                         "label_11-1"
@@ -4056,6 +4077,7 @@
                 },
                 {
                     "id": "n_27",
+                    "models": "FMA:6700",
                     "connects": [
                         "point_21",
                         "label_12-1"
@@ -4063,6 +4085,7 @@
                 },
                 {
                     "id": "n_28",
+                    "models": "FMA:53544",
                     "connects": [
                         "point_21",
                         "point_37"
@@ -4070,6 +4093,7 @@
                 },
                 {
                     "id": "n_29",
+                    "models": "FMA:6243",
                     "connects": [
                         "point_18",
                         "external_laryngeal_n_branching_point"
@@ -4077,6 +4101,7 @@
                 },
                 {
                     "id": "n_30",
+                    "models": "FMA:53612`",
                     "connects": [
                         "point_22",
                         "point_24"
@@ -4087,6 +4112,7 @@
                 },
                 {
                     "id": "n_31",
+                    "models": "FMA:6711",
                     "connects": [
                         "point_24",
                         "plexus_3-1"
@@ -4094,6 +4120,7 @@
                 },
                 {
                     "id": "n_32",
+                    "models": "MFA:53600",
                     "connects": [
                         "point_24",
                         "point_25"
@@ -4101,6 +4128,7 @@
                 },
                 {
                     "id": "n_33",
+                    "models": "FMA:6245",
                     "connects": [
                         "point_25",
                         "plexus_3-1"
@@ -4108,6 +4136,7 @@
                 },
                 {
                     "id": "n_34",
+                    "models": "FMA:6244",
                     "connects": [
                         "point_25",
                         "plexus_3-1"
@@ -4115,6 +4144,7 @@
                 },
                 {
                     "id": "n_35",
+                    "models": "FMA:53601",
                     "connects": [
                         "point_24",
                         "plexus_3-1"
@@ -4122,6 +4152,7 @@
                 },
                 {
                     "id": "n_36",
+                    "models": "FMA:6246",
                     "connects": [
                         "point_26",
                         "point_28"
@@ -4132,6 +4163,7 @@
                 },
                 {
                     "id": "n_37",
+                    "models": "FMA:6251",
                     "connects": [
                         "point_28",
                         "label_9-1"
@@ -4139,6 +4171,7 @@
                 },
                 {
                     "id": "n_38",
+                    "models": "FMA:6250",
                     "connects": [
                         "point_28",
                         "point_29"
@@ -4146,6 +4179,7 @@
                 },
                 {
                     "id": "n_39",
+                    "models": "FMA:53524",
                     "connects": [
                         "point_29",
                         "label_15-1"
@@ -4153,6 +4187,7 @@
                 },
                 {
                     "id": "n_40",
+                    "models": "FMA:53614",
                     "connects": [
                         "point_29",
                         "label_16-1"
@@ -4160,6 +4195,7 @@
                 },
                 {
                     "id": "n_41",
+                    "models": "FMA:6253",
                     "connects": [
                         "point_29",
                         "label_17-1"
@@ -4167,6 +4203,7 @@
                 },
                 {
                     "id": "n_42",
+                    "models": "FMA:6255",
                     "connects": [
                         "point_29",
                         "label_18-1"
@@ -4174,6 +4211,7 @@
                 },
                 {
                     "id": "n_43",
+                    "models": "FMA:6252",
                     "connects": [
                         "point_29",
                         "label_19-1"
@@ -4181,6 +4219,7 @@
                 },
                 {
                     "id": "n_44",
+                    "models": "FMA:6256",
                     "connects": [
                         "point_29",
                         "label_20-1"
@@ -4188,6 +4227,7 @@
                 },
                 {
                     "id": "n_45",
+                    "models": "FMA:6254",
                     "connects": [
                         "point_29",
                         "label_21-1"
@@ -4195,6 +4235,7 @@
                 },
                 {
                     "id": "n_46",
+                    "models": "FMA:6257",
                     "connects": [
                         "point_29",
                         "label_22-1"
@@ -4202,6 +4243,7 @@
                 },
                 {
                     "id": "n_47",
+                    "models": "FMA:6248",
                     "connects": [
                         "point_28",
                         "label_13-1"
@@ -4209,6 +4251,7 @@
                 },
                 {
                     "id": "n_48",
+                    "models": "FMA:6710",
                     "connects": [
                         "point_28",
                         "respiratory_8-1"
@@ -4216,6 +4259,7 @@
                 },
                 {
                     "id": "n_49",
+                    "models": "FMA:6249",
                     "connects": [
                         "point_28",
                         "respiratory_11-1"
@@ -4223,6 +4267,7 @@
                 },
                 {
                     "id": "n_50",
+                    "models": "FMA:53526",
                     "connects": [
                         "point_28",
                         "point_38"
@@ -4230,6 +4275,7 @@
                 },
                 {
                     "id": "n_51",
+                    "models": "FMA:65515",
                     "connects": [
                         "point_30",
                         "plexus_4-1"
@@ -4237,6 +4283,7 @@
                 },
                 {
                     "id": "n_52",
+                    "models": "FMA:6247",
                     "connects": [
                         "point_31",
                         "respiratory_17-1"
@@ -4244,6 +4291,7 @@
                 },
                 {
                     "id": "n_53",
+                    "models": "FMA:65514",
                     "connects": [
                         "point_32",
                         "point_33"
@@ -4251,6 +4299,7 @@
                 },
                 {
                     "id": "n_54",
+                    "models": "FMA:6715",
                     "connects": [
                         "point_33",
                         "plexus_5-1"
@@ -4258,6 +4307,7 @@
                 },
                 {
                     "id": "n_55",
+                    "models": "FMA:6716",
                     "connects": [
                         "point_33",
                         "plexus_5-1"
@@ -4265,6 +4315,7 @@
                 },
                 {
                     "id": "n_56",
+                    "models": "FMA:77213",
                     "connects": [
                         "point_34",
                         "digestive_9-1"
@@ -4272,6 +4323,7 @@
                 },
                 {
                     "id": "n_57",
+                    "models": "FMA:78582",
                     "connects": [
                         "point_35",
                         "plexus_6-1"
@@ -4279,6 +4331,7 @@
                 },
                 {
                     "id": "n_58",
+                    "models": "FMA:6670",
                     "connects": [
                         "point_36",
                         "urinary_13-1"
@@ -4328,6 +4381,7 @@
                 },
                 {
                     "id": "n_65",
+                    "models": "FMA:6705",
                     "connects": [
                         "external_laryngeal_n_branching_point",
                         "label_14-1"
@@ -4335,6 +4389,7 @@
                 },
                 {
                     "id": "n_66",
+                    "models": "FMA:6707",
                     "connects": [
                         "external_laryngeal_n_branching_point",
                         "label_15-1"
@@ -4342,6 +4397,7 @@
                 },
                 {
                     "id": "n_67",
+                    "models": "FMA:6706",
                     "connects": [
                         "external_laryngeal_n_branching_point",
                         "plexus_2-1"
@@ -4349,6 +4405,7 @@
                 },
                 {
                     "id": "n_68",
+                    "models": "FMA:6708",
                     "connects": [
                         "external_laryngeal_n_branching_point",
                         "point_41"
@@ -5425,6 +5482,7 @@
                 },
                 {
                     "id": "phrenic_n",
+                    "models": "UBERON:0001884",
                     "connects": [
                         "C3_C5_spinal_n-phrenic_n",
                         "phrenic_n_branching_point"
@@ -5632,6 +5690,7 @@
                 },
                 {
                     "id": "bolser_1",
+                    "models": "ILX:0738312",
                     "connects": [
                         "ganglion_1-1",
                         "bolser_1_branching_point"
@@ -5681,6 +5740,7 @@
                 },
                 {
                     "id": "bolser_8",
+                    "models": "UBERON:0001650",
                     "connects": [
                         "plexus_7-1",
                         "bolser_8_branching_point"
@@ -5695,6 +5755,7 @@
                 },
                 {
                     "id": "bolser_10",
+                    "models": "ILX:0738315",
                     "connects": [
                         "bolser_8_branching_point",
                         "respiratory_11-1"
@@ -5737,6 +5798,7 @@
                 },
                 {
                     "id": "splanchnic_n",
+                    "models": "UBERON:0003715",
                     "connects": [
                         "splanchnic_n_start-1",
                         "splanchnic_n_start-2",
