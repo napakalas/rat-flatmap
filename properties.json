@@ -1217,8 +1217,8 @@
             "name": "Anterior root of fifth lumbar nerve"
         },
         "S43_L6": {
-            "models": "ILX:0792853",
-            "name": "Anterior root of sixth lumbar nerve"
+            "models": "EMAPA:25279",
+            "name": "Sixth lumbar ventral root"
         },
         "S43_S1": {
             "models": "ILX:0792853",
@@ -1522,13 +1522,15 @@
             "models": "ILX:0739296",
             "name": "fifth lumbar sympathetic ganglion"
         },
-        "S46_L6": {
+        "S62_L6": {
             "models": "ILX:0739297",
-            "name": "sixth lumbar sympathetic ganglion"
+            "name": "sixth lumbar sympathetic ganglion",
+            "comment": "Id should be S46_L6"
         },
-        "S46_S1": {
+        "S66_S1": {
             "models": "ILX:0789109",
-            "name": "First sacral ganglion"
+            "name": "First sacral ganglion",
+            "comment": "Id should be S46_S1"
         },
         "S46_S2": {
             "models": "ILX:0789655",
@@ -4708,176 +4710,176 @@
                     "id": "C3_dorsal_root",
                     "connects": [
                         "C3_spinal",
+                        "S45_C3",
                         "C3_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_C3",
-                        "S45_C3"
+                        "S44_C3"
                     ]
                 },
                 {
                     "id": "C4_dorsal_root",
                     "connects": [
                         "C4_spinal",
+                        "S45_C4",
                         "C4_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_C4",
-                        "S45_C4"
+                        "S44_C4"
                     ]
                 },
                 {
                     "id": "C5_dorsal_root",
                     "connects": [
                         "C5_spinal",
+                        "S45_C5",
                         "C5_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_C5",
-                        "S45_C5"
+                        "S44_C5"
                     ]
                 },
                 {
                     "id": "C6_dorsal_root",
                     "connects": [
                         "C6_spinal",
+                        "S45_C6",
                         "C6_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_C6",
-                        "S45_C6"
+                        "S44_C6"
                     ]
                 },
                 {
                     "id": "C7_dorsal_root",
                     "connects": [
                         "C7_spinal",
+                        "S45_C7",
                         "C7_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_C7",
-                        "S45_C7"
+                        "S44_C7"
                     ]
                 },
                 {
                     "id": "C8_dorsal_root",
                     "connects": [
                         "C8_spinal",
+                        "S45_C8",
                         "C8_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_C8",
-                        "S45_C8"
+                        "S44_C8"
                     ]
                 },
                 {
                     "id": "T1_dorsal_root",
                     "connects": [
                         "T1_spinal",
+                        "S45_T1",
                         "T1_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_T1",
-                        "S45_T1"
+                        "S44_T1"
                     ]
                 },
                 {
                     "id": "T2_dorsal_root",
                     "connects": [
                         "T2_spinal",
+                        "S45_T2",
                         "T2_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_T2",
-                        "S45_T2"
+                        "S44_T2"
                     ]
                 },
                 {
                     "id": "T3_dorsal_root",
                     "connects": [
                         "T3_spinal",
+                        "S45_T3",
                         "T3_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_T3",
-                        "S45_T3"
+                        "S44_T3"
                     ]
                 },
                 {
                     "id": "T4_dorsal_root",
                     "connects": [
                         "T4_spinal",
+                        "S45_T4",
                         "T4_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_T4",
-                        "S45_T4"
+                        "S44_T4"
                     ]
                 },
                 {
                     "id": "T5_dorsal_root",
                     "connects": [
                         "T5_spinal",
+                        "S45_T5",
                         "T5_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_T5",
-                        "S45_T5"
+                        "S44_T5"
                     ]
                 },
                 {
                     "id": "T6_dorsal_root",
                     "connects": [
                         "T6_spinal",
+                        "S45_T6",
                         "T6_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_T6",
-                        "S45_T6"
+                        "S44_T6"
                     ]
                 },
                 {
                     "id": "L1_dorsal_root",
                     "connects": [
                         "L1_spinal",
+                        "S45_L1",
                         "L1_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_L1",
-                        "S45_L1"
+                        "S44_L1"
                     ]
                 },
                 {
                     "id": "L2_dorsal_root",
                     "connects": [
                         "L2_spinal",
+                        "S45_L2",
                         "L2_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_L2",
-                        "S45_L2"
+                        "S44_L2"
                     ]
                 },
                 {
                     "id": "L6_dorsal_root",
                     "connects": [
                         "L6_spinal",
+                        "S45_L6",
                         "L6_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_L6",
-                        "S45_L6"
+                        "S44_L6"
                     ]
                 },
                 {
                     "id": "S1_dorsal_root",
                     "connects": [
                         "S1_spinal",
+                        "S45_S1",
                         "S1_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_S1",
-                        "S45_S1"
+                        "S44_S1"
                     ]
                 },
                 {
