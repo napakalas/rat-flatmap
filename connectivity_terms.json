@@ -371,6 +371,13 @@
         ]
     },
     {
+        "id": "ILX:0793357",
+        "name": "Thirteenth thoracic spinal cord segment",
+        "aliases": [
+            "EMAPA:19554"
+        ]
+    },
+    {
         "id": "UBERON:0001723",
         "name": "tongue",
         "aliases": [
