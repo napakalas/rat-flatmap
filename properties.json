@@ -3839,6 +3839,27 @@
         "splanchnic": {
             "type": "nerve",
             "models": "UBERON:0003715"
+        },
+        "T1_paravertebral_ganglion-ardell_5": {
+            "class": "neuron-ardell_5"
+        },
+        "T2_paravertebral_ganglion-ardell_5": {
+            "class": "neuron-ardell_5"
+        },
+        "T3_paravertebral_ganglion-ardell_5": {
+            "class": "neuron-ardell_5"
+        },
+        "T4_paravertebral_ganglion-ardell_5": {
+            "class": "neuron-ardell_5"
+        },
+        "T5_paravertebral_ganglion-ardell_5": {
+            "class": "neuron-ardell_5"
+        },
+        "T6_paravertebral_ganglion-ardell_5": {
+            "class": "neuron-ardell_5"
+        },
+        "ardell_5": {
+            "class": "neuron-ardell_5"
         }
     },
     "networks": [
