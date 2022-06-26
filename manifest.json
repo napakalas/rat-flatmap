@@ -11,6 +11,7 @@
         }
     ],
     "anatomicalMap": "anatomical_map.json",
+    "connectivityTerms": "connectivity_terms.json",
     "neuronConnectivity": [
         "https://apinatomy.org/uris/models/keast-bladder"
     ]

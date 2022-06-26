@@ -1,0 +1,436 @@
+[
+    {
+        "id": "ILX:0791148",
+        "name": "Anterior root of fifth lumbar nerve",
+        "aliases": [
+            "EMAPA:25277"
+        ]
+    },
+    {
+        "id": "ILX:0790146",
+        "name": "Anterior root of fifth thoracic nerve",
+        "aliases": [
+            "FMA:12900"
+        ]
+    },
+    {
+        "id": "ILX:0785421",
+        "name": "Anterior root of first lumbar nerve",
+        "aliases": [
+            "EMAPA:25269"
+        ]
+    },
+    {
+        "id": "ILX:0792853",
+        "name": "Anterior root of first sacral nerve",
+        "aliases": [
+            "EMAPA:25281"
+        ]
+    },
+    {
+        "id": "ILX:0787722",
+        "name": "Anterior root of first thoracic nerve",
+        "aliases": [
+            "FMA:7643"
+        ]
+    },
+    {
+        "id": "ILX:0792838",
+        "name": "Anterior root of fourth thoracic nerve",
+        "aliases": [
+            "FMA:12899"
+        ]
+    },
+    {
+        "id": "ILX:0788675",
+        "name": "Anterior root of second lumbar nerve",
+        "aliases": [
+            "EMAPA:25271"
+        ]
+    },
+    {
+        "id": "ILX:0789894",
+        "name": "Anterior root of second thoracic nerve",
+        "aliases": [
+            "FMA:12897"
+        ]
+    },
+    {
+        "id": "ILX:0791062",
+        "name": "Anterior root of sixth thoracic nerve",
+        "aliases": [
+            "FMA:12901"
+        ]
+    },
+    {
+        "id": "ILX:0784804",
+        "name": "Anterior root of third thoracic nerve",
+        "aliases": [
+            "FMA:12898"
+        ]
+    },
+    {
+        "id": "UBERON:0000947",
+        "name": "aorta",
+        "aliases": [
+            "FMA:3734"
+        ]
+    },
+    {
+        "id": "UBERON:0001508",
+        "name": "arch of aorta",
+        "aliases": [
+            "ILX:0738302"
+        ]
+    },
+    {
+        "id": "UBERON:0001629",
+        "name": "carotid body",
+        "aliases": [
+            "ILX:0736966"
+        ]
+    },
+    {
+        "id": "UBERON:0003708",
+        "name": "carotid sinus",
+        "aliases": [
+            "ILX:0731873"
+        ]
+    },
+    {
+        "id": "UBERON:0001894",
+        "name": "diencephalon",
+        "aliases": [
+            "ILX:0103217"
+        ]
+    },
+    {
+        "id": "UBERON:0002870",
+        "name": "dorsal motor nucleus of vagus nerve",
+        "aliases": [
+            "FMA:54592"
+        ]
+    },
+    {
+        "id": "UBERON:0000388",
+        "name": "epiglottis",
+        "aliases": [
+            "ILX:0103886"
+        ]
+    },
+    {
+        "id": "ILX:0786141",
+        "name": "Fifth thoracic ganglion",
+        "aliases": [
+            "FMA:6478"
+        ]
+    },
+    {
+        "id": "ILX:0789862",
+        "name": "First lumbar ganglion",
+        "aliases": [
+            "FMA:6540"
+        ]
+    },
+    {
+        "id": "ILX:0789109",
+        "name": "First sacral ganglion",
+        "aliases": [
+            "FMA:6552"
+        ]
+    },
+    {
+        "id": "ILX:0790472",
+        "name": "Fourth lumbar ganglion",
+        "aliases": [
+            "FMA:6543"
+        ]
+    },
+    {
+        "id": "ILX:0786272",
+        "name": "Fourth thoracic ganglion",
+        "aliases": [
+            "FMA:6477"
+        ]
+    },
+    {
+        "id": "UBERON:0001649",
+        "name": "glossopharyngeal nerve",
+        "aliases": [
+            "ILX:0723837"
+        ]
+    },
+    {
+        "id": "ILX:0785825",
+        "name": "Gray communicating ramus of first lumbar nerve",
+        "aliases": [
+            "FMA:65910"
+        ]
+    },
+    {
+        "id": "ILX:0793228",
+        "name": "Gray communicating ramus of first sacral nerve",
+        "aliases": [
+            "FMA:65986"
+        ]
+    },
+    {
+        "id": "ILX:0788536",
+        "name": "Gray communicating ramus of fourth lumbar nerve",
+        "aliases": [
+            "FMA:65913"
+        ]
+    },
+    {
+        "id": "ILX:0785733",
+        "name": "Gray communicating ramus of second lumbar nerve",
+        "aliases": [
+            "FMA:65911"
+        ]
+    },
+    {
+        "id": "ILX:0785932",
+        "name": "Gray communicating ramus of third lumbar nerve",
+        "aliases": [
+            "FMA:65912"
+        ]
+    },
+    {
+        "id": "UBERON:0001898",
+        "name": "hypothalamus",
+        "aliases": [
+            "ILX:0105177"
+        ]
+    },
+    {
+        "id": "UBERON:0002440",
+        "name": "inferior cervical ganglion",
+        "aliases": [
+            "FMA:6961",
+            "ILX:0734766"
+        ]
+    },
+    {
+        "id": "UBERON:0002022",
+        "name": "insula",
+        "aliases": [
+            "FMA:67329"
+        ]
+    },
+    {
+        "id": "UBERON:0001532",
+        "name": "internal carotid artery",
+        "aliases": [
+            "ILX:0736647"
+        ]
+    },
+    {
+        "id": "UBERON:0001737",
+        "name": "larynx",
+        "aliases": [
+            "ILX:0727818"
+        ]
+    },
+    {
+        "id": "UBERON:0001896",
+        "name": "medulla oblongata",
+        "aliases": [
+            "ILX:0738301",
+            "FMA:61108"
+        ]
+    },
+    {
+        "id": "UBERON:0001891",
+        "name": "midbrain",
+        "aliases": [
+            "ILX:0106935",
+            "FMA:61993"
+        ]
+    },
+    {
+        "id": "UBERON:0001990",
+        "name": "middle cervical ganglion",
+        "aliases": [
+            "ILX:0726454",
+            "FMA:6468"
+        ]
+    },
+    {
+        "id": "UBERON:0004982",
+        "name": "mucosa of epiglottis",
+        "aliases": [
+            "ILX:0736652"
+        ]
+    },
+    {
+        "id": "UBERON:0005020",
+        "name": "mucosa of tongue",
+        "aliases": [
+            "ILX:0731712",
+            "FMA:54807"
+        ]
+    },
+    {
+        "id": "UBERON:0001719",
+        "name": "nucleus ambiguus",
+        "aliases": [
+            "FMA:54588"
+        ]
+    },
+    {
+        "id": "UBERON:0009050",
+        "name": "nucleus of solitary tract",
+        "aliases": [
+            "ILX:0738323"
+        ]
+    },
+    {
+        "id": "UBERON:0001884",
+        "name": "phrenic nerve",
+        "aliases": [
+            "ILX:0736057"
+        ]
+    },
+    {
+        "id": "UBERON:0000988",
+        "name": "pons",
+        "aliases": [
+            "ILX:0109019",
+            "FMA:67943"
+        ]
+    },
+    {
+        "id": "UBERON:0002078",
+        "name": "right cardiac atrium",
+        "aliases": [
+            "FMA:7096"
+        ]
+    },
+    {
+        "id": "ILX:0786933",
+        "name": "Second lumbar ganglion",
+        "aliases": [
+            "FMA:6541"
+        ]
+    },
+    {
+        "id": "ILX:0786228",
+        "name": "Second thoracic ganglion",
+        "aliases": [
+            "FMA:6475"
+        ]
+    },
+    {
+        "id": "ILX:0793360",
+        "name": "Sixth lumbar dorsal root ganglion",
+        "aliases": [
+            "EMAPA:25169"
+        ]
+    },
+    {
+        "id": "ILX:0789947",
+        "name": "Sixth thoracic ganglion",
+        "aliases": [
+            "FMA:6479"
+        ]
+    },
+    {
+        "id": "UBERON:0001989",
+        "name": "superior cervical ganglion",
+        "aliases": [
+            "ILX:0725956",
+            "FMA:6467"
+        ]
+    },
+    {
+        "id": "UBERON:0011326",
+        "name": "superior laryngeal nerve",
+        "aliases": [
+            "ILX:0731053"
+        ]
+    },
+    {
+        "id": "ILX:0788315",
+        "name": "Third lumbar ganglion",
+        "aliases": [
+            "FMA:6542"
+        ]
+    },
+    {
+        "id": "ILX:0786722",
+        "name": "Third thoracic ganglion",
+        "aliases": [
+            "FMA:6476"
+        ]
+    },
+    {
+        "id": "ILX:0793359",
+        "name": "Thirteenth thoracic dorsal root ganglion",
+        "aliases": [
+            "EMAPA:25186"
+        ]
+    },
+    {
+        "id": "ILX:0793357",
+        "name": "Thirteenth thoracic spinal cord segment",
+        "aliases": [
+            "EMAPA:19554"
+        ]
+    },
+    {
+        "id": "UBERON:0001723",
+        "name": "tongue",
+        "aliases": [
+            "ILX:0111810"
+        ]
+    },
+    {
+        "id": "UBERON:0003126",
+        "name": "trachea",
+        "aliases": [
+            "ILX:0729183"
+        ]
+    },
+    {
+        "id": "ILX:0787009",
+        "name": "Twelfth thoracic ganglion",
+        "aliases": [
+            "FMA:6485"
+        ]
+    },
+    {
+        "id": "UBERON:0001759",
+        "name": "vagus nerve",
+        "aliases": [
+            "ILX:0733375"
+        ]
+    },
+    {
+        "id": "ILX:0738326",
+        "name": "Wall of larynx",
+        "aliases": [
+            "FMA:64182"
+        ]
+    },
+    {
+        "id": "ILX:0793220",
+        "name": "White communicating ramus of first lumbar anterior ramus",
+        "aliases": [
+            "FMA:12697"
+        ]
+    },
+    {
+        "id": "ILX:0793221",
+        "name": "White communicating ramus of second lumbar anterior ramus",
+        "aliases": [
+            "FMA:12698"
+        ]
+    },
+    {
+        "id": "ILX:0793361",
+        "name": "White communicating ramus of third lumbar anterior ramus",
+        "aliases": [
+            "FMA:12699"
+        ]
+    }
+]

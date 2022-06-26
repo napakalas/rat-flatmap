@@ -1113,95 +1113,132 @@
             "class": "spinal_42"
         },
         "S43_C1": {
-            "class": "spinal_43"
+            "models": "ILX:0792444",
+            "name": "Anterior root of first cervical nerve"
         },
         "S43_C2": {
-            "class": "spinal_43"
+            "models": "ILX:0784614",
+            "name": "Anterior root of second cervical nerve"
         },
         "S43_C3": {
-            "class": "spinal_43"
+            "models": "ILX:0786384",
+            "name": "Anterior root of third cervical nerve"
         },
         "S43_C4": {
-            "class": "spinal_43"
+            "models": "ILX:0785015",
+            "name": "Anterior root of fourth cervical nerve"
         },
         "S43_C5": {
-            "class": "spinal_43"
+            "models": "ILX:0792263",
+            "name": "Anterior root of fifth cervical nerve"
         },
         "S43_C6": {
-            "class": "spinal_43"
+            "models": "ILX:0789335",
+            "name": "Anterior root of sixth cervical nerve"
         },
         "S43_C7": {
-            "class": "spinal_43"
+            "models": "ILX:0785896",
+            "name": "Anterior root of seventh cervical nerve"
         },
         "S43_C8": {
-            "class": "spinal_43"
-        },
-        "S43_L1": {
-            "models": "EMAPA:25269"
-        },
-        "S43_L2": {
-            "models": "EMAPA:25271"
-        },
-        "S43_L3": {
-            "class": "spinal_43"
-        },
-        "S43_L4": {
-            "class": "spinal_43"
-        },
-        "S43_L5": {
-            "class": "spinal_43",
-            "models": "EMAPA:25277"
-        },
-        "S43_L6": {
-            "models": "EMAPA:25279"
-        },
-        "S43_S1": {
-            "models": "EMAPA:25281"
-        },
-        "S43_S2": {
-            "class": "spinal_43"
-        },
-        "S43_S3": {
-            "class": "spinal_43"
+            "models": "ILX:0786163",
+            "name": "Anterior root of eighth cervical nerve"
         },
         "S43_T1": {
-            "class": "spinal_43"
-        },
-        "S43_T10": {
-            "class": "spinal_43"
-        },
-        "S43_T11": {
-            "class": "spinal_43"
-        },
-        "S43_T12": {
-            "class": "spinal_43"
-        },
-        "S43_T13": {
-            "class": "spinal_43"
+            "models": "ILX:0787722",
+            "name": "Anterior root of first thoracic nerve"
         },
         "S43_T2": {
-            "class": "spinal_43"
+            "models": "ILX:0789894",
+            "name": "Anterior root of second thoracic nerve"
         },
         "S43_T3": {
-            "class": "spinal_43"
+            "models": "ILX:0784804",
+            "name": "Anterior root of third thoracic nerve"
         },
         "S43_T4": {
-            "class": "spinal_43"
+            "models": "ILX:0792838",
+            "name": "Anterior root of fourth thoracic nerve"
         },
         "S43_T5": {
-            "class": "spinal_43"
+            "models": "ILX:0790146",
+            "name": "Anterior root of fifth thoracic nerve"
         },
         "S43_T6": {
-            "class": "spinal_43"
+            "models": "ILX:0791062",
+            "name": "Anterior root of sixth thoracic nerve"
         },
         "S43_T7": {
-            "class": "spinal_43"
+            "models": "ILX:0789966",
+            "name": "Anterior root of seventh thoracic nerve"
         },
         "S43_T8": {
-            "class": "spinal_43"
+            "models": "ILX:0788026",
+            "name": "Anterior root of eighth thoracic nerve"
         },
         "S43_T9": {
-            "class": "spinal_43"
+            "models": "ILX:0791932",
+            "name": "Anterior root of ninth thoracic nerve"
+        },
+        "S43_T10": {
+            "models": "ILX:0788670",
+            "name": "Anterior root of tenth thoracic nerve"
+        },
+        "S43_T11": {
+            "models": "ILX:0790602",
+            "name": "Anterior root of eleventh thoracic nerve"
+        },
+        "S43_T12": {
+            "models": "ILX:0792048",
+            "name": "Anterior root of twelfth thoracic nerve"
+        },
+        "S43_T13": {
+            "models": "ILX:0793207",
+            "name": "Anterior root of thirteenth thoracic nerve"
+        },
+        "S43_L1": {
+            "models": "ILX:0785421",
+            "name": "Anterior root of first lumbar nerve"
+        },
+        "S43_L2": {
+            "models": "ILX:0788675",
+            "name": "Anterior root of second lumbar nerve"
+        },
+        "S43_L3": {
+            "models": "ILX:0787520",
+            "name": "Anterior root of third lumbar nerve"
+        },
+        "S43_L4": {
+            "models": "ILX:0789968",
+            "name": "Anterior root of fourth lumbar nerve"
+        },
+        "S43_L5": {
+            "models": "ILX:0791148",
+            "name": "Anterior root of fifth lumbar nerve"
+        },
+        "S43_L6": {
+            "models": "EMAPA:25279",
+            "name": "Sixth lumbar ventral root"
+        },
+        "S43_S1": {
+            "models": "ILX:0792853",
+            "name": "Anterior root of first sacral nerve"
+        },
+        "S43_S2": {
+            "models": "ILX:0788884",
+            "name": "Anterior root of second sacral nerve"
+        },
+        "S43_S3": {
+            "models": "ILX:0786888",
+            "name": "Anterior root of third sacral nerve"
+        },
+        "S43_S4": {
+            "models": "ILX:0788553",
+            "name": "Anterior root of fourth sacral nerve"
+        },
+        "S43_S5": {
+            "models": "ILX:0785971",
+            "name": "Anterior root of fifth sacral nerve"
         },
         "S44_C1": {
             "class": "spinal_44"
@@ -1245,28 +1282,7 @@
         "S44_L6": {
             "class": "spinal_44"
         },
-        "S44_S1": {
-            "class": "spinal_44"
-        },
-        "S44_S2": {
-            "class": "spinal_44"
-        },
-        "S44_S3": {
-            "class": "spinal_44"
-        },
         "S44_T1": {
-            "class": "spinal_44"
-        },
-        "S44_T10": {
-            "class": "spinal_44"
-        },
-        "S44_T11": {
-            "class": "spinal_44"
-        },
-        "S44_T12": {
-            "class": "spinal_44"
-        },
-        "S44_T13": {
             "class": "spinal_44"
         },
         "S44_T2": {
@@ -1293,158 +1309,317 @@
         "S44_T9": {
             "class": "spinal_44"
         },
+        "S44_T10": {
+            "class": "spinal_44"
+        },
+        "S44_T11": {
+            "class": "spinal_44"
+        },
+        "S44_T12": {
+            "class": "spinal_44"
+        },
+        "S44_T13": {
+            "class": "spinal_44"
+        },
+        "S44_S1": {
+            "class": "spinal_44"
+        },
+        "S44_S2": {
+            "class": "spinal_44"
+        },
+        "S44_S3": {
+            "class": "spinal_44"
+        },
         "S45_C1": {
-            "class": "spinal_45"
+            "models": "UBERON:0002838",
+            "name": "first cervical dorsal root ganglion"
         },
         "S45_C2": {
-            "class": "spinal_45"
+            "models": "UBERON:0002839",
+            "name": "second cervical dorsal root ganglion"
         },
         "S45_C3": {
-            "class": "spinal_45"
+            "models": "UBERON:0002840",
+            "name": "third cervical dorsal root ganglion"
         },
         "S45_C4": {
-            "class": "spinal_45"
+            "models": "UBERON:0002841",
+            "name": "fourth cervical dorsal root ganglion"
         },
         "S45_C5": {
-            "class": "spinal_45"
+            "models": "UBERON:0002842",
+            "name": "fifth cervical dorsal root ganglion"
         },
         "S45_C6": {
             "class": "spinal_45"
         },
         "S45_C7": {
-            "class": "spinal_45"
+            "models": "UBERON:0002843",
+            "name": "seventh cervical dorsal root ganglion"
         },
         "S45_C8": {
-            "class": "spinal_45"
-        },
-        "S45_L1": {
-            "models": "UBERON:0002857"
-        },
-        "S45_L2": {
-            "models": "UBERON:0002856"
-        },
-        "S45_L3": {
-            "class": "spinal_45"
-        },
-        "S45_L4": {
-            "class": "spinal_45"
-        },
-        "S45_L5": {
-            "class": "spinal_45"
-        },
-        "S45_L6": {
-            "models": "EMAPA:25169"
-        },
-        "S45_S1": {
-            "models": "UBERON:0002860"
-        },
-        "S45_S2": {
-            "class": "spinal_45"
-        },
-        "S45_S3": {
-            "class": "spinal_45"
+            "models": "UBERON:0002844",
+            "name": "eighth cervical dorsal root ganglion"
         },
         "S45_T1": {
-            "class": "spinal_45"
-        },
-        "S45_T10": {
-            "class": "spinal_45"
-        },
-        "S45_T11": {
-            "class": "spinal_45"
-        },
-        "S45_T12": {
-            "class": "spinal_45"
-        },
-        "S45_T13": {
-            "class": "spinal_45"
+            "models": "UBERON:0002845",
+            "name": "first thoracic dorsal root ganglion"
         },
         "S45_T2": {
-            "class": "spinal_45"
+            "models": "UBERON:0002846",
+            "name": "second thoracic dorsal root ganglion"
         },
         "S45_T3": {
-            "class": "spinal_45"
+            "models": "UBERON:0002847",
+            "name": "third thoracic dorsal root ganglion"
         },
         "S45_T4": {
             "class": "spinal_45"
         },
         "S45_T5": {
-            "class": "spinal_45"
+            "models": "UBERON:0002848",
+            "name": "fifth thoracic dorsal root ganglion"
         },
         "S45_T6": {
-            "class": "spinal_45"
+            "models": "UBERON:0002849",
+            "name": "sixth thoracic dorsal root ganglion"
         },
         "S45_T7": {
-            "class": "spinal_45"
+            "models": "UBERON:0002850",
+            "name": "seventh thoracic dorsal root ganglion"
         },
         "S45_T8": {
-            "class": "spinal_45"
+            "models": "UBERON:0002851",
+            "name": "eighth thoracic dorsal root ganglion"
         },
         "S45_T9": {
+            "models": "UBERON:0002852",
+            "name": "ninth thoracic dorsal root ganglion"
+        },
+        "S45_T10": {
+            "models": "UBERON:0002853",
+            "name": "tenth thoracic dorsal root ganglion"
+        },
+        "S45_T11": {
+            "models": "UBERON:0002854",
+            "name": "eleventh thoracic dorsal root ganglion"
+        },
+        "S45_T12": {
             "class": "spinal_45"
         },
-        "S46_L1": {
-            "models": "FMA:6540"
+        "S45_T13": {
+            "models": "ILX:0793359",
+            "name": "Thirteenth thoracic dorsal root ganglion"
         },
-        "S46_L2": {
-            "models": "FMA:6541"
+        "S45_L1": {
+            "models": "UBERON:0002857",
+            "name": "first lumbar dorsal root ganglion"
         },
-        "S46_L3": {
-            "class": "spinal_59"
+        "S45_L2": {
+            "models": "UBERON:0002856",
+            "name": "second lumbar dorsal root ganglion"
         },
-        "S46_L4": {
-            "class": "spinal_60"
+        "S45_L3": {
+            "models": "UBERON:0002858",
+            "name": "third lumbar dorsal root ganglion"
         },
-        "S46_L5": {
-            "class": "spinal_61"
+        "S45_L4": {
+            "models": "UBERON:0003943",
+            "name": "fourth lumbar dorsal root ganglion"
         },
-        "S46_S2": {
-            "class": "spinal_46"
+        "S45_L5": {
+            "models": "UBERON:0002859",
+            "name": "fifth lumbar dorsal root ganglion"
         },
-        "S46_S3": {
-            "class": "spinal_46"
+        "S45_L6": {
+            "models": "ILX:0793360",
+            "name": "Sixth lumbar dorsal root ganglion"
         },
-        "S46_T10": {
-            "class": "spinal_46"
+        "S45_S1": {
+            "models": "UBERON:0002860",
+            "name": "first sacral dorsal root ganglion"
         },
-        "S46_T11": {
-            "class": "spinal_46"
+        "S45_S2": {
+            "models": "UBERON:0002861",
+            "name": "second sacral dorsal root ganglion"
         },
-        "S46_T12": {
-            "class": "spinal_63"
+        "S45_S3": {
+            "models": "UBERON:0002862",
+            "name": "third sacral dorsal root ganglion"
         },
-        "S46_T13": {
-            "class": "spinal_64"
+        "S45_S4": {
+            "class": "spinal_45"
+        },
+        "S45_S5": {
+            "models": "UBERON:0002863",
+            "name": "fifth sacral dorsal root ganglion"
         },
         "S46_T2": {
-            "class": "spinal_46"
+            "models": "ILX:0786228",
+            "name": "Second thoracic ganglion"
         },
         "S46_T3": {
-            "class": "spinal_46"
+            "models": "ILX:0786722",
+            "name": "Third thoracic ganglion"
         },
         "S46_T4": {
-            "class": "spinal_46"
+            "models": "ILX:0786272",
+            "name": "Fourth thoracic ganglion"
         },
         "S46_T5": {
-            "class": "spinal_46"
+            "models": "ILX:0786141",
+            "name": "Fifth thoracic ganglion"
         },
         "S46_T6": {
-            "class": "spinal_46"
+            "models": "ILX:0789947",
+            "name": "Sixth thoracic ganglion"
         },
         "S46_T7": {
-            "class": "spinal_46"
+            "models": "ILX:0790482",
+            "name": "Seventh thoracic ganglion"
         },
         "S46_T8": {
-            "class": "spinal_46"
+            "models": "ILX:0784721",
+            "name": "Eighth thoracic ganglion"
         },
         "S46_T9": {
-            "class": "spinal_46"
+            "models": "ILX:0784378",
+            "name": "Ninth thoracic ganglion"
+        },
+        "S46_T10": {
+            "models": "ILX:0784569",
+            "name": "Tenth thoracic ganglion"
+        },
+        "S46_T11": {
+            "models": "ILX:0787015",
+            "name": "Eleventh thoracic ganglion"
+        },
+        "S46_T12": {
+            "models": "ILX:0787009",
+            "name": "Twelfth thoracic ganglion"
+        },
+        "S46_T13": {
+            "models": "ILX:0739295",
+            "name": "Thirteenth thoracic ganglion"
+        },
+        "S46_L1": {
+            "models": "ILX:0789862",
+            "name": "First lumbar ganglion"
+        },
+        "S46_L2": {
+            "models": "ILX:0786933",
+            "name": "Second lumbar ganglion"
+        },
+        "S46_L3": {
+            "models": "ILX:0788315",
+            "name": "Third lumbar ganglion"
+        },
+        "S46_L4": {
+            "models": "ILX:0790472",
+            "name": "Fourth lumbar ganglion"
+        },
+        "S46_L5": {
+            "models": "ILX:0739296",
+            "name": "fifth lumbar sympathetic ganglion"
+        },
+        "S62_L6": {
+            "models": "ILX:0739297",
+            "name": "sixth lumbar sympathetic ganglion",
+            "comment": "Id should be S46_L6"
+        },
+        "S66_S1": {
+            "models": "ILX:0789109",
+            "name": "First sacral ganglion",
+            "comment": "Id should be S46_S1"
+        },
+        "S46_S2": {
+            "models": "ILX:0789655",
+            "name": "Second sacral ganglion"
+        },
+        "S46_S3": {
+            "models": "ILX:0790394",
+            "name": "Third sacral ganglion"
+        },
+        "S46_S4": {
+            "models": "ILX:0786049",
+            "name": "Fourth sacral ganglion"
+        },
+        "S48_T1": {
+            "models": "ILX:0738372",
+            "name": "T1 white ramus"
+        },
+        "S48_T2": {
+            "models": "ILX:0793208",
+            "name": "White communicating ramus of second thoracic anterior ramus"
+        },
+        "S48_T3": {
+            "models": "ILX:0793209",
+            "name": "White communicating ramus of third thoracic anterior ramus"
+        },
+        "S48_T4": {
+            "models": "ILX:0793210",
+            "name": "White communicating ramus of fourth thoracic anterior ramus"
+        },
+        "S48_T5": {
+            "models": "ILX:0793211",
+            "name": "White communicating ramus of fifth thoracic anterior ramus"
+        },
+        "S48_T6": {
+            "models": "ILX:0793212",
+            "name": "White communicating ramus of sixth thoracic anterior ramus"
+        },
+        "S48_T7": {
+            "models": "ILX:0793213",
+            "name": "White communicating ramus of seventh thoracic anterior ramus"
+        },
+        "S48_T8": {
+            "models": "ILX:0793214",
+            "name": "White communicating ramus of eighth thoracic anterior ramus"
+        },
+        "S48_T9": {
+            "models": "ILX:0793215",
+            "name": "White communicating ramus of ninth thoracic anterior ramus"
+        },
+        "S48_T10": {
+            "models": "ILX:0793216",
+            "name": "White communicating ramus of tenth thoracic anterior ramus"
+        },
+        "S48_T11": {
+            "models": "ILX:0793217",
+            "name": "White communicating ramus of eleventh thoracic anterior ramus"
+        },
+        "S48_T12": {
+            "models": "ILX:0793218",
+            "name": "White communicating ramus of twelveth thoracic anterior ramus"
+        },
+        "S48_T13": {
+            "models": "ILX:0793219",
+            "name": "White communicating ramus of thirteenth thoracic anterior ramus"
         },
         "S48_L1": {
-            "models": "FMA:12697"
+            "models": "ILX:0793220",
+            "name": "White communicating ramus of first lumbar anterior ramus"
         },
         "S48_L2": {
-            "models": "FMA:12698"
+            "models": "ILX:0793221",
+            "name": "White communicating ramus of second lumbar anterior ramus"
+        },
+        "S48_L3": {
+            "models": "ILX:0793361",
+            "name": "White communicating ramus of third lumbar anterior ramus"
+        },
+        "S48_L4": {
+            "models": "ILX:0793362",
+            "name": "White communicating ramus of fourth lumbar anterior ramus"
+        },
+        "S48_L5": {
+            "class": "spinal_48"
+        },
+        "S48_L6": {
+            "class": "spinal_48"
+        },
+        "S48_S1": {
+            "class": "spinal_48"
         },
         "S48_S2": {
             "class": "spinal_48"
@@ -1452,107 +1627,140 @@
         "S48_S3": {
             "class": "spinal_48"
         },
-        "S48_T1": {
+        "S48_S4": {
             "class": "spinal_48"
         },
-        "S48_T10": {
-            "class": "spinal_48"
+
+
+
+
+        "S49_C1": {
+            "models": "ILX:0793551",
+            "name": "Gray communicating ramus of the first cervical nerve"
         },
-        "S48_T11": {
-            "class": "spinal_48"
+        "S49_C2": {
+            "models": "ILX:0793552",
+            "name": "Gray communicating ramus of the second cervical nerve"
         },
-        "S48_T12": {
-            "class": "spinal_48"
+        "S49_C3": {
+            "models": "ILX:0793553",
+            "name": "Gray communicating ramus of the third cervical nerve"
         },
-        "S48_T13": {
-            "class": "spinal_48"
+        "S49_C4": {
+            "models": "ILX:0793222",
+            "name": "C4 gray ramus"
         },
-        "S48_T2": {
-            "class": "spinal_48"
+        "S49_C5": {
+            "models": "ILX:0793223",
+            "name": "C5 gray ramus"
         },
-        "S48_T3": {
-            "class": "spinal_48"
+        "S49_C6": {
+            "models": "ILX:0793224",
+            "name": "C6 gray ramus"
         },
-        "S48_T4": {
-            "class": "spinal_48"
+        "S49_C7": {
+            "models": "ILX:0793225",
+            "name": "C7 gray ramus"
         },
-        "S48_T5": {
-            "class": "spinal_48"
+        "S49_C8": {
+            "models": "ILX:0793226",
+            "name": "C8 gray ramus"
         },
-        "S48_T6": {
-            "class": "spinal_48"
-        },
-        "S48_T7": {
-            "class": "spinal_48"
-        },
-        "S48_T8": {
-            "class": "spinal_48"
-        },
-        "S48_T9": {
-            "class": "spinal_48"
-        },
-        "S49_L1": {
-            "models": "FMA:65910"
-        },
-        "S49_L2": {
-            "models": "FMA:65911"
-        },
-        "S49_L3": {
-            "class": "spinal_49"
-        },
-        "S49_L4": {
-            "class": "spinal_49"
-        },
-        "S49_L5": {
-            "class": "spinal_49"
-        },
-        "S49_L6": {
-            "models": "ILX:0739299"
-        },
-        "S49_S1": {
-            "models": "FMA:65986"
-        },
-        "S49_S2": {
-            "class": "spinal_49"
-        },
-        "S49_S3": {
-            "class": "spinal_49"
-        },
-        "S49_T10": {
-            "class": "spinal_49"
-        },
-        "S49_T11": {
-            "class": "spinal_49"
-        },
-        "S49_T12": {
-            "class": "spinal_49"
-        },
-        "S49_T13": {
-            "class": "spinal_49"
+        "S49_T1": {
+            "models": "ILX:0787082",
+            "name": "Gray communicating ramus of first intercostal nerve"
         },
         "S49_T2": {
-            "class": "spinal_49"
+            "models": "ILX:0791105",
+            "name": "Gray communicating ramus of second intercostal nerve"
         },
         "S49_T3": {
-            "class": "spinal_49"
+            "models": "ILX:0787562",
+            "name": "Gray communicating ramus of third intercostal nerve"
         },
         "S49_T4": {
-            "class": "spinal_49"
+            "models": "ILX:0788945",
+            "name": "Gray communicating ramus of fourth intercostal nerve"
         },
         "S49_T5": {
-            "class": "spinal_49"
+            "models": "ILX:0784439",
+            "name": "Gray communicating ramus of fifth intercostal nerve"
         },
         "S49_T6": {
-            "class": "spinal_49"
+            "models": "ILX:0787946",
+            "name": "Gray communicating ramus of sixth intercostal nerve"
         },
         "S49_T7": {
-            "class": "spinal_49"
+            "models": "ILX:0788771",
+            "name": "Gray communicating ramus of seventh intercostal nerve"
         },
         "S49_T8": {
-            "class": "spinal_49"
+            "models": "ILX:0791560",
+            "name": "Gray communicating ramus of eighth intercostal nerve"
         },
         "S49_T9": {
-            "class": "spinal_49"
+            "models": "ILX:0785542",
+            "name": "Gray communicating ramus of ninth intercostal nerve"
+        },
+        "S49_T10": {
+            "models": "ILX:0792409",
+            "name": "Gray communicating ramus of tenth intercostal nerve"
+        },
+        "S49_T11": {
+            "models": "ILX:0785067",
+            "name": "Gray communicating ramus of eleventh intercostal nerve"
+        },
+        "S49_T12": {
+            "models": "ILX:0793576",
+            "name": "Gray communicating ramus of subcostal nerve"
+        },
+        "S49_T13": {
+            "models": "ILX:0793227",
+            "name": "Gray communicating ramus of thirteenth thoracic nerve"
+        },
+        "S49_L1": {
+            "models": "ILX:0785825",
+            "name": "Gray communicating ramus of first lumbar nerve"
+        },
+        "S49_L2": {
+            "models": "ILX:0785733",
+            "name": "Gray communicating ramus of second lumbar nerve"
+        },
+        "S49_L3": {
+            "models": "ILX:0785932",
+            "name": "Gray communicating ramus of third lumbar nerve"
+        },
+        "S49_L4": {
+            "models": "ILX:0788536",
+            "name": "Gray communicating ramus of fourth lumbar nerve"
+        },
+        "S49_L5": {
+            "models": "ILX:0785119",
+            "name": "Gray communicating ramus of fifth lumbar nerve"
+        },
+        "S49_L6": {
+            "models": "ILX:0739299",
+            "name": "Gray communicating ramus of sixth lumbar nerve"
+        },
+        "S49_S1": {
+            "models": "ILX:0793228",
+            "name": "Gray communicating ramus of first sacral nerve"
+        },
+        "S49_S2": {
+            "models": "ILX:0793229",
+            "name": "Gray communicating ramus of second sacral nerve"
+        },
+        "S49_S3": {
+            "models": "ILX:0793230",
+            "name": "Gray communicating ramus of third sacral nerve"
+        },
+        "S49_S4": {
+            "models": "ILX:0793231",
+            "name": "Gray communicating ramus of fourth sacral nerve"
+        },
+        "S49_S5": {
+            "models": "ILX:0793232",
+            "name": "Gray communicating ramus of fifth sacral nerve"
         },
         "S50_C1_T": {
             "class": "spinal_50"
@@ -1739,15 +1947,6 @@
         },
         "S62_L6": {
             "class": "spinal_62"
-        },
-        "S66_S1": {
-            "class": "spinal_66"
-        },
-        "S67_L6": {
-            "class": "spinal_67"
-        },
-        "S68_S1": {
-            "class": "spinal_68"
         },
         "ganglion_6-1": {
             "class": "ganglion_6"
@@ -4141,7 +4340,7 @@
                 },
                 {
                     "id": "n_30",
-                    "models": "FMA:53612`",
+                    "models": "FMA:53612",
                     "connects": [
                         "point_22",
                         "point_24"
@@ -4160,7 +4359,7 @@
                 },
                 {
                     "id": "n_32",
-                    "models": "MFA:53600",
+                    "models": "FMA:53600",
                     "connects": [
                         "point_24",
                         "point_25"
@@ -4532,176 +4731,176 @@
                     "id": "C3_dorsal_root",
                     "connects": [
                         "C3_spinal",
+                        "S45_C3",
                         "C3_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_C3",
-                        "S45_C3"
+                        "S44_C3"
                     ]
                 },
                 {
                     "id": "C4_dorsal_root",
                     "connects": [
                         "C4_spinal",
+                        "S45_C4",
                         "C4_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_C4",
-                        "S45_C4"
+                        "S44_C4"
                     ]
                 },
                 {
                     "id": "C5_dorsal_root",
                     "connects": [
                         "C5_spinal",
+                        "S45_C5",
                         "C5_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_C5",
-                        "S45_C5"
+                        "S44_C5"
                     ]
                 },
                 {
                     "id": "C6_dorsal_root",
                     "connects": [
                         "C6_spinal",
+                        "S45_C6",
                         "C6_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_C6",
-                        "S45_C6"
+                        "S44_C6"
                     ]
                 },
                 {
                     "id": "C7_dorsal_root",
                     "connects": [
                         "C7_spinal",
+                        "S45_C7",
                         "C7_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_C7",
-                        "S45_C7"
+                        "S44_C7"
                     ]
                 },
                 {
                     "id": "C8_dorsal_root",
                     "connects": [
                         "C8_spinal",
+                        "S45_C8",
                         "C8_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_C8",
-                        "S45_C8"
+                        "S44_C8"
                     ]
                 },
                 {
                     "id": "T1_dorsal_root",
                     "connects": [
                         "T1_spinal",
+                        "S45_T1",
                         "T1_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_T1",
-                        "S45_T1"
+                        "S44_T1"
                     ]
                 },
                 {
                     "id": "T2_dorsal_root",
                     "connects": [
                         "T2_spinal",
+                        "S45_T2",
                         "T2_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_T2",
-                        "S45_T2"
+                        "S44_T2"
                     ]
                 },
                 {
                     "id": "T3_dorsal_root",
                     "connects": [
                         "T3_spinal",
+                        "S45_T3",
                         "T3_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_T3",
-                        "S45_T3"
+                        "S44_T3"
                     ]
                 },
                 {
                     "id": "T4_dorsal_root",
                     "connects": [
                         "T4_spinal",
+                        "S45_T4",
                         "T4_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_T4",
-                        "S45_T4"
+                        "S44_T4"
                     ]
                 },
                 {
                     "id": "T5_dorsal_root",
                     "connects": [
                         "T5_spinal",
+                        "S45_T5",
                         "T5_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_T5",
-                        "S45_T5"
+                        "S44_T5"
                     ]
                 },
                 {
                     "id": "T6_dorsal_root",
                     "connects": [
                         "T6_spinal",
+                        "S45_T6",
                         "T6_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_T6",
-                        "S45_T6"
+                        "S44_T6"
                     ]
                 },
                 {
                     "id": "L1_dorsal_root",
                     "connects": [
                         "L1_spinal",
+                        "S45_L1",
                         "L1_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_L1",
-                        "S45_L1"
+                        "S44_L1"
                     ]
                 },
                 {
                     "id": "L2_dorsal_root",
                     "connects": [
                         "L2_spinal",
+                        "S45_L2",
                         "L2_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_L2",
-                        "S45_L2"
+                        "S44_L2"
                     ]
                 },
                 {
                     "id": "L6_dorsal_root",
                     "connects": [
                         "L6_spinal",
+                        "S45_L6",
                         "L6_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_L6",
-                        "S45_L6"
+                        "S44_L6"
                     ]
                 },
                 {
                     "id": "S1_dorsal_root",
                     "connects": [
                         "S1_spinal",
+                        "S45_S1",
                         "S1_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_S1",
-                        "S45_S1"
+                        "S44_S1"
                     ]
                 },
                 {
