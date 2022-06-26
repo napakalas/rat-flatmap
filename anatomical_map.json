@@ -1230,5 +1230,9 @@
     "label_23": {
         "term": "FMA:55406",
         "name": "laryngeal vestibule"
+    },
+    "neuron-ardell_5": {
+        "term": "ILX:0748206",
+        "name": "Thoracic cardiac branches"
     }
 }
