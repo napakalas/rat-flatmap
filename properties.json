@@ -6111,20 +6111,6 @@
                     ]
                 },
                 {
-                    "id": "ardell_3",
-                    "connects": [
-                        "ganglion_1-1",
-                        "ardell_3_branching_point"
-                    ]
-                },
-                {
-                    "id": "ardell_4",
-                    "connects": [
-                        "point_1",
-                        "ardell_4_branching_point"
-                    ]
-                },
-                {
                     "id": "ardell_5",
                     "connects": [
                         "ardell_5_start-1",
