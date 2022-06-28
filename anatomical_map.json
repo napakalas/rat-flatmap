@@ -171,6 +171,22 @@
         "term": "UBERON:0001072",
         "name": "posterior vena cava"
     },
+    "cardio_27": {
+        "term": "UBERON:0015129",
+        "name": "Epicardial Fat"
+    },
+    "cardio_28": {
+        "term": "UBERON:0002348",
+        "name": "Epicardium"
+    },
+    "cardio_29": {
+        "term": "UBERON:0002165",
+        "name": "Endocardium"
+    },
+    "cardio_30": {
+        "term": "UBERON:0002349",
+        "name": "Myocardium"
+    },
     "respiratory_1": {
         "term": "UBERON:0001004",
         "name": "respiratory system"
