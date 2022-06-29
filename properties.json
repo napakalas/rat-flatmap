@@ -1351,7 +1351,8 @@
             "name": "fifth cervical dorsal root ganglion"
         },
         "S45_C6": {
-            "class": "spinal_45"
+            "models": "UBERON:0007711",
+            "name": "Sixth Cervical Dorsal Root Ganglion"
         },
         "S45_C7": {
             "models": "UBERON:0002843",
@@ -1374,7 +1375,8 @@
             "name": "third thoracic dorsal root ganglion"
         },
         "S45_T4": {
-            "class": "spinal_45"
+            "models": "UBERON:0007712",
+            "name": "Fourth Thoracic Spinal Ganglion"
         },
         "S45_T5": {
             "models": "UBERON:0002848",
@@ -2233,11 +2235,32 @@
         "cardio_29-1": {
             "class": "cardio_29"
         },
+        "cardio_3-1": {
+            "class": "cardio_3"
+        },
         "cardio_30-1": {
             "class": "cardio_30"
         },
-        "cardio_3-1": {
-            "class": "cardio_3"
+        "cardio_31-1": {
+            "class": "cardio_31"
+        },
+        "cardio_32-1": {
+            "class": "cardio_32"
+        },
+        "cardio_33-1": {
+            "class": "cardio_33"
+        },
+        "cardio_34-1": {
+            "class": "cardio_34"
+        },
+        "cardio_35-1": {
+            "class": "cardio_35"
+        },
+        "cardio_36-1": {
+            "class": "cardio_36"
+        },
+        "cardio_37-1": {
+            "class": "cardio_37"
         },
         "cardio_4-1": {
             "class": "cardio_4"
