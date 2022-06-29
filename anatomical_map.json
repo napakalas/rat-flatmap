@@ -187,6 +187,34 @@
         "term": "UBERON:0002349",
         "name": "Myocardium"
     },
+    "cardio_31": {
+        "term": "UBERON:0002407",
+        "name": "Pericardium"
+    },
+    "cardio_32": {
+        "term": "UBERON:0002409",
+        "name": "Pericardial Fluid"
+    },
+    "cardio_33": {
+        "term": "UBERON:0002425",
+        "name": "Visceral Serous Pericardium"
+    },
+    "cardio_34": {
+        "term": "UBERON:0002359",
+        "name": "Fibrous Pericardium"
+    },
+    "cardio_35": {
+        "term": "UBERON:0002408",
+        "name": "Parietal Serous Pericardium"
+    },
+    "cardio_36": {
+        "term": "UBERON:0002357",
+        "name": "Serous pericardium"
+    },
+    "cardio_37": {
+        "term": "UBERON:0001074",
+        "name": "Pericardial Cavity"
+    },
     "respiratory_1": {
         "term": "UBERON:0001004",
         "name": "respiratory system"
