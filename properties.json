@@ -5626,7 +5626,7 @@
                 {
                     "id": "ICG-CTG_sympathetic_cord",
                     "connects": [
-                        "bolser_9-2",
+                        "ganglion_10-1",
                         "ganglion_11-1"
                     ]
                 },
@@ -5641,7 +5641,7 @@
                     "id": "MCG-ICG_sympathetic_cord",
                     "connects": [
                         "ganglion_9-1",
-                        "bolser_9-2"
+                        "ganglion_10-1"
                     ]
                 },
                 {
@@ -6137,7 +6137,7 @@
                 {
                     "id": "ICG-ardell_2",
                     "connects": [
-                        "bolser_9-2",
+                        "ganglion_10-1",
                         "ardell_2_start"
                     ]
                 },
@@ -6177,7 +6177,7 @@
                 {
                     "id": "ICG-ardell_6",
                     "connects": [
-                        "bolser_9-2",
+                        "ganglion_10-1",
                         "ardell_6_start-3"
                     ]
                 },
@@ -6255,7 +6255,7 @@
                     ]
                 },
                 {
-                    "id": "bolser_9",
+                    "id": "ganglion_10-1",
                     "connects": [
                         "bolser_8_branching_point",
                         "bolser_9_branching_point"
