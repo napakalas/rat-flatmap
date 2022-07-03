@@ -172,48 +172,20 @@
         "name": "posterior vena cava"
     },
     "cardio_27": {
-        "term": "UBERON:0015129",
-        "name": "Epicardial Fat"
-    },
-    "cardio_28": {
         "term": "UBERON:0002348",
         "name": "Epicardium"
     },
-    "cardio_29": {
+    "cardio_28": {
         "term": "UBERON:0002165",
         "name": "Endocardium"
     },
-    "cardio_30": {
+    "cardio_29": {
         "term": "UBERON:0002349",
         "name": "Myocardium"
     },
-    "cardio_31": {
-        "term": "UBERON:0002407",
-        "name": "Pericardium"
-    },
-    "cardio_32": {
-        "term": "UBERON:0002409",
-        "name": "Pericardial Fluid"
-    },
-    "cardio_33": {
-        "term": "UBERON:0002425",
-        "name": "Visceral Serous Pericardium"
-    },
-    "cardio_34": {
-        "term": "UBERON:0002359",
-        "name": "Fibrous Pericardium"
-    },
-    "cardio_35": {
-        "term": "UBERON:0002408",
-        "name": "Parietal Serous Pericardium"
-    },
-    "cardio_36": {
-        "term": "UBERON:0002357",
-        "name": "Serous pericardium"
-    },
-    "cardio_37": {
-        "term": "UBERON:0001074",
-        "name": "Pericardial Cavity"
+    "cardio_30": {
+        "term": "UBERON:0015129",
+        "name": "Epicardial Fat"
     },
     "respiratory_1": {
         "term": "UBERON:0001004",
@@ -1242,5 +1214,11 @@
     "neuron-ardell_5": {
         "term": "ILX:0748206",
         "name": "Thoracic cardiac branches"
+    },
+    "neuron-ardell_8a": {
+        "term": "ilxtr:neuron-type-aacar-8a"
+    },
+    "neuron-ardell_9a": {
+        "term": "ilxtr:neuron-type-aacar-9a"
     }
 }
