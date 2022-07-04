@@ -187,6 +187,22 @@
         "term": "UBERON:0015129",
         "name": "Epicardial Fat"
     },
+    "cardio_31": {
+        "term": "UBERON:0001074",
+        "name": "Pericardial Cavity"
+    },
+    "cardio_32": {
+        "term": "UBERON:0002409",
+        "name": "Pericardial Fluid"
+    },
+    "cardio_33": {
+        "term": "UBERON:0002408",
+        "name": "Parietal Serous Pericardium"
+    },
+    "cardio_34": {
+        "term": "UBERON:0002359",
+        "name": "Fibrous Pericardium"
+    },
     "respiratory_1": {
         "term": "UBERON:0001004",
         "name": "respiratory system"
