@@ -2130,6 +2130,9 @@
         "brain_27-1": {
             "class": "brain_27"
         },
+        "brain_27-2": {
+            "class": "brain_27"
+        },
         "brain_3-1": {
             "class": "brain_3"
         },
@@ -2238,10 +2241,16 @@
         "cardio_28-3": {
             "class": "cardio_28"
         },
+        "cardio_28-4": {
+            "class": "cardio_28"
+        },
         "cardio_29-1": {
             "class": "cardio_29"
         },
         "cardio_29-2": {
+            "class": "cardio_29"
+        },
+        "cardio_29-3": {
             "class": "cardio_29"
         },
         "cardio_3-1": {
@@ -6149,6 +6158,20 @@
                     ]
                 },
                 {
+                    "id": "ardell_4-1",
+                    "connects": [
+                        "brain_27-2",
+                        "brain_33-1"
+                    ]
+                },
+                {
+                    "id": "ardell_4-2",
+                    "connects": [
+                        "brain_27-2",
+                        "brain_33-1"
+                    ]
+                },
+                {
                     "id": "ardell_5",
                     "connects": [
                         "ardell_5_start-1",
@@ -6264,6 +6287,34 @@
                     "connects": [
                         "cardio_27-1",
                         "cardio_30-1"
+                    ]
+                },
+                {
+                    "id": "ardell_11-1",
+                    "connects": [
+                        "cardio_28-2",
+                        "cardio_29-3"
+                    ]
+                },
+                {
+                    "id": "ardell_11-2",
+                    "connects": [
+                        "cardio_27-1",
+                        "cardio_29-3"
+                    ]
+                },
+                {
+                    "id": "ardell_11-3",
+                    "connects": [
+                        "cardio_28-2",
+                        "cardio_29-4"
+                    ]
+                },
+                {
+                    "id": "ardell_11-4",
+                    "connects": [
+                        "cardio_27-1",
+                        "cardio_29-4"
                     ]
                 },
                 {
