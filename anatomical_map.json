@@ -1230,11 +1230,5 @@
     "neuron-ardell_5": {
         "term": "ILX:0748206",
         "name": "Thoracic cardiac branches"
-    },
-    "neuron-ardell_8a": {
-        "term": "ilxtr:neuron-type-aacar-8a"
-    },
-    "neuron-ardell_9a": {
-        "term": "ilxtr:neuron-type-aacar-9a"
     }
 }
