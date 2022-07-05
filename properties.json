@@ -4097,21 +4097,6 @@
         },
         "ardell_5": {
             "class": "neuron-ardell_5"
-        },
-        "ardell_9a-1": {
-            "class": "neuron-ardell_9a"
-        },
-        "ardell_9a-2": {
-            "class": "neuron-ardell_9a"
-        },
-        "ardell_9a-3": {
-            "class": "neuron-ardell_9a"
-        },
-        "ardell_9a-4": {
-            "class": "neuron-ardell_9a"
-        },
-        "ardell_9a-5": {
-            "class": "neuron-ardell_9a"
         }
     },
     "networks": [
@@ -6209,6 +6194,41 @@
                         "ardell_6_start-8",
                         "ardell_6_start-9",
                         "ardell_6_branching_point"
+                    ]
+                },
+                {
+                    "id": "ardell_6-1",
+                    "connects": [
+                        "cardio_27-1",
+                        "cardio_32-1"
+                    ]
+                },
+                {
+                    "id": "ardell_7-1",
+                    "connects": [
+                        "cardio_32-1",
+                        "cardio_33-1"
+                    ]
+                },
+                {
+                    "id": "ardell_7-2",
+                    "connects": [
+                        "cardio_33-1",
+                        "cardio_34-1"
+                    ]
+                },
+                {
+                    "id": "ardell_7-3",
+                    "connects": [
+                        "cardio_30-1",
+                        "cardio_34-1"
+                    ]
+                },
+                {
+                    "id": "ardell_7-4",
+                    "connects": [
+                        "cardio_32-1",
+                        "cardio_34-1"
                     ]
                 },
                 {
