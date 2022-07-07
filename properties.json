@@ -2449,6 +2449,9 @@
         "digestive_58-1": {
             "class": "digestive_58"
         },
+        "digestive_59-1": {
+            "class": "digestive_59"
+        },
         "digestive_6-1": {
             "class": "digestive_6"
         },
@@ -6520,6 +6523,20 @@
                     "connects": [
                         "digestive_56-1",
                         "digestive_57-1"
+                    ]
+                },
+                {
+                    "id": "sstom_9-1",
+                    "connects": [
+                        "digestive_47-2",
+                        "digestive_55-1"
+                    ]
+                },
+                {
+                    "id": "sstom_9-2",
+                    "connects": [
+                        "digestive_55-1",
+                        "digestive_59-1"
                     ]
                 }
             ]
