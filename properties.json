@@ -2413,6 +2413,9 @@
         "digestive_47-1": {
             "class": "digestive_47"
         },
+        "digestive_47-2": {
+            "class": "digestive_47"
+        },
         "digestive_48-1": {
             "class": "digestive_48"
         },
@@ -2427,6 +2430,24 @@
         },
         "digestive_52-1": {
             "class": "digestive_52"
+        },
+        "digestive_53-1": {
+            "class": "digestive_53"
+        },
+        "digestive_54-1": {
+            "class": "digestive_54"
+        },
+        "digestive_55-1": {
+            "class": "digestive_55"
+        },
+        "digestive_56-1": {
+            "class": "digestive_56"
+        },
+        "digestive_57-1": {
+            "class": "digestive_57"
+        },
+        "digestive_58-1": {
+            "class": "digestive_58"
         },
         "digestive_6-1": {
             "class": "digestive_6"
@@ -6443,6 +6464,62 @@
                         "splanchnic_n_start-12",
                         "splanchnic_n_start-13",
                         "splanchnic_n_branching_point"
+                    ]
+                },
+                {
+                    "id": "sstom_12-1",
+                    "connects": [
+                        "digestive_53-1",
+                        "digestive_58-1"
+                    ]
+                },
+                {
+                    "id": "sstom_12-2",
+                    "connects": [
+                        "digestive_53-1",
+                        "digestive_54-1"
+                    ]
+                },
+                {
+                    "id": "sstom_12-3",
+                    "connects": [
+                        "digestive_54-1",
+                        "digestive_55-1"
+                    ]
+                },
+                {
+                    "id": "sstom_12-4",
+                    "connects": [
+                        "digestive_55-1",
+                        "digestive_56-1"
+                    ]
+                },
+                {
+                    "id": "sstom_12-5",
+                    "connects": [
+                        "digestive_47-2",
+                        "digestive_56-1"
+                    ]
+                },
+                {
+                    "id": "sstom_12-6",
+                    "connects": [
+                        "digestive_54-1",
+                        "digestive_57-1"
+                    ]
+                },
+                {
+                    "id": "sstom_12-7",
+                    "connects": [
+                        "digestive_54-1",
+                        "digestive_58-1"
+                    ]
+                },
+                {
+                    "id": "sstom_12-8",
+                    "connects": [
+                        "digestive_56-1",
+                        "digestive_57-1"
                     ]
                 }
             ]
