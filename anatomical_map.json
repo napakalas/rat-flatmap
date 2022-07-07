@@ -511,6 +511,26 @@
         "term": "UBERON:0001201",
         "name": "Serosa of Stomach"
     },
+    "digestive_60": {
+        "term": "UBERON:0001959",
+        "name": "White Pulp of Spleen"
+    },
+    "digestive_61": {
+        "term": "UBERON:0001250",
+        "name": "Red Pulp of Spleen"
+    },
+    "digestive_62": {
+        "term": "UBERON:0001251",
+        "name": "Marginal Zone of Spleen"
+    },
+    "digestive_63": {
+        "term": "UBERON:0001960",
+        "name": "Periarterial Lymphatic Sheath"
+    },
+    "digestive_64": {
+        "term": "UBERON:0010398",
+        "name": "Spleen Marginal Sinus"
+    },
     "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
