@@ -1039,6 +1039,10 @@
         "term": "UBERON:0002925",
         "name": "trigeminal nucleus"
     },
+    "brain_45": {
+        "term": "UBERON:0007634",
+        "name": "Parabrachial Nucleus"
+    },
     "bolser_3": {
         "term": "ILX:0738308",
         "name": "External branch of inferior laryngeal nerve"
