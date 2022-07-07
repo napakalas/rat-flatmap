@@ -2151,6 +2151,12 @@
         "brain_39-1": {
             "class": "brain_39"
         },
+        "brain_4-1": {
+            "class": "brain_4"
+        },
+        "brain_40-1": {
+            "class": "brain_40"
+        },
         "brain_41-1": {
             "class": "brain_41"
         },
@@ -2163,8 +2169,8 @@
         "brain_44-1": {
             "class": "brain_44"
         },
-        "brain_4-1": {
-            "class": "brain_4"
+        "brain_45-1": {
+            "class": "brain_45"
         },
         "brain_5-1": {
             "class": "brain_5"
@@ -2463,6 +2469,21 @@
         },
         "digestive_6-4": {
             "class": "digestive_6"
+        },
+        "digestive_60-1": {
+            "class": "digestive_60"
+        },
+        "digestive_61-1": {
+            "class": "digestive_61"
+        },
+        "digestive_62-1": {
+            "class": "digestive_62"
+        },
+        "digestive_63-1": {
+            "class": "digestive_63"
+        },
+        "digestive_64-1": {
+            "class": "digestive_64"
         },
         "digestive_7-1": {
             "class": "digestive_7"
@@ -6537,6 +6558,20 @@
                     "connects": [
                         "digestive_55-1",
                         "digestive_59-1"
+                    ]
+                },
+                {
+                    "id": "splen_5-1",
+                    "connects": [
+                        "digestive_60-1",
+                        "digestive_64-1"
+                    ]
+                },
+                {
+                    "id": "splen_5-2",
+                    "connects": [
+                        "digestive_62-1",
+                        "digestive_64-1"
                     ]
                 }
             ]
