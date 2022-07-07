@@ -507,6 +507,10 @@
         "term": "UBERON:0001203",
         "name": "Muscularis Mucosae of Stomach"
     },
+    "digestive_59": {
+        "term": "UBERON:0001201",
+        "name": "Serosa of Stomach"
+    },
     "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
