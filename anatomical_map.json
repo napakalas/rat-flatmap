@@ -483,6 +483,30 @@
         "term": "UBERON:0001981",
         "name": "Blood vessel"
     },
+    "digestive_53": {
+        "term": "UBERON:0001199",
+        "name": "Mucosa of Stomach"
+    },
+    "digestive_54": {
+        "term": "UBERON:0001200",
+        "name": "Submucosa of Stomach"
+    },
+    "digestive_55": {
+        "term": "FMA:14910",
+        "name": "Longitudinal Muscle Layer of Stomach"
+    },
+    "digestive_56": {
+        "term": "UBERON:0008857",
+        "name": "Stomach Smooth Muscle Circular Layer"
+    },
+    "digestive_57": {
+        "term": "FMA:14912",
+        "name": "Oblique Muscle Layer of Stomach"
+    },
+    "digestive_58": {
+        "term": "UBERON:0001203",
+        "name": "Muscularis Mucosae of Stomach"
+    },
     "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
