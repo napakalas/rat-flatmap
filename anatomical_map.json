@@ -283,6 +283,34 @@
         "term": "UBERON:0007196",
         "name": "tracheobronchial tree"
     },
+    "respiratory_21": {
+        "term": "FMA:7470",
+        "name": "Wall of Trachea"
+    },
+    "respiratory_22": {
+        "term": "UBERON:0002187",
+        "name": "Terminal Bronchiole"
+    },
+    "respiratory_23": {
+        "term": "FMA:62792",
+        "name": "Wall of Terminal Bronchiole"
+    },
+    "respiratory_24": {
+        "term": "UBERON:0002186",
+        "name": "Bronchiole"
+    },
+    "respiratory_25": {
+        "term": "UBERON:0002185",
+        "name": "Bronchus"
+    },
+    "respiratory_26": {
+        "term": "FMA:67480",
+        "name": "Wall of Bronchus"
+    },
+    "respiratory_27": {
+        "term": "FMA:74655",
+        "name": "Wall of Bronchiole"
+    },
     "digestive_1": {
         "term": "UBERON:0001007",
         "name": "digestive system"
