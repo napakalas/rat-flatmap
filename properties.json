@@ -2666,11 +2666,11 @@
         "reproductive_10-2": {
             "class": "reproductive_10"
         },
-        "respiratory_11-1": {
-            "class": "respiratory_11"
-        },
         "respiratory_10-1": {
             "class": "respiratory_10"
+        },
+        "respiratory_11-1": {
+            "class": "respiratory_11"
         },
         "respiratory_12-1": {
             "class": "respiratory_12"
@@ -2693,11 +2693,32 @@
         "respiratory_19-1": {
             "class": "respiratory_19"
         },
+        "respiratory_2-1": {
+            "class": "respiratory_2"
+        },
         "respiratory_20-1": {
             "class": "respiratory_20"
         },
-        "respiratory_2-1": {
-            "class": "respiratory_2"
+        "respiratory_21-1": {
+            "class": "respiratory_21"
+        },
+        "respiratory_22-1": {
+            "class": "respiratory_22"
+        },
+        "respiratory_23-1": {
+            "class": "respiratory_23"
+        },
+        "respiratory_24-1": {
+            "class": "respiratory_24"
+        },
+        "respiratory_25-1": {
+            "class": "respiratory_25"
+        },
+        "respiratory_26-1": {
+            "class": "respiratory_26"
+        },
+        "respiratory_27-1": {
+            "class": "respiratory_27"
         },
         "respiratory_3-1": {
             "class": "respiratory_3"
