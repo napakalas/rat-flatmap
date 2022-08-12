@@ -284,7 +284,7 @@
         "name": "tracheobronchial tree"
     },
     "respiratory_21": {
-        "term": "FMA:7470",
+        "term": "ILX:0793684",
         "name": "Wall of Trachea"
     },
     "respiratory_22": {
@@ -292,7 +292,7 @@
         "name": "Terminal Bronchiole"
     },
     "respiratory_23": {
-        "term": "FMA:62792",
+        "term": "ILX:0775392",
         "name": "Wall of Terminal Bronchiole"
     },
     "respiratory_24": {
@@ -520,15 +520,15 @@
         "name": "Submucosa of Stomach"
     },
     "digestive_55": {
-        "term": "FMA:14910",
-        "name": "Longitudinal Muscle Layer of Stomach"
+        "term": "UBERON:0008863",
+        "name": "Longitudinal Muscle of Stomach"
     },
     "digestive_56": {
         "term": "UBERON:0008857",
         "name": "Stomach Smooth Muscle Circular Layer"
     },
     "digestive_57": {
-        "term": "FMA:14912",
+        "term": "UBERON:0008862",
         "name": "Oblique Muscle Layer of Stomach"
     },
     "digestive_58": {
@@ -1216,7 +1216,7 @@
         "name": "superior cervical ganglion"
     },
     "plexus_1": {
-        "term": "FMA:67532",
+        "term": "ILX:0793621",
         "name": "external carotid nerve plexus"
     },
     "plexus_2": {
@@ -1236,7 +1236,7 @@
         "name": "esophageal nerve plexus"
     },
     "plexus_6": {
-        "term": "FMA:6633",
+        "term": "ILX:0770806",
         "name": "left gastric nerve plexus"
     },
     "plexus_7": {
@@ -1256,7 +1256,7 @@
         "name": "pharynx"
     },
     "label_7": {
-        "term": "FMA:55031",
+        "term": "UBERON:0000355",
         "name": "mucosa of pharynx"
     },
     "label_8": {
@@ -1280,7 +1280,7 @@
         "name": "inferior pharyngeal constrictor"
     },
     "label_16": {
-        "term": "FMA:77283",
+        "term": "ILX:0745204",
         "name": "ceratocricoid ligament"
     },
     "label_17": {
@@ -1296,8 +1296,8 @@
         "name": "posterior crico-arytenoid"
     },
     "label_20": {
-        "term": "FMA:46588",
-        "name": "thyro-arytenoid"
+        "term": "UBERON:0008576",
+        "name": "Thyroarytenoid"
     },
     "label_21": {
         "term": "UBERON:0008574",
@@ -1308,7 +1308,7 @@
         "name": "vocalis muscle"
     },
     "label_23": {
-        "term": "FMA:55406",
+        "term": "ILX:0742928",
         "name": "laryngeal vestibule"
     },
     "neuron-ardell_5": {
