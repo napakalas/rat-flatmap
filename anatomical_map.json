@@ -283,6 +283,34 @@
         "term": "UBERON:0007196",
         "name": "tracheobronchial tree"
     },
+    "respiratory_21": {
+        "term": "ILX:0793684",
+        "name": "Wall of Trachea"
+    },
+    "respiratory_22": {
+        "term": "UBERON:0002187",
+        "name": "Terminal Bronchiole"
+    },
+    "respiratory_23": {
+        "term": "ILX:0775392",
+        "name": "Wall of Terminal Bronchiole"
+    },
+    "respiratory_24": {
+        "term": "UBERON:0002186",
+        "name": "Bronchiole"
+    },
+    "respiratory_25": {
+        "term": "UBERON:0002185",
+        "name": "Bronchus"
+    },
+    "respiratory_26": {
+        "term": "FMA:67480",
+        "name": "Wall of Bronchus"
+    },
+    "respiratory_27": {
+        "term": "FMA:74655",
+        "name": "Wall of Bronchiole"
+    },
     "digestive_1": {
         "term": "UBERON:0001007",
         "name": "digestive system"
@@ -482,6 +510,54 @@
     "digestive_52": {
         "term": "UBERON:0001981",
         "name": "Blood vessel"
+    },
+    "digestive_53": {
+        "term": "UBERON:0001199",
+        "name": "Mucosa of Stomach"
+    },
+    "digestive_54": {
+        "term": "UBERON:0001200",
+        "name": "Submucosa of Stomach"
+    },
+    "digestive_55": {
+        "term": "UBERON:0008863",
+        "name": "Longitudinal Muscle of Stomach"
+    },
+    "digestive_56": {
+        "term": "UBERON:0008857",
+        "name": "Stomach Smooth Muscle Circular Layer"
+    },
+    "digestive_57": {
+        "term": "UBERON:0008862",
+        "name": "Oblique Muscle Layer of Stomach"
+    },
+    "digestive_58": {
+        "term": "UBERON:0001203",
+        "name": "Muscularis Mucosae of Stomach"
+    },
+    "digestive_59": {
+        "term": "UBERON:0001201",
+        "name": "Serosa of Stomach"
+    },
+    "digestive_60": {
+        "term": "UBERON:0001959",
+        "name": "White Pulp of Spleen"
+    },
+    "digestive_61": {
+        "term": "UBERON:0001250",
+        "name": "Red Pulp of Spleen"
+    },
+    "digestive_62": {
+        "term": "UBERON:0001251",
+        "name": "Marginal Zone of Spleen"
+    },
+    "digestive_63": {
+        "term": "UBERON:0001960",
+        "name": "Periarterial Lymphatic Sheath"
+    },
+    "digestive_64": {
+        "term": "UBERON:0010398",
+        "name": "Spleen Marginal Sinus"
     },
     "reproductive_1": {
         "term": "UBERON:0000995",
@@ -1011,6 +1087,14 @@
         "term": "UBERON:0002925",
         "name": "trigeminal nucleus"
     },
+    "brain_45": {
+        "term": "UBERON:0007634",
+        "name": "Parabrachial Nucleus"
+    },
+    "brain_46": {
+        "term": "UBERON:0001359",
+        "name": "Cerebrospinal Fluid"
+    },
     "bolser_3": {
         "term": "ILX:0738308",
         "name": "External branch of inferior laryngeal nerve"
@@ -1132,7 +1216,7 @@
         "name": "superior cervical ganglion"
     },
     "plexus_1": {
-        "term": "FMA:67532",
+        "term": "ILX:0793621",
         "name": "external carotid nerve plexus"
     },
     "plexus_2": {
@@ -1152,7 +1236,7 @@
         "name": "esophageal nerve plexus"
     },
     "plexus_6": {
-        "term": "FMA:6633",
+        "term": "ILX:0770806",
         "name": "left gastric nerve plexus"
     },
     "plexus_7": {
@@ -1172,7 +1256,7 @@
         "name": "pharynx"
     },
     "label_7": {
-        "term": "FMA:55031",
+        "term": "UBERON:0000355",
         "name": "mucosa of pharynx"
     },
     "label_8": {
@@ -1196,7 +1280,7 @@
         "name": "inferior pharyngeal constrictor"
     },
     "label_16": {
-        "term": "FMA:77283",
+        "term": "ILX:0745204",
         "name": "ceratocricoid ligament"
     },
     "label_17": {
@@ -1212,8 +1296,8 @@
         "name": "posterior crico-arytenoid"
     },
     "label_20": {
-        "term": "FMA:46588",
-        "name": "thyro-arytenoid"
+        "term": "UBERON:0008576",
+        "name": "Thyroarytenoid"
     },
     "label_21": {
         "term": "UBERON:0008574",
@@ -1224,17 +1308,11 @@
         "name": "vocalis muscle"
     },
     "label_23": {
-        "term": "FMA:55406",
+        "term": "ILX:0742928",
         "name": "laryngeal vestibule"
     },
     "neuron-ardell_5": {
         "term": "ILX:0748206",
         "name": "Thoracic cardiac branches"
-    },
-    "neuron-ardell_8a": {
-        "term": "ilxtr:neuron-type-aacar-8a"
-    },
-    "neuron-ardell_9a": {
-        "term": "ilxtr:neuron-type-aacar-9a"
     }
 }

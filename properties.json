@@ -2130,6 +2130,9 @@
         "brain_27-1": {
             "class": "brain_27"
         },
+        "brain_27-2": {
+            "class": "brain_27"
+        },
         "brain_3-1": {
             "class": "brain_3"
         },
@@ -2148,6 +2151,12 @@
         "brain_39-1": {
             "class": "brain_39"
         },
+        "brain_4-1": {
+            "class": "brain_4"
+        },
+        "brain_40-1": {
+            "class": "brain_40"
+        },
         "brain_41-1": {
             "class": "brain_41"
         },
@@ -2160,8 +2169,11 @@
         "brain_44-1": {
             "class": "brain_44"
         },
-        "brain_4-1": {
-            "class": "brain_4"
+        "brain_45-1": {
+            "class": "brain_45"
+        },
+        "brain_46-1": {
+            "class": "brain_46"
         },
         "brain_5-1": {
             "class": "brain_5"
@@ -2238,10 +2250,16 @@
         "cardio_28-3": {
             "class": "cardio_28"
         },
+        "cardio_28-4": {
+            "class": "cardio_28"
+        },
         "cardio_29-1": {
             "class": "cardio_29"
         },
         "cardio_29-2": {
+            "class": "cardio_29"
+        },
+        "cardio_29-3": {
             "class": "cardio_29"
         },
         "cardio_3-1": {
@@ -2404,6 +2422,9 @@
         "digestive_47-1": {
             "class": "digestive_47"
         },
+        "digestive_47-2": {
+            "class": "digestive_47"
+        },
         "digestive_48-1": {
             "class": "digestive_48"
         },
@@ -2419,6 +2440,27 @@
         "digestive_52-1": {
             "class": "digestive_52"
         },
+        "digestive_53-1": {
+            "class": "digestive_53"
+        },
+        "digestive_54-1": {
+            "class": "digestive_54"
+        },
+        "digestive_55-1": {
+            "class": "digestive_55"
+        },
+        "digestive_56-1": {
+            "class": "digestive_56"
+        },
+        "digestive_57-1": {
+            "class": "digestive_57"
+        },
+        "digestive_58-1": {
+            "class": "digestive_58"
+        },
+        "digestive_59-1": {
+            "class": "digestive_59"
+        },
         "digestive_6-1": {
             "class": "digestive_6"
         },
@@ -2430,6 +2472,21 @@
         },
         "digestive_6-4": {
             "class": "digestive_6"
+        },
+        "digestive_60-1": {
+            "class": "digestive_60"
+        },
+        "digestive_61-1": {
+            "class": "digestive_61"
+        },
+        "digestive_62-1": {
+            "class": "digestive_62"
+        },
+        "digestive_63-1": {
+            "class": "digestive_63"
+        },
+        "digestive_64-1": {
+            "class": "digestive_64"
         },
         "digestive_7-1": {
             "class": "digestive_7"
@@ -2609,11 +2666,11 @@
         "reproductive_10-2": {
             "class": "reproductive_10"
         },
-        "respiratory_11-1": {
-            "class": "respiratory_11"
-        },
         "respiratory_10-1": {
             "class": "respiratory_10"
+        },
+        "respiratory_11-1": {
+            "class": "respiratory_11"
         },
         "respiratory_12-1": {
             "class": "respiratory_12"
@@ -2636,11 +2693,32 @@
         "respiratory_19-1": {
             "class": "respiratory_19"
         },
+        "respiratory_2-1": {
+            "class": "respiratory_2"
+        },
         "respiratory_20-1": {
             "class": "respiratory_20"
         },
-        "respiratory_2-1": {
-            "class": "respiratory_2"
+        "respiratory_21-1": {
+            "class": "respiratory_21"
+        },
+        "respiratory_22-1": {
+            "class": "respiratory_22"
+        },
+        "respiratory_23-1": {
+            "class": "respiratory_23"
+        },
+        "respiratory_24-1": {
+            "class": "respiratory_24"
+        },
+        "respiratory_25-1": {
+            "class": "respiratory_25"
+        },
+        "respiratory_26-1": {
+            "class": "respiratory_26"
+        },
+        "respiratory_27-1": {
+            "class": "respiratory_27"
         },
         "respiratory_3-1": {
             "class": "respiratory_3"
@@ -4097,21 +4175,6 @@
         },
         "ardell_5": {
             "class": "neuron-ardell_5"
-        },
-        "ardell_9a-1": {
-            "class": "neuron-ardell_9a"
-        },
-        "ardell_9a-2": {
-            "class": "neuron-ardell_9a"
-        },
-        "ardell_9a-3": {
-            "class": "neuron-ardell_9a"
-        },
-        "ardell_9a-4": {
-            "class": "neuron-ardell_9a"
-        },
-        "ardell_9a-5": {
-            "class": "neuron-ardell_9a"
         }
     },
     "networks": [
@@ -6164,6 +6227,20 @@
                     ]
                 },
                 {
+                    "id": "ardell_4-1",
+                    "connects": [
+                        "brain_27-2",
+                        "brain_33-1"
+                    ]
+                },
+                {
+                    "id": "ardell_4-2",
+                    "connects": [
+                        "brain_27-2",
+                        "brain_33-1"
+                    ]
+                },
+                {
                     "id": "ardell_5",
                     "connects": [
                         "ardell_5_start-1",
@@ -6212,6 +6289,41 @@
                     ]
                 },
                 {
+                    "id": "ardell_6-1",
+                    "connects": [
+                        "cardio_27-1",
+                        "cardio_32-1"
+                    ]
+                },
+                {
+                    "id": "ardell_7-1",
+                    "connects": [
+                        "cardio_32-1",
+                        "cardio_33-1"
+                    ]
+                },
+                {
+                    "id": "ardell_7-2",
+                    "connects": [
+                        "cardio_33-1",
+                        "cardio_34-1"
+                    ]
+                },
+                {
+                    "id": "ardell_7-3",
+                    "connects": [
+                        "cardio_30-1",
+                        "cardio_34-1"
+                    ]
+                },
+                {
+                    "id": "ardell_7-4",
+                    "connects": [
+                        "cardio_32-1",
+                        "cardio_34-1"
+                    ]
+                },
+                {
                     "id": "ardell_9a-1",
                     "connects": [
                         "cardio_27-1",
@@ -6244,6 +6356,34 @@
                     "connects": [
                         "cardio_27-1",
                         "cardio_30-1"
+                    ]
+                },
+                {
+                    "id": "ardell_11-1",
+                    "connects": [
+                        "cardio_28-2",
+                        "cardio_29-3"
+                    ]
+                },
+                {
+                    "id": "ardell_11-2",
+                    "connects": [
+                        "cardio_27-1",
+                        "cardio_29-3"
+                    ]
+                },
+                {
+                    "id": "ardell_11-3",
+                    "connects": [
+                        "cardio_28-2",
+                        "cardio_29-4"
+                    ]
+                },
+                {
+                    "id": "ardell_11-4",
+                    "connects": [
+                        "cardio_27-1",
+                        "cardio_29-4"
                     ]
                 },
                 {
@@ -6355,23 +6495,141 @@
                     ]
                 },
                 {
-                    "id": "splanchnic_n",
+                    "id": "splanchnic_n-1",
                     "models": "UBERON:0003715",
                     "connects": [
                         "splanchnic_n_start-1",
                         "splanchnic_n_start-2",
                         "splanchnic_n_start-3",
                         "splanchnic_n_start-4",
+                        "splanchnic_n_start-5"
+                    ]
+                },
+                {
+                    "id": "splanchnic_n-2",
+                    "models": "UBERON:0018680",
+                    "connects": [
                         "splanchnic_n_start-5",
                         "splanchnic_n_start-6",
                         "splanchnic_n_start-7",
                         "splanchnic_n_start-8",
-                        "splanchnic_n_start-9",
+                        "splanchnic_n_start-9"
+                    ]
+                },
+                {
+                    "id": "splanchnic_n-3",
+                    "models": "UBERON:0018681",
+                    "connects": [
                         "splanchnic_n_start-10",
                         "splanchnic_n_start-11",
+                        "splanchnic_n_start-12"
+                    ]
+                },
+                {
+                    "id": "splanchnic_n-4",
+                    "models": "UBERON:0001964",
+                    "connects": [
                         "splanchnic_n_start-12",
                         "splanchnic_n_start-13",
                         "splanchnic_n_branching_point"
+                    ]
+                },
+                {
+                    "id": "sstom_12-1",
+                    "connects": [
+                        "digestive_53-1",
+                        "digestive_58-1"
+                    ]
+                },
+                {
+                    "id": "sstom_12-2",
+                    "connects": [
+                        "digestive_53-1",
+                        "digestive_54-1"
+                    ]
+                },
+                {
+                    "id": "sstom_12-3",
+                    "connects": [
+                        "digestive_54-1",
+                        "digestive_55-1"
+                    ]
+                },
+                {
+                    "id": "sstom_12-4",
+                    "connects": [
+                        "digestive_55-1",
+                        "digestive_56-1"
+                    ]
+                },
+                {
+                    "id": "sstom_12-5",
+                    "connects": [
+                        "digestive_47-2",
+                        "digestive_56-1"
+                    ]
+                },
+                {
+                    "id": "sstom_12-6",
+                    "connects": [
+                        "digestive_54-1",
+                        "digestive_57-1"
+                    ]
+                },
+                {
+                    "id": "sstom_12-7",
+                    "connects": [
+                        "digestive_54-1",
+                        "digestive_58-1"
+                    ]
+                },
+                {
+                    "id": "sstom_12-8",
+                    "connects": [
+                        "digestive_56-1",
+                        "digestive_57-1"
+                    ]
+                },
+                {
+                    "id": "sstom_9-1",
+                    "connects": [
+                        "digestive_47-2",
+                        "digestive_55-1"
+                    ]
+                },
+                {
+                    "id": "sstom_9-2",
+                    "connects": [
+                        "digestive_55-1",
+                        "digestive_59-1"
+                    ]
+                },
+                {
+                    "id": "splen_3-1",
+                    "connects": [
+                        "brain_34-1",
+                        "brain_46-1"
+                    ]
+                },
+                {
+                    "id": "splen_3-2",
+                    "connects": [
+                        "brain_12-1",
+                        "brain_46-1"
+                    ]
+                },
+                {
+                    "id": "splen_5-1",
+                    "connects": [
+                        "digestive_60-1",
+                        "digestive_64-1"
+                    ]
+                },
+                {
+                    "id": "splen_5-2",
+                    "connects": [
+                        "digestive_62-1",
+                        "digestive_64-1"
                     ]
                 }
             ]
