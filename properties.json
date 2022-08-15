@@ -1217,7 +1217,7 @@
             "name": "Anterior root of fifth lumbar nerve"
         },
         "S43_L6": {
-            "models": "EMAPA:25279",
+            "models": "ILX:0793615",
             "name": "Sixth lumbar ventral root"
         },
         "S43_S1": {
@@ -1632,10 +1632,6 @@
         "S48_S4": {
             "class": "spinal_48"
         },
-
-
-
-
         "S49_C1": {
             "models": "ILX:0793551",
             "name": "Gray communicating ramus of the first cervical nerve"
@@ -2279,6 +2275,12 @@
         },
         "cardio_34-1": {
             "class": "cardio_34"
+        },
+        "cardio_35-1": {
+            "class": "cardio_35"
+        },
+        "cardio_35-2": {
+            "class": "cardio_35"
         },
         "cardio_4-1": {
             "class": "cardio_4"
@@ -6224,6 +6226,20 @@
                     "connects": [
                         "ardell_2_start",
                         "ardell_2_branching_point"
+                    ]
+                },
+                {
+                    "id": "ardell_12-1",
+                    "connects": [
+                        "ardell_2_branching_point",
+                        "cardio_35-2"
+                    ]
+                },
+                {
+                    "id": "ardell_12-2",
+                    "connects": [
+                        "ardell_2_branching_point",
+                        "cardio_35-1"
                     ]
                 },
                 {
