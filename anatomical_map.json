@@ -56,7 +56,7 @@
         "name": "urethra"
     },
     "urinary_15": {
-        "term": "EMAPA:36117",
+        "term": "ILX:0738416",
         "name": "rhabdosphincter of female"
     },
     "urinary_16": {
@@ -64,7 +64,7 @@
         "name": "connective tissue"
     },
     "urinary_17": {
-        "term": "EMAPA:32269",
+        "term": "ILX:0738408",
         "name": "Rhabdosphincter of male"
     },
     "cardio_1": {
