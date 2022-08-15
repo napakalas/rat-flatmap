@@ -96,8 +96,8 @@
         "name": "anterior vena cava"
     },
     "cardio_8": {
-        "term": "UBERON:0002333",
-        "name": "pulmonary trunk"
+        "term": "UBERON:0002012",
+        "name": "pulmonary artery"
     },
     "cardio_9": {
         "term": "UBERON:0002079",
@@ -202,6 +202,10 @@
     "cardio_34": {
         "term": "UBERON:0002359",
         "name": "Fibrous Pericardium"
+    },
+    "cardio_35": {
+        "term": "UBERON:0007240",
+        "name": "Tunica Adventitia of Artery"
     },
     "respiratory_1": {
         "term": "UBERON:0001004",
