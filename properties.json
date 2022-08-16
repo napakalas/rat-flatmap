@@ -2282,6 +2282,15 @@
         "cardio_35-2": {
             "class": "cardio_35"
         },
+        "cardio_36-1": {
+            "class": "cardio_36"
+        },
+        "cardio_37-1": {
+            "class": "cardio_37"
+        },
+        "cardio_38-1": {
+            "class": "cardio_38"
+        },
         "cardio_4-1": {
             "class": "cardio_4"
         },
@@ -6245,7 +6254,7 @@
                 {
                     "id": "ardell_4-1",
                     "connects": [
-                        "brain_27-1",
+                        "brain_27-2",
                         "brain_33-1"
                     ]
                 },
@@ -6253,7 +6262,7 @@
                     "id": "ardell_4-2",
                     "connects": [
                         "brain_27-2",
-                        "brain_33-1"
+                        "brain_34-1"
                     ]
                 },
                 {
