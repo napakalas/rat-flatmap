@@ -207,6 +207,14 @@
         "term": "UBERON:0007240",
         "name": "Tunica Adventitia of Artery"
     },
+    "cardio_36": {
+        "term": "ILX:0793555",
+        "name": "Atrial Intrinsic Cardiac Ganglion"
+    },
+    "cardio_37": {
+        "term": "ILX:0793556",
+        "name": "Ventricular Intrinsic Cardiac Ganglion"
+    },
     "respiratory_1": {
         "term": "UBERON:0001004",
         "name": "respiratory system"
