@@ -6599,20 +6599,6 @@
                     ]
                 },
                 {
-                    "id": "splen_3-1",
-                    "connects": [
-                        "brain_34-1",
-                        "brain_46-1"
-                    ]
-                },
-                {
-                    "id": "splen_3-2",
-                    "connects": [
-                        "brain_12-1",
-                        "brain_46-1"
-                    ]
-                },
-                {
                     "id": "splen_5-1",
                     "connects": [
                         "digestive_60-1",
