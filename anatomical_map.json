@@ -207,14 +207,6 @@
         "term": "UBERON:0007240",
         "name": "Tunica Adventitia of Artery"
     },
-    "cardio_36": {
-        "term": "ILX:0793555",
-        "name": "Atrial Intrinsic Cardiac Ganglion"
-    },
-    "cardio_37": {
-        "term": "ILX:0793556",
-        "name": "Ventricular Intrinsic Cardiac Ganglion"
-    },
     "respiratory_1": {
         "term": "UBERON:0001004",
         "name": "respiratory system"
@@ -1163,10 +1155,6 @@
         "term": "UBERON:0011390",
         "name": "pudendal nerve"
     },
-    "ganglion_4": {
-        "term": "UBERON:0016508",
-        "name": "pelvic ganglion"
-    },
     "keast_4": {
         "term": "UBERON:0018675",
         "name": "pelvic splanchnic nerve"
@@ -1175,10 +1163,6 @@
         "term": "UBERON:0005303",
         "name": "hypogastric nerve"
     },
-    "ganglion_5": {
-        "term": "UBERON:0005453",
-        "name": "inferior mesenteric ganglion"
-    },
     "keast_7": {
         "term": "UBERON:0018683",
         "name": "lumbar splanchnic nerve"
@@ -1186,6 +1170,26 @@
     "mawe_1": {
         "term": "UBERON:0005479",
         "name": "superior mesenteric ganglion"
+    },
+    "ganglion_1": {
+        "term": "UBERON:0005364",
+        "name": "superior vagus X ganglion"
+    },
+    "ganglion_2": {
+        "term": "UBERON:0005363",
+        "name": "inferior vagus X ganglion"
+    },
+    "ganglion_3": {
+        "term": "UBERON:0001989",
+        "name": "superior cervical ganglion"
+    },
+    "ganglion_4": {
+        "term": "UBERON:0016508",
+        "name": "pelvic ganglion"
+    },
+    "ganglion_5": {
+        "term": "UBERON:0005453",
+        "name": "inferior mesenteric ganglion"
     },
     "ganglion_8": {
         "term": "UBERON:0001808",
@@ -1207,21 +1211,17 @@
         "term": "UBERON:0001701",
         "name": "glossopharyngeal ganglion"
     },
+    "ganglion_13": {
+        "term": "ILX:0793555",
+        "name": "Atrial Intrinsic Cardiac Ganglion"
+    },
+    "ganglion_14": {
+        "term": "ILX:0793556",
+        "name": "Ventricular Intrinsic Cardiac Ganglion"
+    },
     "lung_2": {
         "term": "UBERON:0003715",
         "name": "splanchnic nerve"
-    },
-    "ganglion_1": {
-        "term": "UBERON:0005364",
-        "name": "superior vagus X ganglion"
-    },
-    "ganglion_2": {
-        "term": "UBERON:0005363",
-        "name": "inferior vagus X ganglion"
-    },
-    "ganglion_3": {
-        "term": "UBERON:0001989",
-        "name": "superior cervical ganglion"
     },
     "plexus_1": {
         "term": "ILX:0793621",
