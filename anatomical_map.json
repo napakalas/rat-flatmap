@@ -1103,10 +1103,6 @@
         "term": "UBERON:0007634",
         "name": "Parabrachial Nucleus"
     },
-    "brain_46": {
-        "term": "UBERON:0001359",
-        "name": "Cerebrospinal Fluid"
-    },
     "bolser_3": {
         "term": "ILX:0738308",
         "name": "External branch of inferior laryngeal nerve"
