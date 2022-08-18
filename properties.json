@@ -2126,9 +2126,6 @@
         "brain_27-1": {
             "class": "brain_27"
         },
-        "brain_27-2": {
-            "class": "brain_27"
-        },
         "brain_3-1": {
             "class": "brain_3"
         },
@@ -6235,34 +6232,6 @@
                     "connects": [
                         "ardell_2_start",
                         "ardell_2_branching_point"
-                    ]
-                },
-                {
-                    "id": "ardell_12-1",
-                    "connects": [
-                        "ardell_2_branching_point",
-                        "cardio_35-2"
-                    ]
-                },
-                {
-                    "id": "ardell_12-2",
-                    "connects": [
-                        "ardell_2_branching_point",
-                        "cardio_35-1"
-                    ]
-                },
-                {
-                    "id": "ardell_4-1",
-                    "connects": [
-                        "brain_27-2",
-                        "brain_33-1"
-                    ]
-                },
-                {
-                    "id": "ardell_4-2",
-                    "connects": [
-                        "brain_27-2",
-                        "brain_34-1"
                     ]
                 },
                 {
