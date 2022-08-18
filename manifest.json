@@ -15,7 +15,7 @@
     "connectivityTerms": "connectivity_terms.json",
     "neuronConnectivity": [
         {
-            "name": "",
+            "name": "aacar",
             "uri": "https://apinatomy.org/uris/models/ard-arm-cardiac",
             "filter": {
             }
