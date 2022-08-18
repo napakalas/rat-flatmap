@@ -1456,6 +1456,10 @@
             "models": "UBERON:0002863",
             "name": "fifth sacral dorsal root ganglion"
         },
+        "S46_T1": {
+            "models": "ILX:0774266",
+            "name": "T1 Sympathetic ganglion"
+        },
         "S46_T2": {
             "models": "ILX:0786228",
             "name": "Second thoracic ganglion"
@@ -1966,6 +1970,12 @@
         },
         "ganglion_12-1": {
             "class": "ganglion_12"
+        },
+        "ganglion_13-1": {
+            "class": "ganglion_13"
+        },
+        "ganglion_14-1": {
+            "class": "ganglion_14"
         },
         "body_1-1": {
             "class": "body_1"
