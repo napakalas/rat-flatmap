@@ -2268,14 +2268,8 @@
         "cardio_3-1": {
             "class": "cardio_3"
         },
-        "cardio_30-1": {
-            "class": "cardio_30"
-        },
         "cardio_31-1": {
             "class": "cardio_31"
-        },
-        "cardio_32-1": {
-            "class": "cardio_32"
         },
         "cardio_33-1": {
             "class": "cardio_33"
@@ -4172,27 +4166,6 @@
         "splanchnic": {
             "type": "nerve",
             "models": "UBERON:0003715"
-        },
-        "T1_paravertebral_ganglion-ardell_5": {
-            "class": "neuron-ardell_5"
-        },
-        "T2_paravertebral_ganglion-ardell_5": {
-            "class": "neuron-ardell_5"
-        },
-        "T3_paravertebral_ganglion-ardell_5": {
-            "class": "neuron-ardell_5"
-        },
-        "T4_paravertebral_ganglion-ardell_5": {
-            "class": "neuron-ardell_5"
-        },
-        "T5_paravertebral_ganglion-ardell_5": {
-            "class": "neuron-ardell_5"
-        },
-        "T6_paravertebral_ganglion-ardell_5": {
-            "class": "neuron-ardell_5"
-        },
-        "ardell_5": {
-            "class": "neuron-ardell_5"
         }
     },
     "networks": [
@@ -5100,7 +5073,7 @@
                 {
                     "id": "T1_gray_ramus-spinal_n",
                     "connects": [
-                        "ganglion_11-1",
+                        "S46_T1",
                         "T1_spinal"
                     ]
                 },
@@ -5394,43 +5367,43 @@
                 {
                     "id": "T1_paravertebral_ganglion-ardell_5",
                     "connects": [
-                        "ganglion_11-1",
-                        "ardell_5_start-1"
+                        "S46_T1",
+                        "ardell_5"
                     ]
                 },
                 {
                     "id": "T2_paravertebral_ganglion-ardell_5",
                     "connects": [
                         "S46_T2",
-                        "ardell_5_start-2"
+                        "ardell_5"
                     ]
                 },
                 {
                     "id": "T3_paravertebral_ganglion-ardell_5",
                     "connects": [
                         "S46_T3",
-                        "ardell_5_start-3"
+                        "ardell_5"
                     ]
                 },
                 {
                     "id": "T4_paravertebral_ganglion-ardell_5",
                     "connects": [
                         "S46_T4",
-                        "ardell_5_start-4"
+                        "ardell_5"
                     ]
                 },
                 {
                     "id": "T5_paravertebral_ganglion-ardell_5",
                     "connects": [
                         "S46_T5",
-                        "ardell_5_start-5"
+                        "ardell_5"
                     ]
                 },
                 {
                     "id": "T6_paravertebral_ganglion-ardell_5",
                     "connects": [
                         "S46_T6",
-                        "ardell_5_start-6"
+                        "ardell_5"
                     ]
                 },
                 {
@@ -5441,7 +5414,7 @@
                     ],
                     "contained-in": [
                         "S43_T1",
-                        "ganglion_11-1"
+                        "S46_T1"
                     ]
                 },
                 {
@@ -5616,7 +5589,7 @@
                     "id": "T1_ventral_root_paravertebral_ganglion",
                     "connects": [
                         "T1_ventral_root_end",
-                        "ganglion_11-1"
+                        "S46_T1"
                     ],
                     "contained-in": [
                         "S43_T1"
@@ -5723,7 +5696,7 @@
                     "id": "ICG-CTG_sympathetic_cord",
                     "connects": [
                         "ganglion_10-1",
-                        "ganglion_11-1"
+                        "S46_T1"
                     ]
                 },
                 {
@@ -5743,7 +5716,7 @@
                 {
                     "id": "sympathetic_trunk_T1-T2",
                     "connects": [
-                        "ganglion_11-1",
+                        "S46_T1",
                         "S46_T2"
                     ]
                 },
@@ -6226,34 +6199,25 @@
                 {
                     "id": "MCG-ardell_2",
                     "connects": [
-                        "ganglion_9-1",
-                        "ardell_2_start"
+                        "ganglion_9-1"
                     ]
                 },
                 {
                     "id": "ICG-ardell_2",
                     "connects": [
-                        "ganglion_10-1",
-                        "ardell_2_start"
-                    ]
-                },
-                {
-                    "id": "ardell_2",
-                    "connects": [
-                        "ardell_2_start",
-                        "ardell_2_branching_point"
+                        "ganglion_10-1"
                     ]
                 },
                 {
                     "id": "ardell_5",
                     "connects": [
-                        "ardell_5_start-1",
-                        "ardell_5_start-2",
-                        "ardell_5_start-3",
-                        "ardell_5_start-4",
-                        "ardell_5_start-5",
-                        "ardell_5_start-6",
-                        "ardell_5_branching_point"
+                        "S46_T1",
+                        "S46_T2",
+                        "S46_T3",
+                        "S46_T4",
+                        "S46_T5",
+                        "S46_T6",
+                        "cardio_2-1"
                     ]
                 },
                 {
@@ -6290,104 +6254,6 @@
                         "ardell_6_start-8",
                         "ardell_6_start-9",
                         "ardell_6_branching_point"
-                    ]
-                },
-                {
-                    "id": "ardell_6-1",
-                    "connects": [
-                        "cardio_27-1",
-                        "cardio_32-1"
-                    ]
-                },
-                {
-                    "id": "ardell_7-1",
-                    "connects": [
-                        "cardio_32-1",
-                        "cardio_33-1"
-                    ]
-                },
-                {
-                    "id": "ardell_7-2",
-                    "connects": [
-                        "cardio_33-1",
-                        "cardio_34-1"
-                    ]
-                },
-                {
-                    "id": "ardell_7-3",
-                    "connects": [
-                        "cardio_30-1",
-                        "cardio_34-1"
-                    ]
-                },
-                {
-                    "id": "ardell_7-4",
-                    "connects": [
-                        "cardio_32-1",
-                        "cardio_34-1"
-                    ]
-                },
-                {
-                    "id": "ardell_9a-1",
-                    "connects": [
-                        "cardio_27-1",
-                        "cardio_29-2"
-                    ]
-                },
-                {
-                    "id": "ardell_9a-2",
-                    "connects": [
-                        "cardio_28-1",
-                        "cardio_29-2"
-                    ]
-                },
-                {
-                    "id": "ardell_9a-3",
-                    "connects": [
-                        "cardio_27-1",
-                        "cardio_29-1"
-                    ]
-                },
-                {
-                    "id": "ardell_9a-4",
-                    "connects": [
-                        "cardio_28-3",
-                        "cardio_29-1"
-                    ]
-                },
-                {
-                    "id": "ardell_9a-5",
-                    "connects": [
-                        "cardio_27-1",
-                        "cardio_30-1"
-                    ]
-                },
-                {
-                    "id": "ardell_11-1",
-                    "connects": [
-                        "cardio_28-2",
-                        "cardio_29-3"
-                    ]
-                },
-                {
-                    "id": "ardell_11-2",
-                    "connects": [
-                        "cardio_27-1",
-                        "cardio_29-3"
-                    ]
-                },
-                {
-                    "id": "ardell_11-3",
-                    "connects": [
-                        "cardio_28-2",
-                        "cardio_29-4"
-                    ]
-                },
-                {
-                    "id": "ardell_11-4",
-                    "connects": [
-                        "cardio_27-1",
-                        "cardio_29-4"
                     ]
                 },
                 {
