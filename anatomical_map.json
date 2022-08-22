@@ -260,8 +260,8 @@
         "name": "epiglottis"
     },
     "respiratory_12": {
-        "term": "ILX:0738318",
-        "name": "Epiglottic mechanoreceptors"
+        "term": "UBERON:0004982",
+        "name": "Mucosa of Epiglottis"
     },
     "respiratory_13": {
         "term": "UBERON:0001707",
@@ -322,6 +322,10 @@
     "respiratory_27": {
         "term": "FMA:74655",
         "name": "Wall of Bronchiole"
+    },
+    "respiratory_28": {
+        "term": "ILX:0738318",
+        "name": "Epiglottic mechanoreceptors"
     },
     "digestive_1": {
         "term": "UBERON:0001007",
@@ -1135,7 +1139,7 @@
         "term": "ILX:0738293",
         "name": "Ganglioglomerular nerve"
     },
-    "carotid_sinus": {
+    "bolser_22": {
         "term": "UBERON:0009009",
         "name": "carotid sinus nerve"
     },
@@ -1143,7 +1147,7 @@
         "term": "UBERON:0001650",
         "name": "hypoglossal nerve"
     },
-    "bolser_11": {
+    "bolser_": {
         "term": "ILX:0738309",
         "name": "Internal branch of inferior laryngeal nerve"
     },
@@ -1166,6 +1170,10 @@
     "bolser_19": {
         "term": "ILX:0738313",
         "name": "Rami glomi carotici"
+    },
+    "bolser_20": {
+        "term": "ILX:0789339",
+        "name": "Pharyngeal Branch of Glossopharyngeal Nerve"
     },
     "bolser_21": {
         "term": "UBERON:0011326",
