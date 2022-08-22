@@ -1971,6 +1971,9 @@
         "ganglion_14-1": {
             "class": "ganglion_14"
         },
+        "ganglion_15-1": {
+            "class": "ganglion_15"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -5906,16 +5909,20 @@
                     "id": "C3_C4_cns",
                     "connects": [
                         "spinal_3-1",
-                        "NT_C4",
                         "spinal_4-1"
+                    ],
+                    "contained-in": [
+                        "NT_C4"
                     ]
                 },
                 {
                     "id": "C4_C5_cns",
                     "connects": [
                         "spinal_4-1",
-                        "NT_C5",
                         "spinal_5-1"
+                    ],
+                    "contained-in": [
+                        "NT_C5"
                     ]
                 },
                 {
@@ -6301,13 +6308,6 @@
                     ]
                 },
                 {
-                    "id": "bolser_5",
-                    "connects": [
-                        "point_21",
-                        "respiratory_11-1"
-                    ]
-                },
-                {
                     "id": "bolser_6",
                     "connects": [
                         "plexus_1-1",
@@ -6349,6 +6349,9 @@
                     "connects": [
                         "brain_12-1",
                         "ganglion_12-1"
+                    ],
+                    "contained-in": [
+                        "bolser_106"
                     ]
                 },
                 {
@@ -6363,6 +6366,9 @@
                     "connects": [
                         "ganglion_12-1",
                         "point_42"
+                    ],
+                    "contained-in": [
+                        "bolser_108"
                     ]
                 },
                 {
