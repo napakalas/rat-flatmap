@@ -211,6 +211,10 @@
         "term": "UBERON:0037094",
         "name": "Wall of Common Carotid Artery"
     },
+    "cardio_37": {
+        "term": "ILX:0738305",
+        "name": "Wall of Internal Carotid Artery"
+    },
     "respiratory_1": {
         "term": "UBERON:0001004",
         "name": "respiratory system"
@@ -1131,7 +1135,7 @@
         "term": "ILX:0738293",
         "name": "Ganglioglomerular nerve"
     },
-    "bolser_7": {
+    "carotid_sinus": {
         "term": "UBERON:0009009",
         "name": "carotid sinus nerve"
     },
@@ -1142,10 +1146,6 @@
     "bolser_11": {
         "term": "ILX:0738309",
         "name": "Internal branch of inferior laryngeal nerve"
-    },
-    "bolser_12": {
-        "term": "UBERON:0003716",
-        "name": "recurrent laryngeal nerve"
     },
     "bolser_13": {
         "term": "ILX:0738373",
