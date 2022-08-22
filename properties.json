@@ -6359,6 +6359,9 @@
                     "connects": [
                         "ganglion_12-1",
                         "point_40"
+                    ],
+                    "contained-in": [
+                        "carotid_sinus"
                     ]
                 },
                 {
