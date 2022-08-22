@@ -207,6 +207,10 @@
         "term": "UBERON:0007240",
         "name": "Tunica Adventitia of Artery"
     },
+    "cardio_36": {
+        "term": "UBERON:0037094",
+        "name": "Wall of Common Carotid Artery"
+    },
     "respiratory_1": {
         "term": "UBERON:0001004",
         "name": "respiratory system"
@@ -1224,8 +1228,8 @@
         "name": "cervicothoracic ganglion"
     },
     "ganglion_12": {
-        "term": "UBERON:0001701",
-        "name": "glossopharyngeal ganglion"
+        "term": "UBERON:0005360",
+        "name": "Inferior Glossopharyngeal IX Ganglion"
     },
     "ganglion_13": {
         "term": "ILX:0793555",
