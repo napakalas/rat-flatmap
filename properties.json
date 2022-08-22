@@ -2019,8 +2019,8 @@
         "bolser21_2": {
             "class": "bolser_21"
         },
-        "bolser_11-1": {
-            "class": "bolser_11"
+        "bolser_22-1": {
+            "class": "bolser_22"
         },
         "bolser_12-1": {
             "class": "bolser_12"
@@ -4193,6 +4193,9 @@
                     "connects": [
                         "brain_12-1",
                         "point_1"
+                    ],
+                    "contained-in": [
+                        "brain_46-1"
                     ]
                 },
                 {
@@ -4232,7 +4235,8 @@
                         "point_32",
                         "point_34",
                         "point_35",
-                        "point_36"
+                        "point_36",
+                        "point_44"
                     ]
                 },
                 {
@@ -6348,20 +6352,17 @@
                     "id": "bolser_11",
                     "connects": [
                         "brain_12-1",
-                        "ganglion_12-1"
-                    ],
-                    "contained-in": [
-                        "bolser_106"
+                        "point_44"
                     ]
                 },
                 {
                     "id": "bolser_12",
                     "connects": [
                         "ganglion_12-1",
-                        "point_40"
+                        "cardio_37-1"
                     ],
                     "contained-in": [
-                        "carotid_sinus"
+                        "bolser_22-1"
                     ]
                 },
                 {
@@ -6386,6 +6387,18 @@
                     "connects": [
                         "external_laryngeal_n_branching_point",
                         "respiratory_5-1"
+                    ]
+                },
+                {
+                    "id": "bolser_23",
+                    "models": "UBERON:0001649",
+                    "connects": [
+                        "n_5",
+                        "point_44",
+                        "ganglion_12-1"
+                    ],
+                    "contained-in": [
+                        "bolser_106"
                     ]
                 },
                 {
