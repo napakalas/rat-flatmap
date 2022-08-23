@@ -215,6 +215,10 @@
         "term": "ILX:0738305",
         "name": "Wall of Internal Carotid Artery"
     },
+    "cardio_38": {
+        "term": "ILX:0738304",
+        "name": "Wall of Arch of Aorta"
+    },
     "respiratory_1": {
         "term": "UBERON:0001004",
         "name": "respiratory system"
