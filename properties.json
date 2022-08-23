@@ -2013,10 +2013,10 @@
         "bolser_14-1": {
             "class": "bolser_14"
         },
-        "bolser21_1": {
+        "bolser_21-1": {
             "class": "bolser_21"
         },
-        "bolser21_2": {
+        "bolser_21-2": {
             "class": "bolser_21"
         },
         "bolser_22-1": {
@@ -4172,6 +4172,10 @@
             "type": "nerve",
             "models": ""
         },
+        "bolser_115": {
+            "type": "nerve",
+            "models": "ILX:0789339"
+        },
         "splanchnic": {
             "type": "nerve",
             "models": "UBERON:0003715"
@@ -6231,7 +6235,8 @@
                 {
                     "id": "ICG-ardell_2",
                     "connects": [
-                        "ganglion_10-1"
+                        "ganglion_10-1",
+                        "cardio_38-1"
                     ]
                 },
                 {
@@ -6315,7 +6320,10 @@
                     "id": "bolser_6",
                     "connects": [
                         "plexus_1-1",
-                        "bolser_6_branching_point"
+                        "cardio_36-1"
+                    ],
+                    "contained-in": [
+                        "bolser_104"
                     ]
                 },
                 {
@@ -6390,15 +6398,23 @@
                     ]
                 },
                 {
-                    "id": "bolser_23",
-                    "models": "UBERON:0001649",
+                    "id": "bolser_25",
                     "connects": [
                         "n_5",
-                        "point_44",
                         "ganglion_12-1"
                     ],
                     "contained-in": [
                         "bolser_106"
+                    ]
+                },
+                {
+                    "id": "PH_GN",
+                    "connects": [
+                        "ganglion_12-1",
+                        "respiratory_28-1"
+                    ],
+                    "contained-in": [
+                        "bolser_115"
                     ]
                 },
                 {
