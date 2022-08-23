@@ -591,7 +591,7 @@
             "class": "spinal_39"
         },
         "S39_T1": {
-            "class": "spinal_39"
+            "class": "spinal_68"
         },
         "S39_T10": {
             "class": "spinal_39"
@@ -2343,6 +2343,9 @@
         },
         "digestive_10-2": {
             "class": "digestive_10"
+        },
+        "digestive_11-1": {
+            "class": "digestive_11"
         },
         "digestive_12-1": {
             "class": "digestive_12"
@@ -5855,7 +5858,8 @@
                     ]
                 },
                 {
-                    "id": "ICG-CTG_sympathetic_cord",
+                    "id": "ICG-T1_sympathetic_cord",
+                    "models": "ILX:0738291",
                     "connects": [
                         "ganglion_10-1",
                         "S46_T1"
@@ -5863,6 +5867,7 @@
                 },
                 {
                     "id": "SCG-MCG_sympathetic_cord",
+                    "models": "ILX:0738292",
                     "connects": [
                         "ganglion_3-1",
                         "ganglion_9-1"
@@ -5870,6 +5875,7 @@
                 },
                 {
                     "id": "MCG-ICG_sympathetic_cord",
+                    "models": "ILX:0738290",
                     "connects": [
                         "ganglion_9-1",
                         "ganglion_10-1"
