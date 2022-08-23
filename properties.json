@@ -2013,12 +2013,6 @@
         "bolser_14-1": {
             "class": "bolser_14"
         },
-        "bolser_21-1": {
-            "class": "bolser_21"
-        },
-        "bolser_21-2": {
-            "class": "bolser_21"
-        },
         "bolser_22-1": {
             "class": "bolser_22"
         },
@@ -3883,155 +3877,155 @@
         },
         "vagus_2": {
             "type": "nerve",
-            "models": "FMA:6692"
+            "models": "ILX:0786624"
         },
         "vagus_3": {
             "type": "nerve",
-            "models": "FMA:6691"
+            "models": "ILX:0791151"
         },
         "vagus_4": {
             "type": "nerve",
-            "models": "FMA:6694"
+            "models": "ILX:0784868"
         },
         "vagus_5": {
             "type": "nerve",
-            "models": "FMA:53593"
+            "models": "ILX:0785937"
         },
         "vagus_6": {
             "type": "nerve",
-            "models": "FMA:6695"
+            "models": "ILX:0788968"
         },
         "recurrent_laryngeal_1": {
             "type": "nerve",
-            "models": "FMA:6246"
+            "models": "UBERON:0003716"
         },
         "recurrent_laryngeal_2": {
             "type": "nerve",
-            "models": "FMA:6251"
+            "models": "ILX:0787615"
         },
         "recurrent_laryngeal_3": {
             "type": "nerve",
-            "models": "FMA:6250"
+            "models": "ILX:0791463"
         },
         "recurrent_laryngeal_4": {
             "type": "nerve",
-            "models": "FMA:6248"
+            "models": "ILX:0787303"
         },
         "recurrent_laryngeal_5": {
             "type": "nerve",
-            "models": "FMA:6710"
+            "models": "ILX:0792328"
         },
         "recurrent_laryngeal_6": {
             "type": "nerve",
-            "models": "FMA:6249"
+            "models": "ILX:0793070"
         },
         "recurrent_laryngeal_7": {
             "type": "nerve",
-            "models": "FMA:53526"
+            "models": "ILX:0786150"
         },
         "recurrent_laryngeal_8": {
             "type": "nerve",
-            "models": "FMA:53524"
+            "models": "ILX:0791258"
         },
         "recurrent_laryngeal_9": {
             "type": "nerve",
-            "models": "FMA:53614"
+            "models": "ILX:0787701"
         },
         "recurrent_laryngeal_10": {
             "type": "nerve",
-            "models": "FMA:6253"
+            "models": "ILX:0787600"
         },
         "recurrent_laryngeal_11": {
             "type": "nerve",
-            "models": "FMA:6255"
+            "models": "ILX:0788680"
         },
         "recurrent_laryngeal_12": {
             "type": "nerve",
-            "models": "FMA:6252"
+            "models": "ILX:0791372"
         },
         "recurrent_laryngeal_13": {
             "type": "nerve",
-            "models": "FMA:6256"
+            "models": "ILX:0784775"
         },
         "recurrent_laryngeal_14": {
             "type": "nerve",
-            "models": "FMA:6254"
+            "models": "ILX:0788061"
         },
         "recurrent_laryngeal_15": {
             "type": "nerve",
-            "models": "FMA:6257"
+            "models": "ILX:0787830"
         },
         "superior_laryngeal_1": {
             "type": "nerve",
-            "models": "FMA:6239"
+            "models": "UBERON:0011326"
         },
         "superior_laryngeal_2": {
             "type": "nerve",
-            "models": "FMA:6240"
+            "models": "ILX:0793561"
         },
         "superior_laryngeal_3": {
             "type": "nerve",
-            "models": "FMA:6243"
+            "models": "ILX:0793560"
         },
         "superior_laryngeal_4": {
             "type": "nerve",
-            "models": "FMA:6242"
+            "models": "ILX:0785556"
         },
         "superior_laryngeal_5": {
             "type": "nerve",
-            "models": "FMA:6241"
+            "models": "ILX:0789613"
         },
         "superior_laryngeal_6": {
             "type": "nerve",
-            "models": "FMA:6699"
+            "models": "ILX:0787329"
         },
         "superior_laryngeal_7": {
             "type": "nerve",
-            "models": "FMA:53543"
+            "models": "ILX:0785199"
         },
         "superior_laryngeal_8": {
             "type": "nerve",
-            "models": "FMA:6700"
+            "models": "ILX:0785951"
         },
         "superior_laryngeal_9": {
             "type": "nerve",
-            "models": "FMA:53544"
+            "models": "ILX:0787299"
         },
         "superior_laryngeal_10": {
             "type": "nerve",
-            "models": "FMA:6703"
+            "models": "ILX:0790363"
         },
         "superior_laryngeal_11": {
             "type": "nerve",
-            "models": "FMA:6702"
+            "models": "ILX:0792008"
         },
         "superior_laryngeal_12": {
             "type": "nerve",
-            "models": "FMA:6704"
+            "models": "ILX:0790501"
         },
         "superior_laryngeal_13": {
             "type": "nerve",
-            "models": "FMA:6697"
+            "models": "ILX:0789391"
         },
         "superior_laryngeal_14": {
             "type": "nerve",
-            "models": "FMA:6705"
+            "models": "ILX:0788330"
         },
         "superior_laryngeal_15": {
             "type": "nerve",
-            "models": "FMA:6707"
+            "models": "ILX:0790205"
         },
         "superior_laryngeal_16": {
             "type": "nerve",
-            "models": "FMA:6706"
+            "models": "ILX:0788232"
         },
         "superior_laryngeal_17": {
             "type": "nerve",
-            "models": "FMA:6709"
+            "models": "ILX:0785069"
         },
         "superior_laryngeal_18": {
             "type": "nerve",
-            "models": "FMA:6708"
+            "models": "ILX:0786237"
         },
         "vagus_7": {
             "type": "nerve",
@@ -4043,47 +4037,47 @@
         },
         "vagus_9": {
             "type": "nerve",
-            "models": "FMA:6247"
+            "models": "ILX:0786619"
         },
         "cardiac_vagus_1": {
             "type": "nerve",
-            "models": "FMA:53612"
+            "models": "ILX:0786680"
         },
         "cardiac_vagus_2": {
             "type": "nerve",
-            "models": "FMA:6711"
+            "models": "ILX:0791784"
         },
         "cardiac_vagus_3": {
             "type": "nerve",
-            "models": "FMA:53600"
+            "models": "ILX:0793041"
         },
         "cardiac_vagus_4": {
             "type": "nerve",
-            "models": "FMA:53601"
+            "models": "ILX:0785405"
         },
         "cardiac_vagus_5": {
             "type": "nerve",
-            "models": "FMA:6245"
+            "models": "ILX:0788259"
         },
         "cardiac_vagus_6": {
             "type": "nerve",
-            "models": "FMA:6244"
+            "models": "ILX:0784874"
         },
         "esophageal_vagus_1": {
             "type": "nerve",
-            "models": "FMA:65514"
+            "models": "ILX:0790803"
         },
         "esophageal_vagus_2": {
             "type": "nerve",
-            "models": "FMA:6715"
+            "models": "ILX:0785247"
         },
         "esophageal_vagus_3": {
             "type": "nerve",
-            "models": "FMA:6716"
+            "models": "ILX:0790681"
         },
         "vagus_10": {
             "type": "nerve",
-            "models": "FMA:78582"
+            "models": "ILX:0791632"
         },
         "vagus_11": {
             "type": "nerve",
@@ -4091,23 +4085,23 @@
         },
         "pharyngeal_vagus_1": {
             "type": "nerve",
-            "models": "FMA:6234"
+            "models": "UBERON:0000929"
         },
         "pharyngeal_vagus_2": {
             "type": "nerve",
-            "models": "FMA:6235"
+            "models": "ILX:0791434"
         },
         "pharyngeal_vagus_3": {
             "type": "nerve",
-            "models": "FMA:6236"
+            "models": "ILX:0790524"
         },
         "vagus_12": {
             "type": "nerve",
-            "models": "FMA:65515"
+            "models": "ILX:0789095"
         },
         "vagus_13": {
             "type": "nerve",
-            "models": "FMA:6670"
+            "models": "ILX:0791071"
         },
         "vagus_14": {
             "type": "nerve",
@@ -4139,7 +4133,7 @@
         },
         "bolser_107": {
             "type": "nerve",
-            "models": "FMA:53488"
+            "models": "UBERON:0009009"
         },
         "bolser_108": {
             "type": "nerve",
@@ -4274,74 +4268,92 @@
                 },
                 {
                     "id": "n_8",
-                    "models": "FMA:6691",
+                    "models": "ILX:0791151",
                     "connects": [
                         "point_8",
                         "point_9"
+                    ],
+                    "contained-in": [
+                        "vagus_3"
                     ]
                 },
                 {
                     "id": "n_9",
-                    "models": "FMA:53593",
+                    "models": "ILX:0785937",
                     "connects": [
                         "point_10",
                         "label_3-1"
+                    ],
+                    "contained-in": [
+                        "vagus_5"
                     ]
                 },
                 {
                     "id": "n_10",
-                    "models": "FMA:6694",
+                    "models": "ILX:0784868",
                     "connects": [
                         "point_10",
                         "label_2-1"
+                    ],
+                    "contained-in": [
+                        "vagus_4"
                     ]
                 },
                 {
                     "id": "n_11",
-                    "models": "FMA:6695",
+                    "models": "ILX:0788968",
                     "connects": [
                         "point_10",
                         "label_4-1"
+                    ],
+                    "contained-in": [
+                        "vagus_6"
                     ]
                 },
                 {
                     "id": "n_12",
-                    "models": "FMA:6692",
+                    "models": "ILX:0786624",
                     "connects": [
                         "point_6",
                         "point_7"
+                    ],
+                    "contained-in": [
+                        "vagus_2"
                     ]
                 },
                 {
                     "id": "n_13",
-                    "models": "FMA:6234",
+                    "models": "UBERON:0000929",
                     "connects": [
                         "point_11",
                         "point_13"
                     ],
                     "contained-in": [
+                        "pharyngeal_vagus_1",
                         "point_12"
                     ]
                 },
                 {
                     "id": "n_14",
-                    "models": "FMA:6235",
+                    "models": "ILX:0791434",
                     "connects": [
                         "point_13",
                         "label_5-1"
                     ],
                     "contained-in": [
+                        "pharyngeal_vagus_2",
                         "plexus_2-1"
                     ]
                 },
                 {
                     "id": "n_15",
-                    "models": "FMA:6236",
+                    "models": "ILX:0790524",
                     "connects": [
                         "point_13",
                         "label_6-1"
                     ],
                     "contained-in": [
+                        "pharyngeal_vagus_3",
                         "plexus_2-1"
                     ]
                 },
@@ -4358,323 +4370,434 @@
                 },
                 {
                     "id": "n_17",
-                    "models": "FMA:6239",
+                    "models": "UBERON:0011326",
                     "connects": [
-                        "point_16",
+                        "n_5",
                         "point_18"
                     ],
                     "contained-in": [
+                        "superior_laryngeal_1",
                         "point_17"
                     ]
                 },
                 {
                     "id": "n_18",
-                    "models": "FMA:6240",
+                    "models": "ILX:0793561",
                     "connects": [
                         "point_18",
                         "point_19"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal-2"
                     ]
                 },
                 {
                     "id": "n_19",
-                    "models": "FMA:6241",
+                    "models": "ILX:0789613",
                     "connects": [
                         "point_19",
                         "point_20"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_5"
                     ]
                 },
                 {
                     "id": "n_20",
-                    "models": "FMA:6703",
+                    "models": "ILX:0790363",
                     "connects": [
                         "point_20",
                         "label_8-1"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_10"
                     ]
                 },
                 {
                     "id": "n_21",
-                    "models": "FMA:6702",
+                    "models": "ILX:0792008",
                     "connects": [
                         "point_20",
                         "respiratory_11-1"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_11"
                     ]
                 },
                 {
                     "id": "n_22",
-                    "models": "FMA:6697",
+                    "models": "ILX:0789391",
                     "connects": [
                         "point_20",
                         "label_7-1"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_13"
                     ]
                 },
                 {
                     "id": "n_23",
-                    "models": "FMA:6704",
+                    "models": "ILX:0790501",
                     "connects": [
                         "point_20",
                         "respiratory_5-1"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_12"
                     ]
                 },
                 {
                     "id": "n_24",
-                    "models": "FMA:6242",
+                    "models": "ILX:0785556",
                     "connects": [
                         "point_19",
                         "point_21"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_4"
                     ]
                 },
                 {
                     "id": "n_25",
-                    "models": "FMA:6699",
+                    "models": "ILX:0787329",
                     "connects": [
                         "point_21",
                         "label_10-1"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_6"
                     ]
                 },
                 {
                     "id": "n_26",
-                    "models": "FMA:53543",
+                    "models": "ILX:0785199",
                     "connects": [
                         "point_21",
                         "label_11-1"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_7"
                     ]
                 },
                 {
                     "id": "n_27",
-                    "models": "FMA:6700",
+                    "models": "ILX:0785951",
                     "connects": [
                         "point_21",
                         "label_12-1"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_8"
                     ]
                 },
                 {
                     "id": "n_28",
-                    "models": "FMA:53544",
+                    "models": "ILX:0787299",
                     "connects": [
                         "point_21",
                         "point_37"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_9"
                     ]
                 },
                 {
                     "id": "n_29",
-                    "models": "FMA:6243",
+                    "models": "ILX:0793560",
                     "connects": [
                         "point_18",
                         "external_laryngeal_n_branching_point"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_3"
                     ]
                 },
                 {
                     "id": "n_30",
-                    "models": "FMA:53612",
+                    "models": "ILX:0786680",
                     "connects": [
                         "point_22",
                         "point_24"
                     ],
                     "contained-in": [
+                        "cardiac_vagus_1",
                         "point_23"
                     ]
                 },
                 {
                     "id": "n_31",
-                    "models": "FMA:6711",
+                    "models": "ILX:0791784",
                     "connects": [
                         "point_24",
                         "plexus_3-1"
+                    ],
+                    "contained-in": [
+                        "cardiac_vagus_2"
                     ]
                 },
                 {
                     "id": "n_32",
-                    "models": "FMA:53600",
+                    "models": "ILX:0793041",
                     "connects": [
                         "point_24",
                         "point_25"
+                    ],
+                    "contained-in": [
+                        "cardiac_vagus_3"
                     ]
                 },
                 {
                     "id": "n_33",
-                    "models": "FMA:6245",
+                    "models": "ILX:0788259",
                     "connects": [
                         "point_25",
                         "plexus_3-1"
+                    ],
+                    "contained-in": [
+                        "cardiac_vagus_5"
                     ]
                 },
                 {
                     "id": "n_34",
-                    "models": "FMA:6244",
+                    "models": "ILX:0784874",
                     "connects": [
                         "point_25",
                         "plexus_3-1"
+                    ],
+                    "contained-in": [
+                        "cardiac_vagus_6"
                     ]
                 },
                 {
                     "id": "n_35",
-                    "models": "FMA:53601",
+                    "models": "ILX:0785405",
                     "connects": [
                         "point_24",
                         "plexus_3-1"
+                    ],
+                    "contained-in": [
+                        "cardiac_vagus_4"
                     ]
                 },
                 {
                     "id": "n_36",
-                    "models": "FMA:6246",
+                    "models": "UBERON:0003716",
                     "connects": [
                         "point_26",
                         "point_28"
                     ],
                     "contained-in": [
+                        "recurrent_laryngeal_1",
                         "point_27"
                     ]
                 },
                 {
                     "id": "n_37",
-                    "models": "FMA:6251",
+                    "models": "ILX:0787615",
                     "connects": [
                         "point_28",
                         "label_9-1"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_2"
                     ]
                 },
                 {
                     "id": "n_38",
-                    "models": "FMA:6250",
+                    "models": "ILX:0791463",
                     "connects": [
                         "point_28",
                         "point_29"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_3"
                     ]
                 },
                 {
                     "id": "n_39",
-                    "models": "FMA:53524",
+                    "models": "ILX:0791258",
                     "connects": [
                         "point_29",
                         "label_15-1"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_8"
                     ]
                 },
                 {
                     "id": "n_40",
-                    "models": "FMA:53614",
+                    "models": "ILX:0787701",
                     "connects": [
                         "point_29",
                         "label_16-1"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_9"
                     ]
                 },
                 {
                     "id": "n_41",
-                    "models": "FMA:6253",
+                    "models": "ILX:0787600",
                     "connects": [
                         "point_29",
                         "label_17-1"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_10"
                     ]
                 },
                 {
                     "id": "n_42",
-                    "models": "FMA:6255",
+                    "models": "ILX:0788680",
                     "connects": [
                         "point_29",
                         "label_18-1"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_11"
                     ]
                 },
                 {
                     "id": "n_43",
-                    "models": "FMA:6252",
+                    "models": "ILX:0791372",
                     "connects": [
                         "point_29",
                         "label_19-1"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_12"
                     ]
                 },
                 {
                     "id": "n_44",
-                    "models": "FMA:6256",
+                    "models": "ILX:0784775",
                     "connects": [
                         "point_29",
                         "label_20-1"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_13"
                     ]
                 },
                 {
                     "id": "n_45",
-                    "models": "FMA:6254",
+                    "models": "ILX:0788061",
                     "connects": [
                         "point_29",
                         "label_21-1"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_14"
                     ]
                 },
                 {
                     "id": "n_46",
-                    "models": "FMA:6257",
+                    "models": "ILX:0787830",
                     "connects": [
                         "point_29",
                         "label_22-1"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_15"
                     ]
                 },
                 {
                     "id": "n_47",
-                    "models": "FMA:6248",
+                    "models": "ILX:0787303",
                     "connects": [
                         "point_28",
                         "label_13-1"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_4"
                     ]
                 },
                 {
                     "id": "n_48",
-                    "models": "FMA:6710",
+                    "models": "ILX:0792328",
                     "connects": [
                         "point_28",
                         "respiratory_8-1"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_5"
                     ]
                 },
                 {
                     "id": "n_49",
-                    "models": "FMA:6249",
+                    "models": "ILX:0793070",
                     "connects": [
                         "point_28",
                         "respiratory_11-1"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_6"
                     ]
                 },
                 {
                     "id": "n_50",
-                    "models": "FMA:53526",
+                    "models": "ILX:0786150",
                     "connects": [
                         "point_28",
                         "point_38"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_7"
                     ]
                 },
                 {
                     "id": "n_51",
-                    "models": "FMA:65515",
+                    "models": "ILX:0789095",
                     "connects": [
                         "point_30",
                         "plexus_4-1"
+                    ],
+                    "contained-in": [
+                        "vagus_12"
                     ]
                 },
                 {
                     "id": "n_52",
-                    "models": "FMA:6247",
+                    "models": "ILX:0786619",
                     "connects": [
                         "point_31",
                         "respiratory_17-1"
+                    ],
+                    "contained-in": [
+                        "vagus_9"
                     ]
                 },
                 {
                     "id": "n_53",
-                    "models": "FMA:65514",
+                    "models": "ILX:0790803",
                     "connects": [
                         "point_32",
                         "point_33"
+                    ],
+                    "contained-in": [
+                        "esophageal_vagus_1"
                     ]
                 },
                 {
                     "id": "n_54",
-                    "models": "FMA:6715",
+                    "models": "ILX:0785247",
                     "connects": [
                         "point_33",
                         "plexus_5-1"
+                    ],
+                    "contained-in": [
+                        "esophageal_vagus_2"
                     ]
                 },
                 {
                     "id": "n_55",
-                    "models": "FMA:6716",
+                    "models": "ILX:0790681",
                     "connects": [
                         "point_33",
                         "plexus_5-1"
+                    ],
+                    "contained-in": [
+                        "esophageal_vagus_3"
                     ]
                 },
                 {
@@ -4687,18 +4810,24 @@
                 },
                 {
                     "id": "n_57",
-                    "models": "FMA:78582",
+                    "models": "ILX:0791632",
                     "connects": [
                         "point_35",
                         "plexus_6-1"
+                    ],
+                    "contained-in": [
+                        "vagus_10"
                     ]
                 },
                 {
                     "id": "n_58",
-                    "models": "FMA:6670",
+                    "models": "ILX:0791071",
                     "connects": [
                         "point_36",
                         "urinary_13-1"
+                    ],
+                    "contained-in": [
+                        "vagus_13"
                     ]
                 },
                 {
@@ -4748,34 +4877,46 @@
                 },
                 {
                     "id": "n_65",
-                    "models": "FMA:6705",
+                    "models": "ILX:0788330",
                     "connects": [
                         "external_laryngeal_n_branching_point",
                         "label_14-1"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_14"
                     ]
                 },
                 {
                     "id": "n_66",
-                    "models": "FMA:6707",
+                    "models": "ILX:0790205",
                     "connects": [
                         "external_laryngeal_n_branching_point",
                         "label_15-1"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_15"
                     ]
                 },
                 {
                     "id": "n_67",
-                    "models": "FMA:6706",
+                    "models": "ILX:0788232",
                     "connects": [
                         "external_laryngeal_n_branching_point",
                         "plexus_2-1"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_16"
                     ]
                 },
                 {
                     "id": "n_68",
-                    "models": "FMA:6708",
+                    "models": "ILX:0786237",
                     "connects": [
                         "external_laryngeal_n_branching_point",
                         "point_41"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_18"
                     ]
                 },
                 {
