@@ -943,6 +943,10 @@
         "term": "ILX:0738322",
         "name": "Neural Tissue of C5"
     },
+    "spinal_68": {
+        "term": "ILX:0738371",
+        "name": "Rexed Lamina VII of T1"
+    },
     "brain_1": {
         "term": "UBERON:0001898",
         "name": "hypothalamus"
