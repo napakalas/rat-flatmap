@@ -2043,9 +2043,6 @@
         "bolser_5-1": {
             "class": "bolser_5"
         },
-        "bolser_6-1": {
-            "class": "bolser_6"
-        },
         "bolser_7-1": {
             "class": "bolser_7"
         },
@@ -4042,7 +4039,7 @@
         },
         "vagus_8": {
             "type": "nerve",
-            "models": "FMA:6237"
+            "models": "ILX:0786059"
         },
         "vagus_9": {
             "type": "nerve",
@@ -4179,6 +4176,10 @@
         "splanchnic": {
             "type": "nerve",
             "models": "UBERON:0003715"
+        },
+        "ECN": {
+            "type": "nerve",
+            "models": "ILX:0776616"
         }
     },
     "networks": [
@@ -4346,12 +4347,12 @@
                 },
                 {
                     "id": "n_16",
-                    "models": "FMA:6237",
                     "connects": [
                         "point_14",
-                        "cardio_4-1"
+                        "cardio_36-1"
                     ],
                     "contained-in": [
+                        "vagus_8",
                         "point_15"
                     ]
                 },
@@ -4705,6 +4706,9 @@
                     "connects": [
                         "ganglion_3-1",
                         "plexus_1-1"
+                    ],
+                    "contained-in": [
+                        "ECN"
                     ]
                 },
                 {
@@ -6318,6 +6322,7 @@
                 },
                 {
                     "id": "bolser_6",
+                    "models": "ILX:0738293",
                     "connects": [
                         "plexus_1-1",
                         "cardio_36-1"
