@@ -1175,10 +1175,6 @@
         "term": "ILX:0789339",
         "name": "Pharyngeal Branch of Glossopharyngeal Nerve"
     },
-    "bolser_21": {
-        "term": "UBERON:0011326",
-        "name": "superior laryngeal nerve"
-    },
     "keast_2": {
         "term": "UBERON:0011390",
         "name": "pudendal nerve"
