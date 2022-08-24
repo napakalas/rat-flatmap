@@ -6580,13 +6580,6 @@
                     ]
                 },
                 {
-                    "id": "bolser_28",
-                    "connects": [
-                        "point_1",
-                        "point_1"
-                    ]
-                },
-                {
                     "id": "bolser_29",
                     "connects": [
                         "point_1",
