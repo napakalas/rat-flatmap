@@ -939,14 +939,6 @@
         "term": "ILX:0777088",
         "name": "L1 - L2 Interganglionic segment"
     },
-    "spinal_66": {
-        "term": "ILX:0738321",
-        "name": "Neural Tissue of C4"
-    },
-    "spinal_67": {
-        "term": "ILX:0738322",
-        "name": "Neural Tissue of C5"
-    },
     "spinal_68": {
         "term": "ILX:0738371",
         "name": "Rexed Lamina VII of T1"
@@ -1126,14 +1118,6 @@
     "brain_45": {
         "term": "UBERON:0007634",
         "name": "Parabrachial Nucleus"
-    },
-    "brain_46": {
-        "term": "ILX:0738320",
-        "name": "Neural Tissue of Medulla"
-    },
-    "brain_47": {
-        "term": "ILX:0738307",
-        "name": "Neural Tissue of Diencephalon"
     },
     "brain_48": {
         "term": "UBERON:0009918",
