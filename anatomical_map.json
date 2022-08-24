@@ -1354,5 +1354,9 @@
     "label_23": {
         "term": "ILX:0742928",
         "name": "laryngeal vestibule"
+    },
+    "vagus_n": {
+        "term": "UBERON:0001759",
+        "name": "Vagus Nerve"
     }
 }
