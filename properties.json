@@ -4187,46 +4187,49 @@
             "type": "nerve",
             "models": "ILX:0776616"
         },
-        "vagus_n1": {
+        "vagus_n-1": {
             "class": "vagus_n"
         },
-        "vagus_n2": {
+        "vagus_n-2": {
             "class": "vagus_n"
         },
-        "vagus_n3": {
+        "vagus_n-3": {
             "class": "vagus_n"
         },
-        "vagus_n4": {
+        "vagus_n-4": {
             "class": "vagus_n"
         },
-        "vagus_n5": {
+        "vagus_n-5": {
             "class": "vagus_n"
         },
-        "vagus_n6": {
+        "vagus_n-6": {
             "class": "vagus_n"
         },
-        "vagus_n7": {
+        "vagus_n-7": {
             "class": "vagus_n"
         },
-        "vagus_n8": {
+        "vagus_n-8": {
             "class": "vagus_n"
         },
-        "vagus_n9": {
+        "vagus_n-9": {
             "class": "vagus_n"
         },
-        "vagus_n10": {
+        "vagus_n-10": {
             "class": "vagus_n"
         },
-        "vagus_n11": {
+        "vagus_n-11": {
             "class": "vagus_n"
         },
-        "vagus_n12": {
+        "vagus_n-12": {
             "class": "vagus_n"
         },
-        "vagus_n13": {
+        "vagus_n-13": {
             "class": "vagus_n"
         },
-        "vagus_n14": {
+        "vagus_n-14": {
+            "class": "vagus_n"
+        },
+        "vagus": {
             "class": "vagus_n"
         }
     },
@@ -6623,6 +6626,13 @@
                     ]
                 },
                 {
+                    "id": "bolser_32",
+                    "connects": [
+                        "plexus_1-1",
+                        "point_16"
+                    ]
+                },
+                {
                     "id": "PH_GN",
                     "connects": [
                         "ganglion_12-1",
@@ -6757,101 +6767,143 @@
                     ]
                 },
                 {
-                    "id": "vagus_n1",
+                    "id": "vagus_n-1",
                     "connects": [
                         "point_1",
                         "ganglion_1-1"
+                    ],
+                    "contained-in": [
+                        "vagus"
                     ]
                 },
                 {
-                    "id": "vagus_n2",
+                    "id": "vagus_n-2",
                     "connects": [
                         "ganglion_1-1",
                         "ganglion_2-1"
+                    ],
+                    "contained-in": [
+                        "vagus"
                     ]
                 },
                 {
-                    "id": "vagus_n3",
+                    "id": "vagus_n-3",
                     "connects": [
                         "ganglion_2-1",
-                        "point_11"
+                        "vagus_n-4"
+                    ],
+                    "contained-in": [
+                        "vagus"
                     ]
                 },
                 {
-                    "id": "vagus_n4",
+                    "id": "vagus_n-4",
                     "connects": [
-                        "point_11",
-                        "point_14"
+                        "vagus_n-3",
+                        "vagus_n-5"
+                    ],
+                    "contained-in": [
+                        "vagus"
                     ]
                 },
                 {
-                    "id": "vagus_n5",
+                    "id": "vagus_n-5",
                     "connects": [
-                        "point_14",
-                        "point_16"
+                        "vagus_n-4",
+                        "vagus_n-6"
+                    ],
+                    "contained-in": [
+                        "vagus"
                     ]
                 },
                 {
-                    "id": "vagus_n6",
+                    "id": "vagus_n-6",
                     "connects": [
-                        "point_16",
-                        "point_22"
+                        "vagus_n-5",
+                        "vagus_n-7"
+                    ],
+                    "contained-in": [
+                        "vagus"
                     ]
                 },
                 {
-                    "id": "vagus_n7",
+                    "id": "vagus_n-7",
                     "connects": [
-                        "point_22",
-                        "point_26"
+                        "vagus_n-6",
+                        "vagus_n-8"
+                    ],
+                    "contained-in": [
+                        "vagus"
                     ]
                 },
                 {
-                    "id": "vagus_n8",
+                    "id": "vagus_n-8",
                     "connects": [
-                        "point_26",
-                        "point_44"
+                        "vagus_n-7",
+                        "vagus_n-9"
+                    ],
+                    "contained-in": [
+                        "vagus"
                     ]
                 },
                 {
-                    "id": "vagus_n9",
+                    "id": "vagus_n-9",
                     "connects": [
-                        "point_44",
-                        "point_30"
+                        "vagus_n-8",
+                        "vagus_n-10"
+                    ],
+                    "contained-in": [
+                        "vagus"
                     ]
                 },
                 {
-                    "id": "vagus_n10",
+                    "id": "vagus_n-10",
                     "connects": [
-                        "point_30",
-                        "point_31"
+                        "vagus_n-9",
+                        "vagus_n-11"
+                    ],
+                    "contained-in": [
+                        "vagus"
                     ]
                 },
                 {
-                    "id": "vagus_n11",
+                    "id": "vagus_n-11",
                     "connects": [
-                        "point_31",
-                        "point_32"
+                        "vagus_n-10",
+                        "vagus_n-12"
+                    ],
+                    "contained-in": [
+                        "vagus"
                     ]
                 },
                 {
-                    "id": "vagus_n12",
+                    "id": "vagus_n-12",
                     "connects": [
-                        "point_32",
-                        "point_34"
+                        "vagus_n-11",
+                        "vagus_n-13"
+                    ],
+                    "contained-in": [
+                        "vagus"
                     ]
                 },
                 {
-                    "id": "vagus_n13",
+                    "id": "vagus_n-13",
                     "connects": [
-                        "point_34",
-                        "point_35"
+                        "vagus_n-12",
+                        "vagus_n-14"
+                    ],
+                    "contained-in": [
+                        "vagus"
                     ]
                 },
                 {
-                    "id": "vagus_n14",
+                    "id": "vagus_n-14",
                     "connects": [
-                        "point_35",
+                        "vagus_n-13",
                         "point_36"
+                    ],
+                    "contained-in": [
+                        "vagus"
                     ]
                 }
             ]
