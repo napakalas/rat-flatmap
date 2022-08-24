@@ -6594,6 +6594,13 @@
                     ]
                 },
                 {
+                    "id": "bolser_30",
+                    "connects": [
+                        "S46_T1",
+                        "muscle_1-1"
+                    ]
+                },
+                {
                     "id": "PH_GN",
                     "connects": [
                         "ganglion_12-1",
