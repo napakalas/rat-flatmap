@@ -331,6 +331,10 @@
         "term": "ILX:0738318",
         "name": "Epiglottic mechanoreceptors"
     },
+    "respiratory_29": {
+        "term": "UBERON:0000379",
+        "name": "Tracheal Mucosa"
+    },
     "digestive_1": {
         "term": "UBERON:0001007",
         "name": "digestive system"
@@ -1130,6 +1134,10 @@
     "brain_47": {
         "term": "ILX:0738307",
         "name": "Neural Tissue of Diencephalon"
+    },
+    "brain_48": {
+        "term": "UBERON:0009918",
+        "name": "Retrotrapezoid Nucleus"
     },
     "bolser_3": {
         "term": "ILX:0738308",
