@@ -16,7 +16,7 @@
     "neuronConnectivity": [
         {
             "name": "aacar",
-            "uri": "https://apinatomy.org/uris/models/ard-arm-cardiac",
+            "uri": "https://apinatomy.org/uris/models/bronchomotor",
             "filter": {
             }
         }
