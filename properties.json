@@ -2172,6 +2172,9 @@
         "brain_47-1": {
             "class": "brain_47"
         },
+        "brain_48-1": {
+            "class": "brain_48"
+        },
         "brain_5-1": {
             "class": "brain_5"
         },
@@ -2728,6 +2731,12 @@
         },
         "respiratory_27-1": {
             "class": "respiratory_27"
+        },
+        "respiratory_28-1": {
+            "class": "respiratory_28"
+        },
+        "respiratory_29-1": {
+            "class": "respiratory_29"
         },
         "respiratory_3-1": {
             "class": "respiratory_3"
@@ -4187,16 +4196,13 @@
                     "id": "n_1",
                     "connects": [
                         "brain_44-1",
-                        "point_1"
+                        "brain_46-1"
                     ]
                 },
                 {
                     "id": "n_2",
                     "connects": [
                         "brain_12-1",
-                        "point_1"
-                    ],
-                    "contained-in": [
                         "brain_46-1"
                     ]
                 },
@@ -4204,14 +4210,14 @@
                     "id": "n_3",
                     "connects": [
                         "brain_34-1",
-                        "point_1"
+                        "brain_46-1"
                     ]
                 },
                 {
                     "id": "n_4",
                     "connects": [
                         "brain_33-1",
-                        "point_1"
+                        "brain_46-1"
                     ]
                 },
                 {
@@ -4391,7 +4397,7 @@
                         "point_19"
                     ],
                     "contained-in": [
-                        "superior_laryngeal-2"
+                        "superior_laryngeal_2"
                     ]
                 },
                 {
@@ -6557,6 +6563,34 @@
                     ],
                     "contained-in": [
                         "bolser_106"
+                    ]
+                },
+                {
+                    "id": "bolser_26",
+                    "connects": [
+                        "plexus_7-1",
+                        "brain_46-1"
+                    ]
+                },
+                {
+                    "id": "bolser_27",
+                    "connects": [
+                        "brain_46-1",
+                        "brain_48-1"
+                    ]
+                },
+                {
+                    "id": "bolser_28",
+                    "connects": [
+                        "point_1",
+                        "brain_46-1"
+                    ]
+                },
+                {
+                    "id": "bolser_29",
+                    "connects": [
+                        "brain_46-1",
+                        "brain_11-1"
                     ]
                 },
                 {
