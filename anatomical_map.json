@@ -207,6 +207,18 @@
         "term": "UBERON:0007240",
         "name": "Tunica Adventitia of Artery"
     },
+    "cardio_36": {
+        "term": "UBERON:0037094",
+        "name": "Wall of Common Carotid Artery"
+    },
+    "cardio_37": {
+        "term": "ILX:0738305",
+        "name": "Wall of Internal Carotid Artery"
+    },
+    "cardio_38": {
+        "term": "ILX:0738304",
+        "name": "Wall of Arch of Aorta"
+    },
     "respiratory_1": {
         "term": "UBERON:0001004",
         "name": "respiratory system"
@@ -252,8 +264,8 @@
         "name": "epiglottis"
     },
     "respiratory_12": {
-        "term": "ILX:0738318",
-        "name": "Epiglottic mechanoreceptors"
+        "term": "UBERON:0004982",
+        "name": "Mucosa of Epiglottis"
     },
     "respiratory_13": {
         "term": "UBERON:0001707",
@@ -314,6 +326,14 @@
     "respiratory_27": {
         "term": "FMA:74655",
         "name": "Wall of Bronchiole"
+    },
+    "respiratory_28": {
+        "term": "ILX:0738318",
+        "name": "Epiglottic mechanoreceptors"
+    },
+    "respiratory_29": {
+        "term": "UBERON:0000379",
+        "name": "Tracheal Mucosa"
     },
     "digestive_1": {
         "term": "UBERON:0001007",
@@ -919,6 +939,10 @@
         "term": "ILX:0777088",
         "name": "L1 - L2 Interganglionic segment"
     },
+    "spinal_68": {
+        "term": "ILX:0738371",
+        "name": "Rexed Lamina VII of T1"
+    },
     "brain_1": {
         "term": "UBERON:0001898",
         "name": "hypothalamus"
@@ -1095,6 +1119,10 @@
         "term": "UBERON:0007634",
         "name": "Parabrachial Nucleus"
     },
+    "brain_48": {
+        "term": "UBERON:0009918",
+        "name": "Retrotrapezoid Nucleus"
+    },
     "bolser_3": {
         "term": "ILX:0738308",
         "name": "External branch of inferior laryngeal nerve"
@@ -1107,11 +1135,7 @@
         "term": "UBERON:0001649",
         "name": "glossopharyngeal nerve"
     },
-    "bolser_6": {
-        "term": "ILX:0738293",
-        "name": "Ganglioglomerular nerve"
-    },
-    "bolser_7": {
+    "bolser_22": {
         "term": "UBERON:0009009",
         "name": "carotid sinus nerve"
     },
@@ -1119,13 +1143,9 @@
         "term": "UBERON:0001650",
         "name": "hypoglossal nerve"
     },
-    "bolser_11": {
+    "bolser_": {
         "term": "ILX:0738309",
         "name": "Internal branch of inferior laryngeal nerve"
-    },
-    "bolser_12": {
-        "term": "UBERON:0003716",
-        "name": "recurrent laryngeal nerve"
     },
     "bolser_13": {
         "term": "ILX:0738373",
@@ -1147,9 +1167,9 @@
         "term": "ILX:0738313",
         "name": "Rami glomi carotici"
     },
-    "bolser_21": {
-        "term": "UBERON:0011326",
-        "name": "superior laryngeal nerve"
+    "bolser_20": {
+        "term": "ILX:0789339",
+        "name": "Pharyngeal Branch of Glossopharyngeal Nerve"
     },
     "keast_2": {
         "term": "UBERON:0011390",
@@ -1208,8 +1228,8 @@
         "name": "cervicothoracic ganglion"
     },
     "ganglion_12": {
-        "term": "UBERON:0001701",
-        "name": "glossopharyngeal ganglion"
+        "term": "UBERON:0005360",
+        "name": "Inferior Glossopharyngeal IX Ganglion"
     },
     "ganglion_13": {
         "term": "ILX:0793555",
@@ -1319,8 +1339,8 @@
         "term": "ILX:0742928",
         "name": "laryngeal vestibule"
     },
-    "neuron-ardell_5": {
-        "term": "ILX:0748206",
-        "name": "Thoracic cardiac branches"
+    "vagus_n": {
+        "term": "UBERON:0001759",
+        "name": "Vagus Nerve"
     }
 }

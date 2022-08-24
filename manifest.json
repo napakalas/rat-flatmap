@@ -14,19 +14,10 @@
     "anatomicalMap": "anatomical_map.json",
     "connectivityTerms": "connectivity_terms.json",
     "neuronConnectivity": [
-        "https://apinatomy.org/uris/models/keast-bladder",
         {
-            "name": "Arm-Ardell Cardiac",
-            "uri": "https://apinatomy.org/uris/models/ard-arm-cardiac",
+            "name": "aacar",
+            "uri": "https://apinatomy.org/uris/models/bronchomotor",
             "filter": {
-                "include": [
-                    "ilxtr:neuron-type-aacar-5",
-                    "ilxtr:neuron-type-aacar-6",
-                    "ilxtr:neuron-type-aacar-12"
-                ],
-                "exclude": [
-                    "ilxtr:neuron-type-aacar-5"
-                ]
             }
         }
     ]
