@@ -4186,6 +4186,48 @@
         "ECN": {
             "type": "nerve",
             "models": "ILX:0776616"
+        },
+        "vagus_n1": {
+            "class": "vagus_n"
+        },
+        "vagus_n2": {
+            "class": "vagus_n"
+        },
+        "vagus_n3": {
+            "class": "vagus_n"
+        },
+        "vagus_n4": {
+            "class": "vagus_n"
+        },
+        "vagus_n5": {
+            "class": "vagus_n"
+        },
+        "vagus_n6": {
+            "class": "vagus_n"
+        },
+        "vagus_n7": {
+            "class": "vagus_n"
+        },
+        "vagus_n8": {
+            "class": "vagus_n"
+        },
+        "vagus_n9": {
+            "class": "vagus_n"
+        },
+        "vagus_n10": {
+            "class": "vagus_n"
+        },
+        "vagus_n11": {
+            "class": "vagus_n"
+        },
+        "vagus_n12": {
+            "class": "vagus_n"
+        },
+        "vagus_n13": {
+            "class": "vagus_n"
+        },
+        "vagus_n14": {
+            "class": "vagus_n"
         }
     },
     "networks": [
@@ -4218,33 +4260,6 @@
                     "connects": [
                         "brain_33-1",
                         "brain_46-1"
-                    ]
-                },
-                {
-                    "id": "n_5",
-                    "models": "UBERON:0001759",
-                    "connects": [
-                        "point_1",
-                        "point_36"
-                    ],
-                    "contained-in": [
-                        "ganglion_1-1",
-                        "ganglion_2-1",
-                        "point_2",
-                        "point_4",
-                        "point_5",
-                        "point_11",
-                        "point_14",
-                        "point_16",
-                        "point_22",
-                        "point_26",
-                        "point_30",
-                        "point_31",
-                        "point_32",
-                        "point_34",
-                        "point_35",
-                        "point_36",
-                        "point_44"
                     ]
                 },
                 {
@@ -4381,7 +4396,7 @@
                     "id": "n_17",
                     "models": "UBERON:0011326",
                     "connects": [
-                        "n_5",
+                        "point_16",
                         "point_18"
                     ],
                     "contained-in": [
@@ -6558,7 +6573,7 @@
                 {
                     "id": "bolser_25",
                     "connects": [
-                        "n_5",
+                        "point_44",
                         "ganglion_12-1"
                     ],
                     "contained-in": [
@@ -6598,6 +6613,13 @@
                     "connects": [
                         "S46_T1",
                         "muscle_1-1"
+                    ]
+                },
+                {
+                    "id": "bolser_31",
+                    "connects": [
+                        "brain_27-1",
+                        "brain_46-1"
                     ]
                 },
                 {
@@ -6732,6 +6754,104 @@
                     "connects": [
                         "digestive_62-1",
                         "digestive_64-1"
+                    ]
+                },
+                {
+                    "id": "vagus_n1",
+                    "connects": [
+                        "point_1",
+                        "ganglion_1-1"
+                    ]
+                },
+                {
+                    "id": "vagus_n2",
+                    "connects": [
+                        "ganglion_1-1",
+                        "ganglion_2-1"
+                    ]
+                },
+                {
+                    "id": "vagus_n3",
+                    "connects": [
+                        "ganglion_2-1",
+                        "point_11"
+                    ]
+                },
+                {
+                    "id": "vagus_n4",
+                    "connects": [
+                        "point_11",
+                        "point_14"
+                    ]
+                },
+                {
+                    "id": "vagus_n5",
+                    "connects": [
+                        "point_14",
+                        "point_16"
+                    ]
+                },
+                {
+                    "id": "vagus_n6",
+                    "connects": [
+                        "point_16",
+                        "point_22"
+                    ]
+                },
+                {
+                    "id": "vagus_n7",
+                    "connects": [
+                        "point_22",
+                        "point_26"
+                    ]
+                },
+                {
+                    "id": "vagus_n8",
+                    "connects": [
+                        "point_26",
+                        "point_44"
+                    ]
+                },
+                {
+                    "id": "vagus_n9",
+                    "connects": [
+                        "point_44",
+                        "point_30"
+                    ]
+                },
+                {
+                    "id": "vagus_n10",
+                    "connects": [
+                        "point_30",
+                        "point_31"
+                    ]
+                },
+                {
+                    "id": "vagus_n11",
+                    "connects": [
+                        "point_31",
+                        "point_32"
+                    ]
+                },
+                {
+                    "id": "vagus_n12",
+                    "connects": [
+                        "point_32",
+                        "point_34"
+                    ]
+                },
+                {
+                    "id": "vagus_n13",
+                    "connects": [
+                        "point_34",
+                        "point_35"
+                    ]
+                },
+                {
+                    "id": "vagus_n14",
+                    "connects": [
+                        "point_35",
+                        "point_36"
                     ]
                 }
             ]
