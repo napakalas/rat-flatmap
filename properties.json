@@ -2166,12 +2166,6 @@
         "brain_45-1": {
             "class": "brain_45"
         },
-        "brain_46-1": {
-            "class": "brain_46"
-        },
-        "brain_47-1": {
-            "class": "brain_47"
-        },
         "brain_48-1": {
             "class": "brain_48"
         },
@@ -3721,12 +3715,6 @@
         "spinal_65-1": {
             "class": "spinal_65"
         },
-        "NT_C4": {
-            "class": "spinal_66"
-        },
-        "NT_C5": {
-            "class": "spinal_67"
-        },
         "urinary_10-1": {
             "class": "urinary_10"
         },
@@ -4241,28 +4229,28 @@
                     "id": "n_1",
                     "connects": [
                         "brain_44-1",
-                        "brain_46-1"
+                        "point_1"
                     ]
                 },
                 {
                     "id": "n_2",
                     "connects": [
                         "brain_12-1",
-                        "brain_46-1"
+                        "point_1"
                     ]
                 },
                 {
                     "id": "n_3",
                     "connects": [
                         "brain_34-1",
-                        "brain_46-1"
+                        "point_1"
                     ]
                 },
                 {
                     "id": "n_4",
                     "connects": [
                         "brain_33-1",
-                        "brain_46-1"
+                        "point_1"
                     ]
                 },
                 {
@@ -6093,9 +6081,6 @@
                     "connects": [
                         "spinal_3-1",
                         "spinal_4-1"
-                    ],
-                    "contained-in": [
-                        "NT_C4"
                     ]
                 },
                 {
@@ -6103,9 +6088,6 @@
                     "connects": [
                         "spinal_4-1",
                         "spinal_5-1"
-                    ],
-                    "contained-in": [
-                        "NT_C5"
                     ]
                 },
                 {
@@ -6587,13 +6569,13 @@
                     "id": "bolser_26",
                     "connects": [
                         "plexus_7-1",
-                        "brain_46-1"
+                        "point_1"
                     ]
                 },
                 {
                     "id": "bolser_27",
                     "connects": [
-                        "brain_46-1",
+                        "point_1",
                         "brain_48-1"
                     ]
                 },
@@ -6601,13 +6583,13 @@
                     "id": "bolser_28",
                     "connects": [
                         "point_1",
-                        "brain_46-1"
+                        "point_1"
                     ]
                 },
                 {
                     "id": "bolser_29",
                     "connects": [
-                        "brain_46-1",
+                        "point_1",
                         "brain_11-1"
                     ]
                 },
@@ -6622,7 +6604,7 @@
                     "id": "bolser_31",
                     "connects": [
                         "brain_27-1",
-                        "brain_46-1"
+                        "point_1"
                     ]
                 },
                 {
