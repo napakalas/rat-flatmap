@@ -1522,10 +1522,9 @@
             "models": "ILX:0739296",
             "name": "fifth lumbar sympathetic ganglion"
         },
-        "S62_L6": {
+        "S46_L6": {
             "models": "ILX:0739297",
-            "name": "sixth lumbar sympathetic ganglion",
-            "comment": "Id should be S46_L6"
+            "name": "sixth lumbar sympathetic ganglion"
         },
         "S66_S1": {
             "models": "ILX:0789109",
