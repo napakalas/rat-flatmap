@@ -467,10 +467,6 @@
         "term": "UBERON:0012402",
         "name": "small intestine smooth muscle longitudinal layer"
     },
-    "digestive_36": {
-        "term": "UBERON:0002439",
-        "name": "myenteric nerve plexus"
-    },
     "digestive_37": {
         "term": "UBERON:0012401",
         "name": "small intestine smooth muscle circular layer"
@@ -500,20 +496,20 @@
         "name": "bile duct"
     },
     "digestive_45": {
-        "term": "UBERON:8410060",
-        "name": "Circular Muscle Layer of Colon"
+        "term": "ILX:0773760",
+        "name": "Circular Muscle Layer of Descending Colon"
     },
     "digestive_46": {
-        "term": "UBERON:0007177",
-        "name": "Lamina Propria of Mucosa of Colon"
+        "term": "ILX:0770759",
+        "name": "Lamina Propria Mucosae of Descending Colon"
     },
     "digestive_48": {
-        "term": "UBERON:0003335",
-        "name": "Serosa of Colon"
+        "term": "ILX:0771089",
+        "name": "Serosa of Descending Colon"
     },
     "digestive_49": {
-        "term": "UBERON:8410061",
-        "name": "Longitudinal Muscle Layer of Colon"
+        "term": "ILX:0776070",
+        "name": "Longitudinal Muscle Layer of Descending Colon"
     },
     "digestive_51": {
         "term": "UBERON:0001211",
@@ -590,6 +586,10 @@
     "digestive_69": {
         "term": "ILX:0793646",
         "name": "Arteriole in Submucous Nerve Plexus of Descending Colon"
+    },
+    "digestive_70": {
+        "term": "ILX:0793642",
+        "name": "Arteriole in Lamina Propria of Mucosa of Descending Colon"
     },
     "reproductive_1": {
         "term": "UBERON:0000995",
@@ -1051,11 +1051,11 @@
         "term": "UBERON:0001891",
         "name": "midbrain"
     },
-    "pons": {
+    "brain_26": {
         "term": "UBERON:0000988",
         "name": "pons"
     },
-    "medulla": {
+    "brain_27": {
         "term": "UBERON:0001896",
         "name": "medulla oblongata"
     },
@@ -1296,12 +1296,12 @@
         "name": "internal carotid nerve plexus"
     },
     "plexus_8": {
-        "term": "UBERON:0002439",
-        "name": "Myenteric Nerve Plexus"
+        "term": "ILX:0793657",
+        "name": "Myenteric Nerve Plexus of Descending Colon"
     },
     "plexus_9": {
-        "term": "UBERON:0005304",
-        "name": "submucous nerve plexus"
+        "term": "ILX:0793659",
+        "name": "Submucous Nerve Plexus of Descending Colon"
     },
     "label_4": {
         "term": "UBERON:0002364",
