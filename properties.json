@@ -2128,10 +2128,10 @@
             "class": "brain_25"
         },
         "brain_26-1": {
-            "class": "pons"
+            "class": "brain_26"
         },
         "brain_27-1": {
-            "class": "medulla"
+            "class": "brain_27"
         },
         "brain_29-1": {
             "class": "brain_29"
@@ -2526,6 +2526,9 @@
         },
         "digestive_7-4": {
             "class": "digestive_7"
+        },
+        "digestive_70-1": {
+            "class": "digestive_70"
         },
         "digestive_8-1": {
             "class": "digestive_8"
