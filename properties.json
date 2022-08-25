@@ -2535,6 +2535,12 @@
         "digestive_70-1": {
             "class": "digestive_70"
         },
+        "digestive_71-1": {
+            "class": "digestive_71"
+        },
+        "digestive_72-1": {
+            "class": "digestive_72"
+        },
         "digestive_8-1": {
             "class": "digestive_8"
         },
@@ -3839,6 +3845,9 @@
         },
         "plexus_10-1": {
             "class": "plexus_10"
+        },
+        "plexus_11-1": {
+            "class": "plexus_11"
         },
         "label_1-1": {
             "class": "label_1"
