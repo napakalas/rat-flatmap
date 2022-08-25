@@ -1303,6 +1303,10 @@
         "term": "ILX:0793659",
         "name": "Submucous Nerve Plexus of Descending Colon"
     },
+    "plexus_10": {
+        "term": "ILX:0793656",
+        "name": "Myenteric Nerve Plexus of Stomach"
+    },
     "label_4": {
         "term": "UBERON:0002364",
         "name": "tympanic membrane"
