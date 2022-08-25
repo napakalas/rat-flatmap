@@ -1707,8 +1707,8 @@
             "name": "Gray communicating ramus of eleventh intercostal nerve"
         },
         "S49_T12": {
-            "models": "ILX:0793576",
-            "name": "Gray communicating ramus of subcostal nerve"
+            "models": "ILX:0739298",
+            "name": "Gray Communicating Ramus of Twelfth Thoracic Nerve"
         },
         "S49_T13": {
             "models": "ILX:0793227",
@@ -1974,6 +1974,15 @@
         "ganglion_15-1": {
             "class": "ganglion_15"
         },
+        "ganglion_16-1": {
+            "class": "ganglion_16"
+        },
+        "ganglion_17-1": {
+            "class": "ganglion_17"
+        },
+        "ganglion_18-1": {
+            "class": "ganglion_18"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -2119,10 +2128,10 @@
             "class": "brain_25"
         },
         "brain_26-1": {
-            "class": "brain_26"
+            "class": "pons"
         },
         "brain_27-1": {
-            "class": "brain_27"
+            "class": "medulla"
         },
         "brain_29-1": {
             "class": "brain_29"
@@ -2395,9 +2404,6 @@
         "digestive_37-1": {
             "class": "digestive_37"
         },
-        "digestive_38-1": {
-            "class": "digestive_38"
-        },
         "digestive_39-1": {
             "class": "digestive_39"
         },
@@ -2494,6 +2500,21 @@
         "digestive_64-1": {
             "class": "digestive_64"
         },
+        "digestive_65-1": {
+            "class": "digestive_65"
+        },
+        "digestive_66-1": {
+            "class": "digestive_66"
+        },
+        "digestive_67-1": {
+            "class": "digestive_67"
+        },
+        "digestive_68-1": {
+            "class": "digestive_68"
+        },
+        "digestive_69-1": {
+            "class": "digestive_69"
+        },
         "digestive_7-1": {
             "class": "digestive_7"
         },
@@ -2551,7 +2572,7 @@
         "keast_1-1": {
             "class": "keast_1",
             "type": "nerve",
-            "models": "EMAPA:31526"
+            "models": "ILX:0793559"
         },
         "keast_2-1": {
             "class": "keast_2",
@@ -3801,6 +3822,12 @@
         },
         "plexus_7-1": {
             "class": "plexus_7"
+        },
+        "plexus_8-1": {
+            "class": "plexus_8"
+        },
+        "plexus_9-1": {
+            "class": "plexus_9"
         },
         "label_1-1": {
             "class": "label_1"
@@ -6268,7 +6295,7 @@
                 },
                 {
                     "id": "bladder_n",
-                    "models": "EMAPA:31526",
+                    "models": "ILX:0793559",
                     "connects": [
                         "ganglion_4-1",
                         "bladder_n-bladder"
