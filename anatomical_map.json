@@ -587,6 +587,14 @@
         "term": "ILX:0793642",
         "name": "Arteriole in Lamina Propria of Mucosa of Descending Colon"
     },
+    "digestive_71": {
+        "term": "UBERON:0001975",
+        "name": "Serosa of Esophagus"
+    },
+    "digestive_72": {
+        "term": "UBERON:0009961",
+        "name": "Esophagus Smooth Muscle Longitudinal Layer"
+    },
     "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
@@ -1306,6 +1314,10 @@
     "plexus_10": {
         "term": "ILX:0793656",
         "name": "Myenteric Nerve Plexus of Stomach"
+    },
+    "plexus_11": {
+        "term": "ILX:0793660",
+        "name": "Myenteric Nerve Plexus of Lower Esophagus"
     },
     "label_4": {
         "term": "UBERON:0002364",
