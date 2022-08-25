@@ -56,16 +56,12 @@
         "name": "urethra"
     },
     "urinary_15": {
-        "term": "ILX:0738416",
-        "name": "rhabdosphincter of female"
+        "term": "ILX:0793141",
+        "name": "Urethral Rhabdosphincter"
     },
     "urinary_16": {
         "term": "UBERON:0002384",
         "name": "connective tissue"
-    },
-    "urinary_17": {
-        "term": "ILX:0738408",
-        "name": "Rhabdosphincter of male"
     },
     "cardio_1": {
         "term": "UBERON:0004535",
@@ -1130,6 +1126,10 @@
     "brain_48": {
         "term": "UBERON:0009918",
         "name": "Retrotrapezoid Nucleus"
+    },
+    "brain_49": {
+        "term": "UBERON:0001893",
+        "name": "Telencephalon"
     },
     "bolser_3": {
         "term": "ILX:0738308",
