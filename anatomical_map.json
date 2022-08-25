@@ -475,10 +475,6 @@
         "term": "UBERON:0012401",
         "name": "small intestine smooth muscle circular layer"
     },
-    "digestive_38": {
-        "term": "UBERON:0005304",
-        "name": "submucous nerve plexus"
-    },
     "digestive_39": {
         "term": "UBERON:0001238",
         "name": "lamina propria of small intestine"
@@ -511,10 +507,6 @@
         "term": "UBERON:0007177",
         "name": "Lamina Propria of Mucosa of Colon"
     },
-    "digestive_47": {
-        "term": "UBERON:0002439",
-        "name": "Myenteric Nerve Plexus"
-    },
     "digestive_48": {
         "term": "UBERON:0003335",
         "name": "Serosa of Colon"
@@ -523,17 +515,13 @@
         "term": "UBERON:8410061",
         "name": "Longitudinal Muscle Layer of Colon"
     },
-    "digestive_50": {
-        "term": "UBERON:0005304",
-        "name": "Submucosal nerve plexus"
-    },
     "digestive_51": {
         "term": "UBERON:0001211",
         "name": "Peyer's Patch"
     },
     "digestive_52": {
-        "term": "UBERON:0001981",
-        "name": "Blood vessel"
+        "term": "UBERON:0035965",
+        "name": "Wall of Blood Vessel"
     },
     "digestive_53": {
         "term": "UBERON:0001199",
@@ -582,6 +570,26 @@
     "digestive_64": {
         "term": "UBERON:0010398",
         "name": "Spleen Marginal Sinus"
+    },
+    "digestive_65": {
+        "term": "ILX:0793645",
+        "name": "Arteriole in Serosa of Descending Colon"
+    },
+    "digestive_66": {
+        "term": "ILX:0793643",
+        "name": "Arteriole in Longitudinal Muscle Layer of Descending Colon"
+    },
+    "digestive_67": {
+        "term": "ILX:0793644",
+        "name": "Arteriole in Myenteric Nerve Plexus of Descending Colon"
+    },
+    "digestive_68": {
+        "term": "ILX:0793641",
+        "name": "Arteriole in Circular Muscle Layer of Descending Colon"
+    },
+    "digestive_69": {
+        "term": "ILX:0793646",
+        "name": "Arteriole in Submucous Nerve Plexus of Descending Colon"
     },
     "reproductive_1": {
         "term": "UBERON:0000995",
@@ -1043,11 +1051,11 @@
         "term": "UBERON:0001891",
         "name": "midbrain"
     },
-    "brain_26": {
+    "pons": {
         "term": "UBERON:0000988",
         "name": "pons"
     },
-    "brain_27": {
+    "medulla": {
         "term": "UBERON:0001896",
         "name": "medulla oblongata"
     },
@@ -1239,6 +1247,22 @@
         "term": "ILX:0793556",
         "name": "Ventricular Intrinsic Cardiac Ganglion"
     },
+    "ganglion_15": {
+        "term": "ILX:0793570",
+        "name": "Trachea Parasympathetic Ganglia"
+    },
+    "ganglion_16": {
+        "term": "ILX:0793571",
+        "name": "Bronchus Parasympathetic Ganglia"
+    },
+    "ganglion_17": {
+        "term": "ILX:0793572",
+        "name": "Bronchiole Parasympathetic Ganglia"
+    },
+    "ganglion_18": {
+        "term": "ILX:0793573",
+        "name": "Terminal Bronchiole Parasympathetic Ganglia"
+    },
     "lung_2": {
         "term": "UBERON:0003715",
         "name": "splanchnic nerve"
@@ -1270,6 +1294,14 @@
     "plexus_7": {
         "term": "UBERON:0002024",
         "name": "internal carotid nerve plexus"
+    },
+    "plexus_8": {
+        "term": "UBERON:0002439",
+        "name": "Myenteric Nerve Plexus"
+    },
+    "plexus_9": {
+        "term": "UBERON:0005304",
+        "name": "submucous nerve plexus"
     },
     "label_4": {
         "term": "UBERON:0002364",
