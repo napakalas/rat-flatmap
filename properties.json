@@ -2139,6 +2139,9 @@
         "brain_3-1": {
             "class": "brain_3"
         },
+        "brain_31-1": {
+            "class": "brain_31"
+        },
         "brain_32-1": {
             "class": "brain_32"
         },
@@ -2177,6 +2180,9 @@
         },
         "brain_48-1": {
             "class": "brain_48"
+        },
+        "brain_49-1": {
+            "class": "brain_49"
         },
         "brain_5-1": {
             "class": "brain_5"
