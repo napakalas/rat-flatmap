@@ -1982,6 +1982,9 @@
         "ganglion_18-1": {
             "class": "ganglion_18"
         },
+        "ganglion_19-1": {
+            "class": "ganglion_19"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -5068,6 +5071,13 @@
                     "contained-in": [
                         "brain_26-1",
                         "brain_25-1"
+                    ]
+                },
+                {
+                    "id": "n_76",
+                    "connects": [
+                        "point_47",
+                        "ganglion_19-1"
                     ]
                 },
                 {
