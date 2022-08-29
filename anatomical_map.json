@@ -595,6 +595,22 @@
         "term": "UBERON:0009961",
         "name": "Esophagus Smooth Muscle Longitudinal Layer"
     },
+    "digestive_73": {
+        "term": "UBERON:0001243",
+        "name": "Serosa of Intestine"
+    },
+    "digestive_74": {
+        "term": "UBERON:0004641",
+        "name": "Spleen Capsule"
+    },
+    "digestive_75": {
+        "term": "ILX:0793680",
+        "name": "Perimarginal Cavernous Sinus"
+    },
+    "digestive_76": {
+        "term": "UBERON:0038727",
+        "name": "Juxta-Intestinal Mesenteric Lymph Node"
+    },
     "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
