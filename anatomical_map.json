@@ -1287,6 +1287,10 @@
         "term": "ILX:0793573",
         "name": "Terminal Bronchiole Parasympathetic Ganglia"
     },
+    "ganglion_19": {
+        "term": "ILX:0793082",
+        "name": "Celiac Ganglion-Superior Mesenteric Ganglion Complex"
+    },
     "lung_2": {
         "term": "UBERON:0003715",
         "name": "splanchnic nerve"
