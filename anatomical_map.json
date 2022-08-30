@@ -848,8 +848,8 @@
         "name": "third sacral spinal cord segment"
     },
     "spinal_31": {
-        "term": "UBERON:0002318",
-        "name": "white matter of spinal cord"
+        "term": "UBERON:0016549",
+        "name": "Central Nervous System White Matter Layer"
     },
     "spinal_32": {
         "term": "UBERON:0002315",
