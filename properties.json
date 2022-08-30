@@ -4234,6 +4234,10 @@
             "type": "nerve",
             "models": "ILX:0776616"
         },
+        "LCN": {
+            "type": "nerve",
+            "models": "ILX:0793632"
+        },
         "vagus_n-1": {
             "class": "vagus_n"
         },
@@ -5373,7 +5377,7 @@
                 {
                     "id": "L6_gray_ramus-spinal_n",
                     "connects": [
-                        "S62_L6",
+                        "S46_L6",
                         "L6_spinal"
                     ],
                     "contained-in": [
@@ -5919,7 +5923,7 @@
                     "id": "L6_paravertebral_ganglion",
                     "connects": [
                         "L6_spinal",
-                        "S62_L6"
+                        "S46_L6"
                     ],
                     "contained-in": [
                         "S48_L6"
@@ -6089,14 +6093,14 @@
                     "models": "ILX:0777092",
                     "connects": [
                         "S46_L5",
-                        "S62_L6"
+                        "S46_L6"
                     ]
                 },
                 {
                     "id": "sympathetic_trunk_L6-S1",
                     "models": "ILX:0777093",
                     "connects": [
-                        "S62_L6",
+                        "S46_L6",
                         "S66_S1"
                     ]
                 },
@@ -6945,6 +6949,16 @@
                     ],
                     "contained-in": [
                         "vagus"
+                    ]
+                },
+                {
+                    "id": "lumbar_colonic",
+                    "connects": [
+                        "ganglion_5-1",
+                        "lumbar_end"
+                    ],
+                    "contained-in": [
+                        "LCN"
                     ]
                 }
             ]
