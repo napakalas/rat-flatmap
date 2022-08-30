@@ -1940,9 +1940,6 @@
         "S52_T13": {
             "class": "spinal_52"
         },
-        "S62_L6": {
-            "class": "spinal_62"
-        },
         "ganglion_6-1": {
             "class": "ganglion_6"
         },
@@ -2216,9 +2213,6 @@
         "cardio_16-1": {
             "class": "cardio_16"
         },
-        "cardio_17-1": {
-            "class": "cardio_17"
-        },
         "cardio_18-1": {
             "class": "cardio_18"
         },
@@ -2271,6 +2265,9 @@
             "class": "cardio_29"
         },
         "cardio_29-3": {
+            "class": "cardio_29"
+        },
+        "cardio_29-4": {
             "class": "cardio_29"
         },
         "cardio_3-1": {
