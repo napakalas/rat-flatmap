@@ -15,9 +15,11 @@
     "connectivityTerms": "connectivity_terms.json",
     "neuronConnectivity": [
         {
-            "name": "aacar",
-            "uri": "https://apinatomy.org/uris/models/bronchomotor",
+            "uri": "https://apinatomy.org/uris/models/keast-bladder",
             "filter": {
+                "exclude": [
+                    "ilxtr:neuron-type-keast-4"
+                ]
             }
         }
     ]
