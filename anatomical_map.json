@@ -127,10 +127,6 @@
         "term": "UBERON:0004664",
         "name": "aorta tunica adventitia"
     },
-    "cardio_17": {
-        "term": "UBERON:0005742",
-        "name": "adventitia"
-    },
     "cardio_18": {
         "term": "UBERON:0001986",
         "name": "endothelium"
