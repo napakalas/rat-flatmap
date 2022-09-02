@@ -607,6 +607,14 @@
         "term": "UBERON:0038727",
         "name": "Juxta-Intestinal Mesenteric Lymph Node"
     },
+    "digestive_77": {
+        "term": "ILX:0793558",
+        "name": "Distal Stomach"
+    },
+    "digestive_78": {
+        "term": "ILX:0793658",
+        "name": "Proximal Stomach"
+    },
     "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
