@@ -2129,7 +2129,13 @@
         "brain_26-1": {
             "class": "brain_26"
         },
+        "brain_26-2": {
+            "class": "brain_26"
+        },
         "brain_27-1": {
+            "class": "brain_27"
+        },
+        "brain_27-2": {
             "class": "brain_27"
         },
         "brain_29-1": {
@@ -2139,6 +2145,9 @@
             "class": "brain_3"
         },
         "brain_31-1": {
+            "class": "brain_31"
+        },
+        "brain_31-2": {
             "class": "brain_31"
         },
         "brain_32-1": {
@@ -2220,6 +2229,9 @@
             "class": "cardio_19"
         },
         "cardio_2-1": {
+            "class": "cardio_2"
+        },
+        "cardio_2-2": {
             "class": "cardio_2"
         },
         "cardio_20-1": {
@@ -2449,6 +2461,21 @@
             "class": "digestive_51"
         },
         "digestive_52-1": {
+            "class": "digestive_52"
+        },
+        "digestive_52-2": {
+            "class": "digestive_52"
+        },
+        "digestive_52-3": {
+            "class": "digestive_52"
+        },
+        "digestive_52-4": {
+            "class": "digestive_52"
+        },
+        "digestive_52-5": {
+            "class": "digestive_52"
+        },
+        "digestive_52-6": {
             "class": "digestive_52"
         },
         "digestive_53-1": {
@@ -2746,6 +2773,9 @@
         "respiratory_11-1": {
             "class": "respiratory_11"
         },
+        "respiratory_11-2": {
+            "class": "respiratory_11"
+        },
         "respiratory_12-1": {
             "class": "respiratory_12"
         },
@@ -2768,6 +2798,9 @@
             "class": "respiratory_19"
         },
         "respiratory_2-1": {
+            "class": "respiratory_2"
+        },
+        "respiratory_2-2": {
             "class": "respiratory_2"
         },
         "respiratory_20-1": {
@@ -3822,6 +3855,9 @@
         "urinary_7-1": {
             "class": "urinary_7"
         },
+        "urinary_7-2": {
+            "class": "urinary_7"
+        },
         "urinary_8-1": {
             "class": "urinary_8"
         },
@@ -4830,7 +4866,7 @@
                     "models": "ILX:0793070",
                     "connects": [
                         "point_28",
-                        "respiratory_11-1"
+                        "respiratory_11-2"
                     ],
                     "contained-in": [
                         "recurrent_laryngeal_6"
