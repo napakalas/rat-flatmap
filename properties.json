@@ -2776,6 +2776,9 @@
         "respiratory_11-2": {
             "class": "respiratory_11"
         },
+        "respiratory_11-3": {
+            "class": "respiratory_11"
+        },
         "respiratory_12-1": {
             "class": "respiratory_12"
         },
@@ -2798,9 +2801,6 @@
             "class": "respiratory_19"
         },
         "respiratory_2-1": {
-            "class": "respiratory_2"
-        },
-        "respiratory_2-2": {
             "class": "respiratory_2"
         },
         "respiratory_20-1": {
