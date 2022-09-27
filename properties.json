@@ -5146,7 +5146,7 @@
                     "connects": [
                         "C3_spinal",
                         "S45_C3",
-                        "C3_dorsal_root_end"
+                        "spinal_3-1/C3_dorsal_root_end"
                     ],
                     "contained-in": [
                         "S44_C3"
@@ -5157,7 +5157,7 @@
                     "connects": [
                         "C4_spinal",
                         "S45_C4",
-                        "C4_dorsal_root_end"
+                        "spinal_4-1/C4_dorsal_root_end"
                     ],
                     "contained-in": [
                         "S44_C4"
@@ -5168,7 +5168,7 @@
                     "connects": [
                         "C5_spinal",
                         "S45_C5",
-                        "C5_dorsal_root_end"
+                        "spinal_5-1/C5_dorsal_root_end"
                     ],
                     "contained-in": [
                         "S44_C5"
@@ -5179,7 +5179,7 @@
                     "connects": [
                         "C6_spinal",
                         "S45_C6",
-                        "C6_dorsal_root_end"
+                        "spinal_6-1/C6_dorsal_root_end"
                     ],
                     "contained-in": [
                         "S44_C6"
@@ -5190,7 +5190,7 @@
                     "connects": [
                         "C7_spinal",
                         "S45_C7",
-                        "C7_dorsal_root_end"
+                        "spinal_7-1/C7_dorsal_root_end"
                     ],
                     "contained-in": [
                         "S44_C7"
@@ -5201,7 +5201,7 @@
                     "connects": [
                         "C8_spinal",
                         "S45_C8",
-                        "C8_dorsal_root_end"
+                        "spinal_8-1/C8_dorsal_root_end"
                     ],
                     "contained-in": [
                         "S44_C8"
@@ -5212,7 +5212,7 @@
                     "connects": [
                         "T1_spinal",
                         "S45_T1",
-                        "T1_dorsal_root_end"
+                        "spinal_9-1/T1_dorsal_root_end"
                     ],
                     "contained-in": [
                         "S44_T1"
@@ -5223,7 +5223,7 @@
                     "connects": [
                         "T2_spinal",
                         "S45_T2",
-                        "T2_dorsal_root_end"
+                        "spinal_10-1/T2_dorsal_root_end"
                     ],
                     "contained-in": [
                         "S44_T2"
@@ -5234,7 +5234,7 @@
                     "connects": [
                         "T3_spinal",
                         "S45_T3",
-                        "T3_dorsal_root_end"
+                        "spinal_11-1/T3_dorsal_root_end"
                     ],
                     "contained-in": [
                         "S44_T3"
@@ -5245,7 +5245,7 @@
                     "connects": [
                         "T4_spinal",
                         "S45_T4",
-                        "T4_dorsal_root_end"
+                        "spinal_12-1/T4_dorsal_root_end"
                     ],
                     "contained-in": [
                         "S44_T4"
@@ -5256,7 +5256,7 @@
                     "connects": [
                         "T5_spinal",
                         "S45_T5",
-                        "T5_dorsal_root_end"
+                        "spinal_13-1/T5_dorsal_root_end"
                     ],
                     "contained-in": [
                         "S44_T5"
@@ -5267,7 +5267,7 @@
                     "connects": [
                         "T6_spinal",
                         "S45_T6",
-                        "T6_dorsal_root_end"
+                        "spinal_14-1/T6_dorsal_root_end"
                     ],
                     "contained-in": [
                         "S44_T6"
@@ -5278,7 +5278,7 @@
                     "connects": [
                         "L1_spinal",
                         "S45_L1",
-                        "L1_dorsal_root_end"
+                        "spinal_22-1/L1_dorsal_root_end"
                     ],
                     "contained-in": [
                         "S44_L1"
@@ -5289,7 +5289,7 @@
                     "connects": [
                         "L2_spinal",
                         "S45_L2",
-                        "L2_dorsal_root_end"
+                        "spinal_23-1/L2_dorsal_root_end"
                     ],
                     "contained-in": [
                         "S44_L2"
@@ -5300,7 +5300,7 @@
                     "connects": [
                         "L6_spinal",
                         "S45_L6",
-                        "L6_dorsal_root_end"
+                        "spinal_27-1/L6_dorsal_root_end"
                     ],
                     "contained-in": [
                         "S44_L6"
@@ -5311,7 +5311,7 @@
                     "connects": [
                         "S1_spinal",
                         "S45_S1",
-                        "S1_dorsal_root_end"
+                        "spinal_28-1/S1_dorsal_root_end"
                     ],
                     "contained-in": [
                         "S44_S1"
