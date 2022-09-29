@@ -4358,7 +4358,10 @@
                 {
                     "id": "n_2",
                     "connects": [
-                        "brain_12-1",
+                        "brain_34-1",
+                        "vagus_n-1"
+                    ],
+                    "contained-in": [
                         "point_1"
                     ]
                 },
@@ -4380,7 +4383,7 @@
                     "id": "n_6",
                     "models": "FMA:6231",
                     "connects": [
-                        "point_4",
+                        "ganglion_1-1",
                         "label_1-1"
                     ]
                 },
@@ -4388,8 +4391,11 @@
                     "id": "n_6_X",
                     "models": "FMA:6233",
                     "connects": [
-                        "point_2",
+                        "ganglion_1-1",
                         "point_3"
+                    ],
+                    "contained-in": [
+                        "vagus_14"
                     ]
                 },
                 {
@@ -5321,7 +5327,7 @@
                     "id": "C3_ventral_root",
                     "connects": [
                         "C3_spinal",
-                        "C3_ventral_root_end"
+                        "spinal_3-1/C3_ventral_root_end"
                     ],
                     "contained-in": [
                         "S43_C3"
@@ -5331,7 +5337,7 @@
                     "id": "C4_ventral_root",
                     "connects": [
                         "C4_spinal",
-                        "C4_ventral_root_end"
+                        "spinal_4-1/C4_ventral_root_end"
                     ],
                     "contained-in": [
                         "S43_C4"
@@ -5341,7 +5347,7 @@
                     "id": "C5_ventral_root",
                     "connects": [
                         "C5_spinal",
-                        "C5_ventral_root_end"
+                        "spinal_5-1/C5_ventral_root_end"
                     ],
                     "contained-in": [
                         "S43_C5"
@@ -5351,7 +5357,7 @@
                     "id": "L5_ventral_root",
                     "connects": [
                         "L5_spinal",
-                        "L5_ventral_root_end"
+                        "spinal_26-1/L5_ventral_root_end"
                     ],
                     "contained-in": [
                         "S43_L5"
@@ -5361,7 +5367,7 @@
                     "id": "L6_ventral_root",
                     "connects": [
                         "L6_spinal",
-                        "L6_ventral_root_end"
+                        "spinal_27-1/L6_ventral_root_end"
                     ],
                     "contained-in": [
                         "S43_L6"
@@ -5371,7 +5377,7 @@
                     "id": "S1_ventral_root",
                     "connects": [
                         "S1_spinal",
-                        "S1_ventral_root_end"
+                        "spinal_28-1/S1_ventral_root_end"
                     ],
                     "contained-in": [
                         "S43_S1"
@@ -6785,20 +6791,6 @@
                         "splanchnic_n_start-12",
                         "splanchnic_n_start-13",
                         "splanchnic_n_branching_point"
-                    ]
-                },
-                {
-                    "id": "splen_5-1",
-                    "connects": [
-                        "digestive_60-1",
-                        "digestive_64-1"
-                    ]
-                },
-                {
-                    "id": "splen_5-2",
-                    "connects": [
-                        "digestive_62-1",
-                        "digestive_64-1"
                     ]
                 },
                 {
