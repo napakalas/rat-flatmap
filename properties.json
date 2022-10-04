@@ -5952,7 +5952,7 @@
                     "contained-in": [
                         "S43_T2",
                         "S48_T2",
-                        "S50_T2
+                        "S50_T2"
                     ]
                 },
                 {
@@ -6012,7 +6012,7 @@
                     "contained-in": [
                         "S43_L1",
                         "S48_L1",
-                        "S50_L1
+                        "S50_L1"
                     ]
                 },
                 {
@@ -6914,8 +6914,8 @@
                 {
                     "id": "vagus_n-5",
                     "connects": [
-                        "point-14",
-                        "point-16"
+                        "point_14",
+                        "point_16"
                     ],
                     "contained-in": [
                         "vagus"
