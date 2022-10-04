@@ -14,19 +14,8 @@
     "anatomicalMap": "anatomical_map.json",
     "connectivityTerms": "connectivity_terms.json",
     "neuronConnectivity": [
-        "https://apinatomy.org/uris/models/ard-arm-cardiac",
-        {
-            "uri":  "https://apinatomy.org/uris/models/bolser-lewis",
-            "filter": {
-                "exclude": [
-                    "ilxtr:neuron-type-bolew-unbranched-11",
-                    "ilxtr:neuron-type-bolew-unbranched-12"
-                ]
-            }
-        },
         "https://apinatomy.org/uris/models/bronchomotor",
         "https://apinatomy.org/uris/models/keast-bladder",
-        "https://apinatomy.org/uris/models/pancreas",
         "https://apinatomy.org/uris/models/sawg-distal-colon",
         "https://apinatomy.org/uris/models/sawg-stomach",
         "https://apinatomy.org/uris/models/spleen"
