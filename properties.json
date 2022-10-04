@@ -4257,27 +4257,27 @@
         },
         "bolser_109": {
             "type": "nerve",
-            "models": ""
+            "model-unknown": ""
         },
         "bolser_110": {
             "type": "nerve",
-            "models": ""
+            "model-unknown": ""
         },
         "bolser_111": {
             "type": "nerve",
-            "models": ""
+            "model-unknown": ""
         },
         "bolser_112": {
             "type": "nerve",
-            "models": ""
+            "model-unknown": ""
         },
         "bolser_113": {
             "type": "nerve",
-            "models": ""
+            "model-unknown": ""
         },
         "bolser_114": {
             "type": "nerve",
-            "models": ""
+            "model-unknown": ""
         },
         "bolser_115": {
             "type": "nerve",
@@ -5297,8 +5297,7 @@
                         "spinal_22-1/L1_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_L1",
-                        "S50_L1"
+                        "S45_L1"
                     ]
                 },
                 {
@@ -5309,8 +5308,7 @@
                         "spinal_23-1/L2_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_L2",
-                        "S50_L2"
+                        "S45_L2"
                     ]
                 },
                 {
@@ -5321,8 +5319,7 @@
                         "spinal_27-1/L6_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_L6",
-                        "S50_L6"
+                        "S45_L6"
                     ]
                 },
                 {
@@ -5333,8 +5330,7 @@
                         "spinal_28-1/S1_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_S1",
-                        "S50_S1"
+                        "S45_S1"
                     ]
                 },
                 {
@@ -5910,26 +5906,22 @@
                     "id": "L1_ventral_root_ramus",
                     "connects": [
                         "L1_spinal",
-                        "L1_ventral_root_end"
+                        "spinal_22-1/L1_ventral_root_end"
                     ],
                     "contained-in": [
                         "S43_L1",
-                        "S48_L1",
-                        "S49_L1",
-                        "S50_L1"
+                        "S48_L1"
                     ]
                 },
                 {
                     "id": "L2_ventral_root_ramus",
                     "connects": [
                         "L2_spinal",
-                        "L2_ventral_root_end"
+                        "spinal_23-1/L2_ventral_root_end"
                     ],
                     "contained-in": [
                         "S43_L2",
-                        "S48_L2",
-                        "S49_L2",
-                        "S50_L2"
+                        "S48_L2"
                     ]
                 },
                 {
@@ -6006,7 +5998,7 @@
                 {
                     "id": "L1_ventral_root_paravertebral_ganglion",
                     "connects": [
-                        "L1_ventral_root_end",
+                        "spinal_22-1/L1_ventral_root_end",
                         "S46_L1"
                     ],
                     "contained-in": [
@@ -6018,7 +6010,7 @@
                 {
                     "id": "L2_ventral_root_paravertebral_ganglion",
                     "connects": [
-                        "L2_ventral_root_end",
+                        "spinal_23-1/L2_ventral_root_end",
                         "S46_L2"
                     ],
                     "contained-in": [
