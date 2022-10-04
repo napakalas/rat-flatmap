@@ -4355,7 +4355,7 @@
                 {
                     "id": "n_2",
                     "connects": [
-                        "brain_34-1",
+                        "point_1",
                         "vagus_n-1"
                     ],
                     "contained-in": [
@@ -4399,10 +4399,11 @@
                     "id": "n_7",
                     "models": "FMA:6232",
                     "connects": [
-                        "point_5",
+                        "ganglion_2-1",
                         "point_10"
                     ],
                     "contained-in": [
+                        "vagus_1",
                         "point_6",
                         "point_8"
                     ]
@@ -5152,7 +5153,8 @@
                         "spinal_3-1/C3_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_C3"
+                        "S44_C3",
+                        "S50_C3"
                     ]
                 },
                 {
@@ -5163,7 +5165,8 @@
                         "spinal_4-1/C4_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_C4"
+                        "S44_C4",
+                        "S50_C4"
                     ]
                 },
                 {
@@ -5174,7 +5177,8 @@
                         "spinal_5-1/C5_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_C5"
+                        "S44_C5",
+                        "S50_C5"
                     ]
                 },
                 {
@@ -5185,7 +5189,8 @@
                         "spinal_6-1/C6_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_C6"
+                        "S44_C6",
+                        "S50_C6"
                     ]
                 },
                 {
@@ -5196,7 +5201,8 @@
                         "spinal_7-1/C7_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_C7"
+                        "S44_C7",
+                        "S50_C7"
                     ]
                 },
                 {
@@ -5207,7 +5213,8 @@
                         "spinal_8-1/C8_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_C8"
+                        "S44_C8",
+                        "S50_C8"
                     ]
                 },
                 {
@@ -5218,7 +5225,8 @@
                         "spinal_9-1/T1_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_T1"
+                        "S44_T1",
+                        "S50_T1"
                     ]
                 },
                 {
@@ -5229,7 +5237,8 @@
                         "spinal_10-1/T2_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_T2"
+                        "S44_T2",
+                        "S50_T2"
                     ]
                 },
                 {
@@ -5240,7 +5249,8 @@
                         "spinal_11-1/T3_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_T3"
+                        "S44_T3",
+                        "S50_T3"
                     ]
                 },
                 {
@@ -5251,7 +5261,8 @@
                         "spinal_12-1/T4_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_T4"
+                        "S44_T4",
+                        "S50_T4"
                     ]
                 },
                 {
@@ -5262,7 +5273,8 @@
                         "spinal_13-1/T5_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_T5"
+                        "S44_T5",
+                        "S50_T5"
                     ]
                 },
                 {
@@ -5273,7 +5285,8 @@
                         "spinal_14-1/T6_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_T6"
+                        "S44_T6",
+                        "S50_T6"
                     ]
                 },
                 {
@@ -5284,7 +5297,8 @@
                         "spinal_22-1/L1_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_L1"
+                        "S44_L1",
+                        "S50_L1"
                     ]
                 },
                 {
@@ -5295,7 +5309,8 @@
                         "spinal_23-1/L2_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_L2"
+                        "S44_L2",
+                        "S50_L2"
                     ]
                 },
                 {
@@ -5306,7 +5321,8 @@
                         "spinal_27-1/L6_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_L6"
+                        "S44_L6",
+                        "S50_L6"
                     ]
                 },
                 {
@@ -5317,7 +5333,8 @@
                         "spinal_28-1/S1_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S44_S1"
+                        "S44_S1",
+                        "S50_S1"
                     ]
                 },
                 {
@@ -5327,7 +5344,8 @@
                         "spinal_3-1/C3_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_C3"
+                        "S43_C3",
+                        "S50_C3"
                     ]
                 },
                 {
@@ -5337,7 +5355,8 @@
                         "spinal_4-1/C4_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_C4"
+                        "S43_C4",
+                        "S50_C4"
                     ]
                 },
                 {
@@ -5347,7 +5366,8 @@
                         "spinal_5-1/C5_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_C5"
+                        "S43_C5",
+                        "S50_C5"
                     ]
                 },
                 {
@@ -5357,7 +5377,8 @@
                         "spinal_26-1/L5_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_L5"
+                        "S43_L5",
+                        "S50_L5"
                     ]
                 },
                 {
@@ -5367,7 +5388,8 @@
                         "spinal_27-1/L6_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_L6"
+                        "S43_L6",
+                        "S50_L6"
                     ]
                 },
                 {
@@ -5377,7 +5399,8 @@
                         "spinal_28-1/S1_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_S1"
+                        "S43_S1",
+                        "S50_S1"
                     ]
                 },
                 {
@@ -5724,7 +5747,7 @@
                     ],
                     "contained-in": [
                         "S43_T1",
-                        "S46_T1"
+                        "S50_T1"
                     ]
                 },
                 {
@@ -5736,7 +5759,8 @@
                     "contained-in": [
                         "S43_T2",
                         "S48_T2",
-                        "S49_T2"
+                        "S49_T2",
+                        "S50_T2"
                     ]
                 },
                 {
@@ -5748,7 +5772,8 @@
                     "contained-in": [
                         "S43_T3",
                         "S48_T3",
-                        "S49_T3"
+                        "S49_T3",
+                        "S50_T3"
                     ]
                 },
                 {
@@ -5760,7 +5785,8 @@
                     "contained-in": [
                         "S43_T4",
                         "S48_T4",
-                        "S49_T4"
+                        "S49_T4",
+                        "S50_T4"
                     ]
                 },
                 {
@@ -5772,7 +5798,8 @@
                     "contained-in": [
                         "S43_T5",
                         "S48_T5",
-                        "S49_T5"
+                        "S49_T5",
+                        "S50_T5"
                     ]
                 },
                 {
@@ -5784,7 +5811,8 @@
                     "contained-in": [
                         "S43_T6",
                         "S48_T6",
-                        "S49_T6"
+                        "S49_T6",
+                        "S50_T6"
                     ]
                 },
                 {
@@ -5796,7 +5824,8 @@
                     "contained-in": [
                         "S43_T7",
                         "S48_T7",
-                        "S49_T7"
+                        "S49_T7",
+                        "S50_T7"
                     ]
                 },
                 {
@@ -5808,7 +5837,8 @@
                     "contained-in": [
                         "S43_T8",
                         "S48_T8",
-                        "S49_T8"
+                        "S49_T8",
+                        "S50_T8"
                     ]
                 },
                 {
@@ -5820,7 +5850,8 @@
                     "contained-in": [
                         "S43_T9",
                         "S48_T9",
-                        "S49_T9"
+                        "S49_T9",
+                        "S50_T9"
                     ]
                 },
                 {
@@ -5832,7 +5863,8 @@
                     "contained-in": [
                         "S43_T10",
                         "S48_T10",
-                        "S49_T10"
+                        "S49_T10",
+                        "S50_T10"
                     ]
                 },
                 {
@@ -5844,7 +5876,8 @@
                     "contained-in": [
                         "S43_T11",
                         "S48_T11",
-                        "S49_T11"
+                        "S49_T11",
+                        "S50_T11"
                     ]
                 },
                 {
@@ -5856,7 +5889,8 @@
                     "contained-in": [
                         "S43_T12",
                         "S48_T12",
-                        "S49_T12"
+                        "S49_T12",
+                        "S50_T12"
                     ]
                 },
                 {
@@ -5868,7 +5902,8 @@
                     "contained-in": [
                         "S43_T13",
                         "S48_T13",
-                        "S49_T13"
+                        "S49_T13",
+                        "S50_T13"
                     ]
                 },
                 {
@@ -5880,7 +5915,8 @@
                     "contained-in": [
                         "S43_L1",
                         "S48_L1",
-                        "S49_L1"
+                        "S49_L1",
+                        "S50_L1"
                     ]
                 },
                 {
@@ -5892,7 +5928,8 @@
                     "contained-in": [
                         "S43_L2",
                         "S48_L2",
-                        "S49_L2"
+                        "S49_L2",
+                        "S50_L2"
                     ]
                 },
                 {
@@ -5902,7 +5939,8 @@
                         "S46_T1"
                     ],
                     "contained-in": [
-                        "S43_T1"
+                        "S43_T1",
+                        "S50_T1"
                     ]
                 },
                 {
@@ -5913,7 +5951,8 @@
                     ],
                     "contained-in": [
                         "S43_T2",
-                        "S48_T2"
+                        "S48_T2",
+                        "S50_T2
                     ]
                 },
                 {
@@ -5924,7 +5963,8 @@
                     ],
                     "contained-in": [
                         "S43_T3",
-                        "S48_T3"
+                        "S48_T3",
+                        "S50_T3"
                     ]
                 },
                 {
@@ -5935,7 +5975,8 @@
                     ],
                     "contained-in": [
                         "S43_T4",
-                        "S48_T4"
+                        "S48_T4",
+                        "S50_T4"
                     ]
                 },
                 {
@@ -5946,7 +5987,8 @@
                     ],
                     "contained-in": [
                         "S43_T5",
-                        "S48_T5"
+                        "S48_T5",
+                        "S50_T5"
                     ]
                 },
                 {
@@ -5957,7 +5999,8 @@
                     ],
                     "contained-in": [
                         "S43_T6",
-                        "S48_T6"
+                        "S48_T6",
+                        "S50_T6"
                     ]
                 },
                 {
@@ -5968,7 +6011,8 @@
                     ],
                     "contained-in": [
                         "S43_L1",
-                        "S48_L1"
+                        "S48_L1",
+                        "S50_L1
                     ]
                 },
                 {
@@ -5979,7 +6023,8 @@
                     ],
                     "contained-in": [
                         "S43_L2",
-                        "S48_L2"
+                        "S48_L2",
+                        "S50_L2"
                     ]
                 },
                 {
@@ -6505,6 +6550,9 @@
                     "id": "ardell_1",
                     "connects": [
                         "ardell_1_start-1",
+                        "ardell_1_branching_point"
+                    ],
+                    "contained-in": [
                         "ardell_1_start-2",
                         "ardell_1_start-3",
                         "ardell_1_start-4",
@@ -6512,8 +6560,7 @@
                         "ardell_1_start-6",
                         "ardell_1_start-7",
                         "ardell_1_start-8",
-                        "ardell_1_start-9",
-                        "ardell_1_branching_point"
+                        "ardell_1_start-9"
                     ]
                 },
                 {
@@ -6530,15 +6577,24 @@
                     ]
                 },
                 {
+                    "id": "ardell_4",
+                    "connects": [
+                        "point_1",
+                        "ardell_4_branching_point"
+                    ]
+                },
+                {
                     "id": "ardell_5",
                     "connects": [
-                        "S46_T1",
-                        "S46_T2",
-                        "S46_T3",
-                        "S46_T4",
-                        "S46_T5",
-                        "S46_T6",
-                        "cardio_2-1"
+                        "ardell_5_start-1",
+                        "ardell_5_branching_point"
+                    ],
+                    "contained-in": [
+                        "ardell_5_start-2",
+                        "ardell_5_start-3",
+                        "ardell_5_start-4",
+                        "ardell_5_start-5",
+                        "ardell_5_start-6"
                     ]
                 },
                 {
@@ -6566,6 +6622,9 @@
                     "id": "ardell_6",
                     "connects": [
                         "ardell_6_start-1",
+                        "ardell_6_branching_point"
+                    ],
+                    "contained-in": [
                         "ardell_6_start-2",
                         "ardell_6_start-3",
                         "ardell_6_start-4",
@@ -6573,8 +6632,7 @@
                         "ardell_6_start-6",
                         "ardell_6_start-7",
                         "ardell_6_start-8",
-                        "ardell_6_start-9",
-                        "ardell_6_branching_point"
+                        "ardell_6_start-9"
                     ]
                 },
                 {
@@ -6583,6 +6641,9 @@
                     "connects": [
                         "ganglion_1-1",
                         "bolser_1_branching_point"
+                    ],
+                    "contained-in": [
+                        "bolser_105"
                     ]
                 },
                 {
@@ -6590,6 +6651,9 @@
                     "connects": [
                         "point_28",
                         "respiratory_11-1"
+                    ],
+                    "contained-in": [
+                        "bolser_109"
                     ]
                 },
                 {
@@ -6597,6 +6661,9 @@
                     "connects": [
                         "point_28",
                         "respiratory_11-1"
+                    ],
+                    "contained-in": [
+                        "bolser_110"
                     ]
                 },
                 {
@@ -6611,7 +6678,7 @@
                     "models": "ILX:0738293",
                     "connects": [
                         "plexus_1-1",
-                        "cardio_36-1"
+                        "bolser_6_branching_point"
                     ],
                     "contained-in": [
                         "bolser_104"
@@ -6630,10 +6697,13 @@
                     "connects": [
                         "plexus_7-1",
                         "bolser_8_branching_point"
+                    ],
+                    "contained-in": [
+                        "bolser_102"
                     ]
                 },
                 {
-                    "id": "ganglion_10-1",
+                    "id": "bolser_9",
                     "connects": [
                         "bolser_8_branching_point",
                         "bolser_9_branching_point"
@@ -6755,10 +6825,12 @@
                     "models": "UBERON:0003715",
                     "connects": [
                         "splanchnic_n_start-1",
+                        "splanchnic_n_start-5"
+                    ],
+                    "contained-in": [
                         "splanchnic_n_start-2",
                         "splanchnic_n_start-3",
-                        "splanchnic_n_start-4",
-                        "splanchnic_n_start-5"
+                        "splanchnic_n_start-4"
                     ]
                 },
                 {
@@ -6766,19 +6838,24 @@
                     "models": "UBERON:0018680",
                     "connects": [
                         "splanchnic_n_start-5",
+                        "splanchnic_n_start-9"
+                    ],
+                    "contained-in": [
                         "splanchnic_n_start-6",
                         "splanchnic_n_start-7",
-                        "splanchnic_n_start-8",
-                        "splanchnic_n_start-9"
+                        "splanchnic_n_start-8"
                     ]
                 },
                 {
                     "id": "splanchnic_n-3",
                     "models": "UBERON:0018681",
                     "connects": [
-                        "splanchnic_n_start-10",
-                        "splanchnic_n_start-11",
+                        "splanchnic_n_start-9",
                         "splanchnic_n_start-12"
+                    ],
+                    "contained-in": [
+                        "splanchnic_n_start-10",
+                        "splanchnic_n_start-11"
                     ]
                 },
                 {
@@ -6786,8 +6863,12 @@
                     "models": "UBERON:0001964",
                     "connects": [
                         "splanchnic_n_start-12",
-                        "splanchnic_n_start-13",
                         "splanchnic_n_branching_point"
+                    ],
+                    "contained-in": [
+                        "splanchnic_n_start-13",
+                        "splanchnic_n_start-14",
+                        "splanchnic"
                     ]
                 },
                 {
@@ -6814,7 +6895,7 @@
                     "id": "vagus_n-3",
                     "connects": [
                         "ganglion_2-1",
-                        "vagus_n-4"
+                        "point_11"
                     ],
                     "contained-in": [
                         "vagus"
@@ -6823,8 +6904,8 @@
                 {
                     "id": "vagus_n-4",
                     "connects": [
-                        "vagus_n-3",
-                        "vagus_n-5"
+                        "point_11",
+                        "point_14"
                     ],
                     "contained-in": [
                         "vagus"
@@ -6833,8 +6914,8 @@
                 {
                     "id": "vagus_n-5",
                     "connects": [
-                        "vagus_n-4",
-                        "vagus_n-6"
+                        "point-14",
+                        "point-16"
                     ],
                     "contained-in": [
                         "vagus"
@@ -6843,8 +6924,8 @@
                 {
                     "id": "vagus_n-6",
                     "connects": [
-                        "vagus_n-5",
-                        "vagus_n-7"
+                        "point_16",
+                        "point_22"
                     ],
                     "contained-in": [
                         "vagus"
@@ -6853,8 +6934,8 @@
                 {
                     "id": "vagus_n-7",
                     "connects": [
-                        "vagus_n-6",
-                        "vagus_n-8"
+                        "point_22",
+                        "point_26"
                     ],
                     "contained-in": [
                         "vagus"
@@ -6863,8 +6944,8 @@
                 {
                     "id": "vagus_n-8",
                     "connects": [
-                        "vagus_n-7",
-                        "vagus_n-9"
+                        "point_26",
+                        "point_44"
                     ],
                     "contained-in": [
                         "vagus"
@@ -6873,8 +6954,8 @@
                 {
                     "id": "vagus_n-9",
                     "connects": [
-                        "vagus_n-8",
-                        "vagus_n-10"
+                        "point_44",
+                        "point_30"
                     ],
                     "contained-in": [
                         "vagus"
@@ -6883,8 +6964,8 @@
                 {
                     "id": "vagus_n-10",
                     "connects": [
-                        "vagus_n-9",
-                        "vagus_n-11"
+                        "point_30",
+                        "point_31"
                     ],
                     "contained-in": [
                         "vagus"
@@ -6893,8 +6974,8 @@
                 {
                     "id": "vagus_n-11",
                     "connects": [
-                        "vagus_n-10",
-                        "vagus_n-12"
+                        "point_31",
+                        "point_32"
                     ],
                     "contained-in": [
                         "vagus"
@@ -6903,8 +6984,8 @@
                 {
                     "id": "vagus_n-12",
                     "connects": [
-                        "vagus_n-11",
-                        "vagus_n-13"
+                        "point_32",
+                        "point_34"
                     ],
                     "contained-in": [
                         "vagus"
@@ -6913,8 +6994,8 @@
                 {
                     "id": "vagus_n-13",
                     "connects": [
-                        "vagus_n-12",
-                        "vagus_n-14"
+                        "point_34",
+                        "point_35"
                     ],
                     "contained-in": [
                         "vagus"
@@ -6923,10 +7004,11 @@
                 {
                     "id": "vagus_n-14",
                     "connects": [
-                        "vagus_n-13",
+                        "point_35",
                         "point_36"
                     ],
                     "contained-in": [
+                        "point_47",
                         "vagus"
                     ]
                 },
