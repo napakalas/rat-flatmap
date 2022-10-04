@@ -6550,9 +6550,6 @@
                     "id": "ardell_1",
                     "connects": [
                         "ardell_1_start-1",
-                        "ardell_1_branching_point"
-                    ],
-                    "contained-in": [
                         "ardell_1_start-2",
                         "ardell_1_start-3",
                         "ardell_1_start-4",
@@ -6560,7 +6557,8 @@
                         "ardell_1_start-6",
                         "ardell_1_start-7",
                         "ardell_1_start-8",
-                        "ardell_1_start-9"
+                        "ardell_1_start-9",
+                        "ardell_1_branching_point"
                     ]
                 },
                 {
@@ -6587,14 +6585,12 @@
                     "id": "ardell_5",
                     "connects": [
                         "ardell_5_start-1",
-                        "ardell_5_branching_point"
-                    ],
-                    "contained-in": [
                         "ardell_5_start-2",
                         "ardell_5_start-3",
                         "ardell_5_start-4",
                         "ardell_5_start-5",
-                        "ardell_5_start-6"
+                        "ardell_5_start-6",
+                        "ardell_5_branching_point"
                     ]
                 },
                 {
@@ -6622,9 +6618,6 @@
                     "id": "ardell_6",
                     "connects": [
                         "ardell_6_start-1",
-                        "ardell_6_branching_point"
-                    ],
-                    "contained-in": [
                         "ardell_6_start-2",
                         "ardell_6_start-3",
                         "ardell_6_start-4",
@@ -6632,7 +6625,8 @@
                         "ardell_6_start-6",
                         "ardell_6_start-7",
                         "ardell_6_start-8",
-                        "ardell_6_start-9"
+                        "ardell_6_start-9",
+                        "ardell_6_branching_point"
                     ]
                 },
                 {
@@ -6825,12 +6819,10 @@
                     "models": "UBERON:0003715",
                     "connects": [
                         "splanchnic_n_start-1",
-                        "splanchnic_n_start-5"
-                    ],
-                    "contained-in": [
                         "splanchnic_n_start-2",
                         "splanchnic_n_start-3",
-                        "splanchnic_n_start-4"
+                        "splanchnic_n_start-4",
+                        "splanchnic_n_start-5"
                     ]
                 },
                 {
@@ -6838,12 +6830,10 @@
                     "models": "UBERON:0018680",
                     "connects": [
                         "splanchnic_n_start-5",
-                        "splanchnic_n_start-9"
-                    ],
-                    "contained-in": [
                         "splanchnic_n_start-6",
                         "splanchnic_n_start-7",
-                        "splanchnic_n_start-8"
+                        "splanchnic_n_start-8",
+                        "splanchnic_n_start-9"
                     ]
                 },
                 {
@@ -6863,11 +6853,11 @@
                     "models": "UBERON:0001964",
                     "connects": [
                         "splanchnic_n_start-12",
+                        "splanchnic_n_start-13",
+                        "splanchnic_n_start-14",
                         "splanchnic_n_branching_point"
                     ],
                     "contained-in": [
-                        "splanchnic_n_start-13",
-                        "splanchnic_n_start-14",
                         "splanchnic"
                     ]
                 },
