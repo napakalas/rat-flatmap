@@ -4339,18 +4339,6 @@
         },
         "vagus": {
             "class": "vagus_n"
-        },
-        "splanchnic_n-1": {
-            "class": "lung_2"
-        },
-        "splanchnic_n-2": {
-            "class": "lung_2"
-        },
-        "splanchnic_n-3": {
-            "class": "lung_2"
-        },
-        "splanchnic_n-4": {
-            "class": "lung_2"
         }
     },
     "networks": [
@@ -6821,6 +6809,7 @@
                 },
                 {
                     "id": "splanchnic_n-1",
+                    "models": "UBERON:0003715",
                     "connects": [
                         "splanchnic_n_start-1",
                         "splanchnic_n_start-2",
@@ -6831,6 +6820,7 @@
                 },
                 {
                     "id": "splanchnic_n-2",
+                    "models": "UBERON:0018680",
                     "connects": [
                         "splanchnic_n_start-5",
                         "splanchnic_n_start-6",
@@ -6841,6 +6831,7 @@
                 },
                 {
                     "id": "splanchnic_n-3",
+                    "models": "UBERON:0018681",
                     "connects": [
                         "splanchnic_n_start-9",
                         "splanchnic_n_start-12"
@@ -6852,6 +6843,7 @@
                 },
                 {
                     "id": "splanchnic_n-4",
+                    "models": "UBERON:0001964",
                     "connects": [
                         "splanchnic_n_start-12",
                         "splanchnic_n_start-13",
