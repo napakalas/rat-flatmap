@@ -676,8 +676,8 @@
         "name": "adrenal gland"
     },
     "endocrine_4": {
-        "term": "UBERON:0009753",
-        "name": "adrenal gland cortex zone"
+        "term": "UBERON:0001235",
+        "name": "Adrenal Cortex"
     },
     "endocrine_5": {
         "term": "UBERON:0001236",
@@ -1159,6 +1159,10 @@
         "term": "UBERON:0001893",
         "name": "Telencephalon"
     },
+    "bolser_2": {
+        "term": "ILX:0738309",
+        "name": "Internal branch of inferior laryngeal nerve"
+    },
     "bolser_3": {
         "term": "ILX:0738308",
         "name": "External branch of inferior laryngeal nerve"
@@ -1178,10 +1182,6 @@
     "bolser_8": {
         "term": "UBERON:0001650",
         "name": "hypoglossal nerve"
-    },
-    "bolser_11": {
-        "term": "ILX:0738309",
-        "name": "Internal branch of inferior laryngeal nerve"
     },
     "bolser_13": {
         "term": "ILX:0738373",
