@@ -6626,7 +6626,7 @@
                     "id": "bolser_1",
                     "models": "ILX:0738312",
                     "connects": [
-                        "ganglion_1-1",
+                        "ganglion_2-1",
                         "bolser_1_branching_point"
                     ],
                     "contained-in": [
@@ -6780,7 +6780,7 @@
                     "id": "bolser_30",
                     "connects": [
                         "S46_T1",
-                        "muscle_1-1"
+                        "point_46"
                     ]
                 },
                 {
