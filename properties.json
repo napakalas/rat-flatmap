@@ -6557,14 +6557,15 @@
                 {
                     "id": "MCG-ardell_2",
                     "connects": [
-                        "ganglion_9-1"
+                        "ganglion_9-1",
+                        "ardell_2_start"
                     ]
                 },
                 {
                     "id": "ICG-ardell_2",
                     "connects": [
                         "ganglion_10-1",
-                        "cardio_38-1"
+                        "ardell_2_start"
                     ]
                 },
                 {
