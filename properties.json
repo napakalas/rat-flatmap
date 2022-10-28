@@ -2123,6 +2123,9 @@
         "brain_24-1": {
             "class": "brain_24"
         },
+        "brain_24-2": {
+            "class": "brain_24"
+        },
         "brain_25-1": {
             "class": "brain_25"
         },
@@ -4352,17 +4355,14 @@
                 {
                     "id": "n_2",
                     "connects": [
-                        "point_1",
-                        "vagus_n-1"
-                    ],
-                    "contained-in": [
+                        "brain_34-1",
                         "point_1"
                     ]
                 },
                 {
                     "id": "n_3",
                     "connects": [
-                        "brain_34-1",
+                        "brain_12-1",
                         "point_1"
                     ]
                 },
