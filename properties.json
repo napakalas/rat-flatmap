@@ -4480,8 +4480,7 @@
                         "label_5-1"
                     ],
                     "contained-in": [
-                        "pharyngeal_vagus_2",
-                        "plexus_2-1"
+                        "pharyngeal_vagus_2"
                     ]
                 },
                 {
@@ -4492,8 +4491,7 @@
                         "label_6-1"
                     ],
                     "contained-in": [
-                        "pharyngeal_vagus_3",
-                        "plexus_2-1"
+                        "pharyngeal_vagus_3"
                     ]
                 },
                 {
@@ -5063,10 +5061,6 @@
                     "connects": [
                         "brain_13-1",
                         "brain_14-1"
-                    ],
-                    "contained-in": [
-                        "brain_26-1",
-                        "brain_25-1"
                     ]
                 },
                 {
@@ -5074,10 +5068,6 @@
                     "connects": [
                         "brain_13-1",
                         "brain_19-1"
-                    ],
-                    "contained-in": [
-                        "brain_26-1",
-                        "brain_25-1"
                     ]
                 },
                 {
@@ -5085,10 +5075,6 @@
                     "connects": [
                         "brain_13-1",
                         "brain_17-1"
-                    ],
-                    "contained-in": [
-                        "brain_26-1",
-                        "brain_25-1"
                     ]
                 },
                 {
@@ -5096,10 +5082,6 @@
                     "connects": [
                         "brain_13-1",
                         "brain_20-1"
-                    ],
-                    "contained-in": [
-                        "brain_26-1",
-                        "brain_25-1"
                     ]
                 },
                 {
@@ -5107,10 +5089,6 @@
                     "connects": [
                         "brain_13-1",
                         "brain_15-1"
-                    ],
-                    "contained-in": [
-                        "brain_26-1",
-                        "brain_25-1"
                     ]
                 },
                 {
@@ -5118,10 +5096,6 @@
                     "connects": [
                         "brain_13-1",
                         "brain_16-1"
-                    ],
-                    "contained-in": [
-                        "brain_26-1",
-                        "brain_25-1"
                     ]
                 },
                 {
@@ -5129,10 +5103,6 @@
                     "connects": [
                         "brain_13-1",
                         "brain_18-1"
-                    ],
-                    "contained-in": [
-                        "brain_26-1",
-                        "brain_25-1"
                     ]
                 },
                 {
@@ -5150,8 +5120,7 @@
                         "spinal_3-1/C3_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_C3",
-                        "S50_C3"
+                        "S45_C3"
                     ]
                 },
                 {
@@ -5162,8 +5131,7 @@
                         "spinal_4-1/C4_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_C4",
-                        "S50_C4"
+                        "S45_C4"
                     ]
                 },
                 {
@@ -5174,8 +5142,7 @@
                         "spinal_5-1/C5_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_C5",
-                        "S50_C5"
+                        "S45_C5"
                     ]
                 },
                 {
@@ -5222,8 +5189,7 @@
                         "spinal_9-1/T1_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_T1",
-                        "S50_T1"
+                        "S45_T1"
                     ]
                 },
                 {
@@ -5234,8 +5200,7 @@
                         "spinal_10-1/T2_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_T2",
-                        "S50_T2"
+                        "S45_T2"
                     ]
                 },
                 {
@@ -5246,8 +5211,7 @@
                         "spinal_11-1/T3_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_T3",
-                        "S50_T3"
+                        "S45_T3"
                     ]
                 },
                 {
@@ -5258,8 +5222,7 @@
                         "spinal_12-1/T4_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_T4",
-                        "S50_T4"
+                        "S45_T4"
                     ]
                 },
                 {
@@ -5270,8 +5233,7 @@
                         "spinal_13-1/T5_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_T5",
-                        "S50_T5"
+                        "S45_T5"
                     ]
                 },
                 {
@@ -5282,8 +5244,7 @@
                         "spinal_14-1/T6_dorsal_root_end"
                     ],
                     "contained-in": [
-                        "S45_T6",
-                        "S50_T6"
+                        "S45_T6"
                     ]
                 },
                 {
@@ -5408,9 +5369,6 @@
                     "connects": [
                         "S46_T2",
                         "T2_spinal"
-                    ],
-                    "contained-in": [
-                        "S49_T2"
                     ]
                 },
                 {
@@ -5418,9 +5376,6 @@
                     "connects": [
                         "S46_T3",
                         "T3_spinal"
-                    ],
-                    "contained-in": [
-                        "S49_T3"
                     ]
                 },
                 {
@@ -5428,9 +5383,6 @@
                     "connects": [
                         "S46_T4",
                         "T4_spinal"
-                    ],
-                    "contained-in": [
-                        "S49_T4"
                     ]
                 },
                 {
@@ -5438,9 +5390,6 @@
                     "connects": [
                         "S46_T5",
                         "T5_spinal"
-                    ],
-                    "contained-in": [
-                        "S49_T5"
                     ]
                 },
                 {
@@ -5448,9 +5397,6 @@
                     "connects": [
                         "S46_T6",
                         "T6_spinal"
-                    ],
-                    "contained-in": [
-                        "S49_T6"
                     ]
                 },
                 {
@@ -5739,9 +5685,7 @@
                         "T1_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_T1",
-                        "S48_T1",
-                        "S50_T1"
+                        "S48_T1"
                     ]
                 },
                 {
@@ -5751,10 +5695,7 @@
                         "T2_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_T2",
-                        "S48_T2",
-                        "S49_T2",
-                        "S50_T2"
+                        "S49_T2"
                     ]
                 },
                 {
@@ -5764,10 +5705,7 @@
                         "T3_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_T3",
-                        "S48_T3",
-                        "S49_T3",
-                        "S50_T3"
+                        "S49_T3"
                     ]
                 },
                 {
@@ -5777,10 +5715,7 @@
                         "T4_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_T4",
-                        "S48_T4",
-                        "S49_T4",
-                        "S50_T4"
+                        "S49_T4"
                     ]
                 },
                 {
@@ -5790,10 +5725,7 @@
                         "T5_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_T5",
-                        "S48_T5",
-                        "S49_T5",
-                        "S50_T5"
+                        "S49_T5"
                     ]
                 },
                 {
@@ -5803,10 +5735,7 @@
                         "T6_ventral_root_end"
                     ],
                     "contained-in": [
-                        "S43_T6",
-                        "S48_T6",
-                        "S49_T6",
-                        "S50_T6"
+                        "S49_T6"
                     ]
                 },
                 {
@@ -5905,10 +5834,6 @@
                     "connects": [
                         "L1_spinal",
                         "spinal_22-1/L1_ventral_root_end"
-                    ],
-                    "contained-in": [
-                        "S43_L1",
-                        "S48_L1"
                     ]
                 },
                 {
@@ -5916,10 +5841,6 @@
                     "connects": [
                         "L2_spinal",
                         "spinal_23-1/L2_ventral_root_end"
-                    ],
-                    "contained-in": [
-                        "S43_L2",
-                        "S48_L2"
                     ]
                 },
                 {
@@ -5929,8 +5850,7 @@
                         "S46_T1"
                     ],
                     "contained-in": [
-                        "S43_T1",
-                        "S50_T1"
+                        "S43_T1"
                     ]
                 },
                 {
@@ -5941,8 +5861,7 @@
                     ],
                     "contained-in": [
                         "S43_T2",
-                        "S48_T2",
-                        "S50_T2"
+                        "S48_T2"
                     ]
                 },
                 {
@@ -5953,8 +5872,7 @@
                     ],
                     "contained-in": [
                         "S43_T3",
-                        "S48_T3",
-                        "S50_T3"
+                        "S48_T3"
                     ]
                 },
                 {
@@ -5965,8 +5883,7 @@
                     ],
                     "contained-in": [
                         "S43_T4",
-                        "S48_T4",
-                        "S50_T4"
+                        "S48_T4"
                     ]
                 },
                 {
@@ -5977,8 +5894,7 @@
                     ],
                     "contained-in": [
                         "S43_T5",
-                        "S48_T5",
-                        "S50_T5"
+                        "S48_T5"
                     ]
                 },
                 {
@@ -5989,8 +5905,7 @@
                     ],
                     "contained-in": [
                         "S43_T6",
-                        "S48_T6",
-                        "S50_T6"
+                        "S48_T6"
                     ]
                 },
                 {
@@ -6857,9 +6772,6 @@
                     "connects": [
                         "point_1",
                         "ganglion_1-1"
-                    ],
-                    "contained-in": [
-                        "vagus"
                     ]
                 },
                 {
@@ -6867,9 +6779,6 @@
                     "connects": [
                         "ganglion_1-1",
                         "ganglion_2-1"
-                    ],
-                    "contained-in": [
-                        "vagus"
                     ]
                 },
                 {
@@ -6877,9 +6786,6 @@
                     "connects": [
                         "ganglion_2-1",
                         "point_11"
-                    ],
-                    "contained-in": [
-                        "vagus"
                     ]
                 },
                 {
@@ -6887,9 +6793,6 @@
                     "connects": [
                         "point_11",
                         "point_14"
-                    ],
-                    "contained-in": [
-                        "vagus"
                     ]
                 },
                 {
@@ -6897,9 +6800,6 @@
                     "connects": [
                         "point_14",
                         "point_16"
-                    ],
-                    "contained-in": [
-                        "vagus"
                     ]
                 },
                 {
@@ -6907,9 +6807,6 @@
                     "connects": [
                         "point_16",
                         "point_22"
-                    ],
-                    "contained-in": [
-                        "vagus"
                     ]
                 },
                 {
@@ -6917,9 +6814,6 @@
                     "connects": [
                         "point_22",
                         "point_26"
-                    ],
-                    "contained-in": [
-                        "vagus"
                     ]
                 },
                 {
@@ -6937,9 +6831,6 @@
                     "connects": [
                         "point_44",
                         "point_30"
-                    ],
-                    "contained-in": [
-                        "vagus"
                     ]
                 },
                 {
@@ -6947,9 +6838,6 @@
                     "connects": [
                         "point_30",
                         "point_31"
-                    ],
-                    "contained-in": [
-                        "vagus"
                     ]
                 },
                 {
@@ -6957,9 +6845,6 @@
                     "connects": [
                         "point_31",
                         "point_32"
-                    ],
-                    "contained-in": [
-                        "vagus"
                     ]
                 },
                 {
@@ -6967,9 +6852,6 @@
                     "connects": [
                         "point_32",
                         "point_34"
-                    ],
-                    "contained-in": [
-                        "vagus"
                     ]
                 },
                 {
@@ -6977,9 +6859,6 @@
                     "connects": [
                         "point_34",
                         "point_35"
-                    ],
-                    "contained-in": [
-                        "vagus"
                     ]
                 },
                 {
@@ -6987,10 +6866,6 @@
                     "connects": [
                         "point_35",
                         "point_36"
-                    ],
-                    "contained-in": [
-                        "point_47",
-                        "vagus"
                     ]
                 },
                 {
