@@ -1925,20 +1925,20 @@
         "S51_S3": {
             "class": "spinal_51"
         },
-        "S52_L1": {
-            "class": "spinal_52"
+        "S51_L1": {
+            "class": "spinal_51"
         },
-        "S52_L2": {
-            "class": "spinal_52"
+        "S51_L2": {
+            "class": "spinal_51"
         },
-        "S52_T11": {
-            "class": "spinal_52"
+        "S51_T11": {
+            "class": "spinal_51"
         },
-        "S52_T12": {
-            "class": "spinal_52"
+        "S51_T12": {
+            "class": "spinal_51"
         },
-        "S52_T13": {
-            "class": "spinal_52"
+        "S51_T13": {
+            "class": "spinal_51"
         },
         "ganglion_6-1": {
             "class": "ganglion_6"
@@ -4496,6 +4496,7 @@
                 },
                 {
                     "id": "n_16",
+                    "models": "ILX:0786059",
                     "connects": [
                         "point_14",
                         "cardio_36-1"
@@ -4943,6 +4944,9 @@
                     "connects": [
                         "point_34",
                         "digestive_9-1"
+                    ],
+                    "contained-in": [
+                        "vagus_7"
                     ]
                 },
                 {
@@ -4969,6 +4973,7 @@
                 },
                 {
                     "id": "n_59",
+                    "models": "ILX:0776616",,
                     "connects": [
                         "ganglion_3-1",
                         "plexus_1-1"
