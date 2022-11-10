@@ -1526,10 +1526,9 @@
             "models": "ILX:0739297",
             "name": "sixth lumbar sympathetic ganglion"
         },
-        "S66_S1": {
+        "S46_S1": {
             "models": "ILX:0789109",
-            "name": "First sacral ganglion",
-            "comment": "Id should be S46_S1"
+            "name": "First sacral ganglion"
         },
         "S46_S2": {
             "models": "ILX:0789655",
@@ -4866,7 +4865,7 @@
                     "models": "ILX:0793070",
                     "connects": [
                         "point_28",
-                        "respiratory_11-2"
+                        "respiratory_11-1"
                     ],
                     "contained-in": [
                         "recurrent_laryngeal_6"
@@ -4973,7 +4972,7 @@
                 },
                 {
                     "id": "n_59",
-                    "models": "ILX:0776616",,
+                    "models": "ILX:0776616",
                     "connects": [
                         "ganglion_3-1",
                         "plexus_1-1"
@@ -5417,7 +5416,7 @@
                 {
                     "id": "S1_gray_ramus-spinal_n",
                     "connects": [
-                        "S66_S1",
+                        "S46_S1",
                         "S1_spinal"
                     ],
                     "contained-in": [
@@ -5951,7 +5950,7 @@
                     "id": "S1_paravertebral_ganglion",
                     "connects": [
                         "S1_spinal",
-                        "S66_S1"
+                        "S46_S1"
                     ],
                     "contained-in": [
                         "S48_S1"
@@ -6119,13 +6118,13 @@
                     "models": "ILX:0777093",
                     "connects": [
                         "S46_L6",
-                        "S66_S1"
+                        "S46_S1"
                     ]
                 },
                 {
                     "id": "sympathetic_trunk_S1-S2",
                     "connects": [
-                        "S66_S1",
+                        "S46_S1",
                         "S46_S2"
                     ]
                 },

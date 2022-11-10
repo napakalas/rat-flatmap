@@ -259,7 +259,7 @@
           <path fill="none" stroke="#EAB092" stroke-width="0.5651" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="     M547.573,382.61c-0.445-23.915,42.672-41.203,78.232-34.103c15.906,3.176,40.354-21.193,65.528-22.647     c227.397-13.134,209.973,258.295-23.141,94.26C632.534,400.449,548.466,430.54,547.573,382.61z"/>
         </g>
       </g>
-      <g>
+      <g style="">
         <title>.id(brain_29-1)</title>
         <g>
           <title>&lt;Group&gt;</title>
@@ -1609,7 +1609,7 @@
             <title>.id(S42_L2)</title>
           </path>
           <path fill="#F6D7C6" stroke="#EFB899" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="8" d="    M3022.828,325.793c1.393,3.143,3.717,2.341,4.449-0.055l0.166-0.602h-4.463h0.021    C3022.983,325.327,3022.918,325.585,3022.828,325.793z">
-            <title>.id(S52_L2)</title>
+            <title>.id(S51_L2)</title>
           </path>
           <path fill="#F6D7C6" stroke="#EFB899" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="8" d="    M3037.281,344.388c-1.856,1.14-1.475,2.734-0.749,5.181l0.002,0.007c1.735-0.471,3.412-1.042,4.457-1.832    c0.952-0.719,1.6-1.572,2.082-2.53l-0.19-0.179C3041.466,343.663,3039.137,343.249,3037.281,344.388z">
             <title>.id(S41_1_L2)</title>
@@ -1665,7 +1665,7 @@
             <title>.id(S42_L1)</title>
           </path>
           <path fill="#F6D7C6" stroke="#EFB899" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="8" d="    M2954.988,327.245c0.552-0.391,1.081-1.076,1.501-2.353h0.052h-4.7h-0.031c-0.041,0.163-0.085-0.15-0.13,0    C2951.948,326.408,2953.546,328.267,2954.988,327.245z">
-            <title>.id(S52_L1)</title>
+            <title>.id(S51_L1)</title>
           </path>
           <path fill="#F6D7C6" stroke="#EFB899" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="8" d="    M2966.479,330.826l0.094-0.083c-1.384-0.633-2.777-1.05-3.76-1.373l-0.022,0.099    C2962.547,331.166,2963.289,333.051,2966.479,330.826z">
             <title>.id(S41_1_L1)</title>
@@ -1724,7 +1724,7 @@
             <title>.id(S42_T13)</title>
           </path>
           <path fill="#F6D7C6" stroke="#EFB899" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="8" d="    M2884.593,327.188c0.318-0.384,0.608-0.925,0.834-1.676l0.098-0.395l-4.019,0.012l0.003,0.264    c-0.013,0.17-0.038,0.331-0.063,0.493l0.04,0.124C2881.742,327.685,2883.382,328.647,2884.593,327.188z">
-            <title>.id(S52_T13)</title>
+            <title>.id(S51_T13)</title>
           </path>
           <path fill="#F6D7C6" stroke="#EFB899" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="8" d="    M2902.545,337.801l0.012-0.006c0.001-0.016,0.005-0.034,0.006-0.05c0.142-1.625-1.405-3.273-3.223-4.672    c-0.589-0.453-1.403-0.866-2.29-1.264C2894.582,334.997,2899.111,338.501,2902.545,337.801z">
             <title>.id(S41_1_T13)</title>
@@ -1777,7 +1777,7 @@
             <title>.id(S42_T12)</title>
           </path>
           <path fill="#F6D7C6" stroke="#EFB899" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="8" d="    M2815.814,326.645c0.614-0.27,1.24-0.888,1.708-1.886l0.062-0.13l-3.926,0.036c-0.017,0.162-0.033,0.343-0.051,0.542l0.029,0.072    C2813.836,326.591,2814.809,327.086,2815.814,326.645z">
-            <title>.id(S52_T12)</title>
+            <title>.id(S51_T12)</title>
           </path>
           <path fill="#F6D7C6" stroke="#EFB899" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="8" d="    M2831.562,339.205l0.089-0.03c0.104-0.412,0.144-0.853,0.081-1.319c-0.257-1.9-1.759-2.566-3.619-3.538    c-0.465-0.243-1.04-0.516-1.662-0.817l0.012,0.059C2827.645,336.769,2830.106,339.516,2831.562,339.205z">
             <title>.id(S41_1_T12)</title>
@@ -1833,7 +1833,7 @@
             <title>.id(S42_T11)</title>
           </path>
           <path fill="#F6D7C6" stroke="#EFB899" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="8" d="    M2749.589,326.988c0.451,0.679,1.077,0.967,1.746,0.264c0.386-0.406,0.786-1.138,1.175-2.319l-3.525-0.032l-0.016,0.076    c-0.009,0.067-0.023,0.141-0.034,0.212l0.01,0.017C2749.045,325.854,2749.275,326.515,2749.589,326.988z">
-            <title>.id(S52_T11)</title>
+            <title>.id(S51_T11)</title>
           </path>
           <path fill="#F6D7C6" stroke="#EFB899" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="8" d="    M2766.507,335.88l0.129-0.089c0.011-0.163,0.008-0.336-0.023-0.524c-0.222-1.354-1.28-2.036-2.668-3.046    c-0.515-0.375-1.226-0.745-1.991-1.114C2762.594,335.375,2764.027,337.156,2766.507,335.88z">
             <title>.id(S41_1_T11)</title>
@@ -3777,7 +3777,7 @@
       </g>
     </g>
   </g>
-  <g>
+  <g style="">
     <title>.id(digestive_9-1)</title>
     <g>
       <path fill="#E7BF73" d="M2498.023,1740.548c-8.015-3.673-23.49-21.452-31.591-20.078c-6.271,1.064-18.004,12.139-5.578,38.323    c12.427,26.184,23.702,29.405,31.907,31.605c8.022,2.151,27.373-3.046,34.497-10.991s1.717-24.046-8.957-30.612    C2510.392,1743.93,2503.413,1743.018,2498.023,1740.548z"/>
@@ -5911,7 +5911,7 @@
       <path fill="none" stroke="#917571" stroke-width="0.25" stroke-linejoin="round" stroke-miterlimit="10" d="M2785.988,1858.978    c15.962,14.632,7.316,36.579,3.436,40.903"/>
     </g>
   </g>
-  <g>
+  <g style="">
     <title>.id(digestive_4-1)</title>
     <g>
       <g>
@@ -8420,7 +8420,7 @@
       </g>
     </g>
   </g>
-  <g>
+  <g style="">
     <title>.id(endocrine_2-1)</title>
     <g>
       <g>
@@ -8744,7 +8744,7 @@
       </g>
     </g>
   </g>
-  <g>
+  <g style="">
     <title>.id(respiratory_11-1)</title>
     <g>
       <g>
@@ -8834,7 +8834,7 @@
     </linearGradient>
     <path fill="url(#SVGID_00000105393349453952769570000016281374190698165141_)" stroke="#999191" stroke-width="0.5" stroke-miterlimit="10" d="   M1760.118,1730.846c0.023,3.494-7.728,0.651-9.948,0.262c-2.219-0.389-9.025-2.894-10.244-5.89   c-1.108-2.722,2.693-17.15-1.157-27.418c-1.014-2.704-2.523-4.82-3.194-5.352c0.126-1.675,2.699-1.501,4.585-1.214   c1.885,0.287,11.715,4.694,19.114,9.159c7.4,4.465,12.547,4.793,13.649,4.932c2.026,0.25,3.782,2.446,0.809,2.89   c-1.411,0.257-3.731,3.536-6.186,6.274C1765.089,1717.227,1761.308,1722.747,1760.118,1730.846z"/>
   </g>
-  <g style="visibility: hidden;">
+  <g style="">
     <title>.id(respiratory_10-1)</title>
     <linearGradient id="SVGID_00000113344148991152544340000003507477313615699126_" gradientUnits="userSpaceOnUse" x1="182770.4062" y1="-56936.0273" x2="182780.25" y2="-56906.9297" gradientTransform="matrix(-0.9997 0.0238 0.0238 0.9997 185792.625 54261.9961)">
       <stop offset="0.0196" style="stop-color:#717E7E"/>
@@ -8850,7 +8850,7 @@
     </linearGradient>
     <path fill="url(#SVGID_00000113344148991152544340000003507477313615699126_)" stroke="#9A9292" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="   M1746.906,1697.724c-2.259-2.046-6.151-3.058-7.365-3.029s-5.746,0.026-7.4,0.176s-7.162-0.003-9.818-0.2   c-4.538-0.336-7.927-1.783-10.342-2.194c-5.127-0.873-14.453-1.455-15.487-0.875c-1.071,0.602-1.25,2.127-0.104,2.572   c2.312,0.898,7.139,2.486,7.425,3.494c0.147,0.518,1.095,1.027-3.81,2.473c-4.967,1.464-4.547,10.59-1.719,12.76   c1.448,1.111,14.451,5.952,16.762,6.687c3.271,1.041,6.905,5.094,12.848,6.325c2.091,0.433,9.537,0.543,9.729-0.677   s-1.267-1.734-1.62-2.61c-0.352-0.876,1.474-5.432,1.946-6.456c1.051-2.281,1.829-6.744,1.559-8.767   c-0.273-2.053-0.322-8.888-0.322-8.888s0.728-1.923,3.23-1.237C1744.922,1697.965,1746.701,1698.42,1746.906,1697.724z"/>
   </g>
-  <g opacity="0.5">
+  <g opacity="0.5" style="">
     <title>.id(respiratory_2-1)</title>
     <g>
       <g>
@@ -8995,7 +8995,7 @@
       </g>
     </g>
   </g>
-  <g style="visibility: hidden;">
+  <g style="">
     <title>.id(digestive_6-1)</title>
     <g>
       <title>&lt;.styling&gt;</title>
@@ -10742,7 +10742,7 @@
       <path fill="none" stroke="url(#SVGID_00000132803327795043562320000014950648090228171933_)" stroke-width="0.5" stroke-linejoin="round" stroke-miterlimit="10" d="    M3186.621,1923.433c-0.586-7.869-17.351-55.118-36.86-79.504s-57.542-70.887-102.767-66.896    c-14.161,1.25-24.928,23.887-8.966,37.633c13.313,11.464,26.658,17.109,64.168,51.987c25.273,23.5,36.247,38.575,63.971,65.067    c6.443,6.157,12.917,3.308,13.844,2.937C3184.167,1932.994,3187.16,1930.666,3186.621,1923.433z"/>
     </g>
   </g>
-  <g>
+  <g style="">
     <title>.id(urinary_4-1)</title>
     <path fill="#FF33CC" d="M3199.584,1970.06c0.23-1.029,1.035-1.865,2.027-2.103   c1.793-0.432,3.402,0.986,3.402,2.778l0,0c0,1.572-1.237,2.856-2.752,2.856l0,0   C3200.534,1973.591,3199.168,1971.922,3199.584,1970.06z">
       <title>.id(urinary_16-2)</title>
@@ -12599,7 +12599,7 @@
       <path fill="none" stroke="#AFA202" d="M2010.819,943.768    c0,144.706-30.353,631.765-232.941,794.118" style="">
         <title>.centreline id(n_46)</title>
       </path>
-      <path fill="none" stroke="#AFA202" d="M2025.644,813.885    c-1.509,300.941-59.953,872.132-147.161,904.397">
+      <path fill="none" stroke="#AFA202" d="M 2025.644 813.885 C 2024.135 1114.826 2008.58 1750.35 1705.497 1704.7">
         <title>.centreline id(n_47)</title>
       </path>
       <path fill="none" stroke="#AFA202" d="M2028.467,816.003    c-1.155,165.411,14.727,934.117-305.647,888">
@@ -12626,7 +12626,7 @@
       <path fill="none" stroke="#AFA202" d="M2283.996,788.826    c14.332,43.112,40.941,654,26.823,850.235">
         <title>.centreline id(n_55)</title>
       </path>
-      <path fill="none" stroke="#AFA202" d="M2426.298,730.591    c0.716,331.835,58.255,769.337,48.969,965.857">
+      <path fill="none" stroke="#AFA202" d="M 2426.298 730.591 C 2427.014 1062.426 2484.914 1548.671 2475.628 1745.191">
         <title>.centreline id(n_56)</title>
       </path>
       <path fill="none" stroke="#AFA202" d="M2594.231,723.179    c7.765,195.529-66.706,721.765-85.765,914.471">
@@ -12746,15 +12746,6 @@
       <path fill="none" stroke="#AFA202" d="M1846.114,357.885    c2.118,12.471-5.804,15.147-9.569,23.618c-2.274,5.116-0.471,16.941,2.118,27.059">
         <title>.centreline id(C5_ventral_root)</title>
       </path>
-      <path fill="none" stroke="#AFA202" d="M3304.37,354.826    c5.412,13.412-6.198,16.411-10.118,24.706c-5.059,10.706,2.941,31.882,4.471,64.824">
-        <title>.centreline id(L5_ventral_root)</title>
-      </path>
-      <path fill="none" stroke="#AFA202" d="M3383.193,353.414    c5.412,13.412-6.654,16.846-9.235,25.65c-3,10.232,2.294,32.585,3.823,65.526">
-        <title>.centreline id(L6_ventral_root)</title>
-      </path>
-      <path fill="none" stroke="#AFA202" d="M3453.193,347.179    c7.883,16.471-3.257,24.293-7.176,32.588c-5.059,10.706,3.294,29.294,3.823,64.591">
-        <title>.centreline id(S1_ventral_root)</title>
-      </path>
       <path fill="none" stroke="#AFA202" d="M2141.782,355.885    c4.706,11.294-6.361,17.273-9.882,25.647c-3.167,7.531,0.335,25.948,4.235,39.765c4.5,15.813,16-0.706,12.836-2.33    c-0.706-0.706-13.659,0.918-11.189,25.624">
         <title>.centreline id(T1_ventral_root_ramus)</title>
       </path>
@@ -12785,11 +12776,11 @@
       <path fill="none" stroke="#AFA202" d="M2713.582,343.695    c12.706,20.471-4.266,29.922-7.787,38.296c-3.167,7.531,1.394,26.418,5.294,40.235c4.5,15.813,16.2,1.275,12-1.412    c-0.706-0.706-13.624,0.057-11.154,24.763">
         <title>.centreline id(T10_ventral_root_ramus)</title>
       </path>
-      <path fill="none" stroke="#AFA202" d="M2843.664,347.65    c8.47,17.412-6.348,26.122-9.869,34.496c-3.167,7.531,1.394,26.418,5.294,40.235c4.5,15.813,13.752,3.386,12-1.412    c-0.706-0.706-13.895,0.092-11.425,24.798">
-        <title>.centreline id(T12_ventral_root_ramus)</title>
-      </path>
       <path fill="none" stroke="#AFA202" d="M2776.84,343.885    c12.706,20.471-4.266,29.922-7.787,38.296c-3.167,7.531,1.394,26.418,5.294,40.235c4.5,15.813,16.2,1.275,12-1.412    c-0.706-0.706-13.624,0.057-11.154,24.763">
         <title>.centreline id(T11_ventral_root_ramus)</title>
+      </path>
+      <path fill="none" stroke="#AFA202" d="M 2843.664 347.65 C 2852.134 365.062 2837.316 373.772 2833.795 382.146 C 2830.628 389.677 2835.189 408.564 2839.089 422.381 C 2843.589 438.194 2852.841 425.767 2851.089 420.969 C 2850.383 420.263 2837.194 421.061 2839.664 445.767">
+        <title>.centreline id(T12_ventral_root_ramus)</title>
       </path>
       <path fill="none" stroke="#AFA202" d="M2911.664,349.062    c8,16.706-5.878,24.711-9.399,33.085c-3.167,7.531,1.394,26.418,5.294,40.235c4.5,15.813,16.2,1.275,12-1.412    c-0.836-2.025-12.954-0.143-10.483,24.563">
         <title>.centreline id(T13_ventral_root_ramus)</title>
@@ -12800,7 +12791,16 @@
       <path fill="none" stroke="#AFA202" d="M3055.971,352.443    c6.706,15.706-5.844,22.362-9.366,30.736c-3.167,7.531,0.865,27.654,4.765,41.471c4.5,15.813,15.53-3.176,12.353-4.412    c-0.706-0.706-13.588-0.176-11.118,24.529">
         <title>.centreline id(L2_ventral_root_ramus)</title>
       </path>
-      <path fill="none" stroke="#AFA202" d="    M2142.723,354.003c7.529,13.412-6.85,19.503-9.647,29.176c-2.949,10.199,1.932,26.281,4.706,38.824    c2.294,10.374,8.353,13.179,12.941-2.118">
+      <path fill="none" stroke="#AFA202" d="M 3304.37 354.826 C 3309.782 368.238 3298.172 371.237 3294.252 379.532 C 3289.193 390.238 3297.193 411.414 3298.723 444.356">
+        <title>.centreline id(L5_ventral_root)</title>
+      </path>
+      <path fill="none" stroke="#AFA202" d="M 3383.193 353.414 C 3388.605 366.826 3376.539 370.26 3373.958 379.064 C 3370.958 389.296 3376.252 411.649 3377.781 444.59">
+        <title>.centreline id(L6_ventral_root)</title>
+      </path>
+      <path fill="none" stroke="#AFA202" d="M 3453.193 347.179 C 3461.076 363.65 3449.936 371.472 3446.017 379.767 C 3440.958 390.473 3449.311 409.061 3449.84 444.358">
+        <title>.centreline id(S1_ventral_root)</title>
+      </path>
+      <path fill="none" stroke="#AFA202" d="M 2142.723 354.003 C 2150.252 367.415 2135.873 373.506 2133.076 383.179 C 2130.127 393.378 2135.008 409.46 2137.782 422.003 C 2140.076 432.377 2146.135 435.182 2150.723 419.885" style="">
         <title>.centreline id(T1_ventral_root_paravertebral_ganglion)</title>
       </path>
       <path fill="none" stroke="#AFA202" d="    M2212.134,346.003c11.765,24-3.869,28.701-6.415,38.444c-2.693,10.308,2.7,25.72,5.474,38.262    c2.294,10.374,6.824,13.647,13.412-3.529">
@@ -12908,7 +12908,7 @@
       <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M1837.761,412.121c-6.882,32.824-32.824,27.706-30.706,59.471">
         <title>.centreline id(C5_spinal_n)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M1908.986,411.749c-1.851,13.427,37.659,10.364,38.298,81.887">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="M 1908.986 413.749 C 1907.135 427.176 1946.645 424.113 1947.284 495.636">
         <title>.centreline id(C6_spinal_n)</title>
       </path>
       <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M1985.927,412.22c0.516,60.361,34.964,35.927,38.298,81.887">
@@ -12917,85 +12917,85 @@
       <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2057.772,411.41c0.516,60.361,34.964,35.927,38.298,81.887">
         <title>.centreline id(C8_spinal_n)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2136.174,448.849c0.474,32.747,32.125,19.491,35.188,44.426">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2136.174,448.849c0.474,32.747,32.125,19.491,35.188,44.426" style="">
         <title>.centreline id(T1_spinal_n-1)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2134.542,447.763c0.554,84.902,37.542,50.533,41.122,115.181">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2134.542,447.763c0.554,84.902,37.542,50.533,41.122,115.181" style="">
         <title>.centreline id(T1_spinal_n-2)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2134.868,448.047c-0.969,56.897,70.325,80.544,66.796,139.838">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2134.868,448.047c-0.969,56.897,70.325,80.544,66.796,139.838" style="">
         <title>.centreline id(T1_spinal_n-3)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2209.385,447.812c0.474,32.747,32.125,19.491,35.188,44.426">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2209.385,447.812c0.474,32.747,32.125,19.491,35.188,44.426" style="">
         <title>.centreline id(T2_spinal_n-1)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2208.28,447.224c0.554,84.901,37.542,50.533,41.122,115.181">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2208.28,447.224c0.554,84.901,37.542,50.533,41.122,115.181" style="">
         <title>.centreline id(T2_spinal_n-2)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2208.633,447.897c-0.969,56.897,70.325,80.544,66.796,139.838">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2208.633,447.897c-0.969,56.897,70.325,80.544,66.796,139.838" style="">
         <title>.centreline id(T2_spinal_n-3)</title>
       </path>
       <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2271.401,448.593c0.474,32.747,32.125,19.491,35.188,44.425">
         <title>.centreline id(T3_spinal_n-1)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2269.927,447.224c0.554,84.901,37.542,50.533,41.122,115.181">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2269.927,447.224c0.554,84.901,37.542,50.533,41.122,115.181" style="">
         <title>.centreline id(T3_spinal_n-2)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2271.103,448.955c-0.969,56.897,70.325,80.544,66.796,139.838">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2271.103,448.955c-0.969,56.897,70.325,80.544,66.796,139.838" style="">
         <title>.centreline id(T3_spinal_n-3)</title>
       </path>
       <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2334.072,449.351c0.474,32.747,32.125,19.491,35.188,44.425">
         <title>.centreline id(T4_spinal_n-1)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2332.986,447.694c0.554,84.901,37.542,50.533,41.122,115.181">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2332.986,447.694c0.554,84.901,37.542,50.533,41.122,115.181" style="">
         <title>.centreline id(T4_spinal_n-2)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2333.927,448.603c-0.969,56.897,70.325,80.544,66.796,139.838">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2333.927,448.603c-0.969,56.897,70.325,80.544,66.796,139.838" style="">
         <title>.centreline id(T4_spinal_n-3)</title>
       </path>
       <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2392.66,448.645c0.474,32.747,32.125,19.491,35.188,44.426">
         <title>.centreline id(T5_spinal_n-1)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2391.809,448.635c0.554,84.902,37.542,50.533,41.122,115.181">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2391.809,448.635c0.554,84.902,37.542,50.533,41.122,115.181" style="">
         <title>.centreline id(T5_spinal_n-2)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2392.162,449.308c-0.969,56.897,70.325,80.544,66.796,139.838">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2392.162,449.308c-0.969,56.897,70.325,80.544,66.796,139.838" style="">
         <title>.centreline id(T5_spinal_n-3)</title>
       </path>
       <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2456.946,448.315c0.474,32.747,32.125,19.491,35.188,44.425">
         <title>.centreline id(T6_spinal_n-1)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2456.28,447.694c0.554,84.901,37.542,50.533,41.122,115.181">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2456.28,447.694c0.554,84.901,37.542,50.533,41.122,115.181" style="">
         <title>.centreline id(T6_spinal_n-2)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2456.397,448.955c-0.969,56.897,70.325,80.544,66.796,139.838">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2456.397,448.955c-0.969,56.897,70.325,80.544,66.796,139.838" style="">
         <title>.centreline id(T6_spinal_n-3)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2522.397,448.955c-0.969,56.897,70.325,80.544,66.796,139.838">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2522.397,448.955c-0.969,56.897,70.325,80.544,66.796,139.838" style="">
         <title>.centreline id(T7_spinal_n-3)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2583.809,450.367c-0.969,56.897,70.325,80.544,66.796,139.838">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2583.809,450.367c-0.969,56.897,70.325,80.544,66.796,139.838" style="">
         <title>.centreline id(T8_spinal_n-3)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2647.691,449.661c-0.969,56.897,70.325,80.544,66.796,139.838">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2647.691,449.661c-0.969,56.897,70.325,80.544,66.796,139.838" style="">
         <title>.centreline id(T9_spinal_n-3)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2711.927,449.661c-0.969,56.897,70.325,80.544,66.796,139.838">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2711.927,449.661c-0.969,56.897,70.325,80.544,66.796,139.838" style="">
         <title>.centreline id(T10_spinal_n-3)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2774.75,449.308c-0.969,56.897,70.325,80.544,66.796,139.838">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2774.75,449.308c-0.969,56.897,70.325,80.544,66.796,139.838" style="">
         <title>.centreline id(T11_spinal_n-3)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2839.338,450.014c-0.969,56.897,70.325,80.544,66.796,139.838">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2839.338,450.014c-0.969,56.897,70.325,80.544,66.796,139.838" style="">
         <title>.centreline id(T12_spinal_n-3)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2907.456,450.367c-0.969,56.897,52.029,78.224,48.5,137.518">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2907.456,450.367c-0.969,56.897,52.029,78.224,48.5,137.518" style="">
         <title>.centreline id(T13_spinal_n-3)</title>
       </path>
       <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2977.996,449.265c0.492,36.62,33.315,21.796,36.492,49.679">
         <title>.centreline id(L1_spinal_n-1)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2976.092,448.516c-22.376,70.711,49.557,97.289,27.825,148.701">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2976.092,448.516c-22.376,70.711,49.557,97.289,27.825,148.701" style="">
         <title>.centreline id(L1_spinal_n-2)</title>
       </path>
       <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M3051.546,449.179c-5.294,36.353-35.647,23.294-34.235,48.353">
@@ -13010,7 +13010,7 @@
       <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M3377.931,448.723c-2.47,25.765-37.326,20.103-35.208,51.868">
         <title>.centreline id(L6_spinal_n-1)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M3378.723,447.767c1.059,20.118,36.16,24.747,37.059,53.647">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M3378.723,447.767c1.059,20.118,36.16,24.747,37.059,53.647" style="">
         <title>.centreline id(L6_spinal_n-2)</title>
       </path>
       <path fill="none" stroke="#AFA202" d="M3462.988,417.641    c-4.185,4.053-13.195,6.958-11.683,26.033">
@@ -13022,7 +13022,7 @@
       <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M3450.723,447.767c-2.471,25.765-34.236,21.176-32.118,52.941">
         <title>.centreline id(S1_spinal_n-2)</title>
       </path>
-      <path fill="none" stroke="#AFA202" d="M2163.041,412.987    c-5.916,1.042-31.161,3.855-26.562,31.203">
+      <path fill="none" stroke="#AFA202" d="M2163.041,412.987    c-5.916,1.042-31.161,3.855-26.562,31.203" style="">
         <title>.centreline id(T1_gray_ramus-spinal_n)</title>
       </path>
       <path fill="none" stroke="#AFA202" d="M2220.958,418.003    c-3.412,3.176-14.471,5.529-12,26">
@@ -13058,43 +13058,43 @@
       <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M3014.134,505.297c-0.706,48,147.459,96.375,175.059,152.823">
         <title>.centreline id(lumbar_splanchnic_n)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M1911.81,439.891c19.329,116.656,92.745,82.261,102.442,171.941">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M1911.81,439.891c19.329,116.656,92.745,82.261,102.442,171.941" style="">
         <title>.centreline id(MCG-ardell_2)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2102.723,442.42c-37.133,123.836-78.117,72.001-86.117,169.883">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2102.723,442.42c-37.133,123.836-78.117,72.001-86.117,169.883" style="">
         <title>.centreline id(ICG-ardell_2)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M1591.193,437.767c75.294,15.529,161.176,36.953,174.588,121.412">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M1591.193,437.767c75.294,15.529,161.176,36.953,174.588,121.412" style="">
         <title>.centreline id(SCG-ardell_6)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M1898.96,441.856c0.554,84.901,43.243,53.368,46.822,118.016">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M1898.96,441.856c0.554,84.901,43.243,53.368,46.822,118.016" style="">
         <title>.centreline id(MCG-ardell_6)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2102.723,442.003c0.554,84.901,38.303,54.882,41.882,119.529">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2102.723,442.003c0.554,84.901,38.303,54.882,41.882,119.529" style="">
         <title>.centreline id(ICG-ardell_6)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="M1763.665,558.944    c746.47,19.059,815.294-36,793.059,70.941c-23.092,111.06-248.823,758.117-321.882,945.529">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="M1763.665,558.944    c746.47,19.059,815.294-36,793.059,70.941c-23.092,111.06-248.823,758.117-321.882,945.529" style="">
         <title>.centreline id(ardell_6)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2162.669,412.641c21.792,40.839,14.146,127.343,43.583,127.715">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2162.669,412.641c21.792,40.839,14.146,127.343,43.583,127.715" style="">
         <title>.centreline id(T1_paravertebral_ganglion-ardell_5)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2232.903,413.297c21.02,40.759,13.644,127.093,42.038,127.464">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2232.903,413.297c21.02,40.759,13.644,127.093,42.038,127.464" style="">
         <title>.centreline id(T2_paravertebral_ganglion-ardell_5)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2294.403,412.897c20.623,40.84,13.387,127.345,41.244,127.716">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2294.403,412.897c20.623,40.84,13.387,127.345,41.244,127.716" style="">
         <title>.centreline id(T3_paravertebral_ganglion-ardell_5)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2357.711,413.343c20.38,40.592,13.229,126.572,40.759,126.941">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2357.711,413.343c20.38,40.592,13.229,126.572,40.759,126.941" style="">
         <title>.centreline id(T4_paravertebral_ganglion-ardell_5)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2416.009,412.912c20.49,40.834,13.301,127.327,40.979,127.698">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2416.009,412.912c20.49,40.834,13.301,127.327,40.979,127.698" style="">
         <title>.centreline id(T5_paravertebral_ganglion-ardell_5)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2480.435,412.54c20.977,42.401,13.616,132.214,41.952,132.599">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2480.435,412.54c20.977,42.401,13.616,132.214,41.952,132.599" style="">
         <title>.centreline id(T6_paravertebral_ganglion-ardell_5)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="M2206.252,540.356    c336.706,3.765,391.53-23.06,366.118,99.764c-22.983,111.082-244.961,743.144-318.02,930.556">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="M2206.252,540.356    c336.706,3.765,391.53-23.06,366.118,99.764c-22.983,111.082-244.961,743.144-318.02,930.556" style="">
         <title>.centreline id(ardell_5)</title>
       </path>
       <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="M1356.316,395.695    c20.235,376.471,713.722,200.444,761.883,304.471c26.47,57.176,44.445,845.284-22.426,967.497">
@@ -13109,13 +13109,13 @@
       <path fill="none" stroke="#AFA202" d="M2029.428,808.826    c64.588,110.118,95.633,922.46-324.352,878.823">
         <title>.centreline id(bolser_2)</title>
       </path>
-      <path fill="none" stroke="#AFA202" d="M2033.342,812.709    c78.657,100.725,121.65,928.611-326.994,887.317">
+      <path fill="none" stroke="#AFA202" d="M2033.342,812.709    c78.657,100.725,121.65,928.611-326.994,887.317" style="">
         <title>.centreline id(bolser_3)</title>
       </path>
       <path fill="none" stroke="#AFA202" d="M1728.37,1139.885    c-6.021,88.002,4.941,480-9.176,561.882" style="">
         <title>.centreline id(bolser_4)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="M1684.253,515.532    c256.235-2.118,245.294,189.529,260.823,361.765c12.993,144.106,9.882,724.235,91.765,814.588">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="M1684.253,515.532    c256.235-2.118,245.294,189.529,260.823,361.765c12.993,144.106,9.882,724.235,91.765,814.588" style="">
         <title>.centreline id(bolser_6)</title>
       </path>
       <path fill="none" stroke="#AFA202" d="M1538.134,447.767    c-30.034,17.238-52.486,54.961-50.823,59.294">
@@ -13166,22 +13166,22 @@
       <path fill="none" stroke="#AFA202" d="M1350.722,389.559    c-11.321-34.003-5.181-73.45,2.186-91.405">
         <title>.centreline id(bolser_31)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2713.286,588.918c50.319,0.419,101.319-0.581,151.319-1.581c18,0,26.638,0.209,44.596,0.548">
-        <title>.centreline id(splanchnic_n-3)</title>
-      </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2904.094,587.885c26.798,1.114,82.511-0.548,108.511,8.452c9,4,20,8,25,18c1,3,1,5,1,8c-4,26-12,49-21,73c-13,33-27,64-40,97    c-21,51-46,100-70,150c-1,2,0,3-1,5c-16,33-32,65-48,98c-1,2,0,3-1,5c-11,25-25,49-35,75c-4,10-10,19-15,29c-22,51-45,99-66,150    c-3,7-7,15-10,22c-1,2,0,3-1,5c-2,4-4,8-5.529,12.195">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2904.094,587.885c26.798,1.114,82.511-0.548,108.511,8.452c9,4,20,8,25,18c1,3,1,5,1,8c-4,26-12,49-21,73c-13,33-27,64-40,97    c-21,51-46,100-70,150c-1,2,0,3-1,5c-16,33-32,65-48,98c-1,2,0,3-1,5c-11,25-25,49-35,75c-4,10-10,19-15,29c-22,51-45,99-66,150    c-3,7-7,15-10,22c-1,2,0,3-1,5c-2,4-4,8-5.529,12.195" style="">
         <title>.centreline id(splanchnic_n-4)</title>
       </path>
-      <line fill="none" stroke="#AFA202" stroke-miterlimit="10" x1="2459.085" y1="590.6" x2="2717.882" y2="588.793">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="M 2713.286 588.918 C 2763.605 589.337 2814.605 588.337 2864.605 587.337 C 2882.605 587.337 2891.243 587.546 2909.201 587.885" style="">
+        <title>.centreline id(splanchnic_n-3)</title>
+      </path>
+      <line fill="none" stroke="#AFA202" stroke-miterlimit="10" x1="2459.085" y1="590.6" x2="2717.882" y2="588.793" style="">
         <title>.centreline id(splanchnic_n-2)</title>
       </line>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2197.335,590.708c88.647,1.628,175.228,0.629,264.142-0.108">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2197.335,590.708c88.647,1.628,175.228,0.629,264.142-0.108" style="">
         <title>.centreline id(splanchnic_n-1)</title>
       </path>
-      <path fill="none" stroke="#AFA202" d="M2176.35,909.672    c32.807,114.565,7.287,518.297,0,612.565">
+      <path fill="none" stroke="#AFA202" d="M2176.35,909.672    c32.807,114.565,7.287,518.297,0,612.565" style="">
         <title>.centreline id(PH_GN)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M1229.857,299.169c-24.805,0.249-26.273,6.089-40.292,18.014c-0.907,0.771-30.705,27.888-31.542,28.715">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M1229.857,299.169c-24.805,0.249-26.273,6.089-40.292,18.014c-0.907,0.771-30.705,27.888-31.542,28.715" style="">
         <title>.centreline id(pons_brngtn_cns)</title>
       </path>
       <line fill="none" stroke="#AFA202" stroke-miterlimit="10" x1="1229.857" y1="299.169" x2="1352.908" y2="298.154">
@@ -13262,7 +13262,7 @@
       <line fill="none" stroke="#AFA202" stroke-miterlimit="10" x1="3120.987" y1="312.048" x2="3216.577" y2="312.048">
         <title>.centreline id(L3_L4_cns)</title>
       </line>
-      <line fill="none" stroke="#AFA202" stroke-miterlimit="10" x1="3216.577" y1="312.048" x2="3292.772" y2="312.048">
+      <line fill="none" stroke="#AFA202" stroke-miterlimit="10" x1="3216.577" y1="312.048" x2="3292.772" y2="312.048" style="">
         <title>.centreline id(L4_L5_cns)</title>
       </line>
       <line fill="none" stroke="#AFA202" stroke-miterlimit="10" x1="3292.772" y1="312.048" x2="3373.544" y2="312.048">
@@ -13377,174 +13377,6 @@
         <title>.id(brain_9-1)</title>
       </path>
     </g>
-    <g id="ganglia">
-      <title>Ganglia</title>
-      <g>
-        <title>paravertebral_ganglion</title>
-        <path fill="#B2F074" d="     M2165.485,419.175c-2.431,4.287-7.944,5.83-12.316,3.445c-4.37-2.385-5.944-7.794-3.512-12.082     c2.431-4.287,7.944-5.83,12.316-3.445C2166.344,409.477,2167.916,414.886,2165.485,419.175z">
-          <title>.id(S46_T1)</title>
-        </path>
-        <path fill="#B2F074" d="M2235.859,418.33c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2238.091,414.316,2235.859,418.33z">
-          <title>.id(S46_T2)</title>
-        </path>
-        <path fill="#B2F074" d="M2296.778,418.33c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2299.01,414.316,2296.778,418.33z">
-          <title>.id(S46_T3)</title>
-        </path>
-        <path fill="#B2F074" d="M2360.021,418.33c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2362.253,414.316,2360.021,418.33z">
-          <title>.id(S46_T4)</title>
-        </path>
-        <path fill="#B2F074" d="M2418.651,418.33c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2420.883,414.316,2418.651,418.33z">
-          <title>.id(S46_T5)</title>
-        </path>
-        <path fill="#B2F074" d="M2482.333,418.33c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2484.565,414.316,2482.333,418.33z">
-          <title>.id(S46_T6)</title>
-        </path>
-        <path fill="#B2F074" d="M2547.344,418.33c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2549.577,414.316,2547.344,418.33z">
-          <title>.id(S46_T7)</title>
-        </path>
-        <path fill="#B2F074" d="M2607.356,418.33c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2609.588,414.316,2607.356,418.33z">
-          <title>.id(S46_T8)</title>
-        </path>
-        <path fill="#B2F074" d="M2736.382,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2738.614,414.38,2736.382,418.394z">
-          <title>.id(S46_T10)</title>
-        </path>
-        <path fill="#B2F074" d="M2798.899,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.457-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225     C2799.688,409.317,2801.132,414.38,2798.899,418.394z">
-          <title>.id(S46_T11)</title>
-        </path>
-        <path fill="#B2F074" d="M2863.799,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2866.031,414.38,2863.799,418.394z">
-          <title>.id(S46_T12)</title>
-        </path>
-        <path fill="#B2F074" d="M2932.084,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2934.317,414.38,2932.084,418.394z">
-          <title>.id(S46_T13)</title>
-        </path>
-        <path fill="#B2F074" d="M3002.251,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S3004.483,414.38,3002.251,418.394z">
-          <title>.id(S46_L1)</title>
-        </path>
-        <path fill="#B2F074" d="M3077.97,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.457-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225C3078.758,409.317,3080.202,414.38,3077.97,418.394     z">
-          <title>.id(S46_L2)</title>
-        </path>
-        <path fill="#B2F074" d="M3154.391,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S3156.624,414.38,3154.391,418.394z">
-          <title>.id(S46_L3)</title>
-        </path>
-        <path fill="#B2F074" d="M3239.646,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S3241.878,414.38,3239.646,418.394z">
-          <title>.id(S46_L4)</title>
-        </path>
-        <path fill="#B2F074" d="M3322.9,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S3325.132,414.38,3322.9,418.394z">
-          <title>.id(S46_L5)</title>
-        </path>
-        <path fill="#B2F074" d="M3403.702,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.457-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S3405.934,414.38,3403.702,418.394z">
-          <title>.id(S46_L6)</title>
-        </path>
-        <path fill="#B2F074" d="M3476.242,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S3478.475,414.38,3476.242,418.394z">
-          <title>.id(S66_S1)</title>
-        </path>
-        <path fill="#B2F074" d="M3534.437,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.457-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S3536.669,414.38,3534.437,418.394z">
-          <title>.id(S46_S2)</title>
-        </path>
-        <path fill="#B2F074" d="M3593.629,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S3595.862,414.38,3593.629,418.394z">
-          <title>.id(S46_S3)</title>
-        </path>
-        <path fill="#B2F074" d="M2673.531,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2675.764,414.38,2673.531,418.394z">
-          <title>.id(S46_T9)</title>
-        </path>
-      </g>
-      <path fill="#B2F074" d="M1377.147,622.642c-4.27-11.13,1.4-23.799,12.53-27.999l0,0    c10.29-3.92,23.66,1.05,27.999,12.53c4.27,11.13-1.4,23.799-12.53,27.999l0,0C1393.878,639.371,1381.417,633.771,1377.147,622.642    z" style="">
-        <title>.id(ganglion_1-1)</title>
-      </path>
-      <path fill="#B2F074" d="M1441.801,692.704c-5.428-15.51,2.87-32.72,18.378-38.075    c15.51-5.428,32.72,2.87,38.075,18.378c5.428,15.51-2.87,32.72-18.378,38.075C1464.22,716.506,1447.156,708.212,1441.801,692.704z    ">
-        <title>.id(ganglion_2-1)</title>
-      </path>
-      <path fill="#B2F074" d="M1535.045,445.504c-6.173-16.08,1.981-34.371,18.062-40.468l0,0    c16.08-6.173,34.371,1.981,40.468,18.062c6.173,16.08-1.981,34.371-18.062,40.468l0,0    C1559.279,469.739,1541.141,461.584,1535.045,445.504z">
-        <title>.id(ganglion_3-1)</title>
-      </path>
-      <path fill="#B2F074" d="M3260.849,843.101c-5.428-15.51,2.87-32.72,18.378-38.075l0,0    c15.51-5.428,32.72,2.87,38.075,18.378c5.428,15.51-2.87,32.72-18.378,38.075l0,0    C3283.268,866.903,3266.204,858.609,3260.849,843.101z">
-        <title>.id(ganglion_4-1)</title>
-      </path>
-      <path fill="#B2F074" d="M3181.831,679.401c-3.724-9.75,1.161-20.672,10.91-24.397    c9.75-3.724,20.673,1.161,24.397,10.91c3.724,9.75-1.161,20.673-10.91,24.397C3196.478,694.036,3185.555,689.151,3181.831,679.401    z">
-        <title>.id(ganglion_5-1)</title>
-      </path>
-      <path fill="#B2F074" d="M2159.255,1674.691c-1.831-1.983-1.78-5.034,0.203-6.916    s5.034-1.78,6.916,0.203s1.78,5.034-0.203,6.916C2164.188,1676.725,2161.086,1676.623,2159.255,1674.691z">
-        <title>.id(ganglion_8-1)</title>
-      </path>
-      <path fill="#B2F074" d="M2136.667,1684.22c-1.831-1.983-1.78-5.034,0.203-6.916    s5.034-1.78,6.916,0.203s1.78,5.034-0.203,6.916C2141.599,1686.254,2138.497,1686.153,2136.667,1684.22z">
-        <title>.id(ganglion_8-2)</title>
-      </path>
-      <path fill="#B2F074" d="M2193.681,1665.382c-1.831-1.983-1.78-5.034,0.203-6.916    s5.034-1.78,6.916,0.203s1.78,5.034-0.203,6.916C2198.614,1667.416,2195.512,1667.314,2193.681,1665.382z">
-        <title>.id(ganglion_8-3)</title>
-      </path>
-      <path fill="#B2F074" d="M1933.196,1738.926c-1.831-1.983-1.78-5.034,0.203-6.916    s5.034-1.78,6.916,0.203s1.78,5.034-0.203,6.916C1938.129,1740.96,1935.027,1740.858,1933.196,1738.926z">
-        <title>.id(ganglion_8-4)</title>
-      </path>
-      <path fill="#B2F074" d="M1890.201,440.258c-2.875-7.526,0.922-16.088,8.411-18.942l0,0    c7.488-2.889,16.006,0.927,18.845,8.454c2.875,7.526-0.922,16.088-8.411,18.942l0,0    C1901.486,451.601,1893.04,447.784,1890.201,440.258z">
-        <title>.id(ganglion_9-1)</title>
-      </path>
-      <path fill="#B2F074" d="M2091.81,441.12c-2.312-6.055,0.742-12.942,6.767-15.238l0,0    c6.024-2.324,12.876,0.746,15.16,6.801c2.313,6.055-0.742,12.942-6.766,15.238l0,0    C2100.888,450.245,2094.093,447.175,2091.81,441.12z">
-        <title>.id(ganglion_10-1)</title>
-      </path>
-      <path fill="#B2F074" d="M2156.605,908.954c-2.875-7.526,0.923-16.088,8.411-18.942l0,0    c7.488-2.889,16.006,0.927,18.845,8.454c2.875,7.526-0.922,16.088-8.411,18.942l0,0    C2167.89,920.298,2159.444,916.481,2156.605,908.954z">
-        <title>.id(ganglion_12-1)</title>
-      </path>
-      <path fill="#B2F074" d="M2133.39,1712.77c-0.834-0.872-0.811-2.214,0.092-3.042    s2.293-0.783,3.15,0.089s0.811,2.214-0.092,3.042C2135.636,1713.665,2134.224,1713.62,2133.39,1712.77z">
-        <title>.id(ganglion_13-1)</title>
-      </path>
-      <path fill="#B2F074" d="M2103.425,1761.859c-0.834-0.872-0.811-2.214,0.092-3.042    s2.293-0.783,3.15,0.089s0.811,2.214-0.092,3.042C2105.672,1762.754,2104.259,1762.709,2103.425,1761.859z">
-        <title>.id(ganglion_14-1)</title>
-      </path>
-      <path fill="#B2F074" d="M1856.562,1740.899c-0.864-0.893-0.743-2.319,0.393-3.039    c0.692-0.439,1.627-0.42,2.305,0.041c1.13,0.769,1.192,2.223,0.245,3.08C1858.661,1741.724,1857.342,1741.683,1856.562,1740.899z">
-        <title>.id(ganglion_15-1)</title>
-      </path>
-      <path fill="#B2F074" d="M2119.521,1724.552c-0.509-0.514-0.495-1.305,0.056-1.793    c0.551-0.488,1.4-0.461,1.923,0.052c0.523,0.514,0.495,1.305-0.056,1.793C2120.892,1725.08,2120.03,1725.053,2119.521,1724.552z">
-        <title>.id(ganglion_16-1)</title>
-      </path>
-      <path fill="#B2F074" d="M2183.58,1730.756c-0.44-0.434-0.428-1.103,0.049-1.515    s1.21-0.39,1.662,0.044c0.452,0.434,0.428,1.103-0.048,1.515C2184.765,1731.201,2184.02,1731.179,2183.58,1730.756z">
-        <title>.id(ganglion_17-1)</title>
-      </path>
-      <path fill="#B2F074" d="M2223.83,1730.964c-0.251-0.251-0.244-0.637,0.028-0.876    s0.69-0.225,0.948,0.025c0.258,0.251,0.244,0.637-0.028,0.875C2224.507,1731.221,2224.082,1731.209,2223.83,1730.964z">
-        <title>.id(ganglion_18-1)</title>
-      </path>
-      <path fill="#B2F074" d="M2635.06,1117.151c-5.428-15.51,2.87-32.72,18.378-38.075l0,0    c15.51-5.428,32.72,2.87,38.075,18.378c5.428,15.51-2.87,32.72-18.378,38.075l0,0    C2657.479,1140.953,2640.415,1132.659,2635.06,1117.151z">
-        <title>.id(ganglion_19-1)</title>
-      </path>
-    </g>
-    <g id="plexus">
-      <title>Plexus</title>
-      <path opacity="0.37" fill="#E4E417" enable-background="new    " d="M1658.864,490.469    L1658.864,490.469c-8.001,13.922-23.044,22.564-39.206,22.564l-0.64,0.96c7.681,13.442,7.681,29.765,0,43.207l0.64,0.96    c16.163,0,31.205,8.641,39.206,22.564l0,0c8.001-13.922,23.044-22.564,39.206-22.564l0,0c-8.001-13.922-8.001-31.205,0-45.287l0,0    C1681.908,513.033,1667.026,504.392,1658.864,490.469z">
-        <title>.id(plexus_1-1)</title>
-      </path>
-      <path opacity="0.37" fill="#E4E417" enable-background="new    " d="M1588.407,1096.941    L1588.407,1096.941c-8.947,15.581-25.608,25.222-43.657,25.222l-0.694,1.157c8.562,14.887,8.562,33.167,0,48.131l0.694,1.157    c18.049,0,34.71,9.642,43.657,25.222l0,0c8.947-15.581,25.608-25.222,43.657-25.222l0,0c-8.947-15.581-8.947-34.787,0-50.445l0,0    C1614.015,1122.164,1597.354,1112.522,1588.407,1096.941z">
-        <title>.id(plexus_2-1)</title>
-      </path>
-      <path opacity="0.37" fill="#E4E417" enable-background="new    " d="M1889.961,1264.031    L1889.961,1264.031c-5,8.7-14.4,14.1-24.5,14.1l-0.4,0.6c4.8,8.4,4.8,18.6,0,27l0.4,0.6c10.1,0,19.5,5.4,24.5,14.1l0,0    c5-8.7,14.4-14.1,24.5-14.1l0,0c-5-8.7-5-19.5,0-28.3l0,0C1904.361,1278.132,1895.062,1272.732,1889.961,1264.031z">
-        <title>.id(plexus_3-1)</title>
-      </path>
-      <path opacity="0.64" fill="#E4E417" enable-background="new    " d="M2142.129,1627.116    L2142.129,1627.116c-3,5.22-8.64,8.46-14.701,8.46l-0.24,0.36c2.88,5.04,2.88,11.16,0,16.201l0.24,0.36    c6.06,0,11.7,3.24,14.701,8.46l0,0c3-5.22,8.64-8.46,14.7-8.46l0,0c-3-5.22-3-11.701,0-16.981l0,0    C2150.77,1635.576,2145.189,1632.336,2142.129,1627.116z">
-        <title>.id(plexus_4-1)</title>
-      </path>
-      <path opacity="0.64" fill="#E4E417" enable-background="new    " d="M 2303.448 1628.484 C 2300.448 1633.704 2294.808 1636.944 2288.748 1636.944 L 2288.508 1637.304 C 2291.388 1642.344 2291.388 1648.464 2288.508 1653.505 L 2288.748 1653.865 C 2294.808 1653.865 2300.448 1657.105 2303.448 1662.325 C 2306.448 1657.105 2312.088 1653.865 2318.149 1653.865 C 2315.149 1648.645 2315.149 1642.165 2318.149 1636.884 C 2312.088 1636.944 2306.508 1633.704 2303.448 1628.484 Z">
-        <title>.id(plexus_5-1)</title>
-      </path>
-      <path opacity="0.54" fill="#E4E417" enable-background="new    " d="M2507.764,1618.881    L2507.764,1618.881c-4.221,7.344-12.156,11.903-20.682,11.903l-0.338,0.506c4.052,7.091,4.052,15.702,0,22.793l0.338,0.507    c8.526,0,16.461,4.558,20.682,11.903l0,0c4.221-7.344,12.156-11.903,20.682-11.903l0,0c-4.221-7.344-4.221-16.462,0-23.89l0,0    C2519.92,1630.784,2512.069,1626.226,2507.764,1618.881z">
-        <title>.id(plexus_6-1)</title>
-      </path>
-      <path opacity="0.37" fill="#E4E417" enable-background="new    " d="M1476.221,500.953    L1476.221,500.953c-6.144,10.69-17.695,17.326-30.106,17.326l-0.491,0.737c5.898,10.322,5.898,22.856,0,33.178l0.491,0.737    c12.411,0,23.962,6.635,30.106,17.326l0,0c6.144-10.69,17.695-17.326,30.105-17.326l0,0c-6.144-10.69-6.144-23.962,0-34.775l0,0    C1493.916,518.28,1482.489,511.645,1476.221,500.953z">
-        <title>.id(plexus_7-1)</title>
-      </path>
-      <path opacity="0.54" fill="#E4E417" enable-background="new    " d="M3239.851,1897.691    L3239.851,1897.691c-2.264,3.842-6.519,6.228-11.091,6.228l-0.181,0.265c2.173,3.71,2.173,8.215,0,11.925l0.181,0.265    c4.572,0,8.827,2.385,11.091,6.228l0,0c2.263-3.842,6.519-6.228,11.091-6.228l0,0c-2.263-3.842-2.263-8.613,0-12.499l0,0    C3246.37,1903.919,3242.16,1901.534,3239.851,1897.691z">
-        <title>.id(plexus_8-1)</title>
-      </path>
-      <path opacity="0.54" fill="#E4E417" enable-background="new    " d="M3276.181,1961.18    L3276.181,1961.18c-2.263,3.842-6.519,6.228-11.091,6.228l-0.181,0.265c2.173,3.71,2.173,8.215,0,11.925l0.181,0.265    c4.572,0,8.827,2.385,11.091,6.228l0,0c2.263-3.842,6.519-6.228,11.091-6.228l0,0c-2.263-3.842-2.263-8.613,0-12.499l0,0    C3282.699,1967.407,3278.49,1965.023,3276.181,1961.18z">
-        <title>.id(plexus_9-1)</title>
-      </path>
-      <path opacity="0.54" fill="#E4E417" enable-background="new    " d="M2512.142,1729.429    L2512.142,1729.429c-1.906,3.056-5.488,4.954-9.337,4.954l-0.152,0.211c1.83,2.951,1.83,6.534,0,9.485l0.152,0.211    c3.849,0,7.431,1.897,9.337,4.954l0,0c1.905-3.056,5.488-4.954,9.337-4.954l0,0c-1.905-3.056-1.905-6.851,0-9.942l0,0    C2517.63,1734.383,2514.085,1732.485,2512.142,1729.429z">
-        <title>.id(plexus_10-1)</title>
-      </path>
-      <path opacity="0.54" fill="#E4E417" enable-background="new    " d="M2030.001,1743.577    L2030.001,1743.577c-1.813,2.858-5.22,4.633-8.881,4.633l-0.145,0.197c1.74,2.76,1.74,6.11,0,8.87l0.145,0.197    c3.661,0,7.068,1.774,8.881,4.633l0,0c1.812-2.858,5.22-4.633,8.881-4.633l0,0c-1.812-2.858-1.812-6.407,0-9.297l0,0    C2035.221,1748.209,2031.851,1746.435,2030.001,1743.577z">
-        <title>.id(plexus_11-1)</title>
-      </path>
-      <path opacity="0.54" fill="#E4E417" enable-background="new    " d="M2462.623,1550.204    L2462.623,1550.204c-1.824,2.966-5.251,4.807-8.934,4.807l-0.146,0.205c1.751,2.864,1.751,6.341,0,9.204l0.146,0.205    c3.683,0,7.11,1.841,8.934,4.807l0,0c1.823-2.966,5.251-4.807,8.934-4.807l0,0c-1.823-2.966-1.823-6.648,0-9.648l0,0    C2467.875,1555.011,2464.483,1553.17,2462.623,1550.204z">
-        <title>.id(plexus_10-2)</title>
-      </path>
-    </g>
     <g id="labels" style="">
       <title>Labels</title>
       <path fill="#FF33CC" d="M 1151.562 764.414 C 1141.162 764.414 1132.662 755.914 1132.662 745.514 C 1132.662 735.114 1141.162 726.614 1151.562 726.614 C 1161.962 726.614 1170.462 735.114 1170.462 745.514 C 1170.462 755.914 1161.963 764.414 1151.562 764.414 Z">
@@ -13586,37 +13418,37 @@
       <path fill="#FF33CC" d="M 1699.911 1705.179 C 1700.673 1702.409 1703.578 1700.758 1706.348 1701.52 C 1709.118 1702.282 1710.769 1705.187 1710.007 1707.957 C 1709.245 1710.727 1706.34 1712.378 1703.57 1711.616 C 1700.8 1710.854 1699.149 1707.949 1699.911 1705.179 Z">
         <title>.id(label_13-1)</title>
       </path>
-      <path fill="#FF33CC" d="M1865.912,1743.153c-0.013-2.479,2.106-4.597,4.585-4.583    c2.506,0.014,4.533,2.05,4.533,4.559l0,0c0,2.518-2.042,4.559-4.559,4.559l0,0    C1867.962,1747.688,1865.925,1745.661,1865.912,1743.153z">
+      <path fill="#FF33CC" d="M1865.912,1743.153c-0.013-2.479,2.106-4.597,4.585-4.583    c2.506,0.014,4.533,2.05,4.533,4.559l0,0c0,2.518-2.042,4.559-4.559,4.559l0,0    C1867.962,1747.688,1865.925,1745.661,1865.912,1743.153z" style="">
         <title>.id(respiratory_29-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2181.358,1730.036c-0.01-1.969,1.692-3.652,3.683-3.641    c2.013,0.011,3.641,1.629,3.641,3.622l0,0c0,2-1.64,3.622-3.662,3.622l0,0C2183.006,1733.639,2181.369,1732.028,2181.358,1730.036    z">
+      <path fill="#FF33CC" d="M2181.358,1730.036c-0.01-1.969,1.692-3.652,3.683-3.641    c2.013,0.011,3.641,1.629,3.641,3.622l0,0c0,2-1.64,3.622-3.662,3.622l0,0C2183.006,1733.639,2181.369,1732.028,2181.358,1730.036    z" style="">
         <title>.id(respiratory_24-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2114.264,1723.954c-0.018-3.349,2.886-6.212,6.285-6.192    c3.435,0.02,6.214,2.77,6.214,6.16l0,0c0,3.402-2.799,6.159-6.25,6.159l0,0    C2117.074,1730.082,2114.281,1727.341,2114.264,1723.954z">
+      <path fill="#FF33CC" d="M2114.264,1723.954c-0.018-3.349,2.886-6.212,6.285-6.192    c3.435,0.02,6.214,2.77,6.214,6.16l0,0c0,3.402-2.799,6.159-6.25,6.159l0,0    C2117.074,1730.082,2114.281,1727.341,2114.264,1723.954z" style="">
         <title>.id(respiratory_25-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2222.126,1730.724c-0.006-1.274,1.088-2.361,2.367-2.355    c1.294,0.007,2.342,1.053,2.342,2.343l0,0c0,1.294-1.055,2.343-2.355,2.343l0,0    C2223.185,1733.055,2222.133,1732.013,2222.126,1730.724z">
+      <path fill="#FF33CC" d="M2222.126,1730.724c-0.006-1.274,1.088-2.361,2.367-2.355    c1.294,0.007,2.342,1.053,2.342,2.343l0,0c0,1.294-1.055,2.343-2.355,2.343l0,0    C2223.185,1733.055,2222.133,1732.013,2222.126,1730.724z" style="">
         <title>.id(respiratory_22-1)</title>
       </path>
-      <path fill="#FF33CC" d="M1853.566,1739.923c-0.013-2.479,2.106-4.597,4.585-4.583    c2.506,0.014,4.533,2.05,4.533,4.559l0,0c0,2.518-2.042,4.559-4.559,4.559l0,0    C1855.616,1744.458,1853.579,1742.431,1853.566,1739.923z">
+      <path fill="#FF33CC" d="M1853.566,1739.923c-0.013-2.479,2.106-4.597,4.585-4.583    c2.506,0.014,4.533,2.05,4.533,4.559l0,0c0,2.518-2.042,4.559-4.559,4.559l0,0    C1855.616,1744.458,1853.579,1742.431,1853.566,1739.923z" style="">
         <title>.id(respiratory_21-1)</title>
       </path>
       <path fill="#FF33CC" d="M1711.115,1694.938c0.982-3.571,4.689-5.729,8.321-4.73    c3.57,0.982,5.729,4.689,4.73,8.321s-4.689,5.729-8.321,4.73C1712.23,1702.198,1710.133,1698.509,1711.115,1694.938z" style="">
         <title>.id(respiratory_5-1)</title>
       </path>
-      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2182.598,1730.747    c-0.44-1.038,0.044-2.237,1.081-2.676l0,0c1.038-0.441,2.236,0.044,2.677,1.08l0,0c0.44,1.038-0.044,2.237-1.082,2.676l0,0    C2184.237,1732.269,2183.039,1731.785,2182.598,1730.747L2182.598,1730.747z">
+      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2182.598,1730.747    c-0.44-1.038,0.044-2.237,1.081-2.676l0,0c1.038-0.441,2.236,0.044,2.677,1.08l0,0c0.44,1.038-0.044,2.237-1.082,2.676l0,0    C2184.237,1732.269,2183.039,1731.785,2182.598,1730.747L2182.598,1730.747z" style="">
         <title>.id(respiratory_27-1)</title>
       </path>
-      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2118.001,1724.958    c-0.588-1.35,0.058-2.908,1.444-3.48l0,0c1.387-0.573,2.988,0.057,3.578,1.405l0,0c0.588,1.35-0.058,2.908-1.446,3.48l0,0    C2120.192,1726.938,2118.592,1726.308,2118.001,1724.958L2118.001,1724.958z">
+      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2118.001,1724.958    c-0.588-1.35,0.058-2.908,1.444-3.48l0,0c1.387-0.573,2.988,0.057,3.578,1.405l0,0c0.588,1.35-0.058,2.908-1.446,3.48l0,0    C2120.192,1726.938,2118.592,1726.308,2118.001,1724.958L2118.001,1724.958z" style="">
         <title>.id(respiratory_26-1)</title>
       </path>
-      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2223.139,1731.02    c-0.276-0.633,0.026-1.362,0.678-1.63l0,0c0.652-0.268,1.404,0.027,1.68,0.659l0,0c0.275,0.632-0.028,1.362-0.679,1.63l0,0    C2224.168,1731.947,2223.416,1731.652,2223.139,1731.02L2223.139,1731.02z">
+      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2223.139,1731.02    c-0.276-0.633,0.026-1.362,0.678-1.63l0,0c0.652-0.268,1.404,0.027,1.68,0.659l0,0c0.275,0.632-0.028,1.362-0.679,1.63l0,0    C2224.168,1731.947,2223.416,1731.652,2223.139,1731.02L2223.139,1731.02z" style="">
         <title>.id(respiratory_23-1)</title>
       </path>
-      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M1714.55,1699.062    c-0.247-1.988,1.112-3.8,3.1-4.047l0,0c1.989-0.248,3.8,1.112,4.047,3.1l0,0c0.247,1.988-1.112,3.8-3.1,4.047l0,0    C1716.608,1702.409,1714.797,1701.05,1714.55,1699.062z">
+      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M1714.55,1699.062    c-0.247-1.988,1.112-3.8,3.1-4.047l0,0c1.989-0.248,3.8,1.112,4.047,3.1l0,0c0.247,1.988-1.112,3.8-3.1,4.047l0,0    C1716.608,1702.409,1714.797,1701.05,1714.55,1699.062z" style="">
         <title>.id(respiratory_8-1)</title>
       </path>
-      <path fill="#FF33CC" d="M1708.059,1670.913c0.982-3.571,4.689-5.729,8.321-4.73    c3.57,0.982,5.729,4.689,4.73,8.321s-4.689,5.729-8.321,4.73C1709.175,1678.173,1707.077,1674.484,1708.059,1670.913z">
+      <path fill="#FF33CC" d="M1708.059,1670.913c0.982-3.571,4.689-5.729,8.321-4.73    c3.57,0.982,5.729,4.689,4.73,8.321s-4.689,5.729-8.321,4.73C1709.175,1678.173,1707.077,1674.484,1708.059,1670.913z" style="">
         <title>.id(label_23-1)</title>
       </path>
       <g>
@@ -13628,7 +13460,7 @@
         <path fill="none" stroke="#843C0B" stroke-width="0.6667" d="M1776.515,1708.556c-2.506-0.542-4.916-0.131-7.28-0.661     c-2.364-0.531-4.409-1.838-7.025-2.446"/>
         <path fill="none" stroke="#843C0B" stroke-width="0.6667" d="M1776.448,1709.038c-2.474-0.597-5.049,0.46-7.413-0.07     s-4.276-2.429-6.859-3.091"/>
       </g>
-      <g>
+      <g style="">
         <title>.id(label_15-1)</title>
         <path fill="#C55A11" stroke="#000000" stroke-width="0.6667" d="M1724.873,1708.583c-1.255,2.635-3.37,4.304-4.047,6.767     c-0.661,2.401,0.296,5.18,0.016,7.885c0.968,0.333,1.645,0.519,2.507,0.756c1.272-2.696,3.571-4.315,4.249-6.777     s-0.426-4.951-0.033-7.823C1726.641,1709.135,1726.043,1708.904,1724.873,1708.583z"/>
         <path fill="none" stroke="#843C0B" stroke-width="0.6667" d="M1726.143,1709.262c-0.677,2.462-1.27,4.617-1.976,6.939     c-0.644,2.339-1.253,4.555-2.026,7.124"/>
@@ -13664,9 +13496,6 @@
         <path fill="none" stroke="#843C0B" stroke-width="0.6667" d="M1750.566,1717.134c-0.677,2.462-0.425,4.916-1.069,7.255     c-0.644,2.339-2.115,4.318-2.871,6.825"/>
         <path fill="none" stroke="#843C0B" stroke-width="0.6667" d="M1750.997,1717.253c-0.739,2.445,0.19,5.085-0.453,7.424     c-0.644,2.339-2.669,4.166-3.487,6.656"/>
       </g>
-      <path fill="#FF33CC" d="    M2119.333,1738.923c0-2.518,2.041-4.559,4.559-4.559l0,0c2.518,0,4.559,2.041,4.559,4.559s-2.041,4.559-4.559,4.559l0,0    C2121.375,1743.482,2119.333,1741.441,2119.333,1738.923L2119.333,1738.923z">
-        <title>.id(cardio_35-1)</title>
-      </path>
       <g>
         <title>.id(label_19-1)</title>
         <path fill="#C55A11" stroke="#000000" stroke-width="0.6667" d="M1756.688,1718.646c-1.255,2.635-3.37,4.304-4.047,6.767     c-0.661,2.401,0.296,5.181,0.016,7.885c0.968,0.333,1.645,0.519,2.507,0.756c1.272-2.696,3.571-4.315,4.249-6.777     c0.677-2.462-0.426-4.951-0.033-7.823C1758.517,1719.217,1757.857,1718.969,1756.688,1718.646z"/>
@@ -13728,10 +13557,10 @@
           <title>.id(receptor_1-2)</title>
         </path>
       </g>
-      <path fill="#FF33CC" d="M3233.66,2075.882c0.228-0.897,1.026-1.625,2.008-1.833    c1.777-0.377,3.37,0.859,3.37,2.421l0,0c0,1.371-1.225,2.49-2.726,2.49l0,0C3234.6,2078.96,3233.246,2077.506,3233.66,2075.882z">
+      <path fill="#FF33CC" d="M3233.66,2075.882c0.228-0.897,1.026-1.625,2.008-1.833    c1.777-0.377,3.37,0.859,3.37,2.421l0,0c0,1.371-1.225,2.49-2.726,2.49l0,0C3234.6,2078.96,3233.246,2077.506,3233.66,2075.882z" style="">
         <title>.id(urinary_15-1)</title>
       </path>
-      <g>
+      <g style="">
         <title>.id(respiratory_17-1)</title>
         <path fill="#FFC5C5" d="M2141.652,1693.787c1.202-0.247,2.133-1.135,3.718-1.685c1.542-0.554,3.866-1.103,5.66-1.583     c1.794-0.481,3.985-1.74,5.063-1.307c0.559,1.5,1.119,2.999,1.359,3.896c-0.638,0.619-2.085,1.098-4.401,1.95l-9.766,3.612     C2142.735,1697.086,2142.295,1696.034,2141.652,1693.787z"/>
         <path fill="#FFABAB" stroke="#D84F34" stroke-width="0.6667" d="M2141.842,1694.374c-0.156-0.149-0.286-0.512-0.223-0.678     c0.197-0.194,0.645-0.314,1.285-0.585s1.157-0.6,2.512-1.047c1.356-0.446,5.227-1.592,5.574-1.593     c0.347-0.002-3.559,1.443-3.559,1.443c-0.827,0.379-1.445,0.826-2.405,1.233     C2144.158,1693.521,2141.966,1694.432,2141.842,1694.374z"/>
@@ -13756,91 +13585,119 @@
           <title>.id(receptor_1-1)</title>
         </path>
       </g>
-      <path fill="#FF33CC" d="M2082.501,1707.132c-0.012-2.104,1.781-3.9,3.875-3.89    c2.118,0.012,3.831,1.74,3.831,3.869l0,0c0,2.137-1.726,3.868-3.854,3.868l0,0    C2084.234,1710.98,2082.513,1709.26,2082.501,1707.132z">
+      <path fill="#FF33CC" d="M2082.501,1707.132c-0.012-2.104,1.781-3.9,3.875-3.89    c2.118,0.012,3.831,1.74,3.831,3.869l0,0c0,2.137-1.726,3.868-3.854,3.868l0,0    C2084.234,1710.98,2082.513,1709.26,2082.501,1707.132z" style="">
         <title>.id(cardio_37-1)</title>
       </path>
-      <path fill="#FF33CC" d="M 2088.437 1700.173 C 2088.437 1697.315 2090.805 1694.998 2093.726 1694.998 C 2096.645 1694.998 2099.014 1697.316 2099.014 1700.173 C 2099.014 1703.031 2096.646 1705.348 2093.726 1705.348 C 2090.806 1705.348 2088.437 1703.03 2088.437 1700.173 Z">
+      <path fill="#FF33CC" d="M 2088.437 1700.173 C 2088.437 1697.315 2090.805 1694.998 2093.726 1694.998 C 2096.645 1694.998 2099.014 1697.316 2099.014 1700.173 C 2099.014 1703.031 2096.646 1705.348 2093.726 1705.348 C 2090.806 1705.348 2088.437 1703.03 2088.437 1700.173 Z" style="">
         <title>.id(cardio_36-1)</title>
       </path>
-      <path fill="#FF33CC" d="    M2098.409,1742.482c-0.013-2.479,2.106-4.597,4.585-4.583c2.506,0.014,4.533,2.05,4.533,4.559l0,0    c0,2.518-2.042,4.559-4.559,4.559l0,0C2100.459,1747.017,2098.421,1744.989,2098.409,1742.482z">
+      <path fill="#FF33CC" d="    M2098.409,1742.482c-0.013-2.479,2.106-4.597,4.585-4.583c2.506,0.014,4.533,2.05,4.533,4.559l0,0    c0,2.518-2.042,4.559-4.559,4.559l0,0C2100.459,1747.017,2098.421,1744.989,2098.409,1742.482z" style="">
         <title>.id(cardio_35-2)</title>
       </path>
-      <path fill="#FF33CC" d="M2167.646,1811.529c0.037-2.603,2.179-4.685,4.782-4.647    c2.603,0.037,4.685,2.18,4.647,4.782c-0.037,2.604-2.179,4.685-4.782,4.647    C2169.691,1816.274,2167.609,1814.132,2167.646,1811.529z">
+      <path fill="#FF33CC" d="M 2119.333 1738.923 C 2119.333 1736.405 2121.374 1734.364 2123.892 1734.364 C 2126.41 1734.364 2128.451 1736.405 2128.451 1738.923 C 2128.451 1741.441 2126.41 1743.482 2123.892 1743.482 C 2121.375 1743.482 2119.333 1741.441 2119.333 1738.923 Z" style="">
+        <title>.id(cardio_35-1)</title>
+      </path>
+      <path fill="#FF33CC" d="M2167.646,1811.529c0.037-2.603,2.179-4.685,4.782-4.647    c2.603,0.037,4.685,2.18,4.647,4.782c-0.037,2.604-2.179,4.685-4.782,4.647    C2169.691,1816.274,2167.609,1814.132,2167.646,1811.529z" style="">
         <title>.id(cardio_34-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2147.425,1823.926c0.037-2.603,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.604-2.179,4.685-4.782,4.647l0,0    C2149.47,1828.671,2147.388,1826.529,2147.425,1823.926L2147.425,1823.926z">
+      <path fill="#FF33CC" d="M2147.425,1823.926c0.037-2.603,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.604-2.179,4.685-4.782,4.647l0,0    C2149.47,1828.671,2147.388,1826.529,2147.425,1823.926L2147.425,1823.926z" style="">
         <title>.id(cardio_33-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2127.461,1813.117c0.037-2.603,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.604-2.179,4.685-4.782,4.647l0,0    C2129.506,1817.862,2127.424,1815.72,2127.461,1813.117L2127.461,1813.117z">
+      <path fill="#FF33CC" d="M2127.461,1813.117c0.037-2.603,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.604-2.179,4.685-4.782,4.647l0,0    C2129.506,1817.862,2127.424,1815.72,2127.461,1813.117L2127.461,1813.117z" style="">
         <title>.id(cardio_31-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2122.746,1793.181c0.037-2.603,2.179-4.685,4.782-4.647    c2.603,0.037,4.685,2.18,4.647,4.782c-0.037,2.604-2.179,4.685-4.782,4.647    C2124.792,1797.926,2122.708,1795.784,2122.746,1793.181z">
+      <path fill="#FF33CC" d="M2122.746,1793.181c0.037-2.603,2.179-4.685,4.782-4.647    c2.603,0.037,4.685,2.18,4.647,4.782c-0.037,2.604-2.179,4.685-4.782,4.647    C2124.792,1797.926,2122.708,1795.784,2122.746,1793.181z" style="">
         <title>.id(cardio_29-4)</title>
       </path>
-      <path fill="#FF33CC" d="M2205.858,1810.048c0.037-2.604,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.603-2.179,4.685-4.782,4.647l0,0    C2207.902,1814.793,2205.82,1812.651,2205.858,1810.048L2205.858,1810.048z">
+      <path fill="#FF33CC" d="M2205.858,1810.048c0.037-2.604,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.603-2.179,4.685-4.782,4.647l0,0    C2207.902,1814.793,2205.82,1812.651,2205.858,1810.048L2205.858,1810.048z" style="">
         <title>.id(cardio_29-3)</title>
       </path>
-      <path fill="#FF33CC" d="M2145.842,1795.67c0.037-2.603,2.179-4.685,4.782-4.647    c2.603,0.037,4.685,2.18,4.647,4.782c-0.037,2.604-2.179,4.685-4.782,4.647C2147.887,1800.415,2145.805,1798.273,2145.842,1795.67    z">
+      <path fill="#FF33CC" d="M2145.842,1795.67c0.037-2.603,2.179-4.685,4.782-4.647    c2.603,0.037,4.685,2.18,4.647,4.782c-0.037,2.604-2.179,4.685-4.782,4.647C2147.887,1800.415,2145.805,1798.273,2145.842,1795.67    z" style="">
         <title>.id(cardio_27-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2103.235,1792.084c0.028-1.989,1.645-3.579,3.61-3.55l0,0    c1.965,0.028,3.537,1.666,3.509,3.653l0,0c-0.028,1.99-1.645,3.579-3.61,3.55l0,0    C2104.779,1795.709,2103.207,1794.073,2103.235,1792.084L2103.235,1792.084z">
+      <path fill="#FF33CC" d="M2103.235,1792.084c0.028-1.989,1.645-3.579,3.61-3.55l0,0    c1.965,0.028,3.537,1.666,3.509,3.653l0,0c-0.028,1.99-1.645,3.579-3.61,3.55l0,0    C2104.779,1795.709,2103.207,1794.073,2103.235,1792.084L2103.235,1792.084z" style="">
         <title>.id(cardio_29-2)</title>
       </path>
-      <path fill="#FF33CC" d="M2144.272,1743.658c0.019-1.276,1.11-2.297,2.437-2.279    c1.326,0.018,2.387,1.069,2.368,2.345c-0.019,1.277-1.11,2.297-2.437,2.278    C2145.315,1745.984,2144.254,1744.934,2144.272,1743.658z">
+      <path fill="#FF33CC" d="M2144.272,1743.658c0.019-1.276,1.11-2.297,2.437-2.279    c1.326,0.018,2.387,1.069,2.368,2.345c-0.019,1.277-1.11,2.297-2.437,2.278    C2145.315,1745.984,2144.254,1744.934,2144.272,1743.658z" style="">
         <title>.id(cardio_29-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2192.605,1788.353c0.037-2.604,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.603-2.179,4.685-4.782,4.647l0,0    C2194.649,1793.098,2192.567,1790.956,2192.605,1788.353L2192.605,1788.353z">
+      <path fill="#FF33CC" d="M2192.605,1788.353c0.037-2.604,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.603-2.179,4.685-4.782,4.647l0,0    C2194.649,1793.098,2192.567,1790.956,2192.605,1788.353L2192.605,1788.353z" style="">
         <title>.id(cardio_28-4)</title>
       </path>
-      <path fill="#FF33CC" d="M2152.154,1740.911c0.019-1.276,1.11-2.297,2.437-2.278l0,0    c1.326,0.018,2.387,1.069,2.368,2.345l0,0c-0.019,1.277-1.11,2.297-2.437,2.278l0,0    C2153.197,1743.237,2152.136,1742.187,2152.154,1740.911L2152.154,1740.911z">
+      <path fill="#FF33CC" d="M2152.154,1740.911c0.019-1.276,1.11-2.297,2.437-2.278l0,0    c1.326,0.018,2.387,1.069,2.368,2.345l0,0c-0.019,1.277-1.11,2.297-2.437,2.278l0,0    C2153.197,1743.237,2152.136,1742.187,2152.154,1740.911L2152.154,1740.911z" style="">
         <title>.id(cardio_28-3)</title>
       </path>
-      <path fill="#FF33CC" d="M2132.674,1771.721c0.037-2.603,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.604-2.179,4.685-4.782,4.647l0,0    C2134.719,1776.466,2132.637,1774.324,2132.674,1771.721L2132.674,1771.721z">
+      <path fill="#FF33CC" d="M2132.674,1771.721c0.037-2.603,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.604-2.179,4.685-4.782,4.647l0,0    C2134.719,1776.466,2132.637,1774.324,2132.674,1771.721L2132.674,1771.721z" style="">
         <title>.id(cardio_28-2)</title>
       </path>
-      <path fill="#FF33CC" d="M2103.235,1804.413c0.028-1.989,1.645-3.579,3.61-3.55l0,0    c1.965,0.028,3.537,1.666,3.509,3.653l0,0c-0.028,1.99-1.645,3.579-3.61,3.55l0,0    C2104.779,1808.038,2103.207,1806.401,2103.235,1804.413L2103.235,1804.413z">
+      <path fill="#FF33CC" d="M2103.235,1804.413c0.028-1.989,1.645-3.579,3.61-3.55l0,0    c1.965,0.028,3.537,1.666,3.509,3.653l0,0c-0.028,1.99-1.645,3.579-3.61,3.55l0,0    C2104.779,1808.038,2103.207,1806.401,2103.235,1804.413L2103.235,1804.413z" style="">
         <title>.id(cardio_28-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2166.869,1790.028c0.037-2.604,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.603-2.179,4.685-4.782,4.647l0,0    C2168.913,1794.773,2166.831,1792.631,2166.869,1790.028L2166.869,1790.028z">
+      <path fill="#FF33CC" d="M2166.869,1790.028c0.037-2.604,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.603-2.179,4.685-4.782,4.647l0,0    C2168.913,1794.773,2166.831,1792.631,2166.869,1790.028L2166.869,1790.028z" style="">
         <title>.id(cardio_25-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2179.253,1767.006c0.037-2.603,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.604-2.179,4.685-4.782,4.647l0,0    C2181.298,1771.751,2179.216,1769.61,2179.253,1767.006L2179.253,1767.006z">
+      <path fill="#FF33CC" d="M2179.253,1767.006c0.037-2.603,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.604-2.179,4.685-4.782,4.647l0,0    C2181.298,1771.751,2179.216,1769.61,2179.253,1767.006L2179.253,1767.006z" style="">
         <title>.id(cardio_23-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2153.533,1770.394c0.037-2.603,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.603-2.179,4.685-4.782,4.647l0,0    C2155.578,1775.14,2153.496,1772.998,2153.533,1770.394L2153.533,1770.394z">
+      <path fill="#FF33CC" d="M2153.533,1770.394c0.037-2.603,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.603-2.179,4.685-4.782,4.647l0,0    C2155.578,1775.14,2153.496,1772.998,2153.533,1770.394L2153.533,1770.394z" style="">
         <title>.id(cardio_24-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2147.381,1736.828c0.02-1.34,1.159-2.412,2.543-2.392l0,0    c1.384,0.019,2.491,1.122,2.471,2.462l0,0c-0.02,1.34-1.159,2.412-2.543,2.392l0,0    C2148.468,1739.271,2147.361,1738.169,2147.381,1736.828L2147.381,1736.828z">
+      <path fill="#FF33CC" d="M2147.381,1736.828c0.02-1.34,1.159-2.412,2.543-2.392l0,0    c1.384,0.019,2.491,1.122,2.471,2.462l0,0c-0.02,1.34-1.159,2.412-2.543,2.392l0,0    C2148.468,1739.271,2147.361,1738.169,2147.381,1736.828L2147.381,1736.828z" style="">
         <title>.id(cardio_18-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2167.645,1751.112c0-2.604,2.112-4.715,4.715-4.715l0,0    c2.603,0,4.715,2.112,4.715,4.715l0,0c0,2.604-2.112,4.715-4.715,4.715l0,0    C2169.758,1755.828,2167.645,1753.716,2167.645,1751.112L2167.645,1751.112z">
+      <path fill="#FF33CC" d="M2167.645,1751.112c0-2.604,2.112-4.715,4.715-4.715l0,0    c2.603,0,4.715,2.112,4.715,4.715l0,0c0,2.604-2.112,4.715-4.715,4.715l0,0    C2169.758,1755.828,2167.645,1753.716,2167.645,1751.112L2167.645,1751.112z" style="">
         <title>.id(cardio_22-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2106.879,1776.436c0.037-2.603,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.604-2.179,4.685-4.782,4.647l0,0    C2108.924,1781.181,2106.842,1779.039,2106.879,1776.436L2106.879,1776.436z">
+      <path fill="#FF33CC" d="M2106.879,1776.436c0.037-2.603,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.604-2.179,4.685-4.782,4.647l0,0    C2108.924,1781.181,2106.842,1779.039,2106.879,1776.436L2106.879,1776.436z" style="">
         <title>.id(cardio_21-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2108.732,1764.613c0.037-2.603,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.604-2.179,4.685-4.782,4.647l0,0    C2110.777,1769.358,2108.695,1767.217,2108.732,1764.613L2108.732,1764.613z">
+      <path fill="#FF33CC" d="M2108.732,1764.613c0.037-2.603,2.179-4.685,4.782-4.647l0,0    c2.603,0.037,4.685,2.18,4.647,4.782l0,0c-0.037,2.604-2.179,4.685-4.782,4.647l0,0    C2110.777,1769.358,2108.695,1767.217,2108.732,1764.613L2108.732,1764.613z" style="">
         <title>.id(cardio_20-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2137.388,1738.02c0.021-1.461,1.258-2.628,2.76-2.607l0,0    c1.502,0.021,2.704,1.223,2.682,2.683l0,0c-0.021,1.46-1.258,2.628-2.76,2.607l0,0    C2138.567,1740.682,2137.366,1739.481,2137.388,1738.02L2137.388,1738.02z">
+      <path fill="#FF33CC" d="M2137.388,1738.02c0.021-1.461,1.258-2.628,2.76-2.607l0,0    c1.502,0.021,2.704,1.223,2.682,2.683l0,0c-0.021,1.46-1.258,2.628-2.76,2.607l0,0    C2138.567,1740.682,2137.366,1739.481,2137.388,1738.02L2137.388,1738.02z" style="">
         <title>.id(cardio_19-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2098.824,1701.841c0-2.716,2.202-4.918,4.918-4.918l0,0    c2.716,0,4.918,2.202,4.918,4.918s-2.202,4.918-4.918,4.918C2101.027,1706.759,2098.824,1704.557,2098.824,1701.841z">
+      <path fill="#FF33CC" d="M2098.824,1701.841c0-2.716,2.202-4.918,4.918-4.918l0,0    c2.716,0,4.918,2.202,4.918,4.918s-2.202,4.918-4.918,4.918C2101.027,1706.759,2098.824,1704.557,2098.824,1701.841z" style="">
         <title>.id(cardio_3-1)</title>
       </path>
-      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2103.054,1699.429    c-0.234-0.513,0.023-1.105,0.574-1.322l0,0c0.552-0.218,1.188,0.022,1.422,0.534l0,0c0.234,0.513-0.023,1.105-0.575,1.322l0,0    C2103.925,1700.181,2103.289,1699.941,2103.054,1699.429L2103.054,1699.429z">
+      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2103.054,1699.429    c-0.234-0.513,0.023-1.105,0.574-1.322l0,0c0.552-0.218,1.188,0.022,1.422,0.534l0,0c0.234,0.513-0.023,1.105-0.575,1.322l0,0    C2103.925,1700.181,2103.289,1699.941,2103.054,1699.429L2103.054,1699.429z" style="">
         <title>.id(cardio_38-1)</title>
       </path>
-      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2102.873,1704.486    c-0.323-0.782,0.032-1.685,0.793-2.016l0,0c0.762-0.332,1.641,0.033,1.965,0.814l0,0c0.323,0.782-0.032,1.685-0.794,2.016l0,0    C2104.076,1705.633,2103.197,1705.268,2102.873,1704.486L2102.873,1704.486z">
+      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2102.873,1704.486    c-0.323-0.782,0.032-1.685,0.793-2.016l0,0c0.762-0.332,1.641,0.033,1.965,0.814l0,0c0.323,0.782-0.032,1.685-0.794,2.016l0,0    C2104.076,1705.633,2103.197,1705.268,2102.873,1704.486L2102.873,1704.486z" style="">
         <title>.id(cardio_13-1)</title>
       </path>
-      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2085.503,1708.373    c-0.323-0.782,0.032-1.685,0.793-2.016l0,0c0.762-0.332,1.641,0.033,1.965,0.814l0,0c0.323,0.782-0.032,1.685-0.794,2.016l0,0    C2086.706,1709.519,2085.827,1709.155,2085.503,1708.373L2085.503,1708.373z">
+      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2085.503,1708.373    c-0.323-0.782,0.032-1.685,0.793-2.016l0,0c0.762-0.332,1.641,0.033,1.965,0.814l0,0c0.323,0.782-0.032,1.685-0.794,2.016l0,0    C2086.706,1709.519,2085.827,1709.155,2085.503,1708.373L2085.503,1708.373z" style="">
         <title>.id(cardio_5-1)</title>
       </path>
-      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M 2090.848 1698.613 C 2090.525 1697.831 2090.88 1696.928 2091.641 1696.597 C 2092.403 1696.265 2093.282 1696.63 2093.606 1697.411 C 2093.929 1698.193 2093.574 1699.096 2092.812 1699.427 C 2092.051 1699.76 2091.172 1699.395 2090.848 1698.613 Z">
+      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M 2090.848 1698.613 C 2090.525 1697.831 2090.88 1696.928 2091.641 1696.597 C 2092.403 1696.265 2093.282 1696.63 2093.606 1697.411 C 2093.929 1698.193 2093.574 1699.096 2092.812 1699.427 C 2092.051 1699.76 2091.172 1699.395 2090.848 1698.613 Z" style="">
         <title>.id(cardio_4-1)</title>
       </path>
-      <g>
+      <g style="">
+        <title>.id(respiratory_18-1)</title>
+        <path fill="#FFC5C5" d="M2168.356,1687.011c1.289-0.127,2.344-0.854,3.998-1.206s4.095-0.626,5.971-0.896s4.28-1.209,5.317-0.623     c0.366,1.562,0.725,3.17,0.856,4.131c-0.743,0.542-2.245,0.823-4.729,1.373l-10.393,2.411     C2169.023,1690.548,2168.691,1689.367,2168.356,1687.011z"/>
+        <path fill="#FFABAB" stroke="#D84F34" stroke-width="0.6667" d="M2168.491,1687.643c-0.116-0.159-0.196-0.548-0.121-0.724     c0.219-0.201,0.7-0.266,1.386-0.441c0.686-0.174,1.294-0.455,2.697-0.705s5.505-0.922,5.879-0.91s-3.778,1.005-3.778,1.005     c-0.891,0.283-1.605,0.641-2.595,0.956C2170.93,1687.086,2168.576,1687.704,2168.491,1687.643z"/>
+        <path fill="#FFABAB" stroke="#D84F34" stroke-width="0.6667" d="M2174.807,1686.049c-0.335,0.041,1.987-0.675,3.45-1.01     c1.463-0.334,4.251-1.025,5.222-0.92c0.254,0.181,0.322,0.944,0.402,1.333c-0.319,0.232-1.572,0.129-2.473,0.176     c-0.9,0.047-2.069,0.004-3.161,0.068C2177.156,1685.76,2175.143,1686.008,2174.807,1686.049z"/>
+        <path fill="#FFABAB" stroke="#D84F34" stroke-width="0.6667" d="M2168.929,1687.853c0.304-0.14,0.944-0.322,1.531-0.465     s1.135-0.339,1.866-0.506s1.202-0.469,2.545-0.635c1.342-0.165,4.426-0.339,5.51-0.357c1.092-0.064,1.413-0.013,0.971,0.105     c-0.488,0.111-2.646,0.384-3.767,0.631c-1.166,0.24-2.163,0.601-3.085,0.785c-0.922,0.184-1.685,0.253-2.364,0.381     c-0.678,0.129-1.304,0.218-1.936,0.354c-0.816,0.107-1.495,0.235-1.678,0.207     C2168.306,1688.225,2168.624,1687.993,2168.929,1687.853z"/>
+        <path fill="#FFABAB" stroke="#D84F34" stroke-width="0.6667" d="M2168.707,1688.665c0.304-0.14,1.318-0.31,2.24-0.495     c0.922-0.184,2.325-0.434,3.371-0.505c1.045-0.071,1.681,0.076,2.956,0.041s4.419-0.294,4.754-0.335     c-0.265,0.193-5.57,1.335-7.552,1.682c-1.936,0.354-3.281,0.237-4.189,0.33c-0.954,0.085-1.166,0.24-1.441,0.197     C2168.768,1689.473,2168.594,1688.788,2168.707,1688.665z"/>
+        <path fill="#FFABAB" stroke="#D84F34" stroke-width="0.6667" d="M2168.848,1689.862c0.502-0.203,1.014-0.17,1.929-0.308     c0.862-0.1,2.342-0.244,3.349-0.367c-0.548,0.196-1.135,0.339-1.69,0.581c-0.548,0.196-1.026,0.544-1.567,0.694     s-1.021,0.216-1.799,0.376C2168.931,1690.533,2168.829,1690.282,2168.848,1689.862z"/>
+        <path fill="#FFABAB" stroke="#D84F34" stroke-width="0.6667" d="M2171.177,1690.604c0.212-0.155,1.581-0.786,2.906-1.142     s3.453-0.727,5.152-1.072s4.152-0.994,5-1.002c0.155,0.212,0.298,0.799,0.226,1.258c-1.043,0.354-4.621,0.685-6.406,0.969     c-1.738,0.291-2.96,0.287-4.119,0.482C2172.792,1690.199,2170.925,1690.706,2171.177,1690.604z"/>
+        <path fill="#FFABAB" stroke="#D84F34" stroke-width="0.6667" d="M2175.429,1687.181c0.739-0.213,2.346-0.572,3.749-0.822     s3.957-0.648,4.737-0.526c0.037,0.664,0.056,0.244,0.138,0.915c-0.509,0.249-2.371,0.427-3.515,0.529     c-1.099,0.11-2.19,0.173-3.183,0.206c-0.992,0.032-2.444-0.008-2.765-0.058     C2174.262,1687.421,2174.69,1687.394,2175.429,1687.181z"/>
+        <path fill="#FFABAB" stroke="#D84F34" stroke-width="0.6667" d="M2169.19,1691.279c0.517-0.295,2.004-0.485,3.406-0.734     c1.403-0.25,3.469-0.537,5.003-0.719s4.561-0.6,4.165-0.474c-0.403,0.172-4.474,0.943-6.523,1.421l-5.845,1.292     C2169.178,1691.654,2169.139,1691.6,2169.19,1691.279z"/>
+        <path fill="#FF7D7D" d="M2172.496,1688.789c-0.024-0.145,0.241-0.338,0.63-0.418s0.71-0.03,0.734,0.115l0,0     c0.024,0.145-0.241,0.338-0.63,0.418C2172.842,1688.985,2172.52,1688.934,2172.496,1688.789z"/>
+        <path fill="#FF7D7D" d="M2179.558,1686.936c-0.024-0.145,0.234-0.292,0.623-0.372l0,0c0.389-0.08,0.71-0.03,0.741,0.069l0,0     c0.024,0.145-0.234,0.292-0.623,0.372S2179.582,1687.081,2179.558,1686.936z"/>
+        <path fill="#FF7D7D" d="M2181.548,1685.039c-0.024-0.145,0.273-0.239,0.647-0.227c0.382-0.034,0.65,0.055,0.674,0.2     c0.024,0.145-0.273,0.239-0.647,0.227S2181.58,1685.138,2181.548,1685.039z"/>
+        <path fill="#FF7D7D" d="M2169.623,1687.022c-0.031-0.099,0.188-0.3,0.485-0.394s0.579-0.097,0.649,0.055l0,0     c0.032,0.099-0.188,0.3-0.485,0.394C2169.93,1687.164,2169.655,1687.121,2169.623,1687.022L2169.623,1687.022z"/>
+        <path fill="#FF7D7D" d="M2173.388,1687.002c-0.031-0.099,0.273-0.239,0.615-0.327c0.343-0.087,0.717-0.075,0.696,0.062     c0.031,0.099-0.273,0.239-0.615,0.327S2173.419,1687.101,2173.388,1687.002z"/>
+        <path fill="#FF7D7D" d="M2169.924,1691.395c-0.031-0.099,0.181-0.254,0.471-0.302l0,0c0.29-0.049,0.565-0.005,0.551,0.086l0,0     c0.031,0.099-0.181,0.254-0.47,0.302C2170.178,1691.576,2169.948,1691.54,2169.924,1691.395L2169.924,1691.395z"/>
+        <path fill="#FF7D7D" d="M2179.057,1688.926c-0.031-0.099,0.28-0.285,0.623-0.372s0.71-0.03,0.741,0.069s-0.28,0.285-0.623,0.372     S2179.042,1689.018,2179.057,1688.926z"/>
+        <path fill="none" stroke="#404040" stroke-width="0.6667" d="M2170.701,1685.546     c0.106-0.077,0.297-0.094,0.406,0.111c0.116,0.159,0.16,0.777,0.23,0.929s0.215,0.128,0.191-0.017     c-0.017-0.191-0.191-0.876-0.216-1.021c-0.024-0.145,0.128-0.215,0.198-0.063s0.146,0.869,0.209,1.067     c0.07,0.152,0.208,0.174,0.191-0.017c-0.017-0.191-0.238-0.884-0.209-1.067c0.029-0.184,0.128-0.215,0.198-0.063     s0.146,0.869,0.208,1.067c0.07,0.152,0.215,0.128,0.191-0.017c-0.017-0.191-0.238-0.884-0.209-1.067s0.128-0.215,0.191-0.017     s0.201,1.113,0.201,1.113">
+          <title>.id(receptor_2-4)</title>
+        </path>
+        <path fill="none" stroke="#404040" stroke-width="0.6667" d="M2179.072,1684.039     c0.106-0.077,0.297-0.094,0.406,0.111c0.116,0.159,0.16,0.777,0.23,0.929s0.215,0.128,0.191-0.017     c-0.017-0.191-0.192-0.876-0.216-1.021c-0.017-0.191,0.128-0.215,0.198-0.063s0.146,0.869,0.209,1.067     c0.07,0.152,0.208,0.174,0.191-0.017s-0.238-0.884-0.209-1.067s0.128-0.215,0.198-0.063s0.146,0.869,0.208,1.067     c0.07,0.152,0.215,0.128,0.191-0.017c-0.017-0.191-0.238-0.884-0.209-1.067s0.128-0.215,0.191-0.017s0.201,1.113,0.201,1.113">
+          <title>.id(receptor_1-4)</title>
+        </path>
+      </g>
+      <g style="">
         <title>.id(respiratory_19-1)</title>
         <path fill="#FFC5C5" d="M2192.122,1678.397c1.356-0.438,2.327-1.554,4.028-2.375s4.314-1.731,6.33-2.505     c2.017-0.774,4.392-2.477,5.637-2.07c0.838,1.652,1.625,3.287,2.012,4.295c-0.642,0.782-2.244,1.471-4.805,2.728l-10.77,5.297     C2193.783,1682.082,2193.064,1680.91,2192.122,1678.397z"/>
         <path fill="#FFABAB" stroke="#D84F34" stroke-width="0.6667" d="M2192.407,1679.042c-0.167-0.165-0.368-0.561-0.302-0.76     c0.197-0.266,0.709-0.484,1.436-0.853c0.727-0.368,1.271-0.852,2.791-1.457c1.487-0.671,5.817-2.452,6.214-2.487     c0.397-0.035-3.881,2.093-3.881,2.093c-0.891,0.535-1.584,1.136-2.591,1.688     C2194.951,1677.834,2192.556,1679.091,2192.407,1679.042z"/>
@@ -13866,31 +13723,6 @@
         </path>
       </g>
       <g>
-        <title>.id(respiratory_18-1)</title>
-        <path fill="#FFC5C5" d="M2168.356,1687.011c1.289-0.127,2.344-0.854,3.998-1.206s4.095-0.626,5.971-0.896s4.28-1.209,5.317-0.623     c0.366,1.562,0.725,3.17,0.856,4.131c-0.743,0.542-2.245,0.823-4.729,1.373l-10.393,2.411     C2169.023,1690.548,2168.691,1689.367,2168.356,1687.011z"/>
-        <path fill="#FFABAB" stroke="#D84F34" stroke-width="0.6667" d="M2168.491,1687.643c-0.116-0.159-0.196-0.548-0.121-0.724     c0.219-0.201,0.7-0.266,1.386-0.441c0.686-0.174,1.294-0.455,2.697-0.705s5.505-0.922,5.879-0.91s-3.778,1.005-3.778,1.005     c-0.891,0.283-1.605,0.641-2.595,0.956C2170.93,1687.086,2168.576,1687.704,2168.491,1687.643z"/>
-        <path fill="#FFABAB" stroke="#D84F34" stroke-width="0.6667" d="M2174.807,1686.049c-0.335,0.041,1.987-0.675,3.45-1.01     c1.463-0.334,4.251-1.025,5.222-0.92c0.254,0.181,0.322,0.944,0.402,1.333c-0.319,0.232-1.572,0.129-2.473,0.176     c-0.9,0.047-2.069,0.004-3.161,0.068C2177.156,1685.76,2175.143,1686.008,2174.807,1686.049z"/>
-        <path fill="#FFABAB" stroke="#D84F34" stroke-width="0.6667" d="M2168.929,1687.853c0.304-0.14,0.944-0.322,1.531-0.465     s1.135-0.339,1.866-0.506s1.202-0.469,2.545-0.635c1.342-0.165,4.426-0.339,5.51-0.357c1.092-0.064,1.413-0.013,0.971,0.105     c-0.488,0.111-2.646,0.384-3.767,0.631c-1.166,0.24-2.163,0.601-3.085,0.785c-0.922,0.184-1.685,0.253-2.364,0.381     c-0.678,0.129-1.304,0.218-1.936,0.354c-0.816,0.107-1.495,0.235-1.678,0.207     C2168.306,1688.225,2168.624,1687.993,2168.929,1687.853z"/>
-        <path fill="#FFABAB" stroke="#D84F34" stroke-width="0.6667" d="M2168.707,1688.665c0.304-0.14,1.318-0.31,2.24-0.495     c0.922-0.184,2.325-0.434,3.371-0.505c1.045-0.071,1.681,0.076,2.956,0.041s4.419-0.294,4.754-0.335     c-0.265,0.193-5.57,1.335-7.552,1.682c-1.936,0.354-3.281,0.237-4.189,0.33c-0.954,0.085-1.166,0.24-1.441,0.197     C2168.768,1689.473,2168.594,1688.788,2168.707,1688.665z"/>
-        <path fill="#FFABAB" stroke="#D84F34" stroke-width="0.6667" d="M2168.848,1689.862c0.502-0.203,1.014-0.17,1.929-0.308     c0.862-0.1,2.342-0.244,3.349-0.367c-0.548,0.196-1.135,0.339-1.69,0.581c-0.548,0.196-1.026,0.544-1.567,0.694     s-1.021,0.216-1.799,0.376C2168.931,1690.533,2168.829,1690.282,2168.848,1689.862z"/>
-        <path fill="#FFABAB" stroke="#D84F34" stroke-width="0.6667" d="M2171.177,1690.604c0.212-0.155,1.581-0.786,2.906-1.142     s3.453-0.727,5.152-1.072s4.152-0.994,5-1.002c0.155,0.212,0.298,0.799,0.226,1.258c-1.043,0.354-4.621,0.685-6.406,0.969     c-1.738,0.291-2.96,0.287-4.119,0.482C2172.792,1690.199,2170.925,1690.706,2171.177,1690.604z"/>
-        <path fill="#FFABAB" stroke="#D84F34" stroke-width="0.6667" d="M2175.429,1687.181c0.739-0.213,2.346-0.572,3.749-0.822     s3.957-0.648,4.737-0.526c0.037,0.664,0.056,0.244,0.138,0.915c-0.509,0.249-2.371,0.427-3.515,0.529     c-1.099,0.11-2.19,0.173-3.183,0.206c-0.992,0.032-2.444-0.008-2.765-0.058     C2174.262,1687.421,2174.69,1687.394,2175.429,1687.181z"/>
-        <path fill="#FFABAB" stroke="#D84F34" stroke-width="0.6667" d="M2169.19,1691.279c0.517-0.295,2.004-0.485,3.406-0.734     c1.403-0.25,3.469-0.537,5.003-0.719s4.561-0.6,4.165-0.474c-0.403,0.172-4.474,0.943-6.523,1.421l-5.845,1.292     C2169.178,1691.654,2169.139,1691.6,2169.19,1691.279z"/>
-        <path fill="#FF7D7D" d="M2172.496,1688.789c-0.024-0.145,0.241-0.338,0.63-0.418s0.71-0.03,0.734,0.115l0,0     c0.024,0.145-0.241,0.338-0.63,0.418C2172.842,1688.985,2172.52,1688.934,2172.496,1688.789z"/>
-        <path fill="#FF7D7D" d="M2179.558,1686.936c-0.024-0.145,0.234-0.292,0.623-0.372l0,0c0.389-0.08,0.71-0.03,0.741,0.069l0,0     c0.024,0.145-0.234,0.292-0.623,0.372S2179.582,1687.081,2179.558,1686.936z"/>
-        <path fill="#FF7D7D" d="M2181.548,1685.039c-0.024-0.145,0.273-0.239,0.647-0.227c0.382-0.034,0.65,0.055,0.674,0.2     c0.024,0.145-0.273,0.239-0.647,0.227S2181.58,1685.138,2181.548,1685.039z"/>
-        <path fill="#FF7D7D" d="M2169.623,1687.022c-0.031-0.099,0.188-0.3,0.485-0.394s0.579-0.097,0.649,0.055l0,0     c0.032,0.099-0.188,0.3-0.485,0.394C2169.93,1687.164,2169.655,1687.121,2169.623,1687.022L2169.623,1687.022z"/>
-        <path fill="#FF7D7D" d="M2173.388,1687.002c-0.031-0.099,0.273-0.239,0.615-0.327c0.343-0.087,0.717-0.075,0.696,0.062     c0.031,0.099-0.273,0.239-0.615,0.327S2173.419,1687.101,2173.388,1687.002z"/>
-        <path fill="#FF7D7D" d="M2169.924,1691.395c-0.031-0.099,0.181-0.254,0.471-0.302l0,0c0.29-0.049,0.565-0.005,0.551,0.086l0,0     c0.031,0.099-0.181,0.254-0.47,0.302C2170.178,1691.576,2169.948,1691.54,2169.924,1691.395L2169.924,1691.395z"/>
-        <path fill="#FF7D7D" d="M2179.057,1688.926c-0.031-0.099,0.28-0.285,0.623-0.372s0.71-0.03,0.741,0.069s-0.28,0.285-0.623,0.372     S2179.042,1689.018,2179.057,1688.926z"/>
-        <path fill="none" stroke="#404040" stroke-width="0.6667" d="M2170.701,1685.546     c0.106-0.077,0.297-0.094,0.406,0.111c0.116,0.159,0.16,0.777,0.23,0.929s0.215,0.128,0.191-0.017     c-0.017-0.191-0.191-0.876-0.216-1.021c-0.024-0.145,0.128-0.215,0.198-0.063s0.146,0.869,0.209,1.067     c0.07,0.152,0.208,0.174,0.191-0.017c-0.017-0.191-0.238-0.884-0.209-1.067c0.029-0.184,0.128-0.215,0.198-0.063     s0.146,0.869,0.208,1.067c0.07,0.152,0.215,0.128,0.191-0.017c-0.017-0.191-0.238-0.884-0.209-1.067s0.128-0.215,0.191-0.017     s0.201,1.113,0.201,1.113">
-          <title>.id(receptor_2-4)</title>
-        </path>
-        <path fill="none" stroke="#404040" stroke-width="0.6667" d="M2179.072,1684.039     c0.106-0.077,0.297-0.094,0.406,0.111c0.116,0.159,0.16,0.777,0.23,0.929s0.215,0.128,0.191-0.017     c-0.017-0.191-0.192-0.876-0.216-1.021c-0.017-0.191,0.128-0.215,0.198-0.063s0.146,0.869,0.209,1.067     c0.07,0.152,0.208,0.174,0.191-0.017s-0.238-0.884-0.209-1.067s0.128-0.215,0.198-0.063s0.146,0.869,0.208,1.067     c0.07,0.152,0.215,0.128,0.191-0.017c-0.017-0.191-0.238-0.884-0.209-1.067s0.128-0.215,0.191-0.017s0.201,1.113,0.201,1.113">
-          <title>.id(receptor_1-4)</title>
-        </path>
-      </g>
-      <g>
         <title>.id(muscle_1-1)</title>
         <path fill="#FFC5C5" d="M2227.804,1704.74c1.356-0.438,2.327-1.554,4.028-2.375s4.314-1.731,6.33-2.505     c2.017-0.774,4.392-2.477,5.637-2.07c0.838,1.652,1.625,3.287,2.012,4.295c-0.642,0.782-2.244,1.471-4.805,2.728l-10.77,5.297     C2229.465,1708.425,2228.746,1707.253,2227.804,1704.74z"/>
         <path fill="#FFABAB" stroke="#D84F34" stroke-width="0.6667" d="M2228.089,1705.385c-0.167-0.165-0.368-0.561-0.302-0.76     c0.197-0.266,0.709-0.484,1.436-0.853c0.727-0.368,1.271-0.852,2.791-1.457c1.487-0.671,5.817-2.452,6.214-2.487     c0.397-0.035-3.881,2.093-3.881,2.093c-0.891,0.535-1.584,1.136-2.591,1.688     C2230.633,1704.177,2228.238,1705.434,2228.089,1705.385z"/>
@@ -13909,88 +13741,88 @@
         <path fill="#FF7D7D" d="M2230.662,1709.147c-0.067-0.132,0.164-0.332,0.478-0.45l0,0c0.314-0.118,0.612-0.186,0.629-0.07l0,0     c0.067,0.132-0.164,0.332-0.478,0.45S2230.729,1709.279,2230.662,1709.147z"/>
         <path fill="#FF7D7D" d="M2240.041,1704.057c-0.067-0.132,0.23-0.366,0.626-0.567s0.744-0.253,0.811-0.121     c0.067,0.132-0.23,0.366-0.626,0.567S2240.059,1704.173,2240.041,1704.057z"/>
       </g>
-      <path fill="#FF33CC" d="M2582.632,1688.644c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612c0,5.291-4.322,9.612-9.612,9.612C2586.954,1698.257,2582.632,1693.935,2582.632,1688.644z">
+      <path fill="#FF33CC" d="M2582.632,1688.644c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612c0,5.291-4.322,9.612-9.612,9.612C2586.954,1698.257,2582.632,1693.935,2582.632,1688.644z" style="">
         <title>.id(digestive_75-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2566.031,1629.958c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612c0,5.291-4.322,9.612-9.612,9.612C2570.353,1639.571,2566.031,1635.249,2566.031,1629.958z">
+      <path fill="#FF33CC" d="M2566.031,1629.958c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612c0,5.291-4.322,9.612-9.612,9.612C2570.353,1639.571,2566.031,1635.249,2566.031,1629.958z" style="">
         <title>.id(digestive_74-1)</title>
       </path>
-      <path opacity="0.5" fill="#F7A8AA" enable-background="new    " d="M2387.443,1596.703    c0-31.332,26.743-56.921,59.477-56.921c32.739,0,59.477,25.594,59.477,56.921c0,31.332-26.743,56.921-59.477,56.921    C2414.186,1653.629,2387.443,1628.036,2387.443,1596.703z">
+      <path opacity="0.5" fill="#F7A8AA" enable-background="new    " d="M2387.443,1596.703    c0-31.332,26.743-56.921,59.477-56.921c32.739,0,59.477,25.594,59.477,56.921c0,31.332-26.743,56.921-59.477,56.921    C2414.186,1653.629,2387.443,1628.036,2387.443,1596.703z" style="">
         <title>.id(digestive_78-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2698.717,1702.054c0-3.973,3.419-7.217,7.604-7.217    c4.186,0,7.604,3.245,7.604,7.217c0,3.973-3.419,7.217-7.604,7.217C2702.136,1709.272,2698.717,1706.027,2698.717,1702.054z">
+      <path fill="#FF33CC" d="M2698.717,1702.054c0-3.973,3.419-7.217,7.604-7.217    c4.186,0,7.604,3.245,7.604,7.217c0,3.973-3.419,7.217-7.604,7.217C2702.136,1709.272,2698.717,1706.027,2698.717,1702.054z" style="">
         <title>.id(digestive_73-1)</title>
       </path>
-      <path fill="#FF33CC" d="M1996.972,1757.354c0-3.202,2.637-5.817,5.865-5.817    c3.229,0,5.865,2.616,5.865,5.817l0,0c0,3.202-2.637,5.817-5.865,5.817l0,0C1999.61,1763.172,1996.972,1760.556,1996.972,1757.354    L1996.972,1757.354z">
+      <path fill="#FF33CC" d="M1996.972,1757.354c0-3.202,2.637-5.817,5.865-5.817    c3.229,0,5.865,2.616,5.865,5.817l0,0c0,3.202-2.637,5.817-5.865,5.817l0,0C1999.61,1763.172,1996.972,1760.556,1996.972,1757.354    L1996.972,1757.354z" style="">
         <title>.id(digestive_72-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2576.341,1658.79c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612c0,5.291-4.322,9.612-9.612,9.612C2580.663,1668.403,2576.341,1664.081,2576.341,1658.79z">
+      <path fill="#FF33CC" d="M2576.341,1658.79c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612c0,5.291-4.322,9.612-9.612,9.612C2580.663,1668.403,2576.341,1664.081,2576.341,1658.79z" style="">
         <title>.id(digestive_61-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2584.89,1719.617c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612c0,5.291-4.322,9.612-9.612,9.612C2589.212,1729.23,2584.89,1724.908,2584.89,1719.617z">
+      <path fill="#FF33CC" d="M2584.89,1719.617c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612c0,5.291-4.322,9.612-9.612,9.612C2589.212,1729.23,2584.89,1724.908,2584.89,1719.617z" style="">
         <title>.id(digestive_62-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2580.923,1750.174c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612c0,5.291-4.322,9.612-9.612,9.612C2585.245,1759.787,2580.923,1755.465,2580.923,1750.174z">
+      <path fill="#FF33CC" d="M2580.923,1750.174c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612c0,5.291-4.322,9.612-9.612,9.612C2585.245,1759.787,2580.923,1755.465,2580.923,1750.174z" style="">
         <title>.id(digestive_60-1)</title>
       </path>
-      <path fill="#FF33CC" d="M1972.427,1758.384c0-3.202,2.637-5.817,5.865-5.817    c3.229,0,5.865,2.616,5.865,5.817l0,0c0,3.202-2.637,5.817-5.865,5.817l0,0    C1975.065,1764.202,1972.427,1761.586,1972.427,1758.384L1972.427,1758.384z">
+      <path fill="#FF33CC" d="M1972.427,1758.384c0-3.202,2.637-5.817,5.865-5.817    c3.229,0,5.865,2.616,5.865,5.817l0,0c0,3.202-2.637,5.817-5.865,5.817l0,0    C1975.065,1764.202,1972.427,1761.586,1972.427,1758.384L1972.427,1758.384z" style="">
         <title>.id(digestive_71-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2402.624,1578.558c-7.571-9.892,3.678-21.291,13.427-13.606    C2423.621,1574.847,2412.372,1586.244,2402.624,1578.558z">
+      <path fill="#FF33CC" d="M2402.624,1578.558c-7.571-9.892,3.678-21.291,13.427-13.606    C2423.621,1574.847,2412.372,1586.244,2402.624,1578.558z" style="">
         <title>.id(digestive_59-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2467.902,1616.601c0-5.135,4.135-9.328,9.197-9.328    c5.063,0,9.198,4.194,9.198,9.328l0,0c0,5.135-4.135,9.328-9.198,9.328l0,0C2472.037,1625.93,2467.902,1621.735,2467.902,1616.601    L2467.902,1616.601z">
+      <path fill="#FF33CC" d="M2467.902,1616.601c0-5.135,4.135-9.328,9.197-9.328    c5.063,0,9.198,4.194,9.198,9.328l0,0c0,5.135-4.135,9.328-9.198,9.328l0,0C2472.037,1625.93,2467.902,1621.735,2467.902,1616.601    L2467.902,1616.601z" style="">
         <title>.id(digestive_57-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2474.238,1580.059c0-5.135,4.135-9.328,9.197-9.328    c5.063,0,9.198,4.194,9.198,9.328c0,5.135-4.135,9.328-9.198,9.328C2478.374,1589.387,2474.238,1585.193,2474.238,1580.059z">
+      <path fill="#FF33CC" d="M2474.238,1580.059c0-5.135,4.135-9.328,9.197-9.328    c5.063,0,9.198,4.194,9.198,9.328c0,5.135-4.135,9.328-9.198,9.328C2478.374,1589.387,2474.238,1585.193,2474.238,1580.059z" style="">
         <title>.id(digestive_56-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2426.95,1555.174c0-5.135,4.135-9.328,9.197-9.328    c5.063,0,9.198,4.194,9.198,9.328c0,5.135-4.135,9.328-9.198,9.328C2431.085,1564.503,2426.95,1560.309,2426.95,1555.174z">
+      <path fill="#FF33CC" d="M2426.95,1555.174c0-5.135,4.135-9.328,9.197-9.328    c5.063,0,9.198,4.194,9.198,9.328c0,5.135-4.135,9.328-9.198,9.328C2431.085,1564.503,2426.95,1560.309,2426.95,1555.174z" style="">
         <title>.id(digestive_55-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2431.398,1628.539c0-5.135,4.136-9.328,9.198-9.328    c5.063,0,9.197,4.194,9.197,9.328c0,5.135-4.135,9.328-9.197,9.328C2435.534,1637.868,2431.398,1633.674,2431.398,1628.539z">
+      <path fill="#FF33CC" d="M2431.398,1628.539c0-5.135,4.136-9.328,9.198-9.328    c5.063,0,9.197,4.194,9.197,9.328c0,5.135-4.135,9.328-9.197,9.328C2435.534,1637.868,2431.398,1633.674,2431.398,1628.539z" style="">
         <title>.id(digestive_54-1)</title>
       </path>
-      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2591.778,1719.539    c-0.638-1.519,0.063-3.273,1.567-3.916l0,0c1.505-0.645,3.242,0.064,3.882,1.581l0,0c0.638,1.519-0.063,3.273-1.568,3.916l0,0    C2594.154,1721.766,2592.418,1721.058,2591.778,1719.539L2591.778,1719.539z">
+      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2591.778,1719.539    c-0.638-1.519,0.063-3.273,1.567-3.916l0,0c1.505-0.645,3.242,0.064,3.882,1.581l0,0c0.638,1.519-0.063,3.273-1.568,3.916l0,0    C2594.154,1721.766,2592.418,1721.058,2591.778,1719.539L2591.778,1719.539z" style="">
         <title>.id(digestive_64-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2401.482,1609.69c0-5.135,4.136-9.328,9.198-9.328    c5.063,0,9.198,4.194,9.198,9.328l0,0c0,5.135-4.136,9.328-9.198,9.328l0,0C2405.617,1619.018,2401.482,1614.824,2401.482,1609.69    L2401.482,1609.69z">
+      <path fill="#FF33CC" d="M2401.482,1609.69c0-5.135,4.136-9.328,9.198-9.328    c5.063,0,9.198,4.194,9.198,9.328l0,0c0,5.135-4.136,9.328-9.198,9.328l0,0C2405.617,1619.018,2401.482,1614.824,2401.482,1609.69    L2401.482,1609.69z" style="">
         <title>.id(digestive_53-1)</title>
       </path>
-      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2589.154,1748.763    c-0.638-1.519,0.063-3.273,1.566-3.916l0,0c1.505-0.645,3.242,0.064,3.882,1.581l0,0c0.638,1.519-0.063,3.273-1.569,3.915l0,0    C2591.53,1750.99,2589.794,1750.281,2589.154,1748.763L2589.154,1748.763z">
+      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2589.154,1748.763    c-0.638-1.519,0.063-3.273,1.566-3.916l0,0c1.505-0.645,3.242,0.064,3.882,1.581l0,0c0.638,1.519-0.063,3.273-1.569,3.915l0,0    C2591.53,1750.99,2589.794,1750.281,2589.154,1748.763L2589.154,1748.763z" style="">
         <title>.id(digestive_63-1)</title>
       </path>
-      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2702.179,1701.744    c-0.638-1.519,0.063-3.273,1.567-3.916l0,0c1.505-0.645,3.242,0.064,3.882,1.581l0,0c0.638,1.519-0.063,3.273-1.568,3.916l0,0    C2704.555,1703.971,2702.818,1703.263,2702.179,1701.744L2702.179,1701.744z">
+      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2702.179,1701.744    c-0.638-1.519,0.063-3.273,1.567-3.916l0,0c1.505-0.645,3.242,0.064,3.882,1.581l0,0c0.638,1.519-0.063,3.273-1.568,3.916l0,0    C2704.555,1703.971,2702.818,1703.263,2702.179,1701.744L2702.179,1701.744z" style="">
         <title>.id(digestive_76-1)</title>
       </path>
-      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2410.59,1609.048    c-0.61-1.474,0.06-3.176,1.5-3.799l0,0c1.44-0.626,3.102,0.062,3.715,1.534l0,0c0.61,1.474-0.06,3.176-1.5,3.799l0,0    C2412.865,1611.21,2411.203,1610.522,2410.59,1609.048L2410.59,1609.048z">
+      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2410.59,1609.048    c-0.61-1.474,0.06-3.176,1.5-3.799l0,0c1.44-0.626,3.102,0.062,3.715,1.534l0,0c0.61,1.474-0.06,3.176-1.5,3.799l0,0    C2412.865,1611.21,2411.203,1610.522,2410.59,1609.048L2410.59,1609.048z" style="">
         <title>.id(digestive_58-1)</title>
       </path>
-      <path opacity="0.5" fill="#F7A8AA" enable-background="new    " d="M2470.582,1712.059    c0-25.089,21.768-45.579,48.413-45.579c26.649,0,48.413,20.495,48.413,45.579c0,25.089-21.769,45.579-48.413,45.579    C2492.351,1757.643,2470.582,1737.148,2470.582,1712.059z">
+      <path opacity="0.5" fill="#F7A8AA" enable-background="new    " d="M2470.582,1712.059    c0-25.089,21.768-45.579,48.413-45.579c26.649,0,48.413,20.495,48.413,45.579c0,25.089-21.769,45.579-48.413,45.579    C2492.351,1757.643,2470.582,1737.148,2470.582,1712.059z" style="">
         <title>.id(digestive_77-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2483.243,1699.911c-7.912-10.194,3.844-21.94,14.032-14.021    C2505.187,1696.085,2493.431,1707.831,2483.243,1699.911z">
+      <path fill="#FF33CC" d="M2483.243,1699.911c-7.912-10.194,3.844-21.94,14.032-14.021    C2505.187,1696.085,2493.431,1707.831,2483.243,1699.911z" style="">
         <title>.id(digestive_59-2)</title>
       </path>
-      <path fill="#FF33CC" d="M2542.543,1705.773c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612l0,0c0,5.291-4.322,9.612-9.612,9.612l0,0    C2546.865,1715.386,2542.543,1711.064,2542.543,1705.773L2542.543,1705.773z">
+      <path fill="#FF33CC" d="M2542.543,1705.773c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612l0,0c0,5.291-4.322,9.612-9.612,9.612l0,0    C2546.865,1715.386,2542.543,1711.064,2542.543,1705.773L2542.543,1705.773z" style="">
         <title>.id(digestive_57-2)</title>
       </path>
-      <path fill="#FF33CC" d="M2529.59,1731.077c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612c0,5.291-4.322,9.612-9.612,9.612C2533.912,1740.69,2529.59,1736.368,2529.59,1731.077z">
+      <path fill="#FF33CC" d="M2529.59,1731.077c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612c0,5.291-4.322,9.612-9.612,9.612C2533.912,1740.69,2529.59,1736.368,2529.59,1731.077z" style="">
         <title>.id(digestive_56-2)</title>
       </path>
-      <path fill="#FF33CC" d="M2480.178,1720.694c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612c0,5.291-4.322,9.612-9.612,9.612C2484.5,1730.307,2480.178,1725.985,2480.178,1720.694z">
+      <path fill="#FF33CC" d="M2480.178,1720.694c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612c0,5.291-4.322,9.612-9.612,9.612C2484.5,1730.307,2480.178,1725.985,2480.178,1720.694z" style="">
         <title>.id(digestive_55-2)</title>
       </path>
-      <path fill="#FF33CC" d="M2529.59,1686.548c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612c0,5.291-4.322,9.612-9.612,9.612C2533.912,1696.161,2529.59,1691.839,2529.59,1686.548z">
+      <path fill="#FF33CC" d="M2529.59,1686.548c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612c0,5.291-4.322,9.612-9.612,9.612C2533.912,1696.161,2529.59,1691.839,2529.59,1686.548z" style="">
         <title>.id(digestive_54-2)</title>
       </path>
-      <path fill="#FF33CC" d="M1552.861,1726.99c0-2.936,2.519-5.335,5.602-5.335    s5.602,2.399,5.602,5.335l0,0c0,2.936-2.519,5.335-5.602,5.335l0,0C1555.38,1732.325,1552.861,1729.927,1552.861,1726.99    L1552.861,1726.99z">
+      <path fill="#FF33CC" d="M1552.861,1726.99c0-2.936,2.519-5.335,5.602-5.335    s5.602,2.399,5.602,5.335l0,0c0,2.936-2.519,5.335-5.602,5.335l0,0C1555.38,1732.325,1552.861,1729.927,1552.861,1726.99    L1552.861,1726.99z" style="">
         <title>.id(digestive_11-1)</title>
       </path>
-      <path fill="#FF33CC" d="M2505.215,1679.032c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612l0,0c0,5.291-4.322,9.612-9.612,9.612l0,0    C2509.537,1688.645,2505.215,1684.323,2505.215,1679.032L2505.215,1679.032z">
+      <path fill="#FF33CC" d="M2505.215,1679.032c0-5.291,4.322-9.612,9.612-9.612    c5.291,0,9.612,4.322,9.612,9.612l0,0c0,5.291-4.322,9.612-9.612,9.612l0,0    C2509.537,1688.645,2505.215,1684.323,2505.215,1679.032L2505.215,1679.032z" style="">
         <title>.id(digestive_53-2)</title>
       </path>
-      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2514.734,1678.371    c-0.638-1.519,0.063-3.273,1.567-3.915l0,0c1.505-0.645,3.242,0.064,3.882,1.581l0,0c0.638,1.519-0.063,3.273-1.568,3.915l0,0    C2517.111,1680.599,2515.373,1679.89,2514.734,1678.371L2514.734,1678.371z">
+      <path fill="#66FFFF" stroke="#000000" stroke-width="0.6667" d="M2514.734,1678.371    c-0.638-1.519,0.063-3.273,1.567-3.915l0,0c1.505-0.645,3.242,0.064,3.882,1.581l0,0c0.638,1.519-0.063,3.273-1.568,3.915l0,0    C2517.111,1680.599,2515.373,1679.89,2514.734,1678.371L2514.734,1678.371z" style="">
         <title>.id(digestive_58-2)</title>
       </path>
       <path fill="#FF33CC" d="M2525.655,1524.396c0-1.24,1.021-2.253,2.271-2.253    s2.271,1.013,2.271,2.253c0,1.24-1.021,2.253-2.271,2.253C2526.676,1526.648,2525.655,1525.636,2525.655,1524.396z">
@@ -13998,6 +13830,174 @@
       </path>
       <path fill="#FF33CC" d="    M2535.437,1520.428c0-1.24,1.021-2.253,2.271-2.253s2.271,1.013,2.271,2.253c0,1.24-1.021,2.253-2.271,2.253    S2535.437,1521.668,2535.437,1520.428z">
         <title>.id(endocrine_4-1)</title>
+      </path>
+    </g>
+    <g id="plexus" style="">
+      <title>Plexus</title>
+      <path opacity="0.37" fill="#E4E417" enable-background="new    " d="M1658.864,490.469    L1658.864,490.469c-8.001,13.922-23.044,22.564-39.206,22.564l-0.64,0.96c7.681,13.442,7.681,29.765,0,43.207l0.64,0.96    c16.163,0,31.205,8.641,39.206,22.564l0,0c8.001-13.922,23.044-22.564,39.206-22.564l0,0c-8.001-13.922-8.001-31.205,0-45.287l0,0    C1681.908,513.033,1667.026,504.392,1658.864,490.469z">
+        <title>.id(plexus_1-1)</title>
+      </path>
+      <path opacity="0.37" fill="#E4E417" enable-background="new    " d="M1588.407,1096.941    L1588.407,1096.941c-8.947,15.581-25.608,25.222-43.657,25.222l-0.694,1.157c8.562,14.887,8.562,33.167,0,48.131l0.694,1.157    c18.049,0,34.71,9.642,43.657,25.222l0,0c8.947-15.581,25.608-25.222,43.657-25.222l0,0c-8.947-15.581-8.947-34.787,0-50.445l0,0    C1614.015,1122.164,1597.354,1112.522,1588.407,1096.941z">
+        <title>.id(plexus_2-1)</title>
+      </path>
+      <path opacity="0.37" fill="#E4E417" enable-background="new    " d="M1889.961,1264.031    L1889.961,1264.031c-5,8.7-14.4,14.1-24.5,14.1l-0.4,0.6c4.8,8.4,4.8,18.6,0,27l0.4,0.6c10.1,0,19.5,5.4,24.5,14.1l0,0    c5-8.7,14.4-14.1,24.5-14.1l0,0c-5-8.7-5-19.5,0-28.3l0,0C1904.361,1278.132,1895.062,1272.732,1889.961,1264.031z">
+        <title>.id(plexus_3-1)</title>
+      </path>
+      <path opacity="0.64" fill="#E4E417" enable-background="new    " d="M2142.129,1627.116    L2142.129,1627.116c-3,5.22-8.64,8.46-14.701,8.46l-0.24,0.36c2.88,5.04,2.88,11.16,0,16.201l0.24,0.36    c6.06,0,11.7,3.24,14.701,8.46l0,0c3-5.22,8.64-8.46,14.7-8.46l0,0c-3-5.22-3-11.701,0-16.981l0,0    C2150.77,1635.576,2145.189,1632.336,2142.129,1627.116z">
+        <title>.id(plexus_4-1)</title>
+      </path>
+      <path opacity="0.64" fill="#E4E417" enable-background="new    " d="M 2303.448 1628.484 C 2300.448 1633.704 2294.808 1636.944 2288.748 1636.944 L 2288.508 1637.304 C 2291.388 1642.344 2291.388 1648.464 2288.508 1653.505 L 2288.748 1653.865 C 2294.808 1653.865 2300.448 1657.105 2303.448 1662.325 C 2306.448 1657.105 2312.088 1653.865 2318.149 1653.865 C 2315.149 1648.645 2315.149 1642.165 2318.149 1636.884 C 2312.088 1636.944 2306.508 1633.704 2303.448 1628.484 Z">
+        <title>.id(plexus_5-1)</title>
+      </path>
+      <path opacity="0.54" fill="#E4E417" enable-background="new    " d="M2507.764,1618.881    L2507.764,1618.881c-4.221,7.344-12.156,11.903-20.682,11.903l-0.338,0.506c4.052,7.091,4.052,15.702,0,22.793l0.338,0.507    c8.526,0,16.461,4.558,20.682,11.903l0,0c4.221-7.344,12.156-11.903,20.682-11.903l0,0c-4.221-7.344-4.221-16.462,0-23.89l0,0    C2519.92,1630.784,2512.069,1626.226,2507.764,1618.881z">
+        <title>.id(plexus_6-1)</title>
+      </path>
+      <path opacity="0.37" fill="#E4E417" enable-background="new    " d="M1476.221,500.953    L1476.221,500.953c-6.144,10.69-17.695,17.326-30.106,17.326l-0.491,0.737c5.898,10.322,5.898,22.856,0,33.178l0.491,0.737    c12.411,0,23.962,6.635,30.106,17.326l0,0c6.144-10.69,17.695-17.326,30.105-17.326l0,0c-6.144-10.69-6.144-23.962,0-34.775l0,0    C1493.916,518.28,1482.489,511.645,1476.221,500.953z">
+        <title>.id(plexus_7-1)</title>
+      </path>
+      <path opacity="0.54" fill="#E4E417" enable-background="new    " d="M3239.851,1897.691    L3239.851,1897.691c-2.264,3.842-6.519,6.228-11.091,6.228l-0.181,0.265c2.173,3.71,2.173,8.215,0,11.925l0.181,0.265    c4.572,0,8.827,2.385,11.091,6.228l0,0c2.263-3.842,6.519-6.228,11.091-6.228l0,0c-2.263-3.842-2.263-8.613,0-12.499l0,0    C3246.37,1903.919,3242.16,1901.534,3239.851,1897.691z">
+        <title>.id(plexus_8-1)</title>
+      </path>
+      <path opacity="0.54" fill="#E4E417" enable-background="new    " d="M3276.181,1961.18    L3276.181,1961.18c-2.263,3.842-6.519,6.228-11.091,6.228l-0.181,0.265c2.173,3.71,2.173,8.215,0,11.925l0.181,0.265    c4.572,0,8.827,2.385,11.091,6.228l0,0c2.263-3.842,6.519-6.228,11.091-6.228l0,0c-2.263-3.842-2.263-8.613,0-12.499l0,0    C3282.699,1967.407,3278.49,1965.023,3276.181,1961.18z">
+        <title>.id(plexus_9-1)</title>
+      </path>
+      <path opacity="0.54" fill="#E4E417" enable-background="new    " d="M2512.142,1729.429    L2512.142,1729.429c-1.906,3.056-5.488,4.954-9.337,4.954l-0.152,0.211c1.83,2.951,1.83,6.534,0,9.485l0.152,0.211    c3.849,0,7.431,1.897,9.337,4.954l0,0c1.905-3.056,5.488-4.954,9.337-4.954l0,0c-1.905-3.056-1.905-6.851,0-9.942l0,0    C2517.63,1734.383,2514.085,1732.485,2512.142,1729.429z">
+        <title>.id(plexus_10-1)</title>
+      </path>
+      <path opacity="0.54" fill="#E4E417" enable-background="new    " d="M 2462.623 1550.204 C 2460.799 1553.17 2457.372 1555.011 2453.689 1555.011 L 2453.543 1555.216 C 2455.294 1558.08 2455.294 1561.557 2453.543 1564.42 L 2453.689 1564.625 C 2457.372 1564.625 2460.799 1566.466 2462.623 1569.432 C 2464.446 1566.466 2467.874 1564.625 2471.557 1564.625 C 2469.734 1561.659 2469.734 1557.977 2471.557 1554.977 C 2467.875 1555.011 2464.483 1553.17 2462.623 1550.204 Z">
+        <title>.id(plexus_10-2)</title>
+      </path>
+      <path opacity="0.54" fill="#E4E417" enable-background="new    " d="M2030.001,1743.577    L2030.001,1743.577c-1.813,2.858-5.22,4.633-8.881,4.633l-0.145,0.197c1.74,2.76,1.74,6.11,0,8.87l0.145,0.197    c3.661,0,7.068,1.774,8.881,4.633l0,0c1.812-2.858,5.22-4.633,8.881-4.633l0,0c-1.812-2.858-1.812-6.407,0-9.297l0,0    C2035.221,1748.209,2031.851,1746.435,2030.001,1743.577z">
+        <title>.id(plexus_11-1)</title>
+      </path>
+    </g>
+    <g id="ganglia" style="">
+      <title>Ganglia</title>
+      <g>
+        <title>paravertebral_ganglion</title>
+        <path fill="#B2F074" d="     M2165.485,419.175c-2.431,4.287-7.944,5.83-12.316,3.445c-4.37-2.385-5.944-7.794-3.512-12.082     c2.431-4.287,7.944-5.83,12.316-3.445C2166.344,409.477,2167.916,414.886,2165.485,419.175z">
+          <title>.id(S46_T1)</title>
+        </path>
+        <path fill="#B2F074" d="M2235.859,418.33c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2238.091,414.316,2235.859,418.33z">
+          <title>.id(S46_T2)</title>
+        </path>
+        <path fill="#B2F074" d="M2296.778,418.33c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2299.01,414.316,2296.778,418.33z">
+          <title>.id(S46_T3)</title>
+        </path>
+        <path fill="#B2F074" d="M2360.021,418.33c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2362.253,414.316,2360.021,418.33z">
+          <title>.id(S46_T4)</title>
+        </path>
+        <path fill="#B2F074" d="M2418.651,418.33c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2420.883,414.316,2418.651,418.33z">
+          <title>.id(S46_T5)</title>
+        </path>
+        <path fill="#B2F074" d="M2482.333,418.33c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2484.565,414.316,2482.333,418.33z">
+          <title>.id(S46_T6)</title>
+        </path>
+        <path fill="#B2F074" d="M2547.344,418.33c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2549.577,414.316,2547.344,418.33z">
+          <title>.id(S46_T7)</title>
+        </path>
+        <path fill="#B2F074" d="M2607.356,418.33c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2609.588,414.316,2607.356,418.33z">
+          <title>.id(S46_T8)</title>
+        </path>
+        <path fill="#B2F074" d="M2736.382,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2738.614,414.38,2736.382,418.394z">
+          <title>.id(S46_T10)</title>
+        </path>
+        <path fill="#B2F074" d="M2798.899,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.457-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225     C2799.688,409.317,2801.132,414.38,2798.899,418.394z">
+          <title>.id(S46_T11)</title>
+        </path>
+        <path fill="#B2F074" d="M2863.799,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2866.031,414.38,2863.799,418.394z">
+          <title>.id(S46_T12)</title>
+        </path>
+        <path fill="#B2F074" d="M2932.084,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2934.317,414.38,2932.084,418.394z">
+          <title>.id(S46_T13)</title>
+        </path>
+        <path fill="#B2F074" d="M3002.251,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S3004.483,414.38,3002.251,418.394z">
+          <title>.id(S46_L1)</title>
+        </path>
+        <path fill="#B2F074" d="M3077.97,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.457-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225C3078.758,409.317,3080.202,414.38,3077.97,418.394     z">
+          <title>.id(S46_L2)</title>
+        </path>
+        <path fill="#B2F074" d="M3154.391,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S3156.624,414.38,3154.391,418.394z">
+          <title>.id(S46_L3)</title>
+        </path>
+        <path fill="#B2F074" d="M3239.646,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S3241.878,414.38,3239.646,418.394z">
+          <title>.id(S46_L4)</title>
+        </path>
+        <path fill="#B2F074" d="M3322.9,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S3325.132,414.38,3322.9,418.394z">
+          <title>.id(S46_L5)</title>
+        </path>
+        <path fill="#B2F074" d="M3403.702,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.457-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S3405.934,414.38,3403.702,418.394z">
+          <title>.id(S46_L6)</title>
+        </path>
+        <path fill="#B2F074" d="M3476.242,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S3478.475,414.38,3476.242,418.394z">
+          <title>.id(S46_S1)</title>
+        </path>
+        <path fill="#B2F074" d="M3534.437,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.457-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S3536.669,414.38,3534.437,418.394z">
+          <title>.id(S46_S2)</title>
+        </path>
+        <path fill="#B2F074" d="M3593.629,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S3595.862,414.38,3593.629,418.394z">
+          <title>.id(S46_S3)</title>
+        </path>
+        <path fill="#B2F074" d="M2673.531,418.394c-2.232,4.013-7.295,5.457-11.309,3.225     c-4.013-2.232-5.458-7.295-3.225-11.309c2.232-4.013,7.295-5.457,11.309-3.225S2675.764,414.38,2673.531,418.394z">
+          <title>.id(S46_T9)</title>
+        </path>
+      </g>
+      <path fill="#B2F074" d="M1377.147,622.642c-4.27-11.13,1.4-23.799,12.53-27.999l0,0    c10.29-3.92,23.66,1.05,27.999,12.53c4.27,11.13-1.4,23.799-12.53,27.999l0,0C1393.878,639.371,1381.417,633.771,1377.147,622.642    z" style="">
+        <title>.id(ganglion_1-1)</title>
+      </path>
+      <path fill="#B2F074" d="M1441.801,692.704c-5.428-15.51,2.87-32.72,18.378-38.075    c15.51-5.428,32.72,2.87,38.075,18.378c5.428,15.51-2.87,32.72-18.378,38.075C1464.22,716.506,1447.156,708.212,1441.801,692.704z    ">
+        <title>.id(ganglion_2-1)</title>
+      </path>
+      <path fill="#B2F074" d="M1535.045,445.504c-6.173-16.08,1.981-34.371,18.062-40.468l0,0    c16.08-6.173,34.371,1.981,40.468,18.062c6.173,16.08-1.981,34.371-18.062,40.468l0,0    C1559.279,469.739,1541.141,461.584,1535.045,445.504z">
+        <title>.id(ganglion_3-1)</title>
+      </path>
+      <path fill="#B2F074" d="M3260.849,843.101c-5.428-15.51,2.87-32.72,18.378-38.075l0,0    c15.51-5.428,32.72,2.87,38.075,18.378c5.428,15.51-2.87,32.72-18.378,38.075l0,0    C3283.268,866.903,3266.204,858.609,3260.849,843.101z">
+        <title>.id(ganglion_4-1)</title>
+      </path>
+      <path fill="#B2F074" d="M3181.831,679.401c-3.724-9.75,1.161-20.672,10.91-24.397    c9.75-3.724,20.673,1.161,24.397,10.91c3.724,9.75-1.161,20.673-10.91,24.397C3196.478,694.036,3185.555,689.151,3181.831,679.401    z">
+        <title>.id(ganglion_5-1)</title>
+      </path>
+      <path fill="#B2F074" d="M2159.255,1674.691c-1.831-1.983-1.78-5.034,0.203-6.916    s5.034-1.78,6.916,0.203s1.78,5.034-0.203,6.916C2164.188,1676.725,2161.086,1676.623,2159.255,1674.691z">
+        <title>.id(ganglion_8-1)</title>
+      </path>
+      <path fill="#B2F074" d="M2136.667,1684.22c-1.831-1.983-1.78-5.034,0.203-6.916    s5.034-1.78,6.916,0.203s1.78,5.034-0.203,6.916C2141.599,1686.254,2138.497,1686.153,2136.667,1684.22z">
+        <title>.id(ganglion_8-2)</title>
+      </path>
+      <path fill="#B2F074" d="M2193.681,1665.382c-1.831-1.983-1.78-5.034,0.203-6.916    s5.034-1.78,6.916,0.203s1.78,5.034-0.203,6.916C2198.614,1667.416,2195.512,1667.314,2193.681,1665.382z">
+        <title>.id(ganglion_8-3)</title>
+      </path>
+      <path fill="#B2F074" d="M1933.196,1738.926c-1.831-1.983-1.78-5.034,0.203-6.916    s5.034-1.78,6.916,0.203s1.78,5.034-0.203,6.916C1938.129,1740.96,1935.027,1740.858,1933.196,1738.926z">
+        <title>.id(ganglion_8-4)</title>
+      </path>
+      <path fill="#B2F074" d="M1890.201,440.258c-2.875-7.526,0.922-16.088,8.411-18.942l0,0    c7.488-2.889,16.006,0.927,18.845,8.454c2.875,7.526-0.922,16.088-8.411,18.942l0,0    C1901.486,451.601,1893.04,447.784,1890.201,440.258z">
+        <title>.id(ganglion_9-1)</title>
+      </path>
+      <path fill="#B2F074" d="M2091.81,441.12c-2.312-6.055,0.742-12.942,6.767-15.238l0,0    c6.024-2.324,12.876,0.746,15.16,6.801c2.313,6.055-0.742,12.942-6.766,15.238l0,0    C2100.888,450.245,2094.093,447.175,2091.81,441.12z">
+        <title>.id(ganglion_10-1)</title>
+      </path>
+      <path fill="#B2F074" d="M2156.605,908.954c-2.875-7.526,0.923-16.088,8.411-18.942l0,0    c7.488-2.889,16.006,0.927,18.845,8.454c2.875,7.526-0.922,16.088-8.411,18.942l0,0    C2167.89,920.298,2159.444,916.481,2156.605,908.954z">
+        <title>.id(ganglion_12-1)</title>
+      </path>
+      <path fill="#B2F074" d="M 2130.629 1704.026 C 2129.795 1703.154 2129.818 1701.812 2130.721 1700.984 C 2131.624 1700.156 2133.014 1700.201 2133.871 1701.073 C 2134.728 1701.945 2134.682 1703.287 2133.779 1704.115 C 2132.875 1704.921 2131.463 1704.876 2130.629 1704.026 Z">
+        <title>.id(ganglion_13-1)</title>
+      </path>
+      <path fill="#B2F074" d="M2103.425,1761.859c-0.834-0.872-0.811-2.214,0.092-3.042    s2.293-0.783,3.15,0.089s0.811,2.214-0.092,3.042C2105.672,1762.754,2104.259,1762.709,2103.425,1761.859z">
+        <title>.id(ganglion_14-1)</title>
+      </path>
+      <path fill="#B2F074" d="M1856.562,1740.899c-0.864-0.893-0.743-2.319,0.393-3.039    c0.692-0.439,1.627-0.42,2.305,0.041c1.13,0.769,1.192,2.223,0.245,3.08C1858.661,1741.724,1857.342,1741.683,1856.562,1740.899z">
+        <title>.id(ganglion_15-1)</title>
+      </path>
+      <path fill="#B2F074" d="M2119.521,1724.552c-0.509-0.514-0.495-1.305,0.056-1.793    c0.551-0.488,1.4-0.461,1.923,0.052c0.523,0.514,0.495,1.305-0.056,1.793C2120.892,1725.08,2120.03,1725.053,2119.521,1724.552z">
+        <title>.id(ganglion_16-1)</title>
+      </path>
+      <path fill="#B2F074" d="M2183.58,1730.756c-0.44-0.434-0.428-1.103,0.049-1.515    s1.21-0.39,1.662,0.044c0.452,0.434,0.428,1.103-0.048,1.515C2184.765,1731.201,2184.02,1731.179,2183.58,1730.756z">
+        <title>.id(ganglion_17-1)</title>
+      </path>
+      <path fill="#B2F074" d="M2223.83,1730.964c-0.251-0.251-0.244-0.637,0.028-0.876    s0.69-0.225,0.948,0.025c0.258,0.251,0.244,0.637-0.028,0.875C2224.507,1731.221,2224.082,1731.209,2223.83,1730.964z">
+        <title>.id(ganglion_18-1)</title>
+      </path>
+      <path fill="#B2F074" d="M2635.06,1117.151c-5.428-15.51,2.87-32.72,18.378-38.075l0,0    c15.51-5.428,32.72,2.87,38.075,18.378c5.428,15.51-2.87,32.72-18.378,38.075l0,0    C2657.479,1140.953,2640.415,1132.659,2635.06,1117.151z">
+        <title>.id(ganglion_19-1)</title>
       </path>
     </g>
     <g id="nodes" style="">
@@ -14662,20 +14662,20 @@
       <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M1886.865,1004.879    c-1.629-0.982-6.485-3.994-3.439-11.372c3.046-7.375,14.515-8.398,18.455,0.328c3.94,8.729-2.276,10.657-2.387,10.808">
         <title>.id(cardiac_vagus_6)</title>
       </path>
+      <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 3303.711 973.652 C 3299.901 972.462 3288.519 968.738 3293.064 952.727 C 3297.609 936.717 3322.218 929.391 3333.208 944.851 C 3344.198 960.311 3331.248 967.002 3331.051 967.352">
+        <title>.id(keast_1-1)</title>
+      </path>
       <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M3358.131,803.644    c-2.854-1.592-11.362-6.487-6.37-19.479c4.989-12.992,24.783-15.544,31.921-0.68c7.137,14.864-3.539,18.63-3.723,18.901">
         <title>.id(keast_2-1)</title>
       </path>
       <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M3322.287,716.473    c-2.043-2.6-8.087-10.464,0.864-17.49s27.756,1.039,29.159,15.53c1.403,14.487-9.553,11.89-9.814,11.997">
         <title>.id(keast_4-1)</title>
       </path>
-      <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M3136.586,622.69    c-3.04,1.147-12.17,4.479-15.048-7.115c-2.877-11.591,11.135-27.809,24.379-24.066s6.928,13.939,6.925,14.242">
-        <title>.id(keast_7-1)</title>
-      </path>
-      <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M3217.314,727.988    c-2.614,0.533-10.461,2.03-11.309-8.562c-0.848-10.595,12.622-22.616,22.901-17.286c10.28,5.33,3.836,13.281,3.793,13.543">
+      <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 3217.314 727.988 C 3214.7 728.521 3206.853 730.018 3206.005 719.426 C 3205.157 708.831 3218.627 696.81 3228.906 702.14 C 3239.186 707.47 3232.742 715.421 3232.699 715.683">
         <title>.id(keast_5-1)</title>
       </path>
-      <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M3303.711,973.652    c-3.81-1.19-15.192-4.914-10.647-20.925c4.545-16.01,29.154-23.336,40.144-7.876s-1.96,22.151-2.157,22.501">
-        <title>.id(keast_1-1)</title>
+      <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M3136.586,622.69    c-3.04,1.147-12.17,4.479-15.048-7.115c-2.877-11.591,11.135-27.809,24.379-24.066s6.928,13.939,6.925,14.242">
+        <title>.id(keast_7-1)</title>
       </path>
       <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M1816.827,764.235    c-2.01-1.344-7.998-5.465-4.214-15.468c3.782-10.003,17.952-11.331,22.793,0.55c4.84,11.881-2.843,14.465-2.979,14.671">
         <title>.id(bolser_101)</title>
