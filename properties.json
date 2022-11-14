@@ -1526,9 +1526,10 @@
             "models": "ILX:0739297",
             "name": "sixth lumbar sympathetic ganglion"
         },
-        "S46_S1": {
+        "S66_S1": {
             "models": "ILX:0789109",
-            "name": "First sacral ganglion"
+            "name": "First sacral ganglion",
+            "comment": "Id should be S46_S1"
         },
         "S46_S2": {
             "models": "ILX:0789655",
@@ -1924,20 +1925,20 @@
         "S51_S3": {
             "class": "spinal_51"
         },
-        "S51_L1": {
-            "class": "spinal_51"
+        "S52_L1": {
+            "class": "spinal_52"
         },
-        "S51_L2": {
-            "class": "spinal_51"
+        "S52_L2": {
+            "class": "spinal_52"
         },
-        "S51_T11": {
-            "class": "spinal_51"
+        "S52_T11": {
+            "class": "spinal_52"
         },
-        "S51_T12": {
-            "class": "spinal_51"
+        "S52_T12": {
+            "class": "spinal_52"
         },
-        "S51_T13": {
-            "class": "spinal_51"
+        "S52_T13": {
+            "class": "spinal_52"
         },
         "ganglion_6-1": {
             "class": "ganglion_6"
@@ -4495,7 +4496,6 @@
                 },
                 {
                     "id": "n_16",
-                    "models": "ILX:0786059",
                     "connects": [
                         "point_14",
                         "cardio_36-1"
@@ -4865,7 +4865,7 @@
                     "models": "ILX:0793070",
                     "connects": [
                         "point_28",
-                        "respiratory_11-1"
+                        "respiratory_11-2"
                     ],
                     "contained-in": [
                         "recurrent_laryngeal_6"
@@ -4943,9 +4943,6 @@
                     "connects": [
                         "point_34",
                         "digestive_9-1"
-                    ],
-                    "contained-in": [
-                        "vagus_7"
                     ]
                 },
                 {
@@ -4972,7 +4969,6 @@
                 },
                 {
                     "id": "n_59",
-                    "models": "ILX:0776616",
                     "connects": [
                         "ganglion_3-1",
                         "plexus_1-1"
@@ -5416,7 +5412,7 @@
                 {
                     "id": "S1_gray_ramus-spinal_n",
                     "connects": [
-                        "S46_S1",
+                        "S66_S1",
                         "S1_spinal"
                     ],
                     "contained-in": [
@@ -5950,7 +5946,7 @@
                     "id": "S1_paravertebral_ganglion",
                     "connects": [
                         "S1_spinal",
-                        "S46_S1"
+                        "S66_S1"
                     ],
                     "contained-in": [
                         "S48_S1"
@@ -6118,13 +6114,13 @@
                     "models": "ILX:0777093",
                     "connects": [
                         "S46_L6",
-                        "S46_S1"
+                        "S66_S1"
                     ]
                 },
                 {
                     "id": "sympathetic_trunk_S1-S2",
                     "connects": [
-                        "S46_S1",
+                        "S66_S1",
                         "S46_S2"
                     ]
                 },
