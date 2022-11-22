@@ -1526,9 +1526,10 @@
             "models": "ILX:0739297",
             "name": "sixth lumbar sympathetic ganglion"
         },
-        "S46_S1": {
+        "S66_S1": {
             "models": "ILX:0789109",
-            "name": "First sacral ganglion"
+            "name": "First sacral ganglion",
+            "comment": "Id should be S46_S1"
         },
         "S46_S2": {
             "models": "ILX:0789655",
@@ -1925,19 +1926,19 @@
             "class": "spinal_51"
         },
         "S52_L1": {
-            "class": "spinal_51"
+            "class": "spinal_52"
         },
         "S52_L2": {
-            "class": "spinal_51"
+            "class": "spinal_52"
         },
         "S52_T11": {
-            "class": "spinal_51"
+            "class": "spinal_52"
         },
         "S52_T12": {
-            "class": "spinal_51"
+            "class": "spinal_52"
         },
         "S52_T13": {
-            "class": "spinal_51"
+            "class": "spinal_52"
         },
         "ganglion_6-1": {
             "class": "ganglion_6"
@@ -2207,9 +2208,6 @@
             "class": "brain_7"
         },
         "brain_8-1": {
-            "class": "brain_8"
-        },
-        "brain_8-2": {
             "class": "brain_8"
         },
         "cardio_10-1": {
@@ -5260,7 +5258,7 @@
                 {
                     "id": "S1_gray_ramus-spinal_n",
                     "connects": [
-                        "S46_S1",
+                        "S66_S1",
                         "S1_spinal"
                     ],
                     "contained-in": [
@@ -5794,7 +5792,7 @@
                     "id": "S1_paravertebral_ganglion",
                     "connects": [
                         "S1_spinal",
-                        "S46_S1"
+                        "S66_S1"
                     ],
                     "contained-in": [
                         "S48_S1"
@@ -5962,13 +5960,13 @@
                     "models": "ILX:0777093",
                     "connects": [
                         "S46_L6",
-                        "S46_S1"
+                        "S66_S1"
                     ]
                 },
                 {
                     "id": "sympathetic_trunk_S1-S2",
                     "connects": [
-                        "S46_S1",
+                        "S66_S1",
                         "S46_S2"
                     ]
                 },
