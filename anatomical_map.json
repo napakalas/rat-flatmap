@@ -1291,6 +1291,10 @@
         "term": "ILX:0793082",
         "name": "Celiac Ganglion-Superior Mesenteric Ganglion Complex"
     },
+    "ganglion_20": {
+        "term": "ILX:0793550",
+        "name": "Mediastinal Ganglion"
+    },
     "lung_2": {
         "term": "UBERON:0003715",
         "name": "splanchnic nerve"
