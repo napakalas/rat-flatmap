@@ -312,11 +312,11 @@
         "name": "Bronchus"
     },
     "respiratory_26": {
-        "term": "FMA:67480",
+        "term": "ILX:0793764",
         "name": "Wall of Bronchus"
     },
     "respiratory_27": {
-        "term": "FMA:74655",
+        "term": "ILX:0793765",
         "name": "Wall of Bronchiole"
     },
     "respiratory_28": {
@@ -344,8 +344,8 @@
         "name": "colon"
     },
     "digestive_5": {
-        "term": "UBERON:0002108",
-        "name": "small intestine"
+        "term": "UBERON:0000160",
+        "name": "intestine"
     },
     "digestive_6": {
         "term": "UBERON:0001831",
