@@ -2023,9 +2023,6 @@
         "bolser_14-1": {
             "class": "bolser_14"
         },
-        "bolser_22-1": {
-            "class": "bolser_22"
-        },
         "bolser_12-1": {
             "class": "bolser_12"
         },
@@ -2608,6 +2605,9 @@
         },
         "digestive_78-1": {
             "class": "digestive_78"
+        },
+        "digestive_79-1": {
+            "class": "digestive_79"
         },
         "digestive_8-1": {
             "class": "digestive_8"
