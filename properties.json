@@ -1526,10 +1526,9 @@
             "models": "ILX:0739297",
             "name": "sixth lumbar sympathetic ganglion"
         },
-        "S66_S1": {
+        "S46_S1": {
             "models": "ILX:0789109",
-            "name": "First sacral ganglion",
-            "comment": "Id should be S46_S1"
+            "name": "First sacral ganglion"
         },
         "S46_S2": {
             "models": "ILX:0789655",
@@ -1981,6 +1980,9 @@
         },
         "ganglion_19-1": {
             "class": "ganglion_19"
+        },
+        "ganglion_20-1": {
+            "class": "ganglion_20"
         },
         "body_1-1": {
             "class": "body_1"
@@ -4484,7 +4486,7 @@
                     "models": "UBERON:0011326",
                     "connects": [
                         "point_16",
-                        "point-17",
+                        "point_17",
                         "point_18"
                     ]
                 },
@@ -5249,7 +5251,7 @@
                 {
                     "id": "S1_gray_ramus-spinal_n",
                     "connects": [
-                        "S66_S1",
+                        "S46_S1",
                         "S1_spinal"
                     ],
                     "contained-in": [
@@ -5783,7 +5785,7 @@
                     "id": "S1_paravertebral_ganglion",
                     "connects": [
                         "S1_spinal",
-                        "S66_S1"
+                        "S46_S1"
                     ],
                     "contained-in": [
                         "S48_S1"
@@ -5951,13 +5953,13 @@
                     "models": "ILX:0777093",
                     "connects": [
                         "S46_L6",
-                        "S66_S1"
+                        "S46_S1"
                     ]
                 },
                 {
                     "id": "sympathetic_trunk_S1-S2",
                     "connects": [
-                        "S66_S1",
+                        "S46_S1",
                         "S46_S2"
                     ]
                 },
