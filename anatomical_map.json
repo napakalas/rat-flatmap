@@ -615,6 +615,10 @@
         "term": "ILX:0793658",
         "name": "Proximal Stomach"
     },
+    "digestive_79": {
+        "term": "UBERON:0013473",
+        "name": "Lower Esophagus"
+    },
     "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
@@ -1170,10 +1174,6 @@
     "bolser_5": {
         "term": "UBERON:0001649",
         "name": "glossopharyngeal nerve"
-    },
-    "bolser_22": {
-        "term": "UBERON:0009009",
-        "name": "carotid sinus nerve"
     },
     "bolser_8": {
         "term": "UBERON:0001650",
