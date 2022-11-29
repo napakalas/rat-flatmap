@@ -4397,11 +4397,9 @@
                     "models": "FMA:6232",
                     "connects": [
                         "ganglion_2-1",
-                        "point_10"
-                    ],
-                    "contained-in": [
                         "point_6",
-                        "point_8"
+                        "point_8",
+                        "point_10"
                     ]
                 },
                 {
@@ -4449,10 +4447,8 @@
                     "models": "UBERON:0000929",
                     "connects": [
                         "point_11",
+                        "point_12",
                         "point_13"
-                    ],
-                    "contained-in": [
-                        "point_12"
                     ]
                 },
                 {
@@ -4476,10 +4472,8 @@
                     "models": "ILX:0786059",
                     "connects": [
                         "point_14",
+                        "point_15",
                         "cardio_36-1"
-                    ],
-                    "contained-in": [
-                        "point_15"
                     ]
                 },
                 {
@@ -4487,10 +4481,8 @@
                     "models": "UBERON:0011326",
                     "connects": [
                         "point_16",
+                        "point-17",
                         "point_18"
-                    ],
-                    "contained-in": [
-                        "point_17"
                     ]
                 },
                 {
@@ -4594,10 +4586,8 @@
                     "models": "ILX:0786680",
                     "connects": [
                         "point_22",
+                        "point_23",
                         "point_24"
-                    ],
-                    "contained-in": [
-                        "point_23"
                     ]
                 },
                 {
@@ -4645,10 +4635,8 @@
                     "models": "UBERON:0003716",
                     "connects": [
                         "point_26",
+                        "point_27",
                         "point_28"
-                    ],
-                    "contained-in": [
-                        "point_27"
                     ]
                 },
                 {
@@ -6465,7 +6453,7 @@
                 },
                 {
                     "id": "bolser_13",
-                    "models": "ILX:0738313",
+                    "models": "ILX:0738373",
                     "connects": [
                         "ganglion_12-1",
                         "point_42"
@@ -6570,11 +6558,9 @@
                     "models": "UBERON:0018681",
                     "connects": [
                         "splanchnic_n_start-9",
-                        "splanchnic_n_start-12"
-                    ],
-                    "contained-in": [
                         "splanchnic_n_start-10",
-                        "splanchnic_n_start-11"
+                        "splanchnic_n_start-11",
+                        "splanchnic_n_start-12"
                     ]
                 },
                 {
