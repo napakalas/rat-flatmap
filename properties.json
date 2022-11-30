@@ -5173,7 +5173,6 @@
                 },
                 {
                     "id": "C5_ventral_root",
-                    "models": "ILX:0785971",
                     "connects": [
                         "C5_spinal",
                         "spinal_5-1/C5_ventral_root_end"
