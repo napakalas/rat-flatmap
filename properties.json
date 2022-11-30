@@ -2585,7 +2585,13 @@
         "digestive_71-1": {
             "class": "digestive_71"
         },
+        "digestive_71-2": {
+            "class": "digestive_71"
+        },
         "digestive_72-1": {
+            "class": "digestive_72"
+        },
+        "digestive_72-2": {
             "class": "digestive_72"
         },
         "digestive_73-1": {
@@ -3926,6 +3932,9 @@
         "plexus_11-1": {
             "class": "plexus_11"
         },
+        "plexus_12-1": {
+            "class": "plexus_12"
+        },
         "label_1-1": {
             "class": "label_1"
         },
@@ -4952,6 +4961,16 @@
                     ]
                 },
                 {
+                    "id": "n_77",
+                    "connects": [
+                        "ganglion_19-1",
+                        "splenic_branching_point"
+                    ],
+                    "contained-in": [
+                        "plexus_12-1"
+                    ]
+                },
+                {
                     "id": "C3_dorsal_root",
                     "connects": [
                         "C3_spinal",
@@ -5154,6 +5173,7 @@
                 },
                 {
                     "id": "C5_ventral_root",
+                    "models": "ILX:0785971",
                     "connects": [
                         "C5_spinal",
                         "spinal_5-1/C5_ventral_root_end"
@@ -5793,7 +5813,7 @@
                 },
                 {
                     "id": "ICG-T1_sympathetic_cord",
-                    "models": "ILX:0738291",
+                    "models": "ILX:0793233",
                     "connects": [
                         "ganglion_10-1",
                         "S46_T1"
@@ -5809,7 +5829,7 @@
                 },
                 {
                     "id": "MCG-ICG_sympathetic_cord",
-                    "models": "ILX:0738290",
+                    "models": "ILX:0793234",
                     "connects": [
                         "ganglion_9-1",
                         "ganglion_10-1"
@@ -5817,6 +5837,7 @@
                 },
                 {
                     "id": "sympathetic_trunk_T1-T2",
+                    "models": "ILX:0777094",
                     "connects": [
                         "S46_T1",
                         "S46_T2"
@@ -5824,6 +5845,7 @@
                 },
                 {
                     "id": "sympathetic_trunk_T2-T3",
+                    "models": "ILX:0777095",
                     "connects": [
                         "S46_T2",
                         "S46_T3"
@@ -5831,6 +5853,7 @@
                 },
                 {
                     "id": "sympathetic_trunk_T3-T4",
+                    "models": "ILX:0777096",
                     "connects": [
                         "S46_T3",
                         "S46_T4"
@@ -5838,6 +5861,7 @@
                 },
                 {
                     "id": "sympathetic_trunk_T4-T5",
+                    "models": "ILX:0777097",
                     "connects": [
                         "S46_T4",
                         "S46_T5"
@@ -5845,6 +5869,7 @@
                 },
                 {
                     "id": "sympathetic_trunk_T5-T6",
+                    "models": "ILX:0777098",
                     "connects": [
                         "S46_T5",
                         "S46_T6"
