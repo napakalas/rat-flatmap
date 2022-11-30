@@ -1343,6 +1343,10 @@
         "term": "ILX:0793660",
         "name": "Myenteric Nerve Plexus of Lower Esophagus"
     },
+    "plexus_12": {
+        "term": "ILX:0793563",
+        "name": "Splenic Nerve Plexus"
+    },
     "label_4": {
         "term": "UBERON:0002364",
         "name": "tympanic membrane"
