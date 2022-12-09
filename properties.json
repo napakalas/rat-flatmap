@@ -4368,34 +4368,6 @@
             "id": "neural",
             "centrelines": [
                 {
-                    "id": "n_1",
-                    "connects": [
-                        "brain_44-1",
-                        "point_1"
-                    ]
-                },
-                {
-                    "id": "n_2",
-                    "connects": [
-                        "brain_34-1",
-                        "point_1"
-                    ]
-                },
-                {
-                    "id": "n_3",
-                    "connects": [
-                        "brain_12-1",
-                        "point_1"
-                    ]
-                },
-                {
-                    "id": "n_4",
-                    "connects": [
-                        "brain_33-1",
-                        "point_1"
-                    ]
-                },
-                {
                     "id": "n_6",
                     "models": "FMA:6231",
                     "connects": [
@@ -5993,13 +5965,6 @@
                     ]
                 },
                 {
-                    "id": "pons_brngtn_cns",
-                    "connects": [
-                        "brain_26-1",
-                        "brain_13-1"
-                    ]
-                },
-                {
                     "id": "pons_medulla_cns",
                     "connects": [
                         "brain_26-1",
@@ -6517,31 +6482,10 @@
                     ]
                 },
                 {
-                    "id": "bolser_27",
-                    "connects": [
-                        "point_1",
-                        "brain_48-1"
-                    ]
-                },
-                {
-                    "id": "bolser_29",
-                    "connects": [
-                        "point_1",
-                        "brain_11-1"
-                    ]
-                },
-                {
                     "id": "bolser_30",
                     "connects": [
                         "S46_T1",
                         "point_46"
-                    ]
-                },
-                {
-                    "id": "bolser_31",
-                    "connects": [
-                        "brain_27-1",
-                        "point_1"
                     ]
                 },
                 {

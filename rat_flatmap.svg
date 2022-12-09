@@ -13478,18 +13478,6 @@
     </g>
     <g id="centrelines">
       <title>Centerlines</title>
-      <path fill="none" stroke="#AFA202" d="M1352.929,388.131    c-6.427-31.627-3.221-52.499,6.91-72.93">
-        <title>.centreline id(n_1)</title>
-      </path>
-      <path fill="none" stroke="#AFA202" d="M1347.3,389.626    c-12.566-32.471-14.014-39.247-16.95-73.517">
-        <title>.centreline id(n_2)</title>
-      </path>
-      <path fill="none" stroke="#AFA202" d="M1344.15,391.056    c-12.013-25.074-17.612-37.287-38.784-53.845">
-        <title>.centreline id(n_3)</title>
-      </path>
-      <path fill="none" stroke="#AFA202" d="M1340.052,390.653    c-11.489-24.118-19.666-24.671-47.099-23.059">
-        <title>.centreline id(n_4)</title>
-      </path>
       <path fill="none" stroke="#AFA202" d="M1408.636,625.606    c-17.4,30.4-123.574,116.426-256.34,120.255">
         <title>.centreline id(n_6)</title>
       </path>
@@ -14171,20 +14159,8 @@
       <path fill="none" stroke="#AFA202" d="M1459.67,507.061    c-18.723-37.888-62.298-82.504-104.51-112.733">
         <title>.centreline id(bolser_26)</title>
       </path>
-      <path fill="none" stroke="#AFA202" d="M1384.86,334.777    c-18.638,4.183-33.59,20.991-29.106,51.761">
-        <title>.centreline id(bolser_27)</title>
-      </path>
       <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="M2156.988,415.599    c3.478,47.872-38.06,63.737-34.511,118.766c1.866,28.929,2.213,32.886,2.553,67.234">
         <title>.centreline id(bolser_30)</title>
-      </path>
-      <path fill="none" stroke="#AFA202" d="M1405.371,360.982    c-14.172-7.341-50.161-3.671-47.399,24.729">
-        <title>.centreline id(bolser_29)</title>
-      </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="M1673.967,545.599    c47.404,46.383,67.618,95.746,60.852,188.172">
-        <title>.centreline id(bolser_32)</title>
-      </path>
-      <path fill="none" stroke="#AFA202" d="M1350.722,389.559    c-11.321-34.003-5.181-73.45,2.186-91.405">
-        <title>.centreline id(bolser_31)</title>
       </path>
       <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M2713.286,588.918c50.319,0.419,101.319-0.581,151.319-1.581c18,0,26.638,0.209,44.596,0.548">
         <title>.centreline id(splanchnic_n-3)</title>
@@ -14200,9 +14176,6 @@
       </path>
       <path fill="none" stroke="#AFA202" d="M2176.35,909.672    c32.807,114.565,7.287,518.297,0,612.565">
         <title>.centreline id(PH_GN)</title>
-      </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="    M1229.857,299.169c-24.805,0.249-26.273,6.089-40.292,18.014c-0.907,0.771-30.705,27.888-31.542,28.715">
-        <title>.centreline id(pons_brngtn_cns)</title>
       </path>
       <line fill="none" stroke="#AFA202" stroke-miterlimit="10" x1="1229.857" y1="299.169" x2="1352.908" y2="298.154">
         <title>.centreline id(pons_medulla_cns)</title>
