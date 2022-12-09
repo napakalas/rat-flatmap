@@ -1874,49 +1874,90 @@
             "class": "spinal_51"
         },
         "ganglion_6-1": {
-            "class": "ganglion_6"
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_7-1": {
-            "class": "ganglion_7"
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_8-1": {
-            "class": "ganglion_8"
+            "models": "UBERON:0001808",
+            "name": "parasympathetic ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_9-1": {
-            "class": "ganglion_9"
+            "models": "UBERON:0001990",
+            "name": "middle cervical ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_10-1": {
-            "class": "ganglion_10"
+            "models": "UBERON:0002440",
+            "name": "inferior cervical ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_11-1": {
-            "class": "ganglion_11"
+            "models": "UBERON:0002441",
+            "name": "cervicothoracic ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_12-1": {
-            "class": "ganglion_12"
+            "models": "UBERON:0005360",
+            "name": "Inferior Glossopharyngeal IX Ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_13-1": {
-            "class": "ganglion_13"
+            "models": "ILX:0793555",
+            "name": "Atrial Intrinsic Cardiac Ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_14-1": {
-            "class": "ganglion_14"
+            "models": "ILX:0793556",
+            "name": "Ventricular Intrinsic Cardiac Ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_15-1": {
-            "class": "ganglion_15"
+            "models": "ILX:0793570",
+            "name": "Trachea Parasympathetic Ganglia",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_16-1": {
-            "class": "ganglion_16"
+            "models": "ILX:0793571",
+            "name": "Bronchus Parasympathetic Ganglia",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_17-1": {
-            "class": "ganglion_17"
+            "models": "ILX:0793572",
+            "name": "Bronchiole Parasympathetic Ganglia",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_18-1": {
-            "class": "ganglion_18"
+            "models": "ILX:0793573",
+            "name": "Terminal Bronchiole Parasympathetic Ganglia",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_19-1": {
-            "class": "ganglion_19"
+            "models": "ILX:0793082",
+            "name": "Celiac Ganglion-Superior Mesenteric Ganglion Complex",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_20-1": {
-            "class": "ganglion_20"
+            "models": "ILX:0793550",
+            "name": "Mediastinal Ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "body_1-1": {
             "class": "body_1"
@@ -2602,7 +2643,10 @@
             "models": "UBERON:0011390"
         },
         "ganglion_4-1": {
-            "class": "ganglion_4"
+            "models": "UBERON:0016508",
+            "name": "pelvic ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "keast_4-1": {
             "class": "keast_4",
@@ -2615,7 +2659,10 @@
             "models": "UBERON:0005303"
         },
         "ganglion_5-1": {
-            "class": "ganglion_5"
+            "models": "UBERON:0005453",
+            "name": "inferior mesenteric ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "keast_7-1": {
             "class": "keast_7",
@@ -3822,52 +3869,100 @@
             "class": "urinary_17"
         },
         "ganglion_1-1": {
-            "class": "ganglion_1"
+            "models": "UBERON:0005364",
+            "name": "superior vagus X ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_2-1": {
-            "class": "ganglion_2"
+            "models": "UBERON:0005363",
+            "name": "inferior vagus X ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_3-1": {
-            "class": "ganglion_3"
+            "models": "UBERON:0001989",
+            "name": "superior cervical ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_1-1": {
-            "class": "plexus_1"
+            "models": "ILX:0793621",
+            "name": "external carotid nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_2-1": {
-            "class": "plexus_2"
+            "models": "UBERON:0011325",
+            "name": "pharyngeal nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_3-1": {
-            "class": "plexus_3"
+            "models": "UBERON:0002008",
+            "name": "cardiac nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_4-1": {
-            "class": "plexus_4"
+            "models": "UBERON:0002009",
+            "name": "pulmonary nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_5-1": {
-            "class": "plexus_5"
+            "models": "FMA:6225",
+            "name": "esophageal nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_6-1": {
-            "class": "plexus_6"
+            "models": "ILX:0770806",
+            "name": "left gastric nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_7-1": {
-            "class": "plexus_7"
+            "models": "UBERON:0002024",
+            "name": "internal carotid nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_8-1": {
-            "class": "plexus_8"
+            "models": "ILX:0793657",
+            "name": "Myenteric Nerve Plexus of Descending Colon",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_9-1": {
-            "class": "plexus_9"
+            "models": "ILX:0793659",
+            "name": "Submucous Nerve Plexus of Descending Colon",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_10-1": {
-            "class": "plexus_10"
+            "models": "ILX:0793656",
+            "name": "Myenteric Nerve Plexus of Stomach",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_10-2": {
-            "class": "plexus_10"
+            "models": "ILX:0793656",
+            "name": "Myenteric Nerve Plexus of Stomach",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_11-1": {
-            "class": "plexus_11"
+            "models": "ILX:0793660",
+            "name": "Myenteric Nerve Plexus of Lower Esophagus",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_12-1": {
-            "class": "plexus_12"
+            "models": "ILX:0793563",
+            "name": "Splenic Nerve Plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "label_1-1": {
             "class": "label_1"
