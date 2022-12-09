@@ -4366,6 +4366,7 @@
     "networks": [
         {
             "id": "neural",
+            "type": "nerve",
             "centrelines": [
                 {
                     "id": "n_6",
