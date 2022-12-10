@@ -4887,6 +4887,9 @@
                     "connects": [
                         "brain_13-1",
                         "brain_14-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1"
                     ]
                 },
                 {
@@ -4894,6 +4897,10 @@
                     "connects": [
                         "brain_13-1",
                         "brain_19-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1",
+                        "brain_29-1"
                     ]
                 },
                 {
@@ -4901,6 +4908,10 @@
                     "connects": [
                         "brain_13-1",
                         "brain_17-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1",
+                        "brain_29-1"
                     ]
                 },
                 {
@@ -4908,6 +4919,10 @@
                     "connects": [
                         "brain_13-1",
                         "brain_20-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1",
+                        "brain_29-1"
                     ]
                 },
                 {
@@ -4915,6 +4930,10 @@
                     "connects": [
                         "brain_13-1",
                         "brain_15-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1",
+                        "brain_29-1"
                     ]
                 },
                 {
@@ -4922,6 +4941,10 @@
                     "connects": [
                         "brain_13-1",
                         "brain_16-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1",
+                        "brain_29-1"
                     ]
                 },
                 {
@@ -4929,6 +4952,10 @@
                     "connects": [
                         "brain_13-1",
                         "brain_18-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1",
+                        "brain_29-1"
                     ]
                 },
                 {
