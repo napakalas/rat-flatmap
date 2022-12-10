@@ -6524,13 +6524,6 @@
                     ]
                 },
                 {
-                    "id": "bolser_32",
-                    "connects": [
-                        "plexus_1-1",
-                        "point_16"
-                    ]
-                },
-                {
                     "id": "PH_GN",
                     "models": "ILX:0789339",
                     "connects": [
