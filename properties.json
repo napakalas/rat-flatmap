@@ -9,9 +9,6 @@
         "ganglion_8": {
             "label": "mediastinal ganglion"
         },
-        "label_1": {
-            "label": "dura mater in the posterior cranial fossa"
-        },
         "label_2": {
             "label": "posterior wall of external acoustic meatus"
         },
@@ -3965,7 +3962,8 @@
             "class": "auto-hide"
         },
         "label_1-1": {
-            "class": "label_1"
+            "label": "dura mater in the posterior cranial fossa",
+            "class": "auto-hide"
         },
         "label_2-1": {
             "class": "label_2"
