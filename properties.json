@@ -6461,7 +6461,7 @@
                     "id": "bolser_11",
                     "connects": [
                         "brain_12-1",
-                        "point_44"
+                        "point_49"
                     ]
                 },
                 {
@@ -6498,7 +6498,7 @@
                     "id": "bolser_25",
                     "models": "UBERON:0001649",
                     "connects": [
-                        "point_44",
+                        "point_49",
                         "ganglion_12-1"
                     ]
                 },
@@ -6514,6 +6514,13 @@
                     "connects": [
                         "S46_T1",
                         "point_46"
+                    ]
+                },
+                {
+                    "id": "bolser_31",
+                    "connects": [
+                        "point_44",
+                        "point_49"
                     ]
                 },
                 {

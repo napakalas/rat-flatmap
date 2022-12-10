@@ -13103,7 +13103,7 @@
       <polygon fill="#54BCEA" points="    2157.934,1515.835 2156.734,1531.235 2143.134,1523.435   ">
         <title>.node id(point_42)</title>
       </polygon>
-      <polygon fill="#54BCEA" points="2160.643,726.118 2159.543,741.518 2145.843,733.718       ">
+      <polygon fill="#54BCEA" points="2174.643 726.118 2173.543 741.518 2159.843 733.718">
         <title>.node id(point_44)</title>
       </polygon>
       <polygon fill="#54BCEA" points="2181.516,1513.963 2180.315,1529.363 2166.716,1521.563       ">
@@ -13120,6 +13120,9 @@
       </polygon>
       <polygon fill="#54BCEA" points="2180.435,1602.147 2193.951,1594.936 2193.44,1610.246       ">
         <title>.node id(point_48)</title>
+      </polygon>
+      <polygon fill="#54BCEA" points="2147.055 679.507 2145.955 694.907 2132.255 687.107">
+        <title>.node id(point_49)</title>
       </polygon>
       <polygon fill="#54BCEA" points="    1797.455,1008.95 1796.355,1024.35 1782.655,1016.55   ">
         <title>.node id(external_laryngeal_n_branching_point)</title>
@@ -13652,6 +13655,9 @@
     </g>
     <g id="centrelines">
       <title>Centerlines</title>
+      <path fill="none" stroke="#AFA202" d="M 2145.043 686.5 C 2158.699 705.352 2165.465 715.585 2169.423 730.838">
+        <title>.centreline id(bolser_31)</title>
+      </path>
       <path fill="none" stroke="#AFA202" d="M 1394.779 629.781 C 1383.375 661.353 1288.345 731.987 1155.579 735.816">
         <title>.centreline id(n_6)</title>
       </path>
@@ -14312,7 +14318,7 @@
       <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="M1386.017,921.062    c-2.823,148.235,14.411,720.583,310.882,777.054">
         <title>.centreline id(bolser_10)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="M 1357.384 392.174 C 1423.232 447.271 1522.852 521.068 1613.027 578.747 C 1663.886 611.278 1824.359 636.822 1957.203 639.125 C 2053.372 640.792 2129.796 653.852 2141.929 685.936">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="M 1357.384 392.174 C 1423.232 447.271 1522.852 521.068 1613.027 578.747 C 1663.886 611.278 1824.359 636.822 1957.203 639.125 C 2053.372 640.792 2123.325 653.083 2141.929 685.936">
         <title>.centreline id(bolser_11)</title>
       </path>
       <path fill="none" stroke="#AFA202" d="M2168.094,908.356    c21.029,115.994-1.054,542.124-8.34,636.392">
@@ -14327,7 +14333,7 @@
       <path fill="none" stroke="#AFA202" d="M1795.18,1015.701    c86.463,264.772,64.075,430.723-75.986,686.066">
         <title>.centreline id(bolser_15)</title>
       </path>
-      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="M 2142.789 689.169 C 2155.27 735.199 2166.903 852.152 2170.233 904.071">
+      <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="M 2142.789 689.169 C 2156.319 743.593 2166.903 852.152 2170.233 904.071">
         <title>.centreline id(bolser_25)</title>
       </path>
       <path fill="none" stroke="#AFA202" d="M 1466.014 519.552 C 1435.912 489.745 1382.921 440.697 1355.16 394.328">
@@ -14462,16 +14468,16 @@
       <path fill="none" stroke="#AFA202" d="M1882.818,736.918    c47.376-0.911,95.284,0.787,142.659-1.549">
         <title>.centreline id(vagus_n-7)</title>
       </path>
-      <path fill="none" stroke="#AFA202" d="M2027.328,735.726    c42.824-0.745,85.648-1.49,128.472-2.235">
+      <path fill="none" stroke="#AFA202" d="M 2027.328 735.726 C 2070.152 734.981 2125.976 734.236 2168.8 733.491">
         <title>.centreline id(vagus_n-8)</title>
       </path>
-      <path fill="none" stroke="#AFA202" d="M2157.328,733.62    c12.213-0.383,24.426-0.766,36.638-1.149">
+      <path fill="none" stroke="#AFA202" d="M 2171.328 733.62 C 2183.541 733.237 2181.754 732.854 2193.966 732.471">
         <title>.centreline id(vagus_n-9)</title>
       </path>
-      <path fill="none" stroke="#AFA202" d="M2195.907,732.471    c12.932,0.1,24.615-0.454,37.532-0.514">
+      <path fill="none" stroke="#AFA202" d="M 2203.907 732.471 C 2216.839 732.571 2228.522 732.017 2241.439 731.957">
         <title>.centreline id(vagus_n-10)</title>
       </path>
-      <path fill="none" stroke="#AFA202" d="M2235.711,731.707    c18.594-0.458,29.83-0.622,45.957-1.244">
+      <path fill="none" stroke="#AFA202" d="M 2243.711 731.707 C 2262.305 731.249 2265.541 731.085 2281.668 730.463">
         <title>.centreline id(vagus_n-11)</title>
       </path>
       <path fill="none" stroke="#AFA202" d="M2283.456,730.365    c47.66-0.936,95.319-1.872,142.979-2.808">
@@ -14624,7 +14630,7 @@
       <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M2587.77,766.87    c-2.367-1.381-9.424-5.63-5.283-16.907c4.138-11.276,20.556-13.491,26.476-0.591c5.92,12.901-2.935,16.17-3.088,16.405">
         <title>.id(vagus_10)</title>
       </path>
-      <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M1356.227,663.992    c-0.228-2.447-0.826-9.778,8.545-9.776s18.679,13.287,13.062,22.355c-5.616,9.066-11.998,2.549-12.226,2.492">
+      <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 1335.227 671.992 C 1334.999 669.545 1334.401 662.214 1343.772 662.216 C 1353.143 662.218 1362.451 675.503 1356.834 684.571 C 1351.218 693.637 1344.836 687.12 1344.608 687.063">
         <title>.id(vagus_11)</title>
       </path>
       <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M1561.45,806.723    c-1.623-1.546-6.447-6.25-2.378-13.609s16.38-5.3,19.588,5.508c3.206,10.808-3.622,11.222-3.756,11.36">
