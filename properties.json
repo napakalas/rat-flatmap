@@ -2013,9 +2013,6 @@
         "bolser_4-1": {
             "class": "bolser_4"
         },
-        "bolser_5-1": {
-            "class": "bolser_5"
-        },
         "bolser_7-1": {
             "class": "bolser_7"
         },
@@ -4315,6 +4312,12 @@
             "type": "nerve",
             "models": "ILX:0793632"
         },
+        "bolser_11": {
+            "class": "bolser_5"
+        },
+        "bolser_25": {
+            "class": "bolser_5"
+        },
         "vagus_n-1": {
             "class": "vagus_n"
         },
@@ -6499,7 +6502,6 @@
                 },
                 {
                     "id": "bolser_25",
-                    "models": "UBERON:0001649",
                     "connects": [
                         "point_49",
                         "ganglion_12-1"
