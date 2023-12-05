@@ -1471,8 +1471,8 @@
     },
     {
         "id": [
-            "UBERON:0000947",
-            []
+            "ILX:0793082",
+            ["celiac ganglion- superior mesenteric ganglion complex"]
         ],
         "name": "['aorta']",
         "aliases": [
