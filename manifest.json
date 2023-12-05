@@ -15,6 +15,5 @@
     "connectivityTerms": "connectivity_terms.json",
     "neuronConnectivity": [
         "NPO"
-    ],
-    "nodeAliases": "node_aliases.json"
+    ]
 }
