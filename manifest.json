@@ -1,5 +1,5 @@
 {
-    "id": "rat-flatmap",
+    "id": "rat-flatmap-neurondm",
     "models": "NCBITaxon:10114",
     "description": "description.json",
     "properties": "properties.json",
