@@ -1958,6 +1958,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_21-1": {
+            "models": "UBERON:0003963",
+            "name": "Otic Ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -2757,6 +2763,15 @@
         },
         "reproductive_10-2": {
             "class": "reproductive_10"
+        },
+        "reproductive_11-1": {
+            "class": "reproductive_11"
+        },
+        "reproductive_12-1": {
+            "class": "reproductive_12"
+        },
+        "reproductive_13-1": {
+            "class": "reproductive_13"
         },
         "respiratory_10-1": {
             "class": "respiratory_10"
@@ -3960,6 +3975,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_13-1": {
+            "models": "UBERON:0002013",
+            "name": "Superior hypogastric nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "label_1-1": {
             "label": "dura mater in the posterior cranial fossa",
             "class": "auto-hide"
@@ -5159,6 +5180,28 @@
                     ]
                 },
                 {
+                    "id": "C1_ventral_root",
+                    "connects": [
+                        "C1_spinal",
+                        "spinal_1-1/C1_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_C1",
+                        "S50_C1"
+                    ]
+                },
+                {
+                    "id": "C2_ventral_root",
+                    "connects": [
+                        "C2_spinal",
+                        "spinal_2-1/C2_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_C2",
+                        "S50_C2"
+                    ]
+                },
+                {
                     "id": "C3_ventral_root",
                     "connects": [
                         "C3_spinal",
@@ -5189,6 +5232,39 @@
                     "contained-in": [
                         "S43_C5",
                         "S50_C5"
+                    ]
+                },
+                {
+                    "id": "C6_ventral_root",
+                    "connects": [
+                        "C6_spinal",
+                        "spinal_6-1/C6_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_C6",
+                        "S50_C6"
+                    ]
+                },
+                {
+                    "id": "C7_ventral_root",
+                    "connects": [
+                        "C7_spinal",
+                        "spinal_7-1/C7_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_C7",
+                        "S50_C7"
+                    ]
+                },
+                {
+                    "id": "C8_ventral_root",
+                    "connects": [
+                        "C8_spinal",
+                        "spinal_8-1/C8_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_C8",
+                        "S50_C8"
                     ]
                 },
                 {
@@ -6231,6 +6307,7 @@
                     "models": "UBERON:0005303",
                     "connects": [
                         "ganglion_5-1",
+                        "plexus_13-1",
                         "ganglion_4-1"
                     ]
                 },
