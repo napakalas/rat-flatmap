@@ -659,6 +659,18 @@
         "term": "UBERON:0000998",
         "name": "seminal vesicle"
     },
+    "reproductive_11": {
+        "term": "UBERON:0000002",
+        "name": "Uterine Cervix"
+    },
+    "reproductive_12": {
+        "term": "UBERON:0001295",
+        "name": "Endometrium"
+    },
+    "reproductive_13": {
+        "term": "UBERON:0001296",
+        "name": "Myometrium"
+    },
     "muscle_1": {
         "term": "ILX:0738319",
         "name": "T1-T2 intercostal muscle"
