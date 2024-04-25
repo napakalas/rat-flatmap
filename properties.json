@@ -1964,6 +1964,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_22-1": {
+            "models": "ILX:0794733",
+            "name": "Ovarian nerve plexus sympathetic ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -2772,6 +2778,21 @@
         },
         "reproductive_13-1": {
             "class": "reproductive_13"
+        },
+        "reproductive_14-1": {
+            "class": "reproductive_14"
+        },
+        "reproductive_15-1": {
+            "class": "reproductive_15"
+        },
+        "reproductive_16-1": {
+            "class": "reproductive_16"
+        },
+        "reproductive_17-1": {
+            "class": "reproductive_17"
+        },
+        "reproductive_18-1": {
+            "class": "reproductive_18"
         },
         "respiratory_10-1": {
             "class": "respiratory_10"
@@ -3978,6 +3999,12 @@
         "plexus_13-1": {
             "models": "UBERON:0002013",
             "name": "Superior hypogastric nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_14-1": {
+            "models": "ILX:0793832",
+            "name": "Ovarian Nerve Plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
