@@ -1007,6 +1007,10 @@
         "term": "ILX:0738371",
         "name": "Rexed Lamina VII of T1"
     },
+    "spinal_69": {
+        "term": "UBERON:0006463",
+        "name": "S4 segment of sacral spinal cord"
+    },
     "brain_1": {
         "term": "UBERON:0001898",
         "name": "hypothalamus"

@@ -1321,6 +1321,9 @@
         "S44_S3": {
             "class": "spinal_44"
         },
+        "S44_S4": {
+            "class": "spinal_44"
+        },
         "S45_C1": {
             "models": "UBERON:0002838",
             "name": "first cervical dorsal root ganglion"
@@ -1804,6 +1807,9 @@
             "class": "spinal_50"
         },
         "S50_S3": {
+            "class": "spinal_50"
+        },
+        "S50_S4": {
             "class": "spinal_50"
         },
         "S50_T1": {
