@@ -671,6 +671,26 @@
         "term": "UBERON:0001296",
         "name": "Myometrium"
     },
+    "reproductive_14": {
+        "term": "UBERON:0001190",
+        "name": "Ovarian artery"
+    },
+    "reproductive_15": {
+        "term": "UBERON:0002411",
+        "name": "Clitoris"
+    },
+    "reproductive_16": {
+        "term": "UBERON:0004223",
+        "name": "Vagina smooth muscle"
+    },
+    "reproductive_17": {
+        "term": "UBERON:0008331",
+        "name": "Clitoral smooth muscle"
+    },
+    "reproductive_18": {
+        "term": "UBERON:0001344",
+        "name": "Epithelium of Vagina"
+    },
     "muscle_1": {
         "term": "ILX:0738319",
         "name": "T1-T2 intercostal muscle"
