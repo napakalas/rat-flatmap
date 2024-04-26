@@ -4356,6 +4356,10 @@
             "type": "nerve",
             "models": "ILX:0789339"
         },
+        "bolser_116": {
+            "type": "nerve",
+            "models": "UBERON:0036216"
+        },
         "splanchnic": {
             "type": "nerve",
             "models": "UBERON:0003715"
@@ -6646,6 +6650,14 @@
                     "connects": [
                         "ganglion_12-1",
                         "respiratory_28-1"
+                    ]
+                },
+                {
+                    "id": "tympanic",
+                    "models": "UBERON:0036216",
+                    "connects": [
+                        "ganglion_12-1",
+                        "point_50"
                     ]
                 },
                 {
