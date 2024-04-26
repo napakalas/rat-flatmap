@@ -4014,6 +4014,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_15-1": {
+            "models": "Tympanic plexus",
+            "name": "ILX:0793706",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "label_1-1": {
             "label": "dura mater in the posterior cranial fossa",
             "class": "auto-hide"
@@ -6657,6 +6663,14 @@
                     "models": "UBERON:0036216",
                     "connects": [
                         "ganglion_12-1",
+                        "plexus_15-1"
+                    ]
+                },
+                {
+                    "id": "less_pet",
+                    "models": "",
+                    "connects": [
+                        "plexus_15-1",
                         "point_50"
                     ]
                 },
