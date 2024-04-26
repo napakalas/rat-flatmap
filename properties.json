@@ -1321,6 +1321,9 @@
         "S44_S3": {
             "class": "spinal_44"
         },
+        "S44_S4": {
+            "class": "spinal_44"
+        },
         "S45_C1": {
             "models": "UBERON:0002838",
             "name": "first cervical dorsal root ganglion"
@@ -1806,6 +1809,9 @@
         "S50_S3": {
             "class": "spinal_50"
         },
+        "S50_S4": {
+            "class": "spinal_50"
+        },
         "S50_T1": {
             "class": "spinal_50"
         },
@@ -1955,6 +1961,18 @@
         "ganglion_20-1": {
             "models": "ILX:0793550",
             "name": "Mediastinal Ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_21-1": {
+            "models": "UBERON:0003963",
+            "name": "Otic Ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_22-1": {
+            "models": "ILX:0794733",
+            "name": "Ovarian nerve plexus sympathetic ganglion",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -2757,6 +2775,30 @@
         },
         "reproductive_10-2": {
             "class": "reproductive_10"
+        },
+        "reproductive_11-1": {
+            "class": "reproductive_11"
+        },
+        "reproductive_12-1": {
+            "class": "reproductive_12"
+        },
+        "reproductive_13-1": {
+            "class": "reproductive_13"
+        },
+        "reproductive_14-1": {
+            "class": "reproductive_14"
+        },
+        "reproductive_15-1": {
+            "class": "reproductive_15"
+        },
+        "reproductive_16-1": {
+            "class": "reproductive_16"
+        },
+        "reproductive_17-1": {
+            "class": "reproductive_17"
+        },
+        "reproductive_18-1": {
+            "class": "reproductive_18"
         },
         "respiratory_10-1": {
             "class": "respiratory_10"
@@ -3960,6 +4002,24 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_13-1": {
+            "models": "UBERON:0002013",
+            "name": "Superior hypogastric nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_14-1": {
+            "models": "ILX:0793832",
+            "name": "Ovarian Nerve Plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_15-1": {
+            "models": "Tympanic plexus",
+            "name": "ILX:0793706",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "label_1-1": {
             "label": "dura mater in the posterior cranial fossa",
             "class": "auto-hide"
@@ -4301,6 +4361,10 @@
         "bolser_115": {
             "type": "nerve",
             "models": "ILX:0789339"
+        },
+        "bolser_116": {
+            "type": "nerve",
+            "models": "UBERON:0036216"
         },
         "splanchnic": {
             "type": "nerve",
@@ -5159,6 +5223,28 @@
                     ]
                 },
                 {
+                    "id": "C1_ventral_root",
+                    "connects": [
+                        "C1_spinal",
+                        "spinal_1-1/C1_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_C1",
+                        "S50_C1"
+                    ]
+                },
+                {
+                    "id": "C2_ventral_root",
+                    "connects": [
+                        "C2_spinal",
+                        "spinal_2-1/C2_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_C2",
+                        "S50_C2"
+                    ]
+                },
+                {
                     "id": "C3_ventral_root",
                     "connects": [
                         "C3_spinal",
@@ -5189,6 +5275,39 @@
                     "contained-in": [
                         "S43_C5",
                         "S50_C5"
+                    ]
+                },
+                {
+                    "id": "C6_ventral_root",
+                    "connects": [
+                        "C6_spinal",
+                        "spinal_6-1/C6_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_C6",
+                        "S50_C6"
+                    ]
+                },
+                {
+                    "id": "C7_ventral_root",
+                    "connects": [
+                        "C7_spinal",
+                        "spinal_7-1/C7_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_C7",
+                        "S50_C7"
+                    ]
+                },
+                {
+                    "id": "C8_ventral_root",
+                    "connects": [
+                        "C8_spinal",
+                        "spinal_8-1/C8_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_C8",
+                        "S50_C8"
                     ]
                 },
                 {
@@ -6231,6 +6350,7 @@
                     "models": "UBERON:0005303",
                     "connects": [
                         "ganglion_5-1",
+                        "plexus_13-1",
                         "ganglion_4-1"
                     ]
                 },
@@ -6536,6 +6656,22 @@
                     "connects": [
                         "ganglion_12-1",
                         "respiratory_28-1"
+                    ]
+                },
+                {
+                    "id": "tympanic",
+                    "models": "UBERON:0036216",
+                    "connects": [
+                        "ganglion_12-1",
+                        "plexus_15-1"
+                    ]
+                },
+                {
+                    "id": "less_pet",
+                    "models": "ILX:0793722",
+                    "connects": [
+                        "plexus_15-1",
+                        "point_50"
                     ]
                 },
                 {

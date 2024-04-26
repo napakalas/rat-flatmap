@@ -659,6 +659,38 @@
         "term": "UBERON:0000998",
         "name": "seminal vesicle"
     },
+    "reproductive_11": {
+        "term": "UBERON:0000002",
+        "name": "Uterine Cervix"
+    },
+    "reproductive_12": {
+        "term": "UBERON:0001295",
+        "name": "Endometrium"
+    },
+    "reproductive_13": {
+        "term": "UBERON:0001296",
+        "name": "Myometrium"
+    },
+    "reproductive_14": {
+        "term": "UBERON:0001190",
+        "name": "Ovarian artery"
+    },
+    "reproductive_15": {
+        "term": "UBERON:0002411",
+        "name": "Clitoris"
+    },
+    "reproductive_16": {
+        "term": "UBERON:0004223",
+        "name": "Vagina smooth muscle"
+    },
+    "reproductive_17": {
+        "term": "UBERON:0008331",
+        "name": "Clitoral smooth muscle"
+    },
+    "reproductive_18": {
+        "term": "UBERON:0001344",
+        "name": "Epithelium of Vagina"
+    },
     "muscle_1": {
         "term": "ILX:0738319",
         "name": "T1-T2 intercostal muscle"
@@ -974,6 +1006,10 @@
     "spinal_68": {
         "term": "ILX:0738371",
         "name": "Rexed Lamina VII of T1"
+    },
+    "spinal_69": {
+        "term": "UBERON:0006463",
+        "name": "S4 segment of sacral spinal cord"
     },
     "brain_1": {
         "term": "UBERON:0001898",
