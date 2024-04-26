@@ -6668,7 +6668,7 @@
                 },
                 {
                     "id": "less_pet",
-                    "models": "",
+                    "models": "ILX:0793722",
                     "connects": [
                         "plexus_15-1",
                         "point_50"
