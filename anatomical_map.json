@@ -619,6 +619,10 @@
         "term": "UBERON:0013473",
         "name": "Lower Esophagus"
     },
+    "digestive_80": {
+        "term": "UBERON:0002384",
+        "name": "Connective tissue"
+    },
     "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
@@ -690,6 +694,14 @@
     "reproductive_18": {
         "term": "UBERON:0001344",
         "name": "Epithelium of Vagina"
+    },
+    "reproductive_19": {
+        "term": "UBERON:0009853",
+        "name": "Body of Uterus"
+    },
+    "reproductive_20": {
+        "term": "UBERON:0001981",
+        "name": "Blood vessel"
     },
     "muscle_1": {
         "term": "ILX:0738319",
