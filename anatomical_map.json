@@ -619,6 +619,10 @@
         "term": "UBERON:0013473",
         "name": "Lower Esophagus"
     },
+    "digestive_80": {
+        "term": "UBERON:0002384",
+        "name": "Connective tissue"
+    },
     "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
@@ -691,6 +695,14 @@
         "term": "UBERON:0001344",
         "name": "Epithelium of Vagina"
     },
+    "reproductive_19": {
+        "term": "UBERON:0009853",
+        "name": "Body of Uterus"
+    },
+    "reproductive_20": {
+        "term": "UBERON:0001981",
+        "name": "Blood vessel"
+    },
     "muscle_1": {
         "term": "ILX:0738319",
         "name": "T1-T2 intercostal muscle"
@@ -754,6 +766,34 @@
     "body_8": {
         "term": "UBERON:0001723",
         "name": "tongue"
+    },
+    "body_9": {
+        "term": "UBERON:0001826",
+        "name": "Nasal cavity mucosa"
+    },
+    "body_10": {
+        "term": "ILX:0738444",
+        "name": "Interscapular brown adipose tissue"
+    },
+    "eye_1": {
+        "term": "UBERON:0001817",
+        "name": "Lacrimal gland"
+    },
+    "eye_2": {
+        "term": "UBERON:0001697",
+        "name": "Orbit of Skull"
+    },
+    "eye_3": {
+        "term": "UBERON:0001769",
+        "name": "Iris"
+    },
+    "eye_4": {
+        "term": "UBERON:0001607",
+        "name": "Sphincter pupillae"
+    },
+    "eye_5": {
+        "term": "UBERON:0001605",
+        "name": "Ciliary muscle"
     },
     "circulatory_1": {
         "term": "UBERON:0001981",
@@ -1194,6 +1234,14 @@
     "brain_49": {
         "term": "UBERON:0001893",
         "name": "Telencephalon"
+    },
+    "brain_50": {
+        "term": "UBERON:0002149",
+        "name": "Superior salivatory nucleus"
+    },
+    "brain_51": {
+        "term": "UBERON:0002141",
+        "name": "Oculomotor nucleus"
     },
     "bolser_2": {
         "term": "ILX:0738309",

@@ -104,6 +104,9 @@
         "S33_S3": {
             "class": "spinal_33"
         },
+        "S33_S4": {
+            "class": "spinal_33"
+        },
         "S33_T1": {
             "class": "spinal_33"
         },
@@ -192,6 +195,9 @@
             "class": "spinal_34"
         },
         "S34_S3": {
+            "class": "spinal_34"
+        },
+        "S34_S4": {
             "class": "spinal_34"
         },
         "S34_T1": {
@@ -284,6 +290,9 @@
         "S35_S3": {
             "class": "spinal_35"
         },
+        "S35_S4": {
+            "class": "spinal_35"
+        },
         "S35_T1": {
             "class": "spinal_35"
         },
@@ -374,6 +383,9 @@
         "S36_S3": {
             "class": "spinal_36"
         },
+        "S36_S4": {
+            "class": "spinal_36"
+        },
         "S36_T1": {
             "class": "spinal_36"
         },
@@ -462,6 +474,9 @@
             "class": "spinal_37"
         },
         "S37_S3": {
+            "class": "spinal_37"
+        },
+        "S37_S4": {
             "class": "spinal_37"
         },
         "S37_T1": {
@@ -587,6 +602,9 @@
         "S39_S3": {
             "class": "spinal_39"
         },
+        "S39_S4": {
+            "class": "spinal_39"
+        },
         "S39_T1": {
             "class": "spinal_39"
         },
@@ -672,6 +690,12 @@
             "class": "spinal_40"
         },
         "S40_S2": {
+            "class": "spinal_40"
+        },
+        "S40_S3": {
+            "class": "spinal_40"
+        },
+        "S40_S4": {
             "class": "spinal_40"
         },
         "S40_T1": {
@@ -1013,6 +1037,9 @@
         "S41_S3": {
             "class": "spinal_41"
         },
+        "S41_S4": {
+            "class": "spinal_41"
+        },
         "S42_C1": {
             "class": "spinal_42"
         },
@@ -1062,6 +1089,9 @@
             "class": "spinal_42"
         },
         "S42_S3": {
+            "class": "spinal_42"
+        },
+        "S42_S4": {
             "class": "spinal_42"
         },
         "S42_T1": {
@@ -1863,6 +1893,9 @@
         "S51_S3": {
             "class": "spinal_51"
         },
+        "S51_S": {
+            "class": "spinal_51"
+        },
         "S52_L1": {
             "class": "spinal_51"
         },
@@ -1976,6 +2009,24 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_23-1": {
+            "models": "UBERON:0002058",
+            "name": "Main Ciliary Ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_24-1": {
+            "models": "UBERON:0003962",
+            "name": "Pterygopalatine Ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_25-1": {
+            "models": "UBERON:0001675",
+            "name": "Trigeminal Ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -2005,6 +2056,27 @@
         },
         "body_8-1": {
             "class": "body_8"
+        },
+        "body_9-1": {
+            "class": "body_9"
+        },
+        "body_10-1": {
+            "class": "body_10"
+        },
+        "eye_1-1": {
+            "class": "eye_1"
+        },
+        "eye_2-1": {
+            "class": "eye_2"
+        },
+        "eye_3-1": {
+            "class": "eye_3"
+        },
+        "eye_4-1": {
+            "class": "eye_4"
+        },
+        "eye_5-1": {
+            "class": "eye_5"
         },
         "bolser13_1": {
             "class": "bolser_13"
@@ -2188,6 +2260,12 @@
         },
         "brain_5-1": {
             "class": "brain_5"
+        },
+        "brain_50-1": {
+            "class": "brain_50"
+        },
+        "brain_51-1": {
+            "class": "brain_51"
         },
         "brain_6-1": {
             "class": "brain_6"
@@ -2799,6 +2877,12 @@
         },
         "reproductive_18-1": {
             "class": "reproductive_18"
+        },
+        "reproductive_19-1": {
+            "class": "reproductive_19"
+        },
+        "reproductive_20-1": {
+            "class": "reproductive_20"
         },
         "respiratory_10-1": {
             "class": "respiratory_10"
@@ -3834,6 +3918,9 @@
         "spinal_6-1": {
             "class": "spinal_6"
         },
+        "spinal_69-1": {
+            "class": "spinal_69"
+        },
         "spinal_7-1": {
             "class": "spinal_7"
         },
@@ -4017,6 +4104,12 @@
         "plexus_15-1": {
             "models": "Tympanic plexus",
             "name": "ILX:0793706",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_16-1": {
+            "models": "Ophthalmic plexus",
+            "name": "UBERON:0011194",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -6659,22 +6752,6 @@
                     ]
                 },
                 {
-                    "id": "tympanic",
-                    "models": "UBERON:0036216",
-                    "connects": [
-                        "ganglion_12-1",
-                        "plexus_15-1"
-                    ]
-                },
-                {
-                    "id": "less_pet",
-                    "models": "ILX:0793722",
-                    "connects": [
-                        "plexus_15-1",
-                        "point_50"
-                    ]
-                },
-                {
                     "id": "splanchnic_n-1",
                     "models": "UBERON:0003715",
                     "connects": [
@@ -6821,6 +6898,136 @@
                     "connects": [
                         "ganglion_5-1",
                         "lumbar_end"
+                    ]
+                },
+                {
+                    "id": "tympanic",
+                    "models": "UBERON:0036216",
+                    "connects": [
+                        "ganglion_12-1",
+                        "plexus_15-1"
+                    ]
+                },
+                {
+                    "id": "less_pet",
+                    "models": "ILX:0793722",
+                    "connects": [
+                        "plexus_15-1",
+                        "point_50"
+                    ]
+                },
+                {
+                    "id": "CNVII",
+                    "models": "UBERON:0001647",
+                    "connects": [
+                        "brain_50-1",
+                        "pet_branching_point-2"
+                    ]
+                },
+                {
+                    "id": "deep_pet",
+                    "models": "ILX:0793713",
+                    "connects": [
+                        "plexus_7-1",
+                        "pet_branching_point-1"
+                    ]
+                },
+                {
+                    "id": "great_pet",
+                    "models": "ILX:0793702",
+                    "connects": [
+                        "pet_branching_point-2",
+                        "pet_branching_point-1"
+                    ]
+                },
+                {
+                    "id": "vidian",
+                    "models": "UBERON:0018412",
+                    "connects": [
+                        "pet_branching_point-1",
+                        "vidian_branching_point"
+                    ]
+                },
+                {
+                    "id": "ophthalmic",
+                    "models": "UBERON:0000348",
+                    "connects": [
+                        "ganglion_25-1",
+                        "ophthalmic_branching_point"
+                    ]
+                },
+                {
+                    "id": "lacrimal",
+                    "models": "",
+                    "connects": [
+                        "ophthalmic_branching_point",
+                        "lacrimal_branching_point",
+                        "eye_1-1"
+                    ]
+                },
+                {
+                    "id": "maxillary",
+                    "models": "UBERON:0000377",
+                    "connects": [
+                        "ganglion_25-1",
+                        "maxillary_branching_point"
+                    ]
+                },
+                {
+                    "id": "zygomatic",
+                    "models": "",
+                    "connects": [
+                        "maxillary_branching_point",
+                        "zygomatic_branching_point",
+                        "eye_1-1"
+                    ]
+                },
+                {
+                    "id": "lacrimal_zygomatic",
+                    "models": "ILX:0793711",
+                    "connects": [
+                        "lacrimal_branching_point",
+                        "maxillary_branching_point"
+                    ]
+                },
+                {
+                    "id": "long_ciliary",
+                    "models": "UBERON:0022301",
+                    "connects": [
+                        "plexus_16-1",
+                        "eye_4-1"
+                    ]
+                },
+                {
+                    "id": "short_ciliary",
+                    "models": "UBERON:0022302",
+                    "connects": [
+                        "plexus_16-1",
+                        "eye_4-1"
+                    ]
+                },
+                {
+                    "id": "nasopalatine",
+                    "models": "UBERON:0008810",
+                    "connects": [
+                        "ganglion_24-1",
+                        "body_9-1"
+                    ]
+                },
+                {
+                    "id": "auriculotemporal",
+                    "models": "ILX:0793723",
+                    "connects": [
+                        "digestive_6-1",
+                        "ganglion_21-1"
+                    ]
+                },
+                {
+                    "id": "oculomotor",
+                    "models": "UBERON:0001643",
+                    "connects": [
+                        "brain_51-1",
+                        "oculomotor_branching_point"
                     ]
                 }
             ]
