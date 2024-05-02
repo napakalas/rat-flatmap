@@ -1742,5 +1742,113 @@
                 []
             ]
         ]
+    },
+    {
+        "id": [
+            "ILX:0793769",
+            ["UBERON:0003889"]
+        ],
+        "name": "smooth muscle/fallopian tube",
+        "aliases": [
+            [
+                "ILX:0794735",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001981",
+            ["UBERON:0003889"]
+        ],
+        "name": "blood vessel/fallopian tube",
+        "aliases": [
+            [
+                "ILX:0794736",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0000002",
+            []
+        ],
+        "name": "uterine cervix",
+        "aliases": [
+            [
+                "ILX:0794770",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793769",
+            ["UBERON:0000996"]
+        ],
+        "name": "smooth muscle/vagina",
+        "aliases": [
+            [
+                "ILX:0794731",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001981",
+            ["UBERON:0000996"]
+        ],
+        "name": "blood vessel/vagina",
+        "aliases": [
+            [
+                "ILX:0794734",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002411",
+            []
+        ],
+        "name": "clitoris",
+        "aliases": [
+            [
+                "UBERON:0008323",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001981",
+            ["UBERON:0000002"]
+        ],
+        "name": "blood vessel/uterine cervix",
+        "aliases": [
+            [
+                "ILX:0794738",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0006463",
+            []
+        ],
+        "name": "S4 segment of sacral spinal cord",
+        "aliases": [
+            [
+                "ILX:0793881",
+                []
+            ],
+            [
+                "ILX:0793802",
+                []
+            ]
+        ]
     }
 ]
