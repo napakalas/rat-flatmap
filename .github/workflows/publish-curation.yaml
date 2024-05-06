@@ -1,4 +1,4 @@
-name: publish-map
+name: publish-curation
 on:
   push:
     branches:
