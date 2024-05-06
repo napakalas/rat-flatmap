@@ -1,8 +1,5 @@
 name: publish-curation
 on:
-  push:
-    branches:
-      - curation
   workflow_dispatch:
 
 jobs:
