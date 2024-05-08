@@ -6921,7 +6921,7 @@
                     "models": "UBERON:0001647",
                     "connects": [
                         "brain_50-1",
-                        "pet_branching_point-2"
+                        "pet_branching_point-1"
                     ]
                 },
                 {
@@ -6929,7 +6929,7 @@
                     "models": "ILX:0793713",
                     "connects": [
                         "plexus_7-1",
-                        "pet_branching_point-1"
+                        "pet_branching_point-2"
                     ]
                 },
                 {
@@ -6944,7 +6944,7 @@
                     "id": "vidian",
                     "models": "UBERON:0018412",
                     "connects": [
-                        "pet_branching_point-1",
+                        "pet_branching_point-2",
                         "vidian_branching_point"
                     ]
                 },
