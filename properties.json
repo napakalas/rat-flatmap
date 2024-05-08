@@ -2685,6 +2685,9 @@
         "digestive_8-1": {
             "class": "digestive_8"
         },
+        "digestive_80-1": {
+            "class": "digestive_80"
+        },
         "digestive_9-1": {
             "class": "digestive_9"
         },
@@ -4102,14 +4105,14 @@
             "class": "auto-hide"
         },
         "plexus_15-1": {
-            "models": "Tympanic plexus",
-            "name": "ILX:0793706",
+            "models": "ILX:0793706",
+            "name": "Tympanic plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
         "plexus_16-1": {
-            "models": "Ophthalmic plexus",
-            "name": "UBERON:0011194",
+            "models": "UBERON:0011194",
+            "name": "Ophthalmic plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
