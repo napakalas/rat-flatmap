@@ -104,6 +104,9 @@
         "S33_S3": {
             "class": "spinal_33"
         },
+        "S33_S4": {
+            "class": "spinal_33"
+        },
         "S33_T1": {
             "class": "spinal_33"
         },
@@ -192,6 +195,9 @@
             "class": "spinal_34"
         },
         "S34_S3": {
+            "class": "spinal_34"
+        },
+        "S34_S4": {
             "class": "spinal_34"
         },
         "S34_T1": {
@@ -284,6 +290,9 @@
         "S35_S3": {
             "class": "spinal_35"
         },
+        "S35_S4": {
+            "class": "spinal_35"
+        },
         "S35_T1": {
             "class": "spinal_35"
         },
@@ -374,6 +383,9 @@
         "S36_S3": {
             "class": "spinal_36"
         },
+        "S36_S4": {
+            "class": "spinal_36"
+        },
         "S36_T1": {
             "class": "spinal_36"
         },
@@ -462,6 +474,9 @@
             "class": "spinal_37"
         },
         "S37_S3": {
+            "class": "spinal_37"
+        },
+        "S37_S4": {
             "class": "spinal_37"
         },
         "S37_T1": {
@@ -587,6 +602,9 @@
         "S39_S3": {
             "class": "spinal_39"
         },
+        "S39_S4": {
+            "class": "spinal_39"
+        },
         "S39_T1": {
             "class": "spinal_39"
         },
@@ -672,6 +690,12 @@
             "class": "spinal_40"
         },
         "S40_S2": {
+            "class": "spinal_40"
+        },
+        "S40_S3": {
+            "class": "spinal_40"
+        },
+        "S40_S4": {
             "class": "spinal_40"
         },
         "S40_T1": {
@@ -1013,6 +1037,9 @@
         "S41_S3": {
             "class": "spinal_41"
         },
+        "S41_S4": {
+            "class": "spinal_41"
+        },
         "S42_C1": {
             "class": "spinal_42"
         },
@@ -1062,6 +1089,9 @@
             "class": "spinal_42"
         },
         "S42_S3": {
+            "class": "spinal_42"
+        },
+        "S42_S4": {
             "class": "spinal_42"
         },
         "S42_T1": {
@@ -1861,6 +1891,9 @@
             "class": "spinal_51"
         },
         "S51_S3": {
+            "class": "spinal_51"
+        },
+        "S51_S": {
             "class": "spinal_51"
         },
         "S52_L1": {
@@ -3884,6 +3917,9 @@
         },
         "spinal_6-1": {
             "class": "spinal_6"
+        },
+        "spinal_69-1": {
+            "class": "spinal_69"
         },
         "spinal_7-1": {
             "class": "spinal_7"
