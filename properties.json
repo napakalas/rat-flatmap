@@ -6924,7 +6924,7 @@
                     "models": "UBERON:0001647",
                     "connects": [
                         "brain_50-1",
-                        "pet_branching_point-2"
+                        "pet_branching_point-1"
                     ]
                 },
                 {
@@ -6932,7 +6932,7 @@
                     "models": "ILX:0793713",
                     "connects": [
                         "plexus_7-1",
-                        "pet_branching_point-1"
+                        "pet_branching_point-2"
                     ]
                 },
                 {
@@ -6947,7 +6947,7 @@
                     "id": "vidian",
                     "models": "UBERON:0018412",
                     "connects": [
-                        "pet_branching_point-1",
+                        "pet_branching_point-2",
                         "vidian_branching_point"
                     ]
                 },
@@ -6961,7 +6961,7 @@
                 },
                 {
                     "id": "lacrimal",
-                    "models": "",
+                    "models": "UBERON:0011096",
                     "connects": [
                         "ophthalmic_branching_point",
                         "lacrimal_branching_point",
@@ -6978,7 +6978,7 @@
                 },
                 {
                     "id": "zygomatic",
-                    "models": "",
+                    "models": "ILX:0793712",
                     "connects": [
                         "maxillary_branching_point",
                         "zygomatic_branching_point",
@@ -6990,7 +6990,7 @@
                     "models": "ILX:0793711",
                     "connects": [
                         "lacrimal_branching_point",
-                        "maxillary_branching_point"
+                        "zygomatic_branching_point"
                     ]
                 },
                 {
