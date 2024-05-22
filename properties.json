@@ -6976,8 +6976,7 @@
                     "models": "ILX:0793712",
                     "connects": [
                         "maxillary_branching_point",
-                        "zygomatic_branching_point",
-                        "eye_1-1"
+                        "zygomatic_branching_point"
                     ]
                 },
                 {
