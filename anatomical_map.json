@@ -703,6 +703,14 @@
         "term": "UBERON:0001981",
         "name": "Blood vessel"
     },
+    "reproductive_21": {
+        "term": "UBERON:0002119",
+        "name": "Left ovary"
+    },
+    "reproductive_22": {
+        "term": "UBERON:0002118",
+        "name": "Right ovary"
+    },
     "muscle_1": {
         "term": "ILX:0738319",
         "name": "T1-T2 intercostal muscle"
