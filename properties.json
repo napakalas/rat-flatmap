@@ -4120,12 +4120,6 @@
             "label": "dura mater in the posterior cranial fossa",
             "class": "auto-hide"
         },
-        "label_2-1": {
-            "class": "label_2"
-        },
-        "label_3-1": {
-            "class": "label_3"
-        },
         "label_4-1": {
             "class": "label_4"
         },
@@ -4571,7 +4565,7 @@
                     "models": "ILX:0785937",
                     "connects": [
                         "point_10",
-                        "label_3-1"
+                        "n_9_branching_point"
                     ]
                 },
                 {
@@ -4579,7 +4573,7 @@
                     "models": "ILX:0784868",
                     "connects": [
                         "point_10",
-                        "label_2-1"
+                        "n_10_branching_point"
                     ]
                 },
                 {
@@ -6892,6 +6886,7 @@
                     "id": "vagus_n-14",
                     "connects": [
                         "point_35",
+                        "point_47",
                         "point_36"
                     ]
                 },
