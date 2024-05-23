@@ -2887,6 +2887,12 @@
         "reproductive_20-1": {
             "class": "reproductive_20"
         },
+        "reproductive_21-1": {
+            "class": "reproductive_21"
+        },
+        "reproductive_22-1": {
+            "class": "reproductive_22"
+        },
         "respiratory_10-1": {
             "class": "respiratory_10"
         },
@@ -4120,12 +4126,6 @@
             "label": "dura mater in the posterior cranial fossa",
             "class": "auto-hide"
         },
-        "label_2-1": {
-            "class": "label_2"
-        },
-        "label_3-1": {
-            "class": "label_3"
-        },
         "label_4-1": {
             "class": "label_4"
         },
@@ -4537,7 +4537,7 @@
                     "models": "FMA:6231",
                     "connects": [
                         "ganglion_1-1",
-                        "label_1-1"
+                        "n_6_branching_point"
                     ]
                 },
                 {
@@ -4571,7 +4571,7 @@
                     "models": "ILX:0785937",
                     "connects": [
                         "point_10",
-                        "label_3-1"
+                        "n_9_branching_point"
                     ]
                 },
                 {
@@ -4579,7 +4579,7 @@
                     "models": "ILX:0784868",
                     "connects": [
                         "point_10",
-                        "label_2-1"
+                        "n_10_branching_point"
                     ]
                 },
                 {
@@ -4751,7 +4751,7 @@
                     "models": "ILX:0791784",
                     "connects": [
                         "point_24",
-                        "plexus_3-1"
+                        "n_31_branching_point"
                     ]
                 },
                 {
@@ -4767,7 +4767,7 @@
                     "models": "ILX:0788259",
                     "connects": [
                         "point_25",
-                        "plexus_3-1"
+                        "n_33_branching_point"
                     ]
                 },
                 {
@@ -4775,7 +4775,7 @@
                     "models": "ILX:0784874",
                     "connects": [
                         "point_25",
-                        "plexus_3-1"
+                        "pn_34_branching_point"
                     ]
                 },
                 {
@@ -4783,7 +4783,7 @@
                     "models": "ILX:0785405",
                     "connects": [
                         "point_24",
-                        "plexus_3-1"
+                        "n_35_branching_point"
                     ]
                 },
                 {
@@ -4912,7 +4912,7 @@
                     "models": "ILX:0789095",
                     "connects": [
                         "point_30",
-                        "plexus_4-1"
+                        "n_51_branching_point"
                     ]
                 },
                 {
@@ -4936,7 +4936,7 @@
                     "models": "ILX:0785247",
                     "connects": [
                         "point_33",
-                        "plexus_5-1"
+                        "n_54_branching_point"
                     ]
                 },
                 {
@@ -4944,7 +4944,7 @@
                     "models": "ILX:0790681",
                     "connects": [
                         "point_33",
-                        "plexus_5-1"
+                        "n_55_branching_point"
                     ]
                 },
                 {
@@ -4960,7 +4960,7 @@
                     "models": "ILX:0791632",
                     "connects": [
                         "point_35",
-                        "plexus_6-1"
+                        "n_57_branching_point"
                     ]
                 },
                 {
@@ -5035,7 +5035,7 @@
                     "models": "ILX:0788232",
                     "connects": [
                         "external_laryngeal_n_branching_point",
-                        "plexus_2-1"
+                        "n_67_branching_point"
                     ]
                 },
                 {
@@ -6892,6 +6892,7 @@
                     "id": "vagus_n-14",
                     "connects": [
                         "point_35",
+                        "point_47",
                         "point_36"
                     ]
                 },
@@ -6981,8 +6982,7 @@
                     "models": "ILX:0793712",
                     "connects": [
                         "maxillary_branching_point",
-                        "zygomatic_branching_point",
-                        "eye_1-1"
+                        "zygomatic_branching_point"
                     ]
                 },
                 {
