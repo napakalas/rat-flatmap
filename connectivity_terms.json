@@ -1033,19 +1033,6 @@
     },
     {
         "id": [
-            "UBERON:0002364",
-            []
-        ],
-        "name": "tympanic membrane",
-        "aliases": [
-            [
-                "UBERON:0036216",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0001891",
             []
         ],
