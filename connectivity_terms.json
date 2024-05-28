@@ -1371,10 +1371,10 @@
     },
     {
         "id": [
-            " UBERON:0006466",
+            "UBERON:0006466",
             []
         ],
-        "name": "ventral root of the tenth thoracic spinal cord segment",
+        "name": "tenth thoracic spinal cord segment",
         "aliases": [
             [
                 "ILX:0793814",
