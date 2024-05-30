@@ -148,16 +148,16 @@
         "name": "endothelium"
     },
     "cardio_23": {
-        "term": "UBERON:0003381",
-        "name": "cardiac muscle of right ventricle"
+        "term": "UBERON:0003382",
+        "name": "cardiac muscle of left ventricle"
     },
     "cardio_24": {
         "term": "UBERON:0001986",
         "name": "endothelium"
     },
     "cardio_25": {
-        "term": "UBERON:0003382",
-        "name": "cardiac muscle of left ventricle"
+        "term": "UBERON:0003381",
+        "name": "cardiac muscle of right ventricle"
     },
     "cardio_26": {
         "term": "UBERON:0001072",
