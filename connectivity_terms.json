@@ -1061,10 +1061,6 @@
         "name": "ovary",
         "aliases": [
             [
-                "ILX:0793822",
-                []
-            ],
-            [
                 "UBERON:0001305",
                 []
             ],
@@ -1668,6 +1664,19 @@
         "aliases": [
             [
                 "ILX:0794737",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793832",
+            []
+        ],
+        "name": "Ovarian Nerve Plexus",
+        "aliases":[
+            [
+                "ILX:0793822",
                 []
             ]
         ]
