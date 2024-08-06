@@ -548,7 +548,7 @@
         "name": "Red Pulp of Spleen"
     },
     "digestive_62": {
-        "term": "ILX:0793681",
+        "term": "UBERON:0001251",
         "name": "Marginal Zone of Spleen"
     },
     "digestive_63": {
@@ -620,10 +620,38 @@
         "name": "Lower Esophagus"
     },
     "digestive_80": {
-        "term": "UBERON:0002384",
-        "name": "Connective tissue"
+        "term": "UBERON:0001263",
+        "name": "Pancreatic acinus"
     },
-    "reproductive_1": {
+    "digestive_81": {
+        "term": "UBERON:0001832",
+        "name": "Sublingual gland"
+    },
+    "digestive_82": {
+        "term": "UBERON:0002059",
+        "name": "Submandibular ganglion"
+    },
+    "digestive_83": {
+        "term": "UBERON:0000006",
+        "name": "Islet of langerhans"
+    },
+	"digestive_84": {
+        "term": "UBERON:0000483",
+        "name": "Epithelium"
+    },
+	"digestive_85": {
+        "term": "UBERON:0001193",
+        "name": "Hepatic artery"
+    },
+	"digestive_86": {
+        "term": "UBERON:0001194",
+        "name": "Splenic artery"
+    },
+	"digestive_87": {
+        "term": "UBERON:0001195",
+        "name": "Inferior pancreaticoduodenal artery"
+    },
+	"reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
     },
@@ -710,6 +738,38 @@
     "reproductive_22": {
         "term": "UBERON:0002118",
         "name": "Right ovary"
+    },
+    "reproductive_23": {
+        "term": "UBERON:0002493",
+        "name": "Uterine artery"
+    },
+    "reproductive_24": {
+        "term": "UBERON:0001303",
+        "name": "Left uterine tube"
+    },
+    "reproductive_25": {
+        "term": "UBERON:0001302",
+        "name": "Right uterine tube"
+    },
+    "reproductive_26": {
+        "term": "UBERON:0003984",
+        "name": "Uterine tube infundibulum"
+    },
+    "reproductive_27": {
+        "term": "UBERON:0012648",
+        "name": "Ampulla of uterine tube"
+    },
+    "reproductive_28": {
+        "term": "UBERON:8410010",
+        "name": "Fimbria of uterine tube"
+    },
+    "reproductive_29": {
+        "term": "ILX:0794736",
+        "name": "Blood vessel of the isthmus of the Fallopian tube"
+    },
+    "reproductive_30": {
+        "term": "ILX:0794735",
+        "name": "Smooth muscle of the isthmus of the Fallopian tube"
     },
     "muscle_1": {
         "term": "ILX:0738319",

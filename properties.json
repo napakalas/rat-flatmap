@@ -2027,6 +2027,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_26-1": {
+            "models": "ILX:0793833",
+            "name": "Ovarian nerve plexus parasympathetic ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -2481,6 +2487,9 @@
         "digestive_3-1": {
             "class": "digestive_3"
         },
+        "digestive_33-1": {
+            "class": "digestive_33"
+        },
         "digestive_34-1": {
             "class": "digestive_34"
         },
@@ -2688,6 +2697,27 @@
         "digestive_80-1": {
             "class": "digestive_80"
         },
+        "digestive_81-1": {
+            "class": "digestive_81"
+        },
+        "digestive_82-1": {
+            "class": "digestive_82"
+        },
+        "digestive_83-1": {
+            "class": "digestive_83"
+        },
+        "digestive_84-1": {
+            "class": "digestive_84"
+        },
+        "digestive_85-1": {
+            "class": "digestive_85"
+        },
+        "digestive_86-1": {
+            "class": "digestive_86"
+        },
+        "digestive_87-1": {
+            "class": "digestive_87"
+        },
         "digestive_9-1": {
             "class": "digestive_9"
         },
@@ -2887,11 +2917,41 @@
         "reproductive_20-1": {
             "class": "reproductive_20"
         },
+        "reproductive_20-2": {
+            "class": "reproductive_20"
+        },
+        "reproductive_20-3": {
+            "class": "reproductive_20"
+        },
         "reproductive_21-1": {
             "class": "reproductive_21"
         },
         "reproductive_22-1": {
             "class": "reproductive_22"
+        },
+        "reproductive_23-1": {
+            "class": "reproductive_23"
+        },
+        "reproductive_24-1": {
+            "class": "reproductive_24"
+        },
+        "reproductive_25-1": {
+            "class": "reproductive_25"
+        },
+        "reproductive_26-1": {
+            "class": "reproductive_26"
+        },
+        "reproductive_27-1": {
+            "class": "reproductive_27"
+        },
+        "reproductive_28-1": {
+            "class": "reproductive_28"
+        },
+        "reproductive_29-1": {
+            "class": "reproductive_29"
+        },
+        "reproductive_30-1": {
+            "class": "reproductive_30"
         },
         "respiratory_10-1": {
             "class": "respiratory_10"
@@ -4119,6 +4179,18 @@
         "plexus_16-1": {
             "models": "UBERON:0011194",
             "name": "Ophthalmic plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_17-1": {
+            "models": "ILX:0793806",
+            "name": "Prostatic nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_18-1": {
+            "models": "ILX:0793808",
+            "name": "Uterovaginal nerve plexus ",
             "type": "ganglion",
             "class": "auto-hide"
         },
