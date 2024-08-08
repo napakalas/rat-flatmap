@@ -5790,42 +5790,42 @@
                     "id": "T1_paravertebral_ganglion-ardell_5",
                     "connects": [
                         "S46_T1",
-                        "ardell_5"
+                        "ardell_5_start-1"
                     ]
                 },
                 {
                     "id": "T2_paravertebral_ganglion-ardell_5",
                     "connects": [
                         "S46_T2",
-                        "ardell_5"
+                        "ardell_5_start-2"
                     ]
                 },
                 {
                     "id": "T3_paravertebral_ganglion-ardell_5",
                     "connects": [
                         "S46_T3",
-                        "ardell_5"
+                        "ardell_5_start-3"
                     ]
                 },
                 {
                     "id": "T4_paravertebral_ganglion-ardell_5",
                     "connects": [
                         "S46_T4",
-                        "ardell_5"
+                        "ardell_5_start-4"
                     ]
                 },
                 {
                     "id": "T5_paravertebral_ganglion-ardell_5",
                     "connects": [
                         "S46_T5",
-                        "ardell_5"
+                        "ardell_5_start-5"
                     ]
                 },
                 {
                     "id": "T6_paravertebral_ganglion-ardell_5",
                     "connects": [
                         "S46_T6",
-                        "ardell_5"
+                        "ardell_5_start-6"
                     ]
                 },
                 {
