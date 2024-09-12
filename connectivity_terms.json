@@ -469,19 +469,6 @@
     },
     {
         "id": [
-            "ILX:0790146",
-            []
-        ],
-        "name": "ventral root of the fifth thoracic spinal cord segment",
-        "aliases": [
-            [
-                "ILX:0785971",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "ILX:0793233",
             [
                 "UBERON:0000407"
@@ -517,6 +504,7 @@
                 "UBERON:0006457"
             ]
         ],
+        "name": "",
         "aliases": [
             [
                 "ILX:0738371",
@@ -531,6 +519,7 @@
                 "UBERON:0006082"
             ]
         ],
+        "name": "",
         "aliases": [
             [
                 "UBERON:0035965",
@@ -572,6 +561,14 @@
             ],
             [
                 "ILX:0793676",
+                []
+            ],
+            [
+                "ILX:0795013",
+                []
+            ],
+            [
+                "ILX:0795017",
                 []
             ]
         ]
@@ -672,6 +669,22 @@
                 [
                     "UBERON:0001182"
                 ]
+            ],
+            [
+                "ILX:0795012",
+                []
+            ],
+            [
+                "ILX:0795014",
+                []
+            ],
+            [
+                "UBERON:0018676",
+                []
+            ],
+            [
+                "UBERON:0011926",
+                []
             ]
         ]
     },
@@ -733,6 +746,7 @@
                 "UBERON:0005363"
             ]
         ],
+        "name": "",
         "aliases": [
             [
                 "UBERON:0003535",
@@ -747,6 +761,7 @@
                 "UBERON:0006461"
             ]
         ],
+        "name": "",
         "aliases": [
             [
                 "UBERON:0022278",
@@ -772,6 +787,7 @@
             "ILX:0786272",
             []
         ],
+        "name": "",
         "aliases": [
             [
                 "ILX:0793619",
@@ -784,6 +800,7 @@
             "ILX:0786722",
             []
         ],
+        "name": "",
         "aliases": [
             [
                 "ILX:0793618",
@@ -809,6 +826,7 @@
             "ILX:0786141",
             []
         ],
+        "name": "Fifth thoracic ganglion ",
         "aliases": [
             [
                 "ILX:0793335",
@@ -818,9 +836,10 @@
     },
     {
         "id": [
-            "ILX:0739297",
+            "ILX:0789947",
             []
         ],
+        "name": "Sixth thoracic ganglion",
         "aliases": [
             [
                 "ILX:0793336",
@@ -833,6 +852,7 @@
             "ILX:0786228",
             []
         ],
+        "name": "Second thoracic ganglion",
         "aliases": [
             [
                 "ILX:0793617",
@@ -858,6 +878,7 @@
             "ILX:0793233",
             []
         ],
+        "name": "",
         "aliases": [
             [
                 "UBERON:0002441",
@@ -922,6 +943,7 @@
             "UBERON:0002108",
             []
         ],
+        "name": "",
         "aliases": [
             [
                 "ILX:0793735",
@@ -934,6 +956,7 @@
             "UBERON:0000988",
             []
         ],
+        "name": "",
         "aliases": [
             [
                 "UBERON:0002872",
@@ -946,6 +969,7 @@
             "UBERON:0001891",
             []
         ],
+        "name": "",
         "aliases": [
             [
                 "UBERON:0002141",
@@ -955,22 +979,10 @@
     },
     {
         "id": [
-            "UBERON:0005020",
-            []
-        ],
-        "name": "mucosa of tongue",
-        "aliases": [
-            [
-                "UBERON:0003729",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0006461",
             []
         ],
+        "name": "",
         "aliases": [
             [
                 "ILX:0793800",
@@ -1052,6 +1064,7 @@
             "UBERON:0006460",
             []
         ],
+        "name": "S1 segment",
         "aliases": [
             [
                 "ILX:0793805",
@@ -1074,75 +1087,13 @@
     },
     {
         "id": [
-            "UBERON:0016508",
-            []
-        ],
-        "name": "pelvic ganglion",
-        "aliases": [
-            [
-                "ILX:0793823",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0793141",
-            []
-        ],
-        "aliases": [
-            [
-                "UBERON:0004713",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0005303",
-            []
-        ],
-        "name": "hypogastric nerve",
-        "aliases": [
-            [
-                "UBERON:0002014",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0000057",
             []
         ],
+        "name": "",
         "aliases": [
             [
                 "UBERON:0011183",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0000057",
-            []
-        ],
-        "aliases": [
-            [
-                "ILX:0793807",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0000057",
-            []
-        ],
-        "name": "urethra",
-        "aliases": [
-            [
-                "UBERON:0002366",
                 []
             ]
         ]
@@ -1274,34 +1225,10 @@
     },
     {
         "id": [
-            "UBERON:0006460",
-            []
-        ],
-        "aliases": [
-            [
-                "ILX:0793878",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002367",
-            []
-        ],
-        "name": "prostate gland",
-        "aliases": [
-            [
-                "UBERON:0000428",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0006467",
             []
         ],
+        "name": "eleventh thoracic spinal cord segment",
         "aliases": [
             [
                 "ILX:0793815",
@@ -1363,32 +1290,6 @@
     },
     {
         "id": [
-            "UBERON:0006462",
-            []
-        ],
-        "name": "third sacral spinal cord segment",
-        "aliases": [
-            [
-                "ILX:0793880",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0006461",
-            []
-        ],
-        "name": "second sacral spinal cord segment",
-        "aliases": [
-            [
-                "ILX:0793879",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0000998",
             []
         ],
@@ -1396,31 +1297,6 @@
         "aliases": [
             [
                 "UBERON:0004805",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0016508",
-            []
-        ],
-        "aliases": [
-            [
-                "ILX:0793884",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0000998",
-            []
-        ],
-        "name": "seminal vesicle",
-        "aliases": [
-            [
-                "UBERON:0004665",
                 []
             ]
         ]
@@ -1480,7 +1356,9 @@
     {
         "id": [
             "UBERON:0001981",
-            ["UBERON:0000996"]
+            [
+                "UBERON:0000996"
+            ]
         ],
         "name": "blood vessel/vagina",
         "aliases": [
@@ -1514,7 +1392,9 @@
     {
         "id": [
             "UBERON:0001981",
-            ["UBERON:0000002"]
+            [
+                "UBERON:0000002"
+            ]
         ],
         "name": "blood vessel/uterine cervix",
         "aliases": [
@@ -1527,7 +1407,9 @@
     {
         "id": [
             "ILX:0793769",
-            ["UBERON:0000002"]
+            [
+                "UBERON:0000002"
+            ]
         ],
         "name": "smooth muscle/uterine cervix",
         "aliases": [
@@ -1539,21 +1421,10 @@
     },
     {
         "id": [
-            "UBERON:0001981",
-            ["UBERON:0000002"]
-        ],
-        "name": "blood vessel/uterine cervix",
-        "aliases": [
-            [
-                "ILX:0794766",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "ILX:0793769",
-            ["UBERON:0009853"]
+            [
+                "UBERON:0009853"
+            ]
         ],
         "name": "smooth muscle/body of uterus",
         "aliases": [
@@ -1566,7 +1437,9 @@
     {
         "id": [
             "UBERON:0001981",
-            ["UBERON:0009853"]
+            [
+                "UBERON:0009853"
+            ]
         ],
         "name": "blood vessel/body of uterus",
         "aliases": [
@@ -1609,7 +1482,9 @@
     {
         "id": [
             "UBERON:0001981",
-            ["UBERON:0000995"]
+            [
+                "UBERON:0000995"
+            ]
         ],
         "name": "blood vessel/uterus",
         "aliases": [
@@ -1625,7 +1500,7 @@
             []
         ],
         "name": "Ovarian Nerve Plexus",
-        "aliases":[
+        "aliases": [
             [
                 "ILX:0793822",
                 []
@@ -1675,6 +1550,690 @@
             ],
             [
                 "ILX:0793738",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0018680",
+            []
+        ],
+        "name": "greater splanchnic nerve",
+        "aliases": [
+            [
+                "UBERON:0018679",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001964",
+            []
+        ],
+        "name": "least splanchnic nerve",
+        "aliases": [
+            [
+                "ILX:0731969",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793218",
+            []
+        ],
+        "name": "white communicating ramus of twelfth thoracic spinal nerve",
+        "aliases": [
+            [
+                "TEMP:MISSING_white-communicating-ramus",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002113",
+            []
+        ],
+        "name": "kidney",
+        "aliases": [
+            [
+                "UBERON:0009773",
+                []
+            ],
+            [
+                "UBERON:0004639",
+                []
+            ],
+            [
+                "UBERON:0002303",
+                []
+            ],
+            [
+                "UBERON:0004640",
+                []
+            ],
+            [
+                "UBERON:0001224",
+                []
+            ],
+            [
+                "UBERON:0003517",
+                []
+            ],
+            [
+                "UBERON:0001230",
+                []
+            ],
+            [
+                "UBERON:0005006",
+                []
+            ],
+            [
+                "UBERON:0001225",
+                []
+            ],
+            [
+                "UBERON:0006853",
+                []
+            ],
+            [
+                "UBERON:0006851",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002853",
+            []
+        ],
+        "name": "",
+        "aliases": [
+            [
+                "ILX:0792508",
+                []
+            ],
+            [
+                "ILX:0786372",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0789741",
+            []
+        ],
+        "name": "posterior root of ninth thoracic nerve",
+        "aliases": [
+            [
+                "ILX:0784588",
+                []
+            ],
+            [
+                "ILX:0786813",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002854",
+            []
+        ],
+        "name": "",
+        "aliases": [
+            [
+                "ILX:0792057",
+                []
+            ],
+            [
+                "ILX:0785659",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002856",
+            []
+        ],
+        "name": "",
+        "aliases": [
+            [
+                "ILX:0785409",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002855",
+            []
+        ],
+        "name": "",
+        "aliases": [
+            [
+                "ILX:0787810",
+                []
+            ],
+            [
+                "ILX:0786989",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002852",
+            []
+        ],
+        "name": "",
+        "aliases": [
+            [
+                "ILX:0785729",
+                []
+            ],
+            [
+                "ILX:0788711",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0787779",
+            []
+        ],
+        "name": "",
+        "aliases": [
+            [
+                "ILX:0786788",
+                []
+            ],
+            [
+                "ILX:0785947",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0787665",
+            []
+        ],
+        "name": "",
+        "aliases": [
+            [
+                "ILX:0790414",
+                []
+            ],
+            [
+                "ILX:0785098",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0792058",
+            []
+        ],
+        "name": "",
+        "aliases": [
+            [
+                "ILX:0792342",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002851",
+            []
+        ],
+        "name": "eighth thoracic dorsal root ganglion",
+        "aliases": [
+            [
+                "ILX:0790494",
+                []
+            ],
+            [
+                "ILX:0791153",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0789892",
+            []
+        ],
+        "name": "",
+        "aliases": [
+            [
+                "ILX:0785488",
+                []
+            ],
+            [
+                "ILX:0792995",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0792624",
+            []
+        ],
+        "name": "",
+        "aliases": [
+            [
+                "ILX:0784992",
+                []
+            ],
+            [
+                "ILX:0786793",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002857",
+            []
+        ],
+        "name": "",
+        "aliases": [
+            [
+                "ILX:0786477",
+                []
+            ],
+            [
+                "ILX:0787285",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0790338",
+            []
+        ],
+        "name": "",
+        "aliases": [
+            [
+                "ILX:0789839",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002849",
+            []
+        ],
+        "name": "",
+        "aliases": [
+            [
+                "ILX:0791527",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0790338",
+            []
+        ],
+        "name": "",
+        "aliases": [
+            [
+                "ILX:0786402",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0784605",
+            []
+        ],
+        "name": "",
+        "aliases": [
+            [
+                "ILX:0787781",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002850",
+            []
+        ],
+        "name": "",
+        "aliases": [
+            [
+                "ILX:0788647",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0785909",
+            []
+        ],
+        "name": "",
+        "aliases": [
+            [
+                "ILX:0785477",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0005363",
+            []
+        ],
+        "name": "",
+        "aliases": [
+            [
+                "ILX:0790316",
+                []
+            ],
+            [
+                "ILX:0792433",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002394",
+            []
+        ],
+        "name": "bile duct",
+        "aliases": [
+            [
+                "UBERON:0004820",
+                []
+            ],
+            [
+                "UBERON:0001279",
+                []
+            ],
+            [
+                "CL:1000488",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002107",
+            []
+        ],
+        "name": "liver",
+        "aliases": [
+            [
+                "UBERON:0001281",
+                []
+            ],
+            [
+                "UBERON:0006729",
+                []
+            ],
+            [
+                "UBERON:0004647",
+                []
+            ],
+            [
+                "UBERON:0001172",
+                []
+            ],
+            [
+                "CL:0000182",
+                []
+            ],
+            [
+                "ILX:0795016",
+                []
+            ],
+            [
+                "ILX:0795010",
+                []
+            ],
+            [
+                "UBERON:0015423",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0771304",
+            []
+        ],
+        "name": "hepatic plexus",
+        "aliases": [
+            [
+                "ILX:0795008",
+                []
+            ],
+            [
+                "ILX:0795009",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002017",
+            []
+        ],
+        "name": "portal vein",
+        "aliases": [
+            [
+                "ILX:0795015",
+                []
+            ],
+            [
+                "CL:0009094",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0006457",
+            []
+        ],
+        "name": "T1 segment of thoracic spinal cord",
+        "aliases": [
+            [
+                "ILX:0792474",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001759",
+            []
+        ],
+        "name": "vagus nerve",
+        "aliases": [
+            [
+                "ILX:0790553",
+                []
+            ],
+            [
+                "ILX:0794142",
+                []
+            ],
+            [
+                "ILX:0793826",
+                []
+            ],
+            [
+                "ILX:0794141",
+                []
+            ],
+            [
+                "ILX:0794506",
+                []
+            ],
+            [
+                "ILX:0793827",
+                []
+            ],
+            [
+                "ILX:0789580",
+                []
+            ],
+            [
+                "ILX:0794476",
+                []
+            ],
+            [
+                "ILX:0794853",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0006118",
+            []
+        ],
+        "name": "lamina I of gray matter of spinal cord",
+        "aliases": [
+            [
+                "ILX:0795026",
+                []
+            ],
+            [
+                "ILX:0795027",
+                []
+            ],
+            [
+                "ILX:0795028",
+                []
+            ],
+            [
+                "ILX:0795029",
+                []
+            ],
+            [
+                "ILX:0795030",
+                []
+            ],
+            [
+                "ILX:0795036",
+                []
+            ],
+            [
+                "ILX:0795033",
+                []
+            ],
+            [
+                "ILX:0795037",
+                []
+            ],
+            [
+                "ILX:0795035",
+                []
+            ],
+            [
+                "ILX:0795032",
+                []
+            ],
+            [
+                "ILX:0795038",
+                []
+            ],
+            [
+                "ILX:0795039",
+                []
+            ],
+            [
+                "ILX:0795034",
+                []
+            ],
+            [
+                "ILX:0795045",
+                []
+            ],
+            [
+                "ILX:0795041",
+                []
+            ],
+            [
+                "ILX:0795046",
+                []
+            ],
+            [
+                "ILX:0795043",
+                []
+            ],
+            [
+                "ILX:0795047",
+                []
+            ],
+            [
+                "ILX:0795042",
+                []
+            ],
+            [
+                "ILX:0795048",
+                []
+            ],
+            [
+                "ILX:0795040",
+                []
+            ],
+            [
+                "ILX:0795023",
+                []
+            ],
+            [
+                "ILX:0795024",
+                []
+            ],
+            [
+                "ILX:0795025",
+                []
+            ],
+            [
+                "ILX:0795031",
+                []
+            ],
+            [
+                "ILX:0795044",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793359",
+            []
+        ],
+        "name": "Thirteenth thoracic dorsal root ganglion",
+        "aliases":[
+            [
+                "ILX:0795052",
+                []
+            ],
+            [
+                "ILX:0795051",
                 []
             ]
         ]
