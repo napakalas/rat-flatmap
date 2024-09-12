@@ -1382,6 +1382,14 @@
         "S44_T13": {
             "class": "spinal_44"
         },
+        "S44_T13_L": {
+            "models": "ILX:0795050",
+            "name": "Posterior root of left thirteenth thoracic nerve"
+        },
+        "S44_T13_R": {
+            "models": "ILX:0795049",
+            "name": "Posterior root of right thirteenth thoracic nerve"
+        },
         "S44_S1": {
             "class": "spinal_44"
         },
@@ -4138,6 +4146,12 @@
         },
         "urinary_19-1": {
             "class": "urinary_19"
+        },
+        "urinary_21-1": {
+            "class": "urinary_21"
+        },
+        "urinary_22-1": {
+            "class": "urinary_22"
         },
         "ganglion_1-1": {
             "models": "UBERON:0005364",

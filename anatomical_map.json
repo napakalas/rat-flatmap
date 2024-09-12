@@ -75,6 +75,14 @@
         "term": "UBERON:0001184",
         "name": "renal artery"
     },
+    "urinary_21": {
+        "term": "ILX:0795054",
+        "name": "upper ureter"
+    },
+    "urinary_22": {
+        "term": "ILX:0795055",
+        "name": "lower ureter"
+    },
     "cardio_1": {
         "term": "UBERON:0004535",
         "name": "cardiovascular system"
