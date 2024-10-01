@@ -986,10 +986,14 @@
             "UBERON:0006461",
             []
         ],
-        "name": "",
+        "name": "second sacral spinal cord segment",
         "aliases": [
             [
                 "ILX:0793800",
+                []
+            ],
+            [
+                "ILX:0793879",
                 []
             ]
         ]
@@ -1003,6 +1007,10 @@
         "aliases": [
             [
                 "ILX:0793801",
+                []
+            ],
+            [
+                "ILX:0793880",
                 []
             ]
         ]
@@ -1073,6 +1081,10 @@
             [
                 "ILX:0793805",
                 []
+            ],
+            [
+                "ILX:0793878",
+                []
             ]
         ]
     },
@@ -1085,6 +1097,14 @@
         "aliases": [
             [
                 "ILX:0793834",
+                []
+            ],
+            [
+                "ILX:0793823",
+                []
+            ],
+            [
+                "ILX:0793885",
                 []
             ]
         ]
@@ -2262,6 +2282,88 @@
             ],
             [
                 "ILX:0795051",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0786163",
+            []
+        ],
+        "name": "ventral root of the eighth cervical spinal cord segment",
+        "aliases":[
+            [
+                "UBERON:0014634",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001184",
+            []
+        ],
+        "name": "renal artery",
+        "aliases":[
+            [
+                "ILX:0795058",
+                []
+            ],
+            [
+                "ILX:0795053",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0787528",
+            []
+        ],
+        "name": "Second sacral nerve",
+        "aliases":[
+            [
+                "ILX:0785238",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0791971",
+            []
+        ],
+        "name": "Third sacral nerve",
+        "aliases":[
+            [
+                "ILX:0788532",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0792327",
+            []
+        ],
+        "name": "Fourth sacral nerve",
+        "aliases":[
+            [
+                "ILX:0788777",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793357",
+            []
+        ],
+        "name": "thirteenth thoracic spinal cord segment",
+        "aliases":[
+            [
+                "UBERON:0007715",
                 []
             ]
         ]
