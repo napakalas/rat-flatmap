@@ -2080,8 +2080,8 @@
             "class": "auto-hide"
         },
         "ganglion_22-1": {
-            "models": "ILX:0794733",
-            "name": "Ovarian nerve plexus sympathetic ganglion",
+            "models": "ILX:0794910",
+            "name": "Ovarian ganglion",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -2106,6 +2106,12 @@
         "ganglion_26-1": {
             "models": "ILX:0793833",
             "name": "Ovarian nerve plexus parasympathetic ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_27-1": {
+            "models": "ILX:0795057",
+            "name": "renal nerve plexus ganglion ",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -2797,6 +2803,9 @@
         "digestive_88-1": {
             "class": "digestive_88"
         },
+        "digestive_89-1": {
+            "class": "digestive_89"
+        },
         "digestive_9-1": {
             "class": "digestive_9"
         },
@@ -3031,6 +3040,9 @@
         },
         "reproductive_30-1": {
             "class": "reproductive_30"
+        },
+        "reproductive_31-1": {
+            "class": "reproductive_31"
         },
         "respiratory_10-1": {
             "class": "respiratory_10"
@@ -4152,6 +4164,9 @@
         },
         "urinary_22-1": {
             "class": "urinary_22"
+        },
+        "urinary_23-1": {
+            "class": "urinary_23"
         },
         "ganglion_1-1": {
             "models": "UBERON:0005364",
