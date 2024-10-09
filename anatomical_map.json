@@ -83,6 +83,10 @@
         "term": "ILX:0795055",
         "name": "lower ureter"
     },
+    "urinary_23": {
+        "term": "UBERON:0002366",
+        "name": "bulbo-urethral gland"
+    },
     "cardio_1": {
         "term": "UBERON:0004535",
         "name": "cardiovascular system"
@@ -675,6 +679,10 @@
         "term": "UBERON:0002017",
         "name": "portal vein"
     },
+	"digestive_89": {
+        "term": "ILX:0741796",
+        "name": "deep transverse perineal muscle"
+    },
 	"reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
@@ -794,6 +802,10 @@
     "reproductive_30": {
         "term": "ILX:0794735",
         "name": "Smooth muscle of the isthmus of the Fallopian tube"
+    },
+    "reproductive_31": {
+        "term": "UBERON:0004713",
+        "name": "Corpus cavernosum penis"
     },
     "muscle_1": {
         "term": "ILX:0738319",
