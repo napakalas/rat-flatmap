@@ -1106,6 +1106,10 @@
             [
                 "ILX:0793885",
                 []
+            ],
+            [
+                "ILX:0793884",
+                []
             ]
         ]
     },
@@ -1289,7 +1293,7 @@
                 []
             ],
             [
-                "ILX:0793357",
+                "UBERON:0007715",
                 []
             ]
         ]
@@ -1912,10 +1916,14 @@
             "ILX:0790338",
             []
         ],
-        "name": "",
+        "name": "Posterior root of eleventh thoracic nerve",
         "aliases": [
             [
                 "ILX:0789839",
+                []
+            ],
+            [
+                "ILX:0786402",
                 []
             ]
         ]
@@ -1925,23 +1933,10 @@
             "UBERON:0002849",
             []
         ],
-        "name": "",
+        "name": "Sixth thoracic spinal ganglion",
         "aliases": [
             [
                 "ILX:0791527",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0790338",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0786402",
                 []
             ]
         ]
@@ -2351,19 +2346,6 @@
         "aliases":[
             [
                 "ILX:0788777",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0793357",
-            []
-        ],
-        "name": "thirteenth thoracic spinal cord segment",
-        "aliases":[
-            [
-                "UBERON:0007715",
                 []
             ]
         ]
