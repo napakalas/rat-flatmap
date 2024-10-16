@@ -6909,7 +6909,7 @@
                 {
                     "id": "bolser_11",
                     "connects": [
-                        "brain_12-1",
+                        "point_1",
                         "point_49"
                     ]
                 },
