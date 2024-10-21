@@ -1,10 +1,5 @@
 name: publish-curation
 on:
-  pull_request:
-    types:
-      - closed
-    branches:
-      - curation
   push:
     branches:
       - curation
