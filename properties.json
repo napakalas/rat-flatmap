@@ -1288,11 +1288,23 @@
         "S44_L1": {
             "class": "spinal_44"
         },
+        "S44_L1-1": {
+            "models": "ILX:0787779",
+            "name": "posterior root of first lumbar nerve"
+        },
         "S44_L2": {
             "class": "spinal_44"
         },
+        "S44_L2-1": {
+            "models": "ILX:0792058",
+            "name": "posterior root of second lumbar nerve"
+        },
         "S44_L3": {
             "class": "spinal_44"
+        },
+        "S44_L3-1": {
+            "models": "ILX:0787227",
+            "name": "posterior root of third lumbar nerve"
         },
         "S44_L4": {
             "class": "spinal_44"
@@ -1321,26 +1333,62 @@
         "S44_T6": {
             "class": "spinal_44"
         },
+        "S44_T6-1": {
+            "models": "ILX:0785909",
+            "name": "posterior root of sixth thoracic nerve"
+        },
         "S44_T7": {
             "class": "spinal_44"
+        },
+        "S44_T7-1": {
+            "models": "ILX:0784605",
+            "name": "posterior root of seventh thoracic nerve"
         },
         "S44_T8": {
             "class": "spinal_44"
         },
+        "S44_T8-1": {
+            "models": "ILX:0792624",
+            "name": "posterior root of eighth thoracic nerve"
+        },
         "S44_T9": {
             "class": "spinal_44"
+        },
+        "S44_T9-1": {
+            "models": "ILX:0789741",
+            "name": "posterior root of ninth thoracic nerve"
         },
         "S44_T10": {
             "class": "spinal_44"
         },
+        "S44_T10-1": {
+            "models": "ILX:0789892",
+            "name": "posterior root of tenth thoracic nerve"
+        },
         "S44_T11": {
             "class": "spinal_44"
+        },
+        "S44_T11-1": {
+            "models": "ILX:0790338",
+            "name": "posterior root of eleventh thoracic nerve"
         },
         "S44_T12": {
             "class": "spinal_44"
         },
+        "S44_T12-1":{
+            "models": "ILX:0787665",
+            "name": "posterior root of twelfth thoracic nerve"
+        },
         "S44_T13": {
             "class": "spinal_44"
+        },
+        "S44_T13_L": {
+            "models": "ILX:0795050",
+            "name": "Posterior root of left thirteenth thoracic nerve"
+        },
+        "S44_T13_R": {
+            "models": "ILX:0795049",
+            "name": "Posterior root of right thirteenth thoracic nerve"
         },
         "S44_S1": {
             "class": "spinal_44"
@@ -1416,7 +1464,7 @@
         },
         "S45_T8": {
             "models": "UBERON:0002851",
-            "name": "eighth thoracic dorsal root ganglion"
+            "name": "Eighth thoracic dorsal root ganglion"
         },
         "S45_T9": {
             "models": "UBERON:0002852",
@@ -1815,14 +1863,30 @@
         "S50_L1": {
             "class": "spinal_50"
         },
+        "S50_L1-1":{
+            "models": "ILX:0788972",
+            "name": "First lumbar nerve"
+        },
         "S50_L2": {
             "class": "spinal_50"
+        },
+        "S50_L2-1":{
+            "models": "ILX:0786362",
+            "name": "Second lumbar nerve"
         },
         "S50_L3": {
             "class": "spinal_50"
         },
+        "S50_L3-1":{
+            "models": "ILX:0789374",
+            "name": "Third lumbar nerve"
+        },
         "S50_L4": {
             "class": "spinal_50"
+        },
+        "S50_L4-1":{
+            "models": "ILX:0788896",
+            "name": "Fourth lumbar nerve"
         },
         "S50_L5": {
             "class": "spinal_50"
@@ -1833,14 +1897,30 @@
         "S50_S1": {
             "class": "spinal_50"
         },
+        "S50_S1-1":{
+            "models": "ILX:0790504",
+            "name": "First sacral nerve"
+        },
         "S50_S2": {
             "class": "spinal_50"
+        },
+        "S50_S2-1":{
+            "models": "ILX:0787528",
+            "name": "Second sacral nerve"
         },
         "S50_S3": {
             "class": "spinal_50"
         },
+        "S50_S3-1": {
+            "models": "ILX:0791971",
+            "name": "Third sacral nerve"
+        },
         "S50_S4": {
             "class": "spinal_50"
+        },
+        "S50_S4-1": {
+            "models": "ILX:0792327",
+            "name": "Fourth sacral nerve"
         },
         "S50_T1": {
             "class": "spinal_50"
@@ -1877,6 +1957,10 @@
         },
         "S50_T12": {
             "class": "spinal_50"
+        },
+        "S50_T12-1": {
+            "models": "ILX:0791046",
+            "name": "Twelfth thoracic nerve"
         },
         "S50_T13": {
             "class": "spinal_50"
@@ -2004,8 +2088,8 @@
             "class": "auto-hide"
         },
         "ganglion_22-1": {
-            "models": "ILX:0794733",
-            "name": "Ovarian nerve plexus sympathetic ganglion",
+            "models": "ILX:0794910",
+            "name": "Ovarian ganglion",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -2030,6 +2114,12 @@
         "ganglion_26-1": {
             "models": "ILX:0793833",
             "name": "Ovarian nerve plexus parasympathetic ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_27-1": {
+            "models": "ILX:0795057",
+            "name": "renal nerve plexus ganglion ",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -2718,6 +2808,12 @@
         "digestive_87-1": {
             "class": "digestive_87"
         },
+        "digestive_88-1": {
+            "class": "digestive_88"
+        },
+        "digestive_89-1": {
+            "class": "digestive_89"
+        },
         "digestive_9-1": {
             "class": "digestive_9"
         },
@@ -2952,6 +3048,9 @@
         },
         "reproductive_30-1": {
             "class": "reproductive_30"
+        },
+        "reproductive_31-1": {
+            "class": "reproductive_31"
         },
         "respiratory_10-1": {
             "class": "respiratory_10"
@@ -4062,6 +4161,21 @@
         "urinary_17-1": {
             "class": "urinary_17"
         },
+        "urinary_18-1": {
+            "class": "urinary_18"
+        },
+        "urinary_19-1": {
+            "class": "urinary_19"
+        },
+        "urinary_21-1": {
+            "class": "urinary_21"
+        },
+        "urinary_22-1": {
+            "class": "urinary_22"
+        },
+        "urinary_23-1": {
+            "class": "urinary_23"
+        },
         "ganglion_1-1": {
             "models": "UBERON:0005364",
             "name": "superior vagus X ganglion",
@@ -4194,6 +4308,18 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_19-1": {
+            "models": "ILX:0771304",
+            "name": "Hepatic plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_20-1": {
+            "models": "ILX:0795011",
+            "name": "periarterial neural plexus of the common hepatic artery",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "label_1-1": {
             "label": "dura mater in the posterior cranial fossa",
             "class": "auto-hide"
@@ -4257,6 +4383,18 @@
         },
         "label_23-1": {
             "class": "label_23"
+        },
+        "label_24-1": {
+            "class": "label_24"
+        },
+        "label_25-1": {
+            "class": "label_25"
+        },
+        "label_26-1": {
+            "class": "label_26"
+        },
+        "label_27-1": {
+            "class": "label_27"
         },
         "vagus_1": {
             "type": "nerve",
@@ -4525,6 +4663,21 @@
         "bolser_108": {
             "type": "nerve",
             "models": "ILX:0738313"
+        },
+        "bolser_109": {
+            "type": "nerve"
+        },
+        "bolser_110": {
+            "type": "nerve"
+        },
+        "bolser_112": {
+            "type": "nerve"
+        },
+        "bolser_113": {
+            "type": "nerve"
+        },
+        "bolser_114": {
+            "type": "nerve"
         },
         "bolser_115": {
             "type": "nerve",
@@ -6135,159 +6288,6 @@
                     ]
                 },
                 {
-                    "id": "sympathetic_trunk_T1-T2",
-                    "models": "ILX:0777094",
-                    "connects": [
-                        "S46_T1",
-                        "S46_T2"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_T2-T3",
-                    "models": "ILX:0777095",
-                    "connects": [
-                        "S46_T2",
-                        "S46_T3"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_T3-T4",
-                    "models": "ILX:0777096",
-                    "connects": [
-                        "S46_T3",
-                        "S46_T4"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_T4-T5",
-                    "models": "ILX:0777097",
-                    "connects": [
-                        "S46_T4",
-                        "S46_T5"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_T5-T6",
-                    "models": "ILX:0777098",
-                    "connects": [
-                        "S46_T5",
-                        "S46_T6"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_T6-T7",
-                    "connects": [
-                        "S46_T6",
-                        "S46_T7"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_T7-T8",
-                    "connects": [
-                        "S46_T7",
-                        "S46_T8"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_T8-T9",
-                    "connects": [
-                        "S46_T8",
-                        "S46_T9"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_T9-T10",
-                    "connects": [
-                        "S46_T9",
-                        "S46_T10"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_T10-T11",
-                    "connects": [
-                        "S46_T10",
-                        "S46_T11"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_T11-T12",
-                    "connects": [
-                        "S46_T11",
-                        "S46_T12"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_T12-T13",
-                    "models": "ILX:0777086",
-                    "connects": [
-                        "S46_T12",
-                        "S46_T13"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_T13-L1",
-                    "models": "ILX:0777087",
-                    "connects": [
-                        "S46_T13",
-                        "S46_L1"
-                    ]
-                },
-                {
-                    "id": "L1-L2_interganglionic_segment",
-                    "models": "ILX:0777088",
-                    "connects": [
-                        "S46_L1",
-                        "S46_L2"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_L2-L3",
-                    "models": "ILX:0777089",
-                    "connects": [
-                        "S46_L2",
-                        "S46_L3"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_L3-L4",
-                    "models": "ILX:0777090",
-                    "connects": [
-                        "S46_L3",
-                        "S46_L4"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_L4-L5",
-                    "models": "ILX:0777091",
-                    "connects": [
-                        "S46_L4",
-                        "S46_L5"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_L5-L6",
-                    "models": "ILX:0777092",
-                    "connects": [
-                        "S46_L5",
-                        "S46_L6"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_L6-S1",
-                    "models": "ILX:0777093",
-                    "connects": [
-                        "S46_L6",
-                        "S46_S1"
-                    ]
-                },
-                {
-                    "id": "sympathetic_trunk_S1-S2",
-                    "connects": [
-                        "S46_S1",
-                        "S46_S2"
-                    ]
-                },
-                {
                     "id": "pons_medulla_cns",
                     "connects": [
                         "brain_26-1",
@@ -6756,7 +6756,7 @@
                 {
                     "id": "bolser_11",
                     "connects": [
-                        "brain_12-1",
+                        "point_1",
                         "point_49"
                     ]
                 },

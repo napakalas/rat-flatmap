@@ -63,6 +63,30 @@
         "term": "UBERON:0002384",
         "name": "connective tissue"
     },
+    "urinary_17": {
+        "term": "UBERON:0004538",
+        "name": "left kidney"
+    },
+    "urinary_18": {
+        "term": "UBERON:0004539",
+        "name": "right kidney"
+    },
+    "urinary_19": {
+        "term": "UBERON:0001184",
+        "name": "renal artery"
+    },
+    "urinary_21": {
+        "term": "ILX:0795054",
+        "name": "upper ureter"
+    },
+    "urinary_22": {
+        "term": "ILX:0795055",
+        "name": "lower ureter"
+    },
+    "urinary_23": {
+        "term": "UBERON:0002366",
+        "name": "bulbo-urethral gland"
+    },
     "cardio_1": {
         "term": "UBERON:0004535",
         "name": "cardiovascular system"
@@ -651,6 +675,14 @@
         "term": "UBERON:0001195",
         "name": "Inferior pancreaticoduodenal artery"
     },
+	"digestive_88": {
+        "term": "UBERON:0002017",
+        "name": "portal vein"
+    },
+	"digestive_89": {
+        "term": "ILX:0741796",
+        "name": "deep transverse perineal muscle"
+    },
 	"reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
@@ -770,6 +802,10 @@
     "reproductive_30": {
         "term": "ILX:0794735",
         "name": "Smooth muscle of the isthmus of the Fallopian tube"
+    },
+    "reproductive_31": {
+        "term": "UBERON:0004713",
+        "name": "Corpus cavernosum penis"
     },
     "muscle_1": {
         "term": "ILX:0738319",
@@ -1442,6 +1478,22 @@
     "label_23": {
         "term": "ILX:0742928",
         "name": "laryngeal vestibule"
+    },
+    "label_24": {
+        "term": "ILX:0795059",
+        "name": "eccrine sweat gland of the upper limb"
+    },
+    "label_25": {
+        "term": "ILX:0795062",
+        "name": "eccrine sweat gland of the lower limb"
+    },
+    "label_26": {
+        "term": "ILX:0795061",
+        "name": "eccrine sweat gland of the trunk"
+    },
+    "label_27": {
+        "term": "ILX:0795060",
+        "name": "eccrine sweat gland of the face"
     },
     "vagus_n": {
         "term": "UBERON:0001759",
