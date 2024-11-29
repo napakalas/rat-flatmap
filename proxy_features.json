@@ -1,0 +1,9 @@
+[
+    {
+        "feature": "UBERON:0000044",
+        "name": "dorsal root ganglion",
+        "proxies": [
+            "UBERON:0003943"
+        ]
+    }
+]
