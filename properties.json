@@ -1375,7 +1375,7 @@
         "S44_T12": {
             "class": "spinal_44"
         },
-        "S44_T12-1":{
+        "S44_T12-1": {
             "models": "ILX:0787665",
             "name": "posterior root of twelfth thoracic nerve"
         },
@@ -1863,28 +1863,28 @@
         "S50_L1": {
             "class": "spinal_50"
         },
-        "S50_L1-1":{
+        "S50_L1-1": {
             "models": "ILX:0788972",
             "name": "First lumbar nerve"
         },
         "S50_L2": {
             "class": "spinal_50"
         },
-        "S50_L2-1":{
+        "S50_L2-1": {
             "models": "ILX:0786362",
             "name": "Second lumbar nerve"
         },
         "S50_L3": {
             "class": "spinal_50"
         },
-        "S50_L3-1":{
+        "S50_L3-1": {
             "models": "ILX:0789374",
             "name": "Third lumbar nerve"
         },
         "S50_L4": {
             "class": "spinal_50"
         },
-        "S50_L4-1":{
+        "S50_L4-1": {
             "models": "ILX:0788896",
             "name": "Fourth lumbar nerve"
         },
@@ -1897,14 +1897,14 @@
         "S50_S1": {
             "class": "spinal_50"
         },
-        "S50_S1-1":{
+        "S50_S1-1": {
             "models": "ILX:0790504",
             "name": "First sacral nerve"
         },
         "S50_S2": {
             "class": "spinal_50"
         },
-        "S50_S2-1":{
+        "S50_S2-1": {
             "models": "ILX:0787528",
             "name": "Second sacral nerve"
         },
@@ -4401,6 +4401,26 @@
         },
         "label_27-1": {
             "class": "label_27"
+        },
+        "CNVII_c": {
+            "type": "nerve",
+            "models": "UBERON:0001647"
+        },
+        "great_pet_c": {
+            "type": "nerve",
+            "models": "ILX:0793702"
+        },
+        "deep_pet_c": {
+            "type": "nerve",
+            "models": "ILX:0793713"
+        },
+        "oculomotor_c": {
+            "type": "nerve",
+            "models": "UBERON:0001643"
+        },
+        "vidian_c": {
+            "type": "nerve",
+            "models": "UBERON:0018412"
         },
         "vagus_1": {
             "type": "nerve",
