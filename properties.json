@@ -4570,10 +4570,6 @@
             "type": "nerve",
             "models": "ILX:0788232"
         },
-        "superior_laryngeal_17": {
-            "type": "nerve",
-            "models": "ILX:0785069"
-        },
         "superior_laryngeal_18": {
             "type": "nerve",
             "models": "ILX:0786237"
