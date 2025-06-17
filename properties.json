@@ -4225,7 +4225,7 @@
             "class": "auto-hide"
         },
         "plexus_5-1": {
-            "models": "FMA:6225",
+            "models": "ILX:0793704",
             "name": "esophageal nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
@@ -4424,7 +4424,7 @@
         },
         "vagus_1": {
             "type": "nerve",
-            "models": "FMA:6232"
+            "models": "ILX:0793829"
         },
         "vagus_2": {
             "type": "nerve",
@@ -4570,17 +4570,13 @@
             "type": "nerve",
             "models": "ILX:0788232"
         },
-        "superior_laryngeal_17": {
-            "type": "nerve",
-            "models": "ILX:0785069"
-        },
         "superior_laryngeal_18": {
             "type": "nerve",
             "models": "ILX:0786237"
         },
         "vagus_7": {
             "type": "nerve",
-            "models": "FMA:77213"
+            "models": "ILX:0774697"
         },
         "vagus_8": {
             "type": "nerve",
@@ -4632,7 +4628,7 @@
         },
         "vagus_11": {
             "type": "nerve",
-            "models": "FMA:6231"
+            "models": "ILX:0793828"
         },
         "pharyngeal_vagus_1": {
             "type": "nerve",
@@ -4656,7 +4652,7 @@
         },
         "vagus_14": {
             "type": "nerve",
-            "models": "FMA:6233"
+            "models": "ILX:0793830"
         },
         "bolser_101": {
             "type": "nerve",
@@ -4785,7 +4781,7 @@
             "centrelines": [
                 {
                     "id": "n_6",
-                    "models": "FMA:6231",
+                    "models": "ILX:0793828",
                     "connects": [
                         "ganglion_1-1",
                         "n_6_branching_point"
@@ -4793,7 +4789,7 @@
                 },
                 {
                     "id": "n_6_X",
-                    "models": "FMA:6233",
+                    "models": "ILX:0793830",
                     "connects": [
                         "ganglion_1-1",
                         "point_3"
@@ -4801,7 +4797,7 @@
                 },
                 {
                     "id": "n_7",
-                    "models": "FMA:6232",
+                    "models": "ILX:0793829",
                     "connects": [
                         "ganglion_2-1",
                         "point_6",
@@ -5200,7 +5196,7 @@
                 },
                 {
                     "id": "n_56",
-                    "models": "FMA:77213",
+                    "models": "ILX:0774697",
                     "connects": [
                         "point_34",
                         "digestive_9-1"
