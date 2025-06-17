@@ -1,33 +1,5 @@
 [
     {
-        "id": "ILX:0791148",
-        "name": "Anterior root of fifth lumbar nerve",
-        "aliases": [
-            "EMAPA:25277"
-        ]
-    },
-    {
-        "id": "ILX:0785421",
-        "name": "Anterior root of first lumbar nerve",
-        "aliases": [
-            "EMAPA:25269"
-        ]
-    },
-    {
-        "id": "ILX:0792853",
-        "name": "Anterior root of first sacral nerve",
-        "aliases": [
-            "EMAPA:25281"
-        ]
-    },
-    {
-        "id": "ILX:0788675",
-        "name": "Anterior root of second lumbar nerve",
-        "aliases": [
-            "EMAPA:25271"
-        ]
-    },
-    {
         "id": "UBERON:0001508",
         "name": "arch of aorta",
         "aliases": [
@@ -154,13 +126,6 @@
         ]
     },
     {
-        "id": "ILX:0793360",
-        "name": "Sixth lumbar dorsal root ganglion",
-        "aliases": [
-            "EMAPA:25169"
-        ]
-    },
-    {
         "id": "UBERON:0001989",
         "name": "superior cervical ganglion",
         "aliases": [
@@ -172,20 +137,6 @@
         "name": "superior laryngeal nerve",
         "aliases": [
             "ILX:0731053"
-        ]
-    },
-    {
-        "id": "ILX:0793359",
-        "name": "Thirteenth thoracic dorsal root ganglion",
-        "aliases": [
-            "EMAPA:25186"
-        ]
-    },
-    {
-        "id": "ILX:0793357",
-        "name": "Thirteenth thoracic spinal cord segment",
-        "aliases": [
-            "EMAPA:19554"
         ]
     },
     {
