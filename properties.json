@@ -5022,7 +5022,7 @@
                     "models": "ILX:0784874",
                     "connects": [
                         "point_25",
-                        "pn_34_branching_point"
+                        "n_34_branching_point"
                     ]
                 },
                 {
