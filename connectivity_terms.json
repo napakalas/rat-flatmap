@@ -197,9 +197,7 @@
     {
         "id": [
             "ILX:0793233",
-            [
-                "UBERON:0000407"
-            ]
+            []
         ],
         "name": "interganglionic branch of inferior cervical ganglion to first thoracic ganglion/sympathetic trunk",
         "aliases": [
@@ -212,9 +210,7 @@
     {
         "id": [
             "ILX:0793234",
-            [
-                "UBERON:0000407"
-            ]
+            []
         ],
         "name": "interganglionic branch of inferior cervical ganglion to middle cervical ganglion/sympathetic trunk",
         "aliases": [
