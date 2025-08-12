@@ -1375,7 +1375,7 @@
         "S44_T12": {
             "class": "spinal_44"
         },
-        "S44_T12-1":{
+        "S44_T12-1": {
             "models": "ILX:0787665",
             "name": "posterior root of twelfth thoracic nerve"
         },
@@ -1863,28 +1863,28 @@
         "S50_L1": {
             "class": "spinal_50"
         },
-        "S50_L1-1":{
+        "S50_L1-1": {
             "models": "ILX:0788972",
             "name": "First lumbar nerve"
         },
         "S50_L2": {
             "class": "spinal_50"
         },
-        "S50_L2-1":{
+        "S50_L2-1": {
             "models": "ILX:0786362",
             "name": "Second lumbar nerve"
         },
         "S50_L3": {
             "class": "spinal_50"
         },
-        "S50_L3-1":{
+        "S50_L3-1": {
             "models": "ILX:0789374",
             "name": "Third lumbar nerve"
         },
         "S50_L4": {
             "class": "spinal_50"
         },
-        "S50_L4-1":{
+        "S50_L4-1": {
             "models": "ILX:0788896",
             "name": "Fourth lumbar nerve"
         },
@@ -1897,14 +1897,14 @@
         "S50_S1": {
             "class": "spinal_50"
         },
-        "S50_S1-1":{
+        "S50_S1-1": {
             "models": "ILX:0790504",
             "name": "First sacral nerve"
         },
         "S50_S2": {
             "class": "spinal_50"
         },
-        "S50_S2-1":{
+        "S50_S2-1": {
             "models": "ILX:0787528",
             "name": "Second sacral nerve"
         },
@@ -1977,7 +1977,7 @@
         "S51_S3": {
             "class": "spinal_51"
         },
-        "S51_S": {
+        "S51_S4": {
             "class": "spinal_51"
         },
         "S52_L1": {
@@ -2288,17 +2288,23 @@
         "brain_25-1": {
             "class": "brain_25"
         },
+        "brain_25-2": {
+            "class": "brain_25",
+            "unrouted": true
+        },
         "brain_26-1": {
             "class": "brain_26"
         },
         "brain_26-2": {
-            "class": "brain_26"
+            "class": "brain_26",
+            "unrouted": true
         },
         "brain_27-1": {
             "class": "brain_27"
         },
         "brain_27-2": {
-            "class": "brain_27"
+            "class": "brain_27",
+            "unrouted": true
         },
         "brain_29-1": {
             "class": "brain_29"
@@ -4219,7 +4225,7 @@
             "class": "auto-hide"
         },
         "plexus_5-1": {
-            "models": "FMA:6225",
+            "models": "ILX:0793704",
             "name": "esophageal nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
@@ -4396,9 +4402,29 @@
         "label_27-1": {
             "class": "label_27"
         },
+        "CNVII_c": {
+            "type": "nerve",
+            "models": "UBERON:0001647"
+        },
+        "great_pet_c": {
+            "type": "nerve",
+            "models": "ILX:0793702"
+        },
+        "deep_pet_c": {
+            "type": "nerve",
+            "models": "ILX:0793713"
+        },
+        "oculomotor_c": {
+            "type": "nerve",
+            "models": "UBERON:0001643"
+        },
+        "vidian_c": {
+            "type": "nerve",
+            "models": "UBERON:0018412"
+        },
         "vagus_1": {
             "type": "nerve",
-            "models": "FMA:6232"
+            "models": "ILX:0793829"
         },
         "vagus_2": {
             "type": "nerve",
@@ -4544,17 +4570,13 @@
             "type": "nerve",
             "models": "ILX:0788232"
         },
-        "superior_laryngeal_17": {
-            "type": "nerve",
-            "models": "ILX:0785069"
-        },
         "superior_laryngeal_18": {
             "type": "nerve",
             "models": "ILX:0786237"
         },
         "vagus_7": {
             "type": "nerve",
-            "models": "FMA:77213"
+            "models": "ILX:0774697"
         },
         "vagus_8": {
             "type": "nerve",
@@ -4606,7 +4628,7 @@
         },
         "vagus_11": {
             "type": "nerve",
-            "models": "FMA:6231"
+            "models": "ILX:0793828"
         },
         "pharyngeal_vagus_1": {
             "type": "nerve",
@@ -4630,7 +4652,7 @@
         },
         "vagus_14": {
             "type": "nerve",
-            "models": "FMA:6233"
+            "models": "ILX:0793830"
         },
         "bolser_101": {
             "type": "nerve",
@@ -4759,7 +4781,7 @@
             "centrelines": [
                 {
                     "id": "n_6",
-                    "models": "FMA:6231",
+                    "models": "ILX:0793828",
                     "connects": [
                         "ganglion_1-1",
                         "n_6_branching_point"
@@ -4767,7 +4789,7 @@
                 },
                 {
                     "id": "n_6_X",
-                    "models": "FMA:6233",
+                    "models": "ILX:0793830",
                     "connects": [
                         "ganglion_1-1",
                         "point_3"
@@ -4775,7 +4797,7 @@
                 },
                 {
                     "id": "n_7",
-                    "models": "FMA:6232",
+                    "models": "ILX:0793829",
                     "connects": [
                         "ganglion_2-1",
                         "point_6",
@@ -5000,7 +5022,7 @@
                     "models": "ILX:0784874",
                     "connects": [
                         "point_25",
-                        "pn_34_branching_point"
+                        "n_34_branching_point"
                     ]
                 },
                 {
@@ -5174,7 +5196,7 @@
                 },
                 {
                     "id": "n_56",
-                    "models": "FMA:77213",
+                    "models": "ILX:0774697",
                     "connects": [
                         "point_34",
                         "digestive_9-1"

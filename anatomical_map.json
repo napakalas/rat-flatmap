@@ -659,31 +659,31 @@
         "term": "UBERON:0000006",
         "name": "Islet of langerhans"
     },
-	"digestive_84": {
+    "digestive_84": {
         "term": "UBERON:0000483",
         "name": "Epithelium"
     },
-	"digestive_85": {
+    "digestive_85": {
         "term": "UBERON:0001193",
         "name": "Hepatic artery"
     },
-	"digestive_86": {
+    "digestive_86": {
         "term": "UBERON:0001194",
         "name": "Splenic artery"
     },
-	"digestive_87": {
+    "digestive_87": {
         "term": "UBERON:0001195",
         "name": "Inferior pancreaticoduodenal artery"
     },
-	"digestive_88": {
+    "digestive_88": {
         "term": "UBERON:0002017",
         "name": "portal vein"
     },
-	"digestive_89": {
+    "digestive_89": {
         "term": "ILX:0741796",
         "name": "deep transverse perineal muscle"
     },
-	"reproductive_1": {
+    "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
     },
@@ -1104,11 +1104,11 @@
         "name": "sympathetic trunk"
     },
     "spinal_48": {
-        "term": "FMA:5875",
+        "term": "ILX:0794742",
         "name": "White communicating ramus"
     },
     "spinal_49": {
-        "term": "FMA:5876",
+        "term": "ILX:0794739",
         "name": "Gray communicating ramus"
     },
     "spinal_50": {
