@@ -4778,7 +4778,7 @@
         {
             "id": "neural",
             "type": "nerve",
-            "centrelines": [
+            "no-centrelines": [
                 {
                     "id": "n_6",
                     "models": "ILX:0793828",
