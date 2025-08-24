@@ -1,8 +1,8 @@
-name: publish-curation
+name: publish-release
 on:
   push:
     branches:
-      - curation
+      - release
   workflow_dispatch:
 
 jobs:
@@ -19,8 +19,8 @@ jobs:
       - name: run remotemaker
         run: |
           python -m remotemaker \
-                 --server ${{ vars.CURATION_MAP_SERVER }} \
-                 --token ${{ secrets.CURATION_SERVER_TOKEN }} \
+                 --server ${{ vars.STAGING_MAP_SERVER }} \
+                 --token ${{ secrets.STAGING_SERVER_TOKEN }} \
                  --source ${{ github.server_url }}/${{ github.repository }} \
                  --manifest manifest.json \
-                 --commit curation
+                 --commit release
