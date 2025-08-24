@@ -4721,54 +4721,6 @@
             "type": "nerve",
             "models": "ILX:0793632"
         },
-        "bolser_11": {
-            "class": "bolser_5"
-        },
-        "bolser_25": {
-            "class": "bolser_5"
-        },
-        "vagus_n-1": {
-            "class": "vagus_n"
-        },
-        "vagus_n-2": {
-            "class": "vagus_n"
-        },
-        "vagus_n-3": {
-            "class": "vagus_n"
-        },
-        "vagus_n-4": {
-            "class": "vagus_n"
-        },
-        "vagus_n-5": {
-            "class": "vagus_n"
-        },
-        "vagus_n-6": {
-            "class": "vagus_n"
-        },
-        "vagus_n-7": {
-            "class": "vagus_n"
-        },
-        "vagus_n-8": {
-            "class": "vagus_n"
-        },
-        "vagus_n-9": {
-            "class": "vagus_n"
-        },
-        "vagus_n-10": {
-            "class": "vagus_n"
-        },
-        "vagus_n-11": {
-            "class": "vagus_n"
-        },
-        "vagus_n-12": {
-            "class": "vagus_n"
-        },
-        "vagus_n-13": {
-            "class": "vagus_n"
-        },
-        "vagus_n-14": {
-            "class": "vagus_n"
-        },
         "vagus": {
             "class": "vagus_n",
             "type": "nerve"
