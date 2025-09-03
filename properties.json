@@ -4081,7 +4081,8 @@
             "class": "spinal_55"
         },
         "spinal_56-1": {
-            "class": "spinal_56"
+            "class": "spinal_56",
+            "type": "nerve"
         },
         "spinal_57-1": {
             "class": "spinal_57"
