@@ -4733,6 +4733,26 @@
         "MCG-ICG_sympathetic_cord_c": {
             "type": "nerve",
             "models": "ILX:0793234"
+        },
+        "lacrimal_zygomatic_c": {
+            "type": "nerve",
+            "models": "ILX:0793711"
+        },
+        "zygomatic_c": {
+            "type": "nerve",
+            "models": "ILX:0793712"
+        },
+        "lacrimal_c": {
+            "type": "nerve",
+            "models": "UBERON:0011096"
+        },
+        "long_ciliary_c": {
+            "type": "nerve",
+            "models": "UBERON:0022301"
+        },
+        "short_ciliary_c": {
+            "type": "nerve",
+            "models": "UBERON:0022302"
         }
     },
     "networks": [
