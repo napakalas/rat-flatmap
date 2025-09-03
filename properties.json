@@ -4753,6 +4753,18 @@
         "short_ciliary_c": {
             "type": "nerve",
             "models": "UBERON:0022302"
+        },
+        "splanchnic_n-4_c": {
+            "type": "nerve",
+            "models": "UBERON:0001964"
+        },
+        "splanchnic_n-2_c": {
+            "type": "nerve",
+            "models": "UBERON:0018680"
+        },
+        "splanchnic_n-3_c": {
+            "type": "nerve",
+            "models": "UBERON:0018681"
         }
     },
     "networks": [
