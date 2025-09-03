@@ -4725,6 +4725,14 @@
         "vagus": {
             "class": "vagus_n",
             "type": "nerve"
+        },
+        "ICG-T1_sympathetic_cord_c": {
+            "type": "nerve",
+            "models": "ILX:0793233"
+        },
+        "MCG-ICG_sympathetic_cord_c": {
+            "type": "nerve",
+            "models": "ILX:0793234"
         }
     },
     "networks": [
