@@ -4765,6 +4765,18 @@
         "splanchnic_n-3_c": {
             "type": "nerve",
             "models": "UBERON:0018681"
+        },
+        "less_pet_c": {
+            "type": "nerve",
+            "models": "ILX:0793722"
+        },
+        "auriculotemporal_c": {
+            "type": "nerve",
+            "models": "ILX:0793723"
+        },
+        "nasopalatine_c": {
+            "type": "nerve",
+            "models": "UBERON:0008810"
         }
     },
     "networks": [
