@@ -1209,7 +1209,7 @@
     },
     "brain_14": {
         "term": "UBERON:0003040",
-        "name": "Ventrolateral Periaqueductal Gray"
+        "name": "central gray substance of midbrain"
     },
     "brain_15": {
         "term": "UBERON:0007769",
@@ -1346,6 +1346,10 @@
     "brain_51": {
         "term": "UBERON:0002141",
         "name": "Oculomotor nucleus"
+    },
+    "brain_53": {
+        "term": "ILX:0793626",
+        "name": "Ventrolateral Periaqueductal Gray"
     },
     "bolser_2": {
         "term": "ILX:0738309",
