@@ -4039,6 +4039,10 @@
         "cardiac_interganglionic_c": {
             "type": "nerve",
             "models": "ILX:0796679"
+        },
+        "superior_ovarian_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0793822"
         }
     },
     "networks": [
