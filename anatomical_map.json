@@ -683,6 +683,10 @@
         "term": "ILX:0741796",
         "name": "deep transverse perineal muscle"
     },
+    "digestive_90": {
+        "term": "UBERON:0004782",
+        "name": "gastrointestinal system serosa"
+    },
     "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"

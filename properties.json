@@ -2449,6 +2449,9 @@
         "digestive_55-2": {
             "class": "digestive_55"
         },
+        "digestive_55-3": {
+            "class": "digestive_55"
+        },
         "digestive_56-2": {
             "class": "digestive_56"
         },
@@ -2565,6 +2568,9 @@
         },
         "digestive_89-1": {
             "class": "digestive_89"
+        },
+        "digestive_90-1": {
+            "class": "digestive_90"
         },
         "digestive_9-1": {
             "class": "digestive_9"
@@ -3520,6 +3526,12 @@
             "class": "auto-hide"
         },
         "plexus_10-2": {
+            "models": "ILX:0793656",
+            "name": "Myenteric Nerve Plexus of Stomach",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_10-3": {
             "models": "ILX:0793656",
             "name": "Myenteric Nerve Plexus of Stomach",
             "type": "ganglion",

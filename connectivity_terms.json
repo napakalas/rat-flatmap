@@ -2089,5 +2089,107 @@
                 []
             ]
         ]
+    },
+    {
+        "id": [
+            "ILX:0793656",
+            [
+                "ILX:0793558"
+            ]
+        ],
+        "name": "myenteric nerve plexus of stomach/distal stomach",
+        "aliases": [
+            [
+                "UBERON:0002439",
+                [
+                    "UBERON:0001165"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0008863",
+            [
+                "ILX:0793558"
+            ]
+        ],
+        "name": "stomach smooth muscle outer longitudinal layer/distal stomach",
+        "aliases": [
+            [
+                "UBERON:0008863",
+                [
+                    "UBERON:0001165"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001201",
+            [
+                "ILX:0793558"
+            ]
+        ],
+        "name": "serosa of stomach/distal stomach",
+        "aliases": [
+            [
+                "UBERON:0004782",
+                [
+                    "UBERON:0001165"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793656",
+            [
+                "UBERON:0002108"
+            ]
+        ],
+        "name": "myenteric nerve plexus of stomach/small intestine",
+        "aliases": [
+            [
+                "UBERON:0002439",
+                [
+                    "ILX:0774562"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0008863",
+            [
+                "UBERON:0002108"
+            ]
+        ],
+        "name": "stomach smooth muscle outer longitudinal layer/small intestine",
+        "aliases": [
+            [
+                "UBERON:0008863",
+                [
+                    "ILX:0774562"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0004782",
+            [
+                "UBERON:0002108"
+            ]
+        ],
+        "name": "gastrointestinal system serosa/small intestine",
+        "aliases": [
+            [
+                "UBERON:0004782",
+                [
+                    "ILX:0774562"
+                ]
+            ]
+        ]
     }
 ]
