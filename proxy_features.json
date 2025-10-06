@@ -3,7 +3,14 @@
         "feature": "UBERON:0000044",
         "name": "dorsal root ganglion",
         "proxies": [
-            "UBERON:0003943"
+            "UBERON:0002838"
+        ]
+    },
+    {
+        "feature": "UBERON:0002014",
+        "name": "inferior hypogastric nerve plexus",
+        "proxies": [
+            "UBERON:0016508"
         ]
     }
 ]
