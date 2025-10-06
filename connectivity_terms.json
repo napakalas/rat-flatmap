@@ -2178,5 +2178,22 @@
                 ]
             ]
         ]
+    },
+    {
+        "id": [
+            "ILX:0795492",
+            []
+        ],
+        "name": "Posterior root of thirteenth thoracic nerve",
+        "aliases": [
+            [
+                "ILX:0795049",
+                []
+            ],
+            [
+                "ILX:0795050",
+                []
+            ]
+        ]
     }
 ]

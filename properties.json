@@ -1255,145 +1255,128 @@
             "name": "Anterior root of fourth sacral nerve"
         },
         "S44_C1": {
-            "class": "spinal_44"
+            "models": "ILX:0784521",
+            "name": "posterior root of first cervical nerve"
         },
         "S44_C2": {
-            "class": "spinal_44"
+            "models": "ILX:0785587",
+            "name": "posterior root of second cervical nerve"
         },
         "S44_C3": {
-            "class": "spinal_44"
+            "models": "ILX:0784978",
+            "name": "posterior root of third cervical nerve"
         },
         "S44_C4": {
-            "class": "spinal_44"
+            "models": "ILX:0788437",
+            "name": "posterior root of fourth cervical nerve"
         },
         "S44_C5": {
-            "class": "spinal_44"
+            "models": "ILX:0785440",
+            "name": "posterior root of fifth cervical nerve"
         },
         "S44_C6": {
-            "class": "spinal_44"
+            "models": "ILX:0792748",
+            "name": "posterior root of sixth cervical nerve"
         },
         "S44_C7": {
-            "class": "spinal_44"
+            "models": "ILX:0789105",
+            "name": "posterior root of seventh cervical nerve"
         },
         "S44_C8": {
-            "class": "spinal_44"
+            "models": "ILX:0787870",
+            "name": "posterior root of eight cervical nerve"
         },
         "S44_L1": {
-            "class": "spinal_44"
-        },
-        "S44_L1-1": {
             "models": "ILX:0787779",
             "name": "posterior root of first lumbar nerve"
         },
         "S44_L2": {
-            "class": "spinal_44"
-        },
-        "S44_L2-1": {
             "models": "ILX:0792058",
             "name": "posterior root of second lumbar nerve"
         },
         "S44_L3": {
-            "class": "spinal_44"
-        },
-        "S44_L3-1": {
             "models": "ILX:0787227",
             "name": "posterior root of third lumbar nerve"
         },
         "S44_L4": {
-            "class": "spinal_44"
+            "models": "ILX:0786747",
+            "name": "posterior root of fourth lumbar nerve"
         },
         "S44_L5": {
-            "class": "spinal_44"
+            "models": "ILX:0785201",
+            "name": "posterior root of fifth lumbar nerve"
         },
         "S44_L6": {
-            "class": "spinal_44"
+            "models": "ILX:0795491",
+            "name": "posterior root of fourth lumbar nerve"
         },
         "S44_T1": {
-            "class": "spinal_44"
+            "models": "ILX:0785632",
+            "name": "posterior root of first thoracic nerve"
         },
         "S44_T2": {
-            "class": "spinal_44"
+            "models": "ILX:0791802",
+            "name": "posterior root of second thoracic nerve"
         },
         "S44_T3": {
-            "class": "spinal_44"
+            "models": "ILX:0789246",
+            "name": "posterior root of third thoracic nerve"
         },
         "S44_T4": {
-            "class": "spinal_44"
+            "models": "ILX:0785816",
+            "name": "posterior root of fourth thoracic nerve"
         },
         "S44_T5": {
-            "class": "spinal_44"
+            "models": "ILX:0788907",
+            "name": "posterior root of fifth thoracic nerve"
         },
         "S44_T6": {
-            "class": "spinal_44"
-        },
-        "S44_T6-1": {
             "models": "ILX:0785909",
             "name": "posterior root of sixth thoracic nerve"
         },
         "S44_T7": {
-            "class": "spinal_44"
-        },
-        "S44_T7-1": {
             "models": "ILX:0784605",
             "name": "posterior root of seventh thoracic nerve"
         },
         "S44_T8": {
-            "class": "spinal_44"
-        },
-        "S44_T8-1": {
             "models": "ILX:0792624",
             "name": "posterior root of eighth thoracic nerve"
         },
         "S44_T9": {
-            "class": "spinal_44"
-        },
-        "S44_T9-1": {
             "models": "ILX:0789741",
             "name": "posterior root of ninth thoracic nerve"
         },
         "S44_T10": {
-            "class": "spinal_44"
-        },
-        "S44_T10-1": {
             "models": "ILX:0789892",
             "name": "posterior root of tenth thoracic nerve"
         },
         "S44_T11": {
-            "class": "spinal_44"
-        },
-        "S44_T11-1": {
             "models": "ILX:0790338",
             "name": "posterior root of eleventh thoracic nerve"
         },
         "S44_T12": {
-            "class": "spinal_44"
-        },
-        "S44_T12-1": {
             "models": "ILX:0787665",
             "name": "posterior root of twelfth thoracic nerve"
         },
         "S44_T13": {
-            "class": "spinal_44"
-        },
-        "S44_T13_L": {
-            "models": "ILX:0795050",
-            "name": "Posterior root of left thirteenth thoracic nerve"
-        },
-        "S44_T13_R": {
-            "models": "ILX:0795049",
-            "name": "Posterior root of right thirteenth thoracic nerve"
+            "models": "ILX:0795492",
+            "name": "posterior root of thirteenth thoracic nerve"
         },
         "S44_S1": {
-            "class": "spinal_44"
+            "models": "ILX:0791633",
+            "name": "posterior root of first sacral nerve"
         },
         "S44_S2": {
-            "class": "spinal_44"
+            "models": "ILX:0788723",
+            "name": "posterior root of second sacral nerve"
         },
         "S44_S3": {
-            "class": "spinal_44"
+            "models": "ILX:0786145",
+            "name": "posterior root of third sacral nerve"
         },
         "S44_S4": {
-            "class": "spinal_44"
+            "models": "ILX:0785338",
+            "name": "posterior root of fourth sacral nerve"
         },
         "S45_C1": {
             "models": "UBERON:0002838",
