@@ -5,5 +5,12 @@
         "proxies": [
             "UBERON:0003943"
         ]
+    },
+    {
+        "feature": "UBERON:0002834",
+        "name": "cervical dorsal root ganglion",
+        "proxies": [
+            "UBERON:0002838"
+        ]
     }
 ]
