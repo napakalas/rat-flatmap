@@ -545,9 +545,6 @@
         "S38_L6": {
             "class": "spinal_38"
         },
-        "S38_S3": {
-            "class": "spinal_38"
-        },
         "S38_T1": {
             "class": "spinal_38"
         },
@@ -1257,10 +1254,6 @@
             "models": "ILX:0788553",
             "name": "Anterior root of fourth sacral nerve"
         },
-        "S43_S5": {
-            "models": "ILX:0785971",
-            "name": "Anterior root of fifth sacral nerve"
-        },
         "S44_C1": {
             "class": "spinal_44"
         },
@@ -1526,10 +1519,6 @@
             "models": "UBERON:0007713",
             "name": "fourth sacral spinal ganglion"
         },
-        "S45_S5": {
-            "models": "UBERON:0002863",
-            "name": "fifth sacral dorsal root ganglion"
-        },
         "S46_T1": {
             "models": "ILX:0774266",
             "name": "T1 Sympathetic ganglion"
@@ -1708,38 +1697,6 @@
         "S48_S4": {
             "class": "spinal_48"
         },
-        "S49_C1": {
-            "models": "ILX:0793551",
-            "name": "Gray communicating ramus of the first cervical nerve"
-        },
-        "S49_C2": {
-            "models": "ILX:0793552",
-            "name": "Gray communicating ramus of the second cervical nerve"
-        },
-        "S49_C3": {
-            "models": "ILX:0793553",
-            "name": "Gray communicating ramus of the third cervical nerve"
-        },
-        "S49_C4": {
-            "models": "ILX:0793222",
-            "name": "C4 gray ramus"
-        },
-        "S49_C5": {
-            "models": "ILX:0793223",
-            "name": "C5 gray ramus"
-        },
-        "S49_C6": {
-            "models": "ILX:0793224",
-            "name": "C6 gray ramus"
-        },
-        "S49_C7": {
-            "models": "ILX:0793225",
-            "name": "C7 gray ramus"
-        },
-        "S49_C8": {
-            "models": "ILX:0793226",
-            "name": "C8 gray ramus"
-        },
         "S49_T1": {
             "models": "ILX:0787082",
             "name": "Gray communicating ramus of first intercostal nerve"
@@ -1831,10 +1788,6 @@
         "S49_S4": {
             "models": "ILX:0793231",
             "name": "Gray communicating ramus of fourth sacral nerve"
-        },
-        "S49_S5": {
-            "models": "ILX:0793232",
-            "name": "Gray communicating ramus of fifth sacral nerve"
         },
         "S50_C1": {
             "class": "spinal_50"
@@ -1995,14 +1948,6 @@
         "S52_T13": {
             "class": "spinal_51"
         },
-        "ganglion_6-1": {
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
-        "ganglion_7-1": {
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
         "ganglion_8-1": {
             "models": "UBERON:0001808",
             "name": "parasympathetic ganglion",
@@ -2018,12 +1963,6 @@
         "ganglion_10-1": {
             "models": "UBERON:0002440",
             "name": "inferior cervical ganglion",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
-        "ganglion_11-1": {
-            "models": "UBERON:0002441",
-            "name": "cervicothoracic ganglion",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -2126,29 +2065,8 @@
         "body_1-1": {
             "class": "body_1"
         },
-        "body_2-1": {
-            "class": "body_2"
-        },
-        "body_3-1": {
-            "class": "body_3"
-        },
-        "body_4-1": {
-            "class": "body_4"
-        },
-        "body_4-2": {
-            "class": "body_4"
-        },
-        "body_5-1": {
-            "class": "body_5"
-        },
         "body_6-1": {
             "class": "body_6"
-        },
-        "body_7-1": {
-            "class": "body_7"
-        },
-        "body_7-2": {
-            "class": "body_7"
         },
         "body_8-1": {
             "class": "body_8"
@@ -2174,61 +2092,16 @@
         "eye_5-1": {
             "class": "eye_5"
         },
-        "bolser13_1": {
-            "class": "bolser_13"
-        },
-        "bolser13_2": {
-            "class": "bolser_13"
-        },
-        "bolser_14-1": {
-            "class": "bolser_14"
-        },
-        "bolser_12-1": {
-            "class": "bolser_12"
-        },
-        "bolser_16-1": {
-            "class": "bolser_16"
-        },
-        "bolser_17-1": {
-            "class": "bolser_17"
-        },
-        "bolser_19-1": {
-            "class": "bolser_19"
-        },
-        "bolser_3-1": {
-            "class": "bolser_3"
-        },
-        "bolser_4-1": {
-            "class": "bolser_4"
-        },
-        "bolser_7-1": {
-            "class": "bolser_7"
-        },
-        "bolser_8-1": {
-            "class": "bolser_8"
-        },
-        "brain_10-2": {
-            "class": "brain_10"
-        },
         "brain_11-1": {
             "class": "brain_11"
         },
-        "brain_11-2": {
-            "class": "brain_11"
-        },
         "brain_12-1": {
-            "class": "brain_12"
-        },
-        "brain_12-2": {
             "class": "brain_12"
         },
         "brain_13-1": {
             "class": "brain_13"
         },
         "brain_9-1": {
-            "class": "brain_9"
-        },
-        "brain_9-2": {
             "class": "brain_9"
         },
         "brain_1-1": {
@@ -2255,29 +2128,8 @@
         "brain_19-1": {
             "class": "brain_19"
         },
-        "brain_2-1": {
-            "class": "brain_2"
-        },
-        "brain_2-2": {
-            "class": "brain_2"
-        },
         "brain_20-1": {
             "class": "brain_20"
-        },
-        "brain_21-1": {
-            "class": "brain_21"
-        },
-        "brain_23_1": {
-            "class": "brain_23"
-        },
-        "brain_23_2": {
-            "class": "brain_23"
-        },
-        "brain_23_3": {
-            "class": "brain_23"
-        },
-        "brain_23_4": {
-            "class": "brain_23"
         },
         "brain_24-1": {
             "class": "brain_24"
@@ -2342,9 +2194,6 @@
         "brain_41-1": {
             "class": "brain_41"
         },
-        "brain_42-1": {
-            "class": "brain_42"
-        },
         "brain_43-1": {
             "class": "brain_43"
         },
@@ -2372,9 +2221,6 @@
         "brain_6-1": {
             "class": "brain_6"
         },
-        "brain_7-1": {
-            "class": "brain_7"
-        },
         "brain_8-1": {
             "class": "brain_8"
         },
@@ -2382,9 +2228,6 @@
             "class": "brain_8"
         },
         "cardio_10-1": {
-            "class": "cardio_10"
-        },
-        "cardio_10-2": {
             "class": "cardio_10"
         },
         "cardio_11-1": {
@@ -2395,9 +2238,6 @@
         },
         "cardio_13-1": {
             "class": "cardio_13"
-        },
-        "cardio_16-1": {
-            "class": "cardio_16"
         },
         "cardio_18-1": {
             "class": "cardio_18"
@@ -2425,9 +2265,6 @@
         },
         "cardio_25-1": {
             "class": "cardio_25"
-        },
-        "cardio_26-1": {
-            "class": "cardio_26"
         },
         "cardio_27-1": {
             "class": "cardio_27"
@@ -2501,44 +2338,10 @@
         "cardio_9-1": {
             "class": "cardio_9"
         },
-        "cardio_9-2": {
-            "class": "cardio_9"
-        },
-        "circulatory_1-1": {
-            "class": "circulatory_1"
-        },
         "connection_1-2": {
             "class": "connection_1"
         },
-        "data_1": {
-            "label": "Intrinsic cardiac neurons",
-            "datasets": [
-                "https://sparc.science/datasets/29?type=dataset"
-            ]
-        },
-        "data_2": {
-            "models": "UBERON:0001884",
-            "datasets": [
-                "https://sparc.science/datasets/52?type=dataset",
-                "https://sparc.science/datasets/52?type=dataset"
-            ]
-        },
-        "data_3": {
-            "models": "UBERON:0001649",
-            "datasets": [
-                "https://sparc.science/datasets/48?type=dataset"
-            ]
-        },
-        "data_4": {
-            "label": "Cardiac cells",
-            "datasets": [
-                "https://sparc.science/datasets/23?type=dataset"
-            ]
-        },
         "digestive_10-1": {
-            "class": "digestive_10"
-        },
-        "digestive_10-2": {
             "class": "digestive_10"
         },
         "digestive_11-1": {
@@ -2549,18 +2352,6 @@
         },
         "digestive_13-1": {
             "class": "digestive_13"
-        },
-        "digestive_14-1": {
-            "class": "digestive_14"
-        },
-        "digestive_15-1": {
-            "class": "digestive_15"
-        },
-        "digestive_16-1": {
-            "class": "digestive_16"
-        },
-        "digestive_16-2": {
-            "class": "digestive_16"
         },
         "digestive_17-1": {
             "class": "digestive_17"
@@ -2580,41 +2371,11 @@
         "digestive_21-1": {
             "class": "digestive_21"
         },
-        "digestive_3-1": {
-            "class": "digestive_3"
-        },
         "digestive_33-1": {
             "class": "digestive_33"
         },
-        "digestive_34-1": {
-            "class": "digestive_34"
-        },
-        "digestive_35-1": {
-            "class": "digestive_35"
-        },
-        "digestive_36-1": {
-            "class": "digestive_36"
-        },
-        "digestive_37-1": {
-            "class": "digestive_37"
-        },
-        "digestive_39-1": {
-            "class": "digestive_39"
-        },
         "digestive_4-1": {
             "class": "digestive_4"
-        },
-        "digestive_40-1": {
-            "class": "digestive_40"
-        },
-        "digestive_41-1": {
-            "class": "digestive_41"
-        },
-        "digestive_42-1": {
-            "class": "digestive_42"
-        },
-        "digestive_43-1": {
-            "class": "digestive_43"
         },
         "digestive_44-1": {
             "class": "digestive_44"
@@ -2703,12 +2464,6 @@
         "digestive_6-2": {
             "class": "digestive_6"
         },
-        "digestive_6-3": {
-            "class": "digestive_6"
-        },
-        "digestive_6-4": {
-            "class": "digestive_6"
-        },
         "digestive_60-1": {
             "class": "digestive_60"
         },
@@ -2738,18 +2493,6 @@
         },
         "digestive_69-1": {
             "class": "digestive_69"
-        },
-        "digestive_7-1": {
-            "class": "digestive_7"
-        },
-        "digestive_7-2": {
-            "class": "digestive_7"
-        },
-        "digestive_7-3": {
-            "class": "digestive_7"
-        },
-        "digestive_7-4": {
-            "class": "digestive_7"
         },
         "digestive_70-1": {
             "class": "digestive_70"
@@ -2823,41 +2566,17 @@
         "digestive_9-1": {
             "class": "digestive_9"
         },
-        "endocrine_1-1": {
-            "class": "endocrine_1"
-        },
-        "endocrine_1-2": {
-            "class": "endocrine_1"
-        },
         "endocrine_2-1": {
             "class": "endocrine_2"
         },
         "endocrine_3-1": {
             "class": "endocrine_3"
         },
-        "endocrine_3_1": {
-            "class": "receptor_3"
-        },
-        "endocrine_3_2": {
-            "class": "receptor_3"
-        },
-        "endocrine_3_3": {
-            "class": "receptor_3"
-        },
         "endocrine_4-1": {
             "class": "endocrine_4"
         },
         "endocrine_5-1": {
             "class": "endocrine_5"
-        },
-        "endocrine_6_1": {
-            "class": "endocrine_6"
-        },
-        "endocrine_6_2": {
-            "class": "endocrine_6"
-        },
-        "endocrine_6_3": {
-            "class": "endocrine_6"
         },
         "keast_1-1": {
             "class": "keast_1",
@@ -2896,35 +2615,8 @@
             "type": "nerve",
             "models": "UBERON:0018683"
         },
-        "lung_1_2": {
-            "class": "lung_1"
-        },
-        "lung_1_3": {
-            "class": "lung_1"
-        },
-        "lung_1_4": {
-            "class": "lung_1"
-        },
-        "lung_2-1": {
-            "class": "lung_2"
-        },
-        "lung_data": {
-            "models": "UBERON:0002048",
-            "scaffolds": [
-                "lung"
-            ]
-        },
-        "mawe_1-1": {
-            "class": "mawe_1"
-        },
-        "mawe_2-1": {
-            "class": "mawe_2"
-        },
         "muscle_1-1": {
             "class": "muscle_1"
-        },
-        "muscle_2-1": {
-            "class": "muscle_2"
         },
         "receptor_1-1": {
             "class": "receptor_1"
@@ -3073,12 +2765,6 @@
         "respiratory_14-1": {
             "class": "respiratory_14"
         },
-        "respiratory_15-1": {
-            "class": "respiratory_15"
-        },
-        "respiratory_16-1": {
-            "class": "respiratory_16"
-        },
         "respiratory_17-1": {
             "class": "respiratory_17"
         },
@@ -3130,55 +2816,11 @@
         "respiratory_5-1": {
             "class": "respiratory_5"
         },
-        "respiratory_6-1": {
-            "class": "respiratory_6"
-        },
-        "respiratory_7-1": {
-            "class": "respiratory_7"
-        },
         "respiratory_8-1": {
             "class": "respiratory_8"
         },
         "respiratory_9-1": {
             "class": "respiratory_9"
-        },
-        "scaffold_1": {
-            "models": "UBERON:0000948",
-            "scaffolds": [
-                "heart"
-            ]
-        },
-        "scaffold_2": {
-            "models": "UBERON:0001155",
-            "scaffolds": [
-                "colon"
-            ]
-        },
-        "scaffold_3": {
-            "models": "UBERON:0001255",
-            "scaffolds": [
-                "bladder"
-            ]
-        },
-        "scaffold_4": {
-            "models": "UBERON:0000945",
-            "scaffolds": [
-                "stomach"
-            ]
-        },
-        "simulation_1": {
-            "models": "UBERON:0001759",
-            "simulations": []
-        },
-        "simulation_2": {
-            "models": "UBERON:0000948",
-            "simulations": []
-        },
-        "simulation_3": {
-            "label": "cardiac ventricular cells",
-            "simulations": [
-                "https://sparc.science/datasets/63?type=dataset"
-            ]
         },
         "spinal_1-1": {
             "class": "spinal_1"
@@ -3339,190 +2981,22 @@
         "spinal_31-124": {
             "class": "spinal_31"
         },
-        "spinal_31-125": {
-            "class": "spinal_31"
-        },
-        "spinal_31-126": {
-            "class": "spinal_31"
-        },
-        "spinal_31-127": {
-            "class": "spinal_31"
-        },
-        "spinal_31-128": {
-            "class": "spinal_31"
-        },
-        "spinal_31-129": {
-            "class": "spinal_31"
-        },
         "spinal_31-13": {
-            "class": "spinal_31"
-        },
-        "spinal_31-130": {
-            "class": "spinal_31"
-        },
-        "spinal_31-131": {
-            "class": "spinal_31"
-        },
-        "spinal_31-132": {
-            "class": "spinal_31"
-        },
-        "spinal_31-133": {
-            "class": "spinal_31"
-        },
-        "spinal_31-134": {
-            "class": "spinal_31"
-        },
-        "spinal_31-135": {
-            "class": "spinal_31"
-        },
-        "spinal_31-136": {
-            "class": "spinal_31"
-        },
-        "spinal_31-137": {
-            "class": "spinal_31"
-        },
-        "spinal_31-138": {
-            "class": "spinal_31"
-        },
-        "spinal_31-139": {
             "class": "spinal_31"
         },
         "spinal_31-14": {
             "class": "spinal_31"
         },
-        "spinal_31-140": {
-            "class": "spinal_31"
-        },
-        "spinal_31-141": {
-            "class": "spinal_31"
-        },
-        "spinal_31-142": {
-            "class": "spinal_31"
-        },
-        "spinal_31-143": {
-            "class": "spinal_31"
-        },
-        "spinal_31-144": {
-            "class": "spinal_31"
-        },
-        "spinal_31-145": {
-            "class": "spinal_31"
-        },
-        "spinal_31-146": {
-            "class": "spinal_31"
-        },
-        "spinal_31-147": {
-            "class": "spinal_31"
-        },
-        "spinal_31-148": {
-            "class": "spinal_31"
-        },
-        "spinal_31-149": {
-            "class": "spinal_31"
-        },
         "spinal_31-15": {
-            "class": "spinal_31"
-        },
-        "spinal_31-150": {
-            "class": "spinal_31"
-        },
-        "spinal_31-151": {
-            "class": "spinal_31"
-        },
-        "spinal_31-152": {
-            "class": "spinal_31"
-        },
-        "spinal_31-153": {
-            "class": "spinal_31"
-        },
-        "spinal_31-154": {
-            "class": "spinal_31"
-        },
-        "spinal_31-155": {
-            "class": "spinal_31"
-        },
-        "spinal_31-156": {
-            "class": "spinal_31"
-        },
-        "spinal_31-157": {
-            "class": "spinal_31"
-        },
-        "spinal_31-158": {
-            "class": "spinal_31"
-        },
-        "spinal_31-159": {
             "class": "spinal_31"
         },
         "spinal_31-16": {
             "class": "spinal_31"
         },
-        "spinal_31-160": {
-            "class": "spinal_31"
-        },
-        "spinal_31-161": {
-            "class": "spinal_31"
-        },
-        "spinal_31-162": {
-            "class": "spinal_31"
-        },
-        "spinal_31-163": {
-            "class": "spinal_31"
-        },
-        "spinal_31-164": {
-            "class": "spinal_31"
-        },
-        "spinal_31-165": {
-            "class": "spinal_31"
-        },
-        "spinal_31-166": {
-            "class": "spinal_31"
-        },
-        "spinal_31-167": {
-            "class": "spinal_31"
-        },
-        "spinal_31-168": {
-            "class": "spinal_31"
-        },
-        "spinal_31-169": {
-            "class": "spinal_31"
-        },
         "spinal_31-17": {
             "class": "spinal_31"
         },
-        "spinal_31-170": {
-            "class": "spinal_31"
-        },
-        "spinal_31-171": {
-            "class": "spinal_31"
-        },
-        "spinal_31-172": {
-            "class": "spinal_31"
-        },
-        "spinal_31-173": {
-            "class": "spinal_31"
-        },
-        "spinal_31-174": {
-            "class": "spinal_31"
-        },
-        "spinal_31-175": {
-            "class": "spinal_31"
-        },
-        "spinal_31-176": {
-            "class": "spinal_31"
-        },
-        "spinal_31-177": {
-            "class": "spinal_31"
-        },
-        "spinal_31-178": {
-            "class": "spinal_31"
-        },
-        "spinal_31-179": {
-            "class": "spinal_31"
-        },
         "spinal_31-18": {
-            "class": "spinal_31"
-        },
-        "spinal_31-180": {
             "class": "spinal_31"
         },
         "spinal_31-19": {
@@ -3867,199 +3341,22 @@
         "spinal_32-31": {
             "class": "spinal_32"
         },
-        "spinal_32-32": {
-            "class": "spinal_32"
-        },
-        "spinal_32-33": {
-            "class": "spinal_32"
-        },
-        "spinal_32-34": {
-            "class": "spinal_32"
-        },
-        "spinal_32-35": {
-            "class": "spinal_32"
-        },
-        "spinal_32-36": {
-            "class": "spinal_32"
-        },
-        "spinal_32-37": {
-            "class": "spinal_32"
-        },
-        "spinal_32-38": {
-            "class": "spinal_32"
-        },
-        "spinal_32-39": {
-            "class": "spinal_32"
-        },
         "spinal_32-4": {
-            "class": "spinal_32"
-        },
-        "spinal_32-40": {
-            "class": "spinal_32"
-        },
-        "spinal_32-41": {
-            "class": "spinal_32"
-        },
-        "spinal_32-42": {
-            "class": "spinal_32"
-        },
-        "spinal_32-43": {
-            "class": "spinal_32"
-        },
-        "spinal_32-44": {
-            "class": "spinal_32"
-        },
-        "spinal_32-45": {
-            "class": "spinal_32"
-        },
-        "spinal_32-46": {
-            "class": "spinal_32"
-        },
-        "spinal_32-47": {
-            "class": "spinal_32"
-        },
-        "spinal_32-48": {
-            "class": "spinal_32"
-        },
-        "spinal_32-49": {
             "class": "spinal_32"
         },
         "spinal_32-5": {
             "class": "spinal_32"
         },
-        "spinal_32-50": {
-            "class": "spinal_32"
-        },
-        "spinal_32-51": {
-            "class": "spinal_32"
-        },
-        "spinal_32-52": {
-            "class": "spinal_32"
-        },
-        "spinal_32-53": {
-            "class": "spinal_32"
-        },
-        "spinal_32-54": {
-            "class": "spinal_32"
-        },
-        "spinal_32-55": {
-            "class": "spinal_32"
-        },
-        "spinal_32-56": {
-            "class": "spinal_32"
-        },
-        "spinal_32-57": {
-            "class": "spinal_32"
-        },
-        "spinal_32-58": {
-            "class": "spinal_32"
-        },
-        "spinal_32-59": {
-            "class": "spinal_32"
-        },
         "spinal_32-6": {
-            "class": "spinal_32"
-        },
-        "spinal_32-60": {
-            "class": "spinal_32"
-        },
-        "spinal_32-61": {
-            "class": "spinal_32"
-        },
-        "spinal_32-62": {
-            "class": "spinal_32"
-        },
-        "spinal_32-63": {
-            "class": "spinal_32"
-        },
-        "spinal_32-64": {
-            "class": "spinal_32"
-        },
-        "spinal_32-65": {
-            "class": "spinal_32"
-        },
-        "spinal_32-66": {
-            "class": "spinal_32"
-        },
-        "spinal_32-67": {
-            "class": "spinal_32"
-        },
-        "spinal_32-68": {
-            "class": "spinal_32"
-        },
-        "spinal_32-69": {
             "class": "spinal_32"
         },
         "spinal_32-7": {
             "class": "spinal_32"
         },
-        "spinal_32-70": {
-            "class": "spinal_32"
-        },
-        "spinal_32-71": {
-            "class": "spinal_32"
-        },
-        "spinal_32-72": {
-            "class": "spinal_32"
-        },
-        "spinal_32-73": {
-            "class": "spinal_32"
-        },
-        "spinal_32-74": {
-            "class": "spinal_32"
-        },
-        "spinal_32-75": {
-            "class": "spinal_32"
-        },
-        "spinal_32-76": {
-            "class": "spinal_32"
-        },
-        "spinal_32-77": {
-            "class": "spinal_32"
-        },
-        "spinal_32-78": {
-            "class": "spinal_32"
-        },
-        "spinal_32-79": {
-            "class": "spinal_32"
-        },
         "spinal_32-8": {
             "class": "spinal_32"
         },
-        "spinal_32-80": {
-            "class": "spinal_32"
-        },
-        "spinal_32-81": {
-            "class": "spinal_32"
-        },
-        "spinal_32-82": {
-            "class": "spinal_32"
-        },
-        "spinal_32-83": {
-            "class": "spinal_32"
-        },
-        "spinal_32-84": {
-            "class": "spinal_32"
-        },
-        "spinal_32-85": {
-            "class": "spinal_32"
-        },
-        "spinal_32-86": {
-            "class": "spinal_32"
-        },
-        "spinal_32-87": {
-            "class": "spinal_32"
-        },
-        "spinal_32-88": {
-            "class": "spinal_32"
-        },
-        "spinal_32-89": {
-            "class": "spinal_32"
-        },
         "spinal_32-9": {
-            "class": "spinal_32"
-        },
-        "spinal_32-90": {
             "class": "spinal_32"
         },
         "spinal_4-1": {
@@ -4081,13 +3378,8 @@
             "class": "spinal_55"
         },
         "spinal_56-1": {
-            "class": "spinal_56"
-        },
-        "spinal_57-1": {
-            "class": "spinal_57"
-        },
-        "spinal_58-1": {
-            "class": "spinal_58"
+            "class": "spinal_56",
+            "type": "nerve"
         },
         "spinal_6-1": {
             "class": "spinal_6"
@@ -4103,9 +3395,6 @@
         },
         "spinal_9-1": {
             "class": "spinal_9"
-        },
-        "spinal_65-1": {
-            "class": "spinal_65"
         },
         "urinary_10-1": {
             "class": "urinary_10"
@@ -4136,9 +3425,6 @@
         },
         "urinary_4-1": {
             "class": "urinary_4"
-        },
-        "urinary_5-1": {
-            "class": "urinary_5"
         },
         "urinary_6-1": {
             "class": "urinary_6"
@@ -4203,36 +3489,6 @@
         "plexus_1-1": {
             "models": "ILX:0793621",
             "name": "external carotid nerve plexus",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
-        "plexus_2-1": {
-            "models": "UBERON:0011325",
-            "name": "pharyngeal nerve plexus",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
-        "plexus_3-1": {
-            "models": "UBERON:0002008",
-            "name": "cardiac nerve plexus",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
-        "plexus_4-1": {
-            "models": "UBERON:0002009",
-            "name": "pulmonary nerve plexus",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
-        "plexus_5-1": {
-            "models": "ILX:0793704",
-            "name": "esophageal nerve plexus",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
-        "plexus_6-1": {
-            "models": "ILX:0770806",
-            "name": "left gastric nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -4324,10 +3580,6 @@
             "models": "ILX:0795011",
             "name": "periarterial neural plexus of the common hepatic artery",
             "type": "ganglion",
-            "class": "auto-hide"
-        },
-        "label_1-1": {
-            "label": "dura mater in the posterior cranial fossa",
             "class": "auto-hide"
         },
         "label_4-1": {
@@ -4721,57 +3973,61 @@
             "type": "nerve",
             "models": "ILX:0793632"
         },
-        "bolser_11": {
-            "class": "bolser_5"
-        },
-        "bolser_25": {
-            "class": "bolser_5"
-        },
-        "vagus_n-1": {
-            "class": "vagus_n"
-        },
-        "vagus_n-2": {
-            "class": "vagus_n"
-        },
-        "vagus_n-3": {
-            "class": "vagus_n"
-        },
-        "vagus_n-4": {
-            "class": "vagus_n"
-        },
-        "vagus_n-5": {
-            "class": "vagus_n"
-        },
-        "vagus_n-6": {
-            "class": "vagus_n"
-        },
-        "vagus_n-7": {
-            "class": "vagus_n"
-        },
-        "vagus_n-8": {
-            "class": "vagus_n"
-        },
-        "vagus_n-9": {
-            "class": "vagus_n"
-        },
-        "vagus_n-10": {
-            "class": "vagus_n"
-        },
-        "vagus_n-11": {
-            "class": "vagus_n"
-        },
-        "vagus_n-12": {
-            "class": "vagus_n"
-        },
-        "vagus_n-13": {
-            "class": "vagus_n"
-        },
-        "vagus_n-14": {
-            "class": "vagus_n"
-        },
         "vagus": {
             "class": "vagus_n",
             "type": "nerve"
+        },
+        "ICG-T1_sympathetic_cord_c": {
+            "type": "nerve",
+            "models": "ILX:0793233"
+        },
+        "MCG-ICG_sympathetic_cord_c": {
+            "type": "nerve",
+            "models": "ILX:0793234"
+        },
+        "lacrimal_zygomatic_c": {
+            "type": "nerve",
+            "models": "ILX:0793711"
+        },
+        "zygomatic_c": {
+            "type": "nerve",
+            "models": "ILX:0793712"
+        },
+        "lacrimal_c": {
+            "type": "nerve",
+            "models": "UBERON:0011096"
+        },
+        "long_ciliary_c": {
+            "type": "nerve",
+            "models": "UBERON:0022301"
+        },
+        "short_ciliary_c": {
+            "type": "nerve",
+            "models": "UBERON:0022302"
+        },
+        "splanchnic_n-4_c": {
+            "type": "nerve",
+            "models": "UBERON:0001964"
+        },
+        "splanchnic_n-2_c": {
+            "type": "nerve",
+            "models": "UBERON:0018680"
+        },
+        "splanchnic_n-3_c": {
+            "type": "nerve",
+            "models": "UBERON:0018681"
+        },
+        "less_pet_c": {
+            "type": "nerve",
+            "models": "ILX:0793722"
+        },
+        "auriculotemporal_c": {
+            "type": "nerve",
+            "models": "ILX:0793723"
+        },
+        "nasopalatine_c": {
+            "type": "nerve",
+            "models": "UBERON:0008810"
         }
     },
     "networks": [
