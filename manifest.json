@@ -12,9 +12,9 @@
         }
     ],
     "anatomicalMap": "anatomical_map.json",
-    "connectivityTerms": "connectivity_terms.json",
+    "connectivityTerms": null,
     "neuronConnectivity": [
         "NPO"
     ],
-    "proxyFeatures": "proxy_features.json"
+    "proxyFeatures": null
 }
