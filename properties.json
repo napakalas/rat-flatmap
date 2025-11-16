@@ -6,9 +6,6 @@
         "ganglion_7": {
             "label": "ventricular intracardiac ganglion"
         },
-        "ganglion_8": {
-            "label": "mediastinal ganglion"
-        },
         "label_2": {
             "label": "posterior wall of external acoustic meatus"
         },
@@ -1949,6 +1946,24 @@
             "class": "spinal_51"
         },
         "ganglion_8-1": {
+            "models": "UBERON:0001808",
+            "name": "parasympathetic ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_8-2": {
+            "models": "UBERON:0001808",
+            "name": "parasympathetic ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_8-3": {
+            "models": "UBERON:0001808",
+            "name": "parasympathetic ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_8-4": {
             "models": "UBERON:0001808",
             "name": "parasympathetic ganglion",
             "type": "ganglion",
@@ -3939,13 +3954,16 @@
             "models": "ILX:0738313"
         },
         "bolser_109": {
-            "type": "nerve"
+            "type": "nerve",
+            "models": "ILX:0738309"
         },
         "bolser_110": {
-            "type": "nerve"
+            "type": "nerve",
+            "models": "ILX:0738308"
         },
         "bolser_112": {
-            "type": "nerve"
+            "type": "nerve",
+            "models": "ILX:0738374"
         },
         "bolser_113": {
             "type": "nerve"
@@ -4028,6 +4046,27 @@
         "nasopalatine_c": {
             "type": "nerve",
             "models": "UBERON:0008810"
+        },
+        "n_76_c": {
+            "type": "nerve"
+        },
+        "n_77_c": {
+            "type": "nerve"
+        },
+        "ardell_1_c": {
+            "type": "nerve"
+        },
+        "ardell_4_c": {
+            "type": "nerve"
+        },
+        "ardell_5_c": {
+            "type": "nerve"
+        },
+        "ardell_6_c": {
+            "type": "nerve"
+        },
+        "bolser_9_c": {
+            "type": "nerve"
         }
     },
     "networks": [
