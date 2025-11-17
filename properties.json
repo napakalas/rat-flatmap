@@ -1951,24 +1951,6 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
-        "ganglion_8-2": {
-            "models": "UBERON:0001808",
-            "name": "parasympathetic ganglion",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
-        "ganglion_8-3": {
-            "models": "UBERON:0001808",
-            "name": "parasympathetic ganglion",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
-        "ganglion_8-4": {
-            "models": "UBERON:0001808",
-            "name": "parasympathetic ganglion",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
         "ganglion_9-1": {
             "models": "UBERON:0001990",
             "name": "middle cervical ganglion",
