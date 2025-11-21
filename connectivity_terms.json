@@ -1,166 +1,5 @@
 [
     {
-        "id": "UBERON:0001508",
-        "name": "arch of aorta",
-        "aliases": [
-            "ILX:0738302"
-        ]
-    },
-    {
-        "id": "UBERON:0001629",
-        "name": "carotid body",
-        "aliases": [
-            "ILX:0736966"
-        ]
-    },
-    {
-        "id": "UBERON:0003708",
-        "name": "carotid sinus",
-        "aliases": [
-            "ILX:0731873"
-        ]
-    },
-    {
-        "id": "UBERON:0001894",
-        "name": "diencephalon",
-        "aliases": [
-            "ILX:0103217"
-        ]
-    },
-    {
-        "id": "UBERON:0000388",
-        "name": "epiglottis",
-        "aliases": [
-            "ILX:0103886"
-        ]
-    },
-    {
-        "id": "UBERON:0001649",
-        "name": "glossopharyngeal nerve",
-        "aliases": [
-            "ILX:0723837"
-        ]
-    },
-    {
-        "id": "UBERON:0001898",
-        "name": "hypothalamus",
-        "aliases": [
-            "ILX:0105177"
-        ]
-    },
-    {
-        "id": "UBERON:0002440",
-        "name": "inferior cervical ganglion",
-        "aliases": [
-            "ILX:0734766"
-        ]
-    },
-    {
-        "id": "UBERON:0001532",
-        "name": "internal carotid artery",
-        "aliases": [
-            "ILX:0736647"
-        ]
-    },
-    {
-        "id": "UBERON:0001737",
-        "name": "larynx",
-        "aliases": [
-            "ILX:0727818"
-        ]
-    },
-    {
-        "id": "UBERON:0001896",
-        "name": "medulla oblongata",
-        "aliases": [
-            "ILX:0738301"
-        ]
-    },
-    {
-        "id": "UBERON:0001891",
-        "name": "midbrain",
-        "aliases": [
-            "ILX:0106935"
-        ]
-    },
-    {
-        "id": "UBERON:0001990",
-        "name": "middle cervical ganglion",
-        "aliases": [
-            "ILX:0726454"
-        ]
-    },
-    {
-        "id": "UBERON:0004982",
-        "name": "mucosa of epiglottis",
-        "aliases": [
-            "ILX:0736652"
-        ]
-    },
-    {
-        "id": "UBERON:0005020",
-        "name": "mucosa of tongue",
-        "aliases": [
-            "ILX:0731712"
-        ]
-    },
-    {
-        "id": "UBERON:0009050",
-        "name": "nucleus of solitary tract",
-        "aliases": [
-            "ILX:0738323"
-        ]
-    },
-    {
-        "id": "UBERON:0001884",
-        "name": "phrenic nerve",
-        "aliases": [
-            "ILX:0736057"
-        ]
-    },
-    {
-        "id": "UBERON:0000988",
-        "name": "pons",
-        "aliases": [
-            "ILX:0109019"
-        ]
-    },
-    {
-        "id": "UBERON:0001989",
-        "name": "superior cervical ganglion",
-        "aliases": [
-            "ILX:0725956"
-        ]
-    },
-    {
-        "id": "UBERON:0011326",
-        "name": "superior laryngeal nerve",
-        "aliases": [
-            "ILX:0731053"
-        ]
-    },
-    {
-        "id": "UBERON:0001723",
-        "name": "tongue",
-        "aliases": [
-            "ILX:0111810"
-        ]
-    },
-    {
-        "id": "UBERON:0003126",
-        "name": "trachea",
-        "aliases": [
-            "ILX:0729183"
-        ]
-    },
-    {
-        "id": "UBERON:0001759",
-        "name": "vagus nerve",
-        "aliases": [
-            "ILX:0733375"
-        ]
-    },
-    {
         "id": [
             "UBERON:0007240",
             [
@@ -814,10 +653,6 @@
                 []
             ],
             [
-                "ILX:0793885",
-                []
-            ],
-            [
                 "ILX:0793884",
                 []
             ]
@@ -1078,6 +913,10 @@
             [
                 "ILX:0794769",
                 []
+            ],
+            [
+                "ILX:0794767",
+                []
             ]
         ]
     },
@@ -1090,6 +929,10 @@
         "aliases": [
             [
                 "ILX:0794770",
+                []
+            ],
+            [
+                "ILX:0794768",
                 []
             ]
         ]
@@ -1158,36 +1001,6 @@
             ],
             [
                 "ILX:0794766",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0793769",
-            [
-                "UBERON:0000002"
-            ]
-        ],
-        "name": "smooth muscle/uterine cervix",
-        "aliases": [
-            [
-                "ILX:0794768",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0793769",
-            [
-                "UBERON:0009853"
-            ]
-        ],
-        "name": "smooth muscle/body of uterus",
-        "aliases": [
-            [
-                "ILX:0794767",
                 []
             ]
         ]
@@ -1334,19 +1147,6 @@
         "aliases": [
             [
                 "ILX:0731969",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0793218",
-            []
-        ],
-        "name": "white communicating ramus of twelfth thoracic spinal nerve",
-        "aliases": [
-            [
-                "TEMP:MISSING_white-communicating-ramus",
                 []
             ]
         ]
