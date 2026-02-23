@@ -2059,6 +2059,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_28-1": {
+            "models": "ILX:0795345",
+            "name": "myenteric nerve plexus ganglion of large intestine",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
