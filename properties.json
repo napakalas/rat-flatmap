@@ -2065,6 +2065,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_29-1": {
+            "models": "UBERON:0001809",
+            "name": "enteric ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
