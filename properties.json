@@ -2215,6 +2215,9 @@
         "brain_51-1": {
             "class": "brain_51"
         },
+        "brain_52-1": {
+            "class": "brain_52"
+        },
         "brain_6-1": {
             "class": "brain_6"
         },
@@ -3650,6 +3653,18 @@
         },
         "label_27-1": {
             "class": "label_27"
+        },
+        "label_28-1": {
+            "class": "label_28"
+        },
+        "label_29-1": {
+            "class": "label_29"
+        },
+        "label_30-1": {
+            "class": "label_30"
+        },
+        "label_31-1": {
+            "class": "label_31"
         },
         "CNVII_c": {
             "type": "nerve",
