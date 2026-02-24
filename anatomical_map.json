@@ -1351,6 +1351,10 @@
         "term": "UBERON:0001717",
         "name": "spinal nucleus of trigeminal nerve"
     },
+    "brain_54": {
+        "term": "UBERON:0002945",
+        "name": "ventral posteromedial nucleus of thalamus"
+    },
     "bolser_2": {
         "term": "ILX:0738309",
         "name": "Internal branch of inferior laryngeal nerve"
@@ -1514,6 +1518,22 @@
     "label_31": {
         "term": "UBERON:0002075",
         "name": "viscus"
+    },
+    "label_32": {
+        "term": "UBERON:0001484",
+        "name": "articular capsule"
+    },
+    "label_33": {
+        "term": "UBERON:0002097",
+        "name": "skin of body"
+    },
+    "label_34": {
+        "term": "UBERON:0001015",
+        "name": "musculature"
+    },
+    "label_35": {
+        "term": "UBERON:0001630",
+        "name": "muscle organ"
     },
     "vagus_n": {
         "term": "UBERON:0001759",
