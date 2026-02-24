@@ -703,6 +703,22 @@
         "term": "ILX:0795341",
         "name": "muscle layer of proximal colon"
     },
+    "digestive_96": {
+        "term": "UBERON:0005436",
+        "name": "common hepatic artery"
+    },
+    "digestive_97": {
+        "term": "UBERON:0011198",
+        "name": "muscle layer of large intestine"
+    },
+    "digestive_98": {
+        "term": "UBERON:0001278",
+        "name": "epithelium of large intestine"
+    },
+    "digestive_99": {
+        "term": "UBERON:0004222",
+        "name": "stomach smooth muscle"
+    },
     "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
@@ -1554,10 +1570,6 @@
     "label_35": {
         "term": "UBERON:0001630",
         "name": "muscle organ"
-    },
-    "label_36": {
-        "term": "UBERON:0005436",
-        "name": "common hepatic artery"
     },
     "vagus_n": {
         "term": "UBERON:0001759",

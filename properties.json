@@ -2083,6 +2083,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_32-1": {
+            "models": "ILX:0795349",
+            "name": "submucosal nerve plexus ganglion of large intestine",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -2593,6 +2599,9 @@
         "digestive_89-1": {
             "class": "digestive_89"
         },
+        "digestive_9-1": {
+            "class": "digestive_9"
+        },
         "digestive_90-1": {
             "class": "digestive_90"
         },
@@ -2611,8 +2620,17 @@
         "digestive_95-1": {
             "class": "digestive_95"
         },
-        "digestive_9-1": {
-            "class": "digestive_9"
+        "digestive_96-1": {
+            "class": "digestive_96"
+        },
+        "digestive_97-1": {
+            "class": "digestive_97"
+        },
+        "digestive_98-1": {
+            "class": "digestive_98"
+        },
+        "digestive_99-1": {
+            "class": "digestive_99"
         },
         "endocrine_2-1": {
             "class": "endocrine_2"
@@ -3725,9 +3743,6 @@
         },
         "label_35-1": {
             "class": "label_35"
-        },
-        "label_36-1": {
-            "class": "label_36"
         },
         "CNVII_c": {
             "type": "nerve",
