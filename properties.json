@@ -2071,6 +2071,18 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_30-1": {
+            "models": "ILX:0795348",
+            "name": "submucosal nerve plexus ganglion of small intestine",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_31-1": {
+            "models": "ILX:0793735",
+            "name": "Myenteric ganglion of small intestine",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -2574,6 +2586,24 @@
         },
         "digestive_89-1": {
             "class": "digestive_89"
+        },
+        "digestive_90-1": {
+            "class": "digestive_90"
+        },
+        "digestive_91-1": {
+            "class": "digestive_91"
+        },
+        "digestive_92-1": {
+            "class": "digestive_92"
+        },
+        "digestive_93-1": {
+            "class": "digestive_93"
+        },
+        "digestive_94-1": {
+            "class": "digestive_94"
+        },
+        "digestive_95-1": {
+            "class": "digestive_95"
         },
         "digestive_9-1": {
             "class": "digestive_9"

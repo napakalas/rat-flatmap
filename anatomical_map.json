@@ -491,10 +491,6 @@
         "term": "UBERON:0001238",
         "name": "lamina propria of small intestine"
     },
-    "digestive_40": {
-        "term": "UBERON:0001902",
-        "name": "epithelium of small intestine"
-    },
     "digestive_41": {
         "term": "UBERON:0018543",
         "name": "lumen of intestine"
@@ -682,6 +678,30 @@
     "digestive_89": {
         "term": "ILX:0795342",
         "name": "upper part of the anal canal"
+    },
+    "digestive_90": {
+        "term": "UBERON:0001902",
+        "name": "epithelium of small intestine"
+    },
+    "digestive_91": {
+        "term": "ILX:0771006",
+        "name": "wall of duodenum"
+    },
+    "digestive_92": {
+        "term": "UBERON:0014390",
+        "name": "muscle layer of ileum"
+    },
+    "digestive_93": {
+        "term": "UBERON:0012377",
+        "name": "muscle layer of jejunum"
+    },
+    "digestive_94": {
+        "term": "ILX:0773238",
+        "name": "Muscle layer of transverse colon"
+    },
+    "digestive_95": {
+        "term": "ILX:0795341",
+        "name": "muscle layer of proximal colon"
     },
     "reproductive_1": {
         "term": "UBERON:0000995",
