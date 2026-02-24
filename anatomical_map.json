@@ -1555,6 +1555,10 @@
         "term": "UBERON:0001630",
         "name": "muscle organ"
     },
+    "label_36": {
+        "term": "UBERON:0005436",
+        "name": "common hepatic artery"
+    },
     "vagus_n": {
         "term": "UBERON:0001759",
         "name": "Vagus Nerve"
