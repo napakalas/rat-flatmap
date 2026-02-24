@@ -1875,5 +1875,48 @@
                 []
             ]
         ]
+    },
+    {
+        "id": [
+            "ILX:0793558",
+            []
+        ],
+        "name": "Distal stomach",
+        "aliases": [
+            [
+                "UBERON:0001165",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793658",
+            []
+        ],
+        "name": "Proximal stomach",
+        "aliases": [
+            [
+                "UBERON:0005477",
+                []
+            ],
+            [
+                "UBERON:0001161",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793656",
+            []
+        ],
+        "name": "myenteric nerve plexus of stomach",
+        "aliases": [
+            [
+                "ILX:0795344",
+                []
+            ]
+        ]
     }
 ]

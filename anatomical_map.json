@@ -176,8 +176,8 @@
         "name": "cardiac muscle of left ventricle"
     },
     "cardio_24": {
-        "term": "UBERON:0001986",
-        "name": "endothelium"
+        "term": "UBERON:0015129",
+        "name": "Epicardial Fat"
     },
     "cardio_25": {
         "term": "UBERON:0003381",
