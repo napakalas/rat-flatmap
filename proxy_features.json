@@ -12,5 +12,12 @@
         "proxies": [
             "UBERON:0002844"
         ]
+    },
+    {
+        "feature": "UBERON:0004170",
+        "name": "Spinal cord ventral commissure",
+        "proxies": [
+            "UBERON:0006469"
+        ]
     }
 ]

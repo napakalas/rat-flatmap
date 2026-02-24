@@ -1391,6 +1391,18 @@
         "term": "UBERON:0002945",
         "name": "ventral posteromedial nucleus of thalamus"
     },
+    "brain_55": {
+        "term": "UBERON:0002866",
+        "name": "caudal part of spinal trigeminal nucleus"
+    },
+    "brain_56": {
+        "term": "UBERON:0002873",
+        "name": "interpolar part of spinal trigeminal nucleus"
+    },
+    "brain_57": {
+        "term": "UBERON:0002591",
+        "name": "oral part of spinal trigeminal nucleus"
+    },
     "bolser_2": {
         "term": "ILX:0738309",
         "name": "Internal branch of inferior laryngeal nerve"
