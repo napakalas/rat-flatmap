@@ -19,5 +19,12 @@
         "proxies": [
             "UBERON:0006469"
         ]
+    },
+    {
+        "feature": "UBERON:0002261",
+        "name": "dorsal root of spinal cord",
+        "proxies": [
+            "ILX:0786747"
+        ]
     }
 ]
