@@ -1360,19 +1360,19 @@
             "name": "posterior root of thirteenth thoracic nerve"
         },
         "S44_S1": {
-            "models": "ILX:0789717",
-            "name": "Posterior root of right first sacral nerve"
+            "models": "ILX:0791633",
+            "name": "Posterior root of first sacral nerve"
         },
         "S44_S2": {
-            "models": "ILX:0790532",
+            "models": "ILX:0788723",
             "name": "Posterior root of second sacral nerve"
         },
         "S44_S3": {
-            "models": "ILX:0785877",
+            "models": "ILX:0786145",
             "name": "Posterior root of third sacral nerve"
         },
         "S44_S4": {
-            "models": "ILX:0787750",
+            "models": "ILX:0785338",
             "name": "Posterior root of fourth sacral nerve"
         },
         "S45_C1": {
