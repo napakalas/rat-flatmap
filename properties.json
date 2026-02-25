@@ -2072,6 +2072,30 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_33-1": {
+            "models": "ILX:0793734",
+            "name": "Myenteric ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_34-1": {
+            "models": "ILX:0795343",
+            "name": "myenteric nerve plexus ganglion of esophagus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_35-1": {
+            "models": "ILX:0795350",
+            "name": "submucosal nerve plexus ganglion of rectum",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_36-1": {
+            "models": "ILX:0795351",
+            "name": "submucosal nerve plexus ganglion of anus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -2623,6 +2647,30 @@
         },
         "digestive_99-1": {
             "class": "digestive_99"
+        },
+        "digestive_100-1": {
+            "class": "digestive_100"
+        },
+        "digestive_101-1": {
+            "class": "digestive_101"
+        },
+        "digestive_102-1": {
+            "class": "digestive_102"
+        },
+        "digestive_103-1": {
+            "class": "digestive_103"
+        },
+        "digestive_104-1": {
+            "class": "digestive_104"
+        },
+        "digestive_105-1": {
+            "class": "digestive_105"
+        },
+        "digestive_106-1": {
+            "class": "digestive_106"
+        },
+        "digestive_107-1": {
+            "class": "digestive_107"
         },
         "endocrine_2-1": {
             "class": "endocrine_2"
@@ -3637,6 +3685,30 @@
         "plexus_20-1": {
             "models": "ILX:0795011",
             "name": "periarterial neural plexus of the common hepatic artery",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_21-1": {
+            "models": "UBERON:8410063",
+            "name": "myenteric nerve plexus of small intestine",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_22-1": {
+            "models": "ILX:0795346",
+            "name": "myenteric nerve plexus ganglion of rectum",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_23-1": {
+            "models": "ILX:0795347",
+            "name": "myenteric nerve plexus ganglion of anus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_24-1": {
+            "models": "ILX:0793704",
+            "name": "Esophageal nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
