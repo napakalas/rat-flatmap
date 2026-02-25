@@ -3712,6 +3712,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_25-1": {
+            "models": "ILX:0797430",
+            "name": "nerve plexus along the left precaval vein",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "label_4-1": {
             "class": "label_4"
         },
