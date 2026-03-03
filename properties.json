@@ -2096,6 +2096,18 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_37-1": {
+            "models": "ILX:0795346",
+            "name": "myenteric nerve plexus ganglion of rectum",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_38-1": {
+            "models": "ILX:0795347",
+            "name": "myenteric nerve plexus ganglion of anus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -3691,18 +3703,6 @@
         "plexus_21-1": {
             "models": "UBERON:8410063",
             "name": "myenteric nerve plexus of small intestine",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
-        "plexus_22-1": {
-            "models": "ILX:0795346",
-            "name": "myenteric nerve plexus ganglion of rectum",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
-        "plexus_23-1": {
-            "models": "ILX:0795347",
-            "name": "myenteric nerve plexus ganglion of anus",
             "type": "ganglion",
             "class": "auto-hide"
         },
