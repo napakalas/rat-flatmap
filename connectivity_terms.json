@@ -1,32 +1,11 @@
 [
     {
         "id": [
-            "UBERON:0007240",
-            [
-                "UBERON:0000947"
-            ]
-        ],
-        "name": "tunica adventitia of artery/aorta",
-        "aliases": [
-            [
-                "UBERON:0007240",
-                [
-                    "UBERON:0001496"
-                ]
-            ]
-        ]
-    },
-    {
-        "id": [
             "ILX:0793234",
             []
         ],
         "name": "interganglionic branch of inferior cervical ganglion to middle cervical ganglion",
         "aliases": [
-            [
-                "ILX:0793363",
-                []
-            ],
             [
                 "ILX:0739241",
                 []
@@ -128,10 +107,6 @@
             [
                 "ILX:0795013",
                 []
-            ],
-            [
-                "ILX:0795017",
-                []
             ]
         ]
     },
@@ -231,14 +206,6 @@
                 [
                     "UBERON:0001182"
                 ]
-            ],
-            [
-                "ILX:0795012",
-                []
-            ],
-            [
-                "ILX:0795014",
-                []
             ],
             [
                 "UBERON:0018676",
@@ -1319,10 +1286,6 @@
             [
                 "ILX:0786788",
                 []
-            ],
-            [
-                "ILX:0785947",
-                []
             ]
         ]
     },
@@ -1416,10 +1379,6 @@
         "aliases": [
             [
                 "ILX:0786477",
-                []
-            ],
-            [
-                "ILX:0787285",
                 []
             ]
         ]
@@ -1524,10 +1483,6 @@
             [
                 "UBERON:0001279",
                 []
-            ],
-            [
-                "CL:1000488",
-                []
             ]
         ]
     },
@@ -1552,10 +1507,6 @@
             ],
             [
                 "UBERON:0001172",
-                []
-            ],
-            [
-                "CL:0000182",
                 []
             ],
             [
@@ -1613,10 +1564,6 @@
         ],
         "name": "T1 segment of thoracic spinal cord",
         "aliases": [
-            [
-                "ILX:0792474",
-                []
-            ],
             [
                 "ILX:0795493",
                 []
@@ -1720,10 +1667,6 @@
                 []
             ],
             [
-                "ILX:0795048",
-                []
-            ],
-            [
                 "ILX:0795040",
                 []
             ],
@@ -1762,19 +1705,6 @@
             ],
             [
                 "ILX:0795051",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0786163",
-            []
-        ],
-        "name": "ventral root of the eighth cervical spinal cord segment",
-        "aliases": [
-            [
-                "UBERON:0014634",
                 []
             ]
         ]
