@@ -176,8 +176,8 @@
         "name": "cardiac muscle of left ventricle"
     },
     "cardio_24": {
-        "term": "UBERON:0001986",
-        "name": "endothelium"
+        "term": "UBERON:0015129",
+        "name": "Epicardial Fat"
     },
     "cardio_25": {
         "term": "UBERON:0003381",
@@ -491,10 +491,6 @@
         "term": "UBERON:0001238",
         "name": "lamina propria of small intestine"
     },
-    "digestive_40": {
-        "term": "UBERON:0001902",
-        "name": "epithelium of small intestine"
-    },
     "digestive_41": {
         "term": "UBERON:0018543",
         "name": "lumen of intestine"
@@ -572,7 +568,7 @@
         "name": "Red Pulp of Spleen"
     },
     "digestive_62": {
-        "term": "UBERON:0001251",
+        "term": "ILX:0793681",
         "name": "Marginal Zone of Spleen"
     },
     "digestive_63": {
@@ -680,8 +676,80 @@
         "name": "portal vein"
     },
     "digestive_89": {
-        "term": "ILX:0741796",
-        "name": "deep transverse perineal muscle"
+        "term": "ILX:0795342",
+        "name": "upper part of the anal canal"
+    },
+    "digestive_90": {
+        "term": "UBERON:0001902",
+        "name": "epithelium of small intestine"
+    },
+    "digestive_91": {
+        "term": "ILX:0771006",
+        "name": "wall of duodenum"
+    },
+    "digestive_92": {
+        "term": "UBERON:0014390",
+        "name": "muscle layer of ileum"
+    },
+    "digestive_93": {
+        "term": "UBERON:0012377",
+        "name": "muscle layer of jejunum"
+    },
+    "digestive_94": {
+        "term": "ILX:0773238",
+        "name": "Muscle layer of transverse colon"
+    },
+    "digestive_95": {
+        "term": "ILX:0795341",
+        "name": "muscle layer of proximal colon"
+    },
+    "digestive_96": {
+        "term": "UBERON:0005436",
+        "name": "common hepatic artery"
+    },
+    "digestive_97": {
+        "term": "UBERON:0011198",
+        "name": "muscle layer of large intestine"
+    },
+    "digestive_98": {
+        "term": "UBERON:0001278",
+        "name": "epithelium of large intestine"
+    },
+    "digestive_99": {
+        "term": "UBERON:0004222",
+        "name": "stomach smooth muscle"
+    },
+    "digestive_100": {
+        "term": "UBERON:8410061",
+        "name": "Longitudinal Muscle Layer of Colon"
+    },
+    "digestive_101": {
+        "term": "UBERON:0012419",
+        "name": "Taenia coli"
+    },
+    "digestive_102": {
+        "term": "UBERON:0003832",
+        "name": "esophagus muscle"
+    },
+    "digestive_103": {
+        "term": "UBERON:0004239",
+        "name": "small intestine smooth muscle"
+    },
+    "digestive_104": {
+        "term": "UBERON:0018111",
+        "name": "muscle layer of rectum"
+    },
+    "digestive_105": {
+        "term": "UBERON:0003354",
+        "name": "anal canal epithelium"
+    },
+    "digestive_106": {
+        "term": "UBERON:0012490",
+        "name": "muscle layer of anal canal"
+    },
+    "digestive_107": {
+        "term": "UBERON:0015716",
+        "name": "epithelium of rectum"
     },
     "reproductive_1": {
         "term": "UBERON:0000995",
@@ -1208,7 +1276,7 @@
         "name": "Barrington's nucleus"
     },
     "brain_14": {
-        "term": "UBERON:0003040",
+        "term": "ILX:0793626",
         "name": "Ventrolateral Periaqueductal Gray"
     },
     "brain_15": {
@@ -1346,6 +1414,26 @@
     "brain_51": {
         "term": "UBERON:0002141",
         "name": "Oculomotor nucleus"
+    },
+    "brain_52": {
+        "term": "UBERON:0001717",
+        "name": "spinal nucleus of trigeminal nerve"
+    },
+    "brain_54": {
+        "term": "UBERON:0002945",
+        "name": "ventral posteromedial nucleus of thalamus"
+    },
+    "brain_55": {
+        "term": "UBERON:0002866",
+        "name": "caudal part of spinal trigeminal nucleus"
+    },
+    "brain_56": {
+        "term": "UBERON:0002873",
+        "name": "interpolar part of spinal trigeminal nucleus"
+    },
+    "brain_57": {
+        "term": "UBERON:0002591",
+        "name": "oral part of spinal trigeminal nucleus"
     },
     "bolser_2": {
         "term": "ILX:0738309",
@@ -1494,6 +1582,38 @@
     "label_27": {
         "term": "ILX:0795060",
         "name": "eccrine sweat gland of the face"
+    },
+    "label_28": {
+        "term": "UBERON:0001456",
+        "name": "face"
+    },
+    "label_29": {
+        "term": "UBERON:0000033",
+        "name": "head"
+    },
+    "label_30": {
+        "term": "UBERON:0000167",
+        "name": "oral cavity"
+    },
+    "label_31": {
+        "term": "UBERON:0002075",
+        "name": "viscus"
+    },
+    "label_32": {
+        "term": "UBERON:0001484",
+        "name": "articular capsule"
+    },
+    "label_33": {
+        "term": "UBERON:0002097",
+        "name": "skin of body"
+    },
+    "label_34": {
+        "term": "UBERON:0001015",
+        "name": "musculature"
+    },
+    "label_35": {
+        "term": "UBERON:0001630",
+        "name": "muscle organ"
     },
     "vagus_n": {
         "term": "UBERON:0001759",
