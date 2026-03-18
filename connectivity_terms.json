@@ -1,32 +1,11 @@
 [
     {
         "id": [
-            "UBERON:0007240",
-            [
-                "UBERON:0000947"
-            ]
-        ],
-        "name": "tunica adventitia of artery/aorta",
-        "aliases": [
-            [
-                "UBERON:0007240",
-                [
-                    "UBERON:0001496"
-                ]
-            ]
-        ]
-    },
-    {
-        "id": [
             "ILX:0793234",
             []
         ],
         "name": "interganglionic branch of inferior cervical ganglion to middle cervical ganglion",
         "aliases": [
-            [
-                "ILX:0793363",
-                []
-            ],
             [
                 "ILX:0739241",
                 []
@@ -127,10 +106,6 @@
             ],
             [
                 "ILX:0795013",
-                []
-            ],
-            [
-                "ILX:0795017",
                 []
             ]
         ]
@@ -233,19 +208,27 @@
                 ]
             ],
             [
-                "ILX:0795012",
-                []
-            ],
-            [
-                "ILX:0795014",
-                []
-            ],
-            [
                 "UBERON:0018676",
                 []
             ],
             [
                 "UBERON:0011926",
+                []
+            ],
+            [
+                "ILX:0795513",
+                []
+            ],
+            [
+                "ILX:0795514",
+                []
+            ],
+            [
+                "ILX:0795515",
+                []
+            ],
+            [
+                "ILX:0795516",
                 []
             ]
         ]
@@ -500,19 +483,6 @@
         "aliases": [
             [
                 "ILX:0739303",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "UBERON:0002108",
-            []
-        ],
-        "name": "",
-        "aliases": [
-            [
-                "ILX:0793735",
                 []
             ]
         ]
@@ -1316,10 +1286,6 @@
             [
                 "ILX:0786788",
                 []
-            ],
-            [
-                "ILX:0785947",
-                []
             ]
         ]
     },
@@ -1413,10 +1379,6 @@
         "aliases": [
             [
                 "ILX:0786477",
-                []
-            ],
-            [
-                "ILX:0787285",
                 []
             ]
         ]
@@ -1521,10 +1483,6 @@
             [
                 "UBERON:0001279",
                 []
-            ],
-            [
-                "CL:1000488",
-                []
             ]
         ]
     },
@@ -1549,10 +1507,6 @@
             ],
             [
                 "UBERON:0001172",
-                []
-            ],
-            [
-                "CL:0000182",
                 []
             ],
             [
@@ -1598,7 +1552,7 @@
                 []
             ],
             [
-                "CL:0009094",
+                "UBERON:0001639",
                 []
             ]
         ]
@@ -1611,7 +1565,7 @@
         "name": "T1 segment of thoracic spinal cord",
         "aliases": [
             [
-                "ILX:0792474",
+                "ILX:0795493",
                 []
             ]
         ]
@@ -1689,38 +1643,6 @@
                 []
             ],
             [
-                "ILX:0795036",
-                []
-            ],
-            [
-                "ILX:0795033",
-                []
-            ],
-            [
-                "ILX:0795037",
-                []
-            ],
-            [
-                "ILX:0795035",
-                []
-            ],
-            [
-                "ILX:0795032",
-                []
-            ],
-            [
-                "ILX:0795038",
-                []
-            ],
-            [
-                "ILX:0795039",
-                []
-            ],
-            [
-                "ILX:0795034",
-                []
-            ],
-            [
                 "ILX:0795045",
                 []
             ],
@@ -1742,10 +1664,6 @@
             ],
             [
                 "ILX:0795042",
-                []
-            ],
-            [
-                "ILX:0795048",
                 []
             ],
             [
@@ -1787,19 +1705,6 @@
             ],
             [
                 "ILX:0795051",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0786163",
-            []
-        ],
-        "name": "ventral root of the eighth cervical spinal cord segment",
-        "aliases": [
-            [
-                "UBERON:0014634",
                 []
             ]
         ]
@@ -1856,6 +1761,459 @@
         "aliases": [
             [
                 "ILX:0788777",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001155",
+            []
+        ],
+        "name": "colon",
+        "aliases": [
+            [
+                "UBERON:0001156",
+                []
+            ],
+            [
+                "UBERON:0001157",
+                []
+            ],
+            [
+                "UBERON:0001158",
+                []
+            ],
+            [
+                "UBERON:0001159",
+                []
+            ],
+            [
+                "ILX:0773031",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793558",
+            []
+        ],
+        "name": "Distal stomach",
+        "aliases": [
+            [
+                "UBERON:0001165",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793658",
+            []
+        ],
+        "name": "Proximal stomach",
+        "aliases": [
+            [
+                "UBERON:0005477",
+                []
+            ],
+            [
+                "UBERON:0001161",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793656",
+            []
+        ],
+        "name": "myenteric nerve plexus of stomach",
+        "aliases": [
+            [
+                "ILX:0795344",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0795492",
+            []
+        ],
+        "name": "posterior root of thirteenth thoracic nerve",
+        "aliases": [
+            [
+                "ILX:0795050",
+                []
+            ],
+            [
+                "ILX:0795049",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0018680",
+            []
+        ],
+        "name": "greater splanchnic nerve",
+        "aliases": [
+            [
+                "ILX:0796950",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0018681",
+            []
+        ],
+        "name": "lesser splanchnic nerve",
+        "aliases": [
+            [
+                "ILX:0796952",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0785632",
+            []
+        ],
+        "name": "Posterior root of first thoracic nerve",
+        "aliases": [
+            [
+                "ILX:0790352",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0791802",
+            []
+        ],
+        "name": "Posterior root of second thoracic nerve",
+        "aliases": [
+            [
+                "ILX:0784952",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0789246",
+            []
+        ],
+        "name": "Posterior root of third thoracic nerve",
+        "aliases": [
+            [
+                "ILX:0788815",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0784605",
+            []
+        ],
+        "name": "Posterior root of seventh thoracic nerve",
+        "aliases": [
+            [
+                "ILX:0788023",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0787870",
+            []
+        ],
+        "name": "Posterior root of eight cervical nerve",
+        "aliases": [
+            [
+                "ILX:0792093",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006470"
+            ]
+        ],
+        "name": "gray matter of spinal cord/eight cervical spinal cord segment",
+        "aliases": [
+            [
+                "ILX:0797431",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006457"
+            ]
+        ],
+        "name": "gray matter of spinal cord/first thoracic spinal cord segment",
+        "aliases": [
+            [
+                "ILX:0797432",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006458"
+            ]
+        ],
+        "name": "gray matter of spinal cord/second thoracic spinal cord segment",
+        "aliases": [
+            [
+                "ILX:0797433",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006459"
+            ]
+        ],
+        "name": "gray matter of spinal cord/third thoracic spinal cord segment",
+        "aliases": [
+            [
+                "ILX:0797434",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006455"
+            ]
+        ],
+        "name": "gray matter of spinal cord/seventh thoracic spinal cord segment",
+        "aliases": [
+            [
+                "ILX:0796498",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006456"
+            ]
+        ],
+        "name": "gray matter of spinal cord/eight thoracic spinal cord segment",
+        "aliases": [
+            [
+                "ILX:0795032",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006465"
+            ]
+        ],
+        "name": "gray matter of spinal cord/ninth thoracic spinal cord segment",
+        "aliases": [
+            [
+                "ILX:0795033",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006466"
+            ]
+        ],
+        "name": "gray matter of spinal cord/tenth thoracic spinal cord segment",
+        "aliases": [
+            [
+                "ILX:0795034",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006467"
+            ]
+        ],
+        "name": "gray matter of spinal cord/eleventh thoracic spinal cord segment",
+        "aliases": [
+            [
+                "ILX:0795035",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006468"
+            ]
+        ],
+        "name": "gray matter of spinal cord/twelfth thoracic spinal cord segment",
+        "aliases": [
+            [
+                "ILX:0795036",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "ILX:0793357"
+            ]
+        ],
+        "name": "gray matter of spinal cord/thirteenth thoracic spinal cord segment",
+        "aliases": [
+            [
+                "ILX:0795037",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006448"
+            ]
+        ],
+        "name": "gray matter of spinal cord/first lumbar spinal cord segment",
+        "aliases": [
+            [
+                "ILX:0795038",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002315",
+            [
+                "UBERON:0006450"
+            ]
+        ],
+        "name": "gray matter of spinal cord/second lumbar spinal cord segment",
+        "aliases": [
+            [
+                "ILX:0795039",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002844",
+            []
+        ],
+        "name": "eight cervical dorsal root ganglion",
+        "aliases": [
+            [
+                "ILX:0785251",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002845",
+            []
+        ],
+        "name": "first thoracic dorsal root ganglion",
+        "aliases": [
+            [
+                "ILX:0784660",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002846",
+            []
+        ],
+        "name": "second thoracic dorsal root ganglion",
+        "aliases": [
+            [
+                "ILX:0785420",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002847",
+            []
+        ],
+        "name": "third thoracic dorsal root ganglion",
+        "aliases": [
+            [
+                "ILX:0791100",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0002850",
+            []
+        ],
+        "name": "seventh thoracic dorsal root ganglion",
+        "aliases": [
+            [
+                "ILX:0785878",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793359",
+            []
+        ],
+        "name": "thirteenth thoracic dorsal root ganglion",
+        "aliases": [
+            [
+                "ILX:0795494",
                 []
             ]
         ]
