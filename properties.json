@@ -1252,145 +1252,128 @@
             "name": "Anterior root of fourth sacral nerve"
         },
         "S44_C1": {
-            "class": "spinal_44"
+            "models": "ILX:0784521",
+            "name": "Posterior root of first cervical nerve"
         },
         "S44_C2": {
-            "class": "spinal_44"
+            "models": "ILX:0785587",
+            "name": "Posterior root of second cervical nerve"
         },
         "S44_C3": {
-            "class": "spinal_44"
+            "models": "ILX:0784978",
+            "name": "Posterior root of third cervical nerve"
         },
         "S44_C4": {
-            "class": "spinal_44"
+            "models": "ILX:0788437",
+            "name": "Posterior root of fourth cervical nerve"
         },
         "S44_C5": {
-            "class": "spinal_44"
+            "models": "ILX:0785440",
+            "name": "Posterior root of fifth cervical nerve"
         },
         "S44_C6": {
-            "class": "spinal_44"
+            "models": "ILX:0792748",
+            "name": "Posterior root of sixth cervical nerve"
         },
         "S44_C7": {
-            "class": "spinal_44"
+            "models": "ILX:0789105",
+            "name": "Posterior root of seventh cervical nerve"
         },
         "S44_C8": {
-            "class": "spinal_44"
+            "models": "ILX:0787870",
+            "name": "Posterior root of eighth cervical nerve"
         },
         "S44_L1": {
-            "class": "spinal_44"
-        },
-        "S44_L1-1": {
             "models": "ILX:0787779",
             "name": "posterior root of first lumbar nerve"
         },
         "S44_L2": {
-            "class": "spinal_44"
-        },
-        "S44_L2-1": {
             "models": "ILX:0792058",
             "name": "posterior root of second lumbar nerve"
         },
         "S44_L3": {
-            "class": "spinal_44"
-        },
-        "S44_L3-1": {
             "models": "ILX:0787227",
             "name": "posterior root of third lumbar nerve"
         },
         "S44_L4": {
-            "class": "spinal_44"
+            "models": "ILX:0786747",
+            "name": "posterior root of fourth lumbar nerve"
         },
         "S44_L5": {
-            "class": "spinal_44"
+            "models": "ILX:0785201",
+            "name": "posterior root of fifth lumbar nerve"
         },
         "S44_L6": {
-            "class": "spinal_44"
+            "models": "ILX:0795491",
+            "name": "posterior root of sixth lumbar nerve"
         },
         "S44_T1": {
-            "class": "spinal_44"
+            "models": "ILX:0785632",
+            "name": "posterior root of first thoracic nerve"
         },
         "S44_T2": {
-            "class": "spinal_44"
+            "models": "ILX:0791802",
+            "name": "posterior root of second thoracic nerve"
         },
         "S44_T3": {
-            "class": "spinal_44"
+            "models": "ILX:0789246",
+            "name": "posterior root of third thoracic nerve"
         },
         "S44_T4": {
-            "class": "spinal_44"
+            "models": "ILX:0785816",
+            "name": "posterior root of fourth thoracic nerve"
         },
         "S44_T5": {
-            "class": "spinal_44"
+            "models": "ILX:0788907",
+            "name": "posterior root of fifth thoracic nerve"
         },
         "S44_T6": {
-            "class": "spinal_44"
-        },
-        "S44_T6-1": {
             "models": "ILX:0785909",
             "name": "posterior root of sixth thoracic nerve"
         },
         "S44_T7": {
-            "class": "spinal_44"
-        },
-        "S44_T7-1": {
             "models": "ILX:0784605",
             "name": "posterior root of seventh thoracic nerve"
         },
         "S44_T8": {
-            "class": "spinal_44"
-        },
-        "S44_T8-1": {
             "models": "ILX:0792624",
             "name": "posterior root of eighth thoracic nerve"
         },
         "S44_T9": {
-            "class": "spinal_44"
-        },
-        "S44_T9-1": {
             "models": "ILX:0789741",
             "name": "posterior root of ninth thoracic nerve"
         },
         "S44_T10": {
-            "class": "spinal_44"
-        },
-        "S44_T10-1": {
             "models": "ILX:0789892",
             "name": "posterior root of tenth thoracic nerve"
         },
         "S44_T11": {
-            "class": "spinal_44"
-        },
-        "S44_T11-1": {
             "models": "ILX:0790338",
             "name": "posterior root of eleventh thoracic nerve"
         },
         "S44_T12": {
-            "class": "spinal_44"
-        },
-        "S44_T12-1": {
             "models": "ILX:0787665",
             "name": "posterior root of twelfth thoracic nerve"
         },
         "S44_T13": {
-            "class": "spinal_44"
-        },
-        "S44_T13_L": {
-            "models": "ILX:0795050",
-            "name": "Posterior root of left thirteenth thoracic nerve"
-        },
-        "S44_T13_R": {
-            "models": "ILX:0795049",
-            "name": "Posterior root of right thirteenth thoracic nerve"
+            "models": "ILX:0795492",
+            "name": "posterior root of thirteenth thoracic nerve"
         },
         "S44_S1": {
-            "class": "spinal_44"
+            "models": "ILX:0791633",
+            "name": "Posterior root of first sacral nerve"
         },
         "S44_S2": {
-            "class": "spinal_44"
+            "models": "ILX:0788723",
+            "name": "Posterior root of second sacral nerve"
         },
         "S44_S3": {
-            "class": "spinal_44"
+            "models": "ILX:0786145",
+            "name": "Posterior root of third sacral nerve"
         },
         "S44_S4": {
-            "class": "spinal_44"
+            "models": "ILX:0785338",
+            "name": "Posterior root of fourth sacral nerve"
         },
         "S45_C1": {
             "models": "UBERON:0002838",
@@ -2059,6 +2042,72 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_28-1": {
+            "models": "ILX:0795345",
+            "name": "myenteric nerve plexus ganglion of large intestine",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_29-1": {
+            "models": "UBERON:0001809",
+            "name": "enteric ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_30-1": {
+            "models": "ILX:0795348",
+            "name": "submucosal nerve plexus ganglion of small intestine",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_31-1": {
+            "models": "ILX:0793735",
+            "name": "Myenteric ganglion of small intestine",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_32-1": {
+            "models": "ILX:0795349",
+            "name": "submucosal nerve plexus ganglion of large intestine",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_33-1": {
+            "models": "ILX:0793734",
+            "name": "Myenteric ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_34-1": {
+            "models": "ILX:0795343",
+            "name": "myenteric nerve plexus ganglion of esophagus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_35-1": {
+            "models": "ILX:0795350",
+            "name": "submucosal nerve plexus ganglion of rectum",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_36-1": {
+            "models": "ILX:0795351",
+            "name": "submucosal nerve plexus ganglion of anus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_37-1": {
+            "models": "ILX:0795346",
+            "name": "myenteric nerve plexus ganglion of rectum",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_38-1": {
+            "models": "ILX:0795347",
+            "name": "myenteric nerve plexus ganglion of anus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -2215,6 +2264,21 @@
         "brain_51-1": {
             "class": "brain_51"
         },
+        "brain_52-1": {
+            "class": "brain_52"
+        },
+        "brain_54-1": {
+            "class": "brain_54"
+        },
+        "brain_55-1": {
+            "class": "brain_55"
+        },
+        "brain_56-1": {
+            "class": "brain_56"
+        },
+        "brain_57-1": {
+            "class": "brain_57"
+        },
         "brain_6-1": {
             "class": "brain_6"
         },
@@ -2235,6 +2299,9 @@
         },
         "cardio_13-1": {
             "class": "cardio_13"
+        },
+        "cardio_16-1": {
+            "class": "cardio_16"
         },
         "cardio_18-1": {
             "class": "cardio_18"
@@ -2292,6 +2359,9 @@
         },
         "cardio_3-1": {
             "class": "cardio_3"
+        },
+        "cardio_30-1": {
+            "class": "cardio_30"
         },
         "cardio_31-1": {
             "class": "cardio_31"
@@ -2562,6 +2632,60 @@
         },
         "digestive_9-1": {
             "class": "digestive_9"
+        },
+        "digestive_90-1": {
+            "class": "digestive_90"
+        },
+        "digestive_91-1": {
+            "class": "digestive_91"
+        },
+        "digestive_92-1": {
+            "class": "digestive_92"
+        },
+        "digestive_93-1": {
+            "class": "digestive_93"
+        },
+        "digestive_94-1": {
+            "class": "digestive_94"
+        },
+        "digestive_95-1": {
+            "class": "digestive_95"
+        },
+        "digestive_96-1": {
+            "class": "digestive_96"
+        },
+        "digestive_97-1": {
+            "class": "digestive_97"
+        },
+        "digestive_98-1": {
+            "class": "digestive_98"
+        },
+        "digestive_99-1": {
+            "class": "digestive_99"
+        },
+        "digestive_100-1": {
+            "class": "digestive_100"
+        },
+        "digestive_101-1": {
+            "class": "digestive_101"
+        },
+        "digestive_102-1": {
+            "class": "digestive_102"
+        },
+        "digestive_103-1": {
+            "class": "digestive_103"
+        },
+        "digestive_104-1": {
+            "class": "digestive_104"
+        },
+        "digestive_105-1": {
+            "class": "digestive_105"
+        },
+        "digestive_106-1": {
+            "class": "digestive_106"
+        },
+        "digestive_107-1": {
+            "class": "digestive_107"
         },
         "endocrine_2-1": {
             "class": "endocrine_2"
@@ -3579,6 +3703,24 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_21-1": {
+            "models": "UBERON:8410063",
+            "name": "myenteric nerve plexus of small intestine",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_24-1": {
+            "models": "ILX:0793704",
+            "name": "Esophageal nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_25-1": {
+            "models": "ILX:0797430",
+            "name": "nerve plexus along the left precaval vein",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "label_4-1": {
             "class": "label_4"
         },
@@ -3650,6 +3792,30 @@
         },
         "label_27-1": {
             "class": "label_27"
+        },
+        "label_28-1": {
+            "class": "label_28"
+        },
+        "label_29-1": {
+            "class": "label_29"
+        },
+        "label_30-1": {
+            "class": "label_30"
+        },
+        "label_31-1": {
+            "class": "label_31"
+        },
+        "label_32-1": {
+            "class": "label_32"
+        },
+        "label_33-1": {
+            "class": "label_33"
+        },
+        "label_34-1": {
+            "class": "label_34"
+        },
+        "label_35-1": {
+            "class": "label_35"
         },
         "CNVII_c": {
             "type": "nerve",
@@ -4028,6 +4194,22 @@
         "nasopalatine_c": {
             "type": "nerve",
             "models": "UBERON:0008810"
+        },
+        "trigeminal_c": {
+            "type": "nerve",
+            "models": "UBERON:0001645"
+        },
+        "vagosymp_c": {
+            "type": "nerve",
+            "models": "ILX:0795507"
+        },
+        "penile_cavernous_c": {
+            "type": "nerve",
+            "models": "ILX:0793807"
+        },
+        "cardiac_interganglionic_c": {
+            "type": "nerve",
+            "models": "ILX:0796679"
         },
         "n_76_c": {
             "type": "nerve"
