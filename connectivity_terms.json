@@ -346,19 +346,6 @@
     },
     {
         "id": [
-            "ILX:0786228",
-            []
-        ],
-        "name": "Second thoracic ganglion",
-        "aliases": [
-            [
-                "ILX:0793617",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0006459",
             []
         ],

@@ -103,5 +103,12 @@
         "proxies": [
             "LX:0793141"
         ]
+    },
+    {
+        "feature": "UBERON:0001780",
+        "name": "spinal nerve",
+        "proxies": [
+            "ILX:0738397"
+        ]
     }
 ]
