@@ -2567,13 +2567,7 @@
         "digestive_71-1": {
             "class": "digestive_71"
         },
-        "digestive_71-2": {
-            "class": "digestive_71"
-        },
         "digestive_72-1": {
-            "class": "digestive_72"
-        },
-        "digestive_72-2": {
             "class": "digestive_72"
         },
         "digestive_73-1": {
@@ -2686,6 +2680,21 @@
         },
         "digestive_107-1": {
             "class": "digestive_107"
+        },
+        "digestive_108-1": {
+            "class": "digestive_108"
+        },
+        "digestive_109-1": {
+            "class": "digestive_109"
+        },
+        "digestive_110-1": {
+            "class": "digestive_110"
+        },
+        "digestive_111-1": {
+            "class": "digestive_111"
+        },
+        "digestive_112-1": {
+            "class": "digestive_112"
         },
         "endocrine_2-1": {
             "class": "endocrine_2"
@@ -2870,6 +2879,30 @@
         },
         "reproductive_31-1": {
             "class": "reproductive_31"
+        },
+        "reproductive_32-1": {
+            "class": "reproductive_32"
+        },
+        "reproductive_33-1": {
+            "class": "reproductive_33"
+        },
+        "reproductive_34-1": {
+            "class": "reproductive_34"
+        },
+        "reproductive_35-1": {
+            "class": "reproductive_35"
+        },
+        "reproductive_36-1": {
+            "class": "reproductive_36"
+        },
+        "reproductive_37-1": {
+            "class": "reproductive_37"
+        },
+        "reproductive_38-1": {
+            "class": "reproductive_38"
+        },
+        "reproductive_39-1": {
+            "class": "reproductive_39"
         },
         "respiratory_10-1": {
             "class": "respiratory_10"
@@ -3721,6 +3754,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_26-1": {
+            "models": "ILX:0794732",
+            "name": "intermesenteric plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "label_4-1": {
             "class": "label_4"
         },
@@ -4145,7 +4184,7 @@
         },
         "ICG-T1_sympathetic_cord_c": {
             "type": "nerve",
-            "models": "ILX:0793233"
+            "models": "ILX:0738291"
         },
         "MCG-ICG_sympathetic_cord_c": {
             "type": "nerve",
@@ -4210,6 +4249,18 @@
         "cardiac_interganglionic_c": {
             "type": "nerve",
             "models": "ILX:0796679"
+        },
+        "lingual_c": {
+            "type": "nerve",
+            "models": "UBERON:0003721"
+        },
+        "clitoral_cavernous_c": {
+            "type": "nerve",
+            "models": "ILX:0793809"
+        },
+        "superior_ovarian_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0793822"
         },
         "n_76_c": {
             "type": "nerve"
@@ -5746,7 +5797,7 @@
                 },
                 {
                     "id": "ICG-T1_sympathetic_cord",
-                    "models": "ILX:0793233",
+                    "models": "ILX:0738291",
                     "connects": [
                         "ganglion_10-1",
                         "S46_T1"

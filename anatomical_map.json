@@ -751,6 +751,26 @@
         "term": "UBERON:0015716",
         "name": "epithelium of rectum"
     },
+    "digestive_108": {
+        "term": "UBERON:0001182",
+        "name": "superior mesenteric artery"
+    },
+    "digestive_109": {
+        "term": "UBERON:0006637",
+        "name": "celiac trunk"
+    },
+    "digestive_110": {
+        "term": "ILX:0793739",
+        "name": "Nerve fiber from submandibular ganglion to sublingual gland"
+    },
+    "digestive_111": {
+        "term": "ILX:0793737",
+        "name": "Nerve fiber from submandibular ganglion to submandibular gland"
+    },
+    "digestive_112": {
+        "term": "ILX:0793738",
+        "name": "Nerve fiber from submandibular ganglion to mouth mucosa"
+    },
     "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
@@ -824,8 +844,8 @@
         "name": "Epithelium of Vagina"
     },
     "reproductive_19": {
-        "term": "UBERON:0009853",
-        "name": "Body of Uterus"
+        "term": "ILX:0794769",
+        "name": "Upper uterine segment"
     },
     "reproductive_20": {
         "term": "UBERON:0001981",
@@ -874,6 +894,38 @@
     "reproductive_31": {
         "term": "UBERON:0004713",
         "name": "Corpus cavernosum penis"
+    },
+    "reproductive_32": {
+        "term": "ILX:0794767",
+        "name": "smooth muscle of the upper uterus"
+    },
+    "reproductive_33": {
+        "term": "ILX:0794765",
+        "name": "blood vessel of the upper uterus"
+    },
+    "reproductive_34": {
+        "term": "ILX:0794770",
+        "name": "lower uterine segment"
+    },
+    "reproductive_35": {
+        "term": "ILX:0794768",
+        "name": "smooth muscle of the lower uterus"
+    },
+    "reproductive_36": {
+        "term": "ILX:0794766",
+        "name": "blood vessel of the lower uterus"
+    },
+    "reproductive_37": {
+        "term": "ILX:0794731",
+        "name": "smooth muscle of the cervix"
+    },
+    "reproductive_38": {
+        "term": "ILX:0794738",
+        "name": "blood vessel of the cervix"
+    },
+    "reproductive_39": {
+        "term": "UBERON:0011183",
+        "name": "corpus spongiosum of penis"
     },
     "muscle_1": {
         "term": "ILX:0738319",
