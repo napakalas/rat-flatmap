@@ -647,10 +647,6 @@
         "term": "UBERON:0001832",
         "name": "Sublingual gland"
     },
-    "digestive_82": {
-        "term": "UBERON:0002059",
-        "name": "Submandibular ganglion"
-    },
     "digestive_83": {
         "term": "UBERON:0000006",
         "name": "Islet of langerhans"

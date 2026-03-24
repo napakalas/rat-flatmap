@@ -2103,6 +2103,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_39-1": {
+            "models": "UBERON:0002059",
+            "name": "Submandibular ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -2594,9 +2600,6 @@
         },
         "digestive_81-1": {
             "class": "digestive_81"
-        },
-        "digestive_82-1": {
-            "class": "digestive_82"
         },
         "digestive_83-1": {
             "class": "digestive_83"
