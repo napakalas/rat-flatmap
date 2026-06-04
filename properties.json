@@ -1770,133 +1770,128 @@
             "name": "Gray communicating ramus of fourth sacral nerve"
         },
         "S50_C1": {
-            "class": "spinal_50"
+            "models": "ILX:0788141",
+            "name": "First cervical nerve"
         },
         "S50_C2": {
-            "class": "spinal_50"
+            "models": "ILX:0785476",
+            "name": "Second cervical nerve"
         },
         "S50_C3": {
-            "class": "spinal_50"
+            "models": "ILX:0790034",
+            "name": "Third cervical nerve"
         },
         "S50_C4": {
-            "class": "spinal_50"
+            "models": "ILX:0792861",
+            "name": "Fourth cervical nerve"
         },
         "S50_C5": {
-            "class": "spinal_50"
+            "models": "ILX:0791493",
+            "name": "Fifth cervical nerve"
         },
         "S50_C6": {
-            "class": "spinal_50"
+            "models": "ILX:0787473",
+            "name": "Sixth cervical nerve"
         },
         "S50_C7": {
-            "class": "spinal_50"
+            "models": "ILX:0789608",
+            "name": "Seventh cervical nerve"
         },
         "S50_C8": {
-            "class": "spinal_50"
+            "models": "UBERON:0000962",
+            "name": "Eighth cervical nerve"
         },
         "S50_L1": {
-            "class": "spinal_50"
-        },
-        "S50_L1-1": {
             "models": "ILX:0788972",
             "name": "First lumbar nerve"
         },
         "S50_L2": {
-            "class": "spinal_50"
-        },
-        "S50_L2-1": {
             "models": "ILX:0786362",
             "name": "Second lumbar nerve"
         },
         "S50_L3": {
-            "class": "spinal_50"
-        },
-        "S50_L3-1": {
             "models": "ILX:0789374",
             "name": "Third lumbar nerve"
         },
         "S50_L4": {
-            "class": "spinal_50"
-        },
-        "S50_L4-1": {
             "models": "ILX:0788896",
             "name": "Fourth lumbar nerve"
         },
         "S50_L5": {
-            "class": "spinal_50"
+            "models": "ILX:0787261",
+            "name": "Fifth lumbar nerve"
         },
         "S50_L6": {
-            "class": "spinal_50"
+            "models": "UBERON:0009624",
+            "name": "Sixth lumbar nerve"
         },
         "S50_S1": {
-            "class": "spinal_50"
-        },
-        "S50_S1-1": {
             "models": "ILX:0790504",
             "name": "First sacral nerve"
         },
         "S50_S2": {
-            "class": "spinal_50"
-        },
-        "S50_S2-1": {
             "models": "ILX:0787528",
             "name": "Second sacral nerve"
         },
         "S50_S3": {
-            "class": "spinal_50"
-        },
-        "S50_S3-1": {
             "models": "ILX:0791971",
             "name": "Third sacral nerve"
         },
         "S50_S4": {
-            "class": "spinal_50"
-        },
-        "S50_S4-1": {
             "models": "ILX:0792327",
             "name": "Fourth sacral nerve"
         },
         "S50_T1": {
-            "class": "spinal_50"
+            "models": "ILX:0738397",
+            "name": "First thoracic nerve"
         },
         "S50_T2": {
-            "class": "spinal_50"
+            "models": "ILX:0739243",
+            "name": "Second thoracic nerve"
         },
         "S50_T3": {
-            "class": "spinal_50"
+            "models": "ILX:0739246",
+            "name": "Third thoracic nerve"
         },
         "S50_T4": {
-            "class": "spinal_50"
+            "models": "ILX:0784755",
+            "name": "Fourth thoracic nerve"
         },
         "S50_T5": {
-            "class": "spinal_50"
+            "models": "ILX:0792589",
+            "name": "Fifth thoracic nerve"
         },
         "S50_T6": {
-            "class": "spinal_50"
+            "models": "ILX:0791122",
+            "name": "Sixth thoracic nerve"
         },
         "S50_T7": {
-            "class": "spinal_50"
+            "models": "ILX:0789008",
+            "name": "Seventh thoracic nerve"
         },
         "S50_T8": {
-            "class": "spinal_50"
+            "models": "ILX:0792754",
+            "name": "Eighth thoracic nerve"
         },
         "S50_T9": {
-            "class": "spinal_50"
+            "models": "ILX:0789545",
+            "name": "Ninth thoracic nerve"
         },
         "S50_T10": {
-            "class": "spinal_50"
+            "models": "ILX:0792933",
+            "name": "Tenth thoracic nerve"
         },
         "S50_T11": {
-            "class": "spinal_50"
+            "models": "ILX:0791454",
+            "name": "Eleventh thoracic nerve"
         },
         "S50_T12": {
-            "class": "spinal_50"
-        },
-        "S50_T12-1": {
             "models": "ILX:0791046",
             "name": "Twelfth thoracic nerve"
         },
         "S50_T13": {
-            "class": "spinal_50"
+            "models": "UBERON:0003726",
+            "name": "Thirteenth thoracic nerve"
         },
         "S51_L6": {
             "class": "spinal_51"
@@ -2105,6 +2100,12 @@
         "ganglion_38-1": {
             "models": "ILX:0795347",
             "name": "myenteric nerve plexus ganglion of anus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_39-1": {
+            "models": "UBERON:0002059",
+            "name": "Submandibular ganglion",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -2567,13 +2568,7 @@
         "digestive_71-1": {
             "class": "digestive_71"
         },
-        "digestive_71-2": {
-            "class": "digestive_71"
-        },
         "digestive_72-1": {
-            "class": "digestive_72"
-        },
-        "digestive_72-2": {
             "class": "digestive_72"
         },
         "digestive_73-1": {
@@ -2605,9 +2600,6 @@
         },
         "digestive_81-1": {
             "class": "digestive_81"
-        },
-        "digestive_82-1": {
-            "class": "digestive_82"
         },
         "digestive_83-1": {
             "class": "digestive_83"
@@ -2686,6 +2678,21 @@
         },
         "digestive_107-1": {
             "class": "digestive_107"
+        },
+        "digestive_108-1": {
+            "class": "digestive_108"
+        },
+        "digestive_109-1": {
+            "class": "digestive_109"
+        },
+        "digestive_110-1": {
+            "class": "digestive_110"
+        },
+        "digestive_111-1": {
+            "class": "digestive_111"
+        },
+        "digestive_112-1": {
+            "class": "digestive_112"
         },
         "endocrine_2-1": {
             "class": "endocrine_2"
@@ -2870,6 +2877,30 @@
         },
         "reproductive_31-1": {
             "class": "reproductive_31"
+        },
+        "reproductive_32-1": {
+            "class": "reproductive_32"
+        },
+        "reproductive_33-1": {
+            "class": "reproductive_33"
+        },
+        "reproductive_34-1": {
+            "class": "reproductive_34"
+        },
+        "reproductive_35-1": {
+            "class": "reproductive_35"
+        },
+        "reproductive_36-1": {
+            "class": "reproductive_36"
+        },
+        "reproductive_37-1": {
+            "class": "reproductive_37"
+        },
+        "reproductive_38-1": {
+            "class": "reproductive_38"
+        },
+        "reproductive_39-1": {
+            "class": "reproductive_39"
         },
         "respiratory_10-1": {
             "class": "respiratory_10"
@@ -3721,6 +3752,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_26-1": {
+            "models": "ILX:0794732",
+            "name": "intermesenteric plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "label_4-1": {
             "class": "label_4"
         },
@@ -4145,7 +4182,7 @@
         },
         "ICG-T1_sympathetic_cord_c": {
             "type": "nerve",
-            "models": "ILX:0793233"
+            "models": "ILX:0738291"
         },
         "MCG-ICG_sympathetic_cord_c": {
             "type": "nerve",
@@ -4210,6 +4247,18 @@
         "cardiac_interganglionic_c": {
             "type": "nerve",
             "models": "ILX:0796679"
+        },
+        "lingual_c": {
+            "type": "nerve",
+            "models": "UBERON:0003721"
+        },
+        "clitoral_cavernous_c": {
+            "type": "nerve",
+            "models": "ILX:0793809"
+        },
+        "superior_ovarian_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0793822"
         },
         "n_76_c": {
             "type": "nerve"
@@ -5746,7 +5795,7 @@
                 },
                 {
                     "id": "ICG-T1_sympathetic_cord",
-                    "models": "ILX:0793233",
+                    "models": "ILX:0738291",
                     "connects": [
                         "ganglion_10-1",
                         "S46_T1"

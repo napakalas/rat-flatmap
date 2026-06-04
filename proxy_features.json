@@ -33,5 +33,82 @@
         "proxies": [
             "UBERON:0016508"
         ]
+    },
+    {
+        "feature": "ILX:0793617",
+        "name": "T2 sympathetic chain",
+        "proxies": [
+            "ILX:0786228"
+        ]
+    },
+    {
+        "feature": "ILX:0793618",
+        "name": "T3 sympathetic chain",
+        "proxies": [
+            "ILX:0786722"
+        ]
+    },
+    {
+        "feature": "ILX:0793619",
+        "name": "T4 sympathetic chain",
+        "proxies": [
+            "ILX:0786272"
+        ]
+    },
+    {
+        "feature": "ILX:0793335",
+        "name": "T5 sympathetic chain",
+        "proxies": [
+            "ILX:0786141"
+        ]
+    },
+    {
+        "feature": "ILX:0793336",
+        "name": "T6 sympathetic chain",
+        "proxies": [
+            "ILX:0789947"
+        ]
+    },
+    {
+        "feature": "UBERON:0002441",
+        "name": "cervicothoracic ganglion",
+        "proxies": [
+            "ILX:0774266"
+        ]
+    },
+    {
+        "feature": "UBERON:0035770",
+        "name": "inferior mesenteric nerve plexus",
+        "proxies": [
+            "UBERON:0005453"
+        ]
+    },
+    {
+        "feature": "UBERON:0007715",
+        "name": "thoracic subsegment of spinal cord",
+        "proxies": [
+            "ILX:0793357"
+        ]
+    },
+    {
+        "feature": "UBERON:0007716",
+        "name": "lumbar subsegment of spinal cord",
+        "proxies": [
+            "UBERON:0006448"
+        ]
+    },
+    {
+        "feature": "UBERON:0004917",
+        "name": "urethral sphincter",
+        "proxies": [
+            "ILX:0793141"
+        ]
+    },
+    {
+        "feature": "UBERON:0001780",
+        "name": "spinal nerve",
+        "proxies": [
+            "ILX:0738397"
+        ]
     }
 ]
