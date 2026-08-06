@@ -110,5 +110,12 @@
         "proxies": [
             "ILX:0738397"
         ]
+    },
+    {
+        "feature": "UBERON:0001279",
+        "name": "portal triad",
+        "proxies": [
+            "UBERON:0002394"
+        ]
     }
 ]

@@ -2139,6 +2139,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_45-1": {
+            "models": "ILX:0795010",
+            "name": "parasympathetic ganglia of the liver",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -2723,6 +2729,22 @@
         },
         "digestive_112-1": {
             "class": "digestive_112"
+        },
+        "digestive_119-1": {
+            "models": "UBERON:0001172",
+            "name": "hepatic acinus"
+        },
+        "digestive_120-1": {
+            "models": "UBERON:0001281",
+            "name": "hepatic sinusoid"
+        },
+        "digestive_121-1": {
+            "models": "UBERON:0004647",
+            "name": "liver lobule"
+        },
+        "digestive_122-1": {
+            "models": "UBERON:0006729",
+            "name": "liver perisinusoidal space"
         },
         "endocrine_2-1": {
             "class": "endocrine_2"
