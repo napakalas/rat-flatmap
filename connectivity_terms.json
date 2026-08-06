@@ -137,61 +137,30 @@
     },
     {
         "id": [
-            "ILX:0793082",
+            "UBERON:0002262",
             []
         ],
-        "name": "celiac ganglion- superior mesenteric ganglion complex",
+        "name": "celiac ganglion",
         "aliases": [
-            [
-                "UBERON:0005479",
-                []
-            ],
-            [
-                "ILX:0794730",
-                []
-            ],
-            [
-                "ILX:0794764",
-                []
-            ],
-            [
-                "UBERON:0005488",
-                []
-            ],
-            [
-                "UBERON:0035772",
-                []
-            ],
-            [
-                "ILX:0793821",
-                []
-            ],
-            [
-                "UBERON:0002262",
-                []
-            ],
-            [
-                "ILX:0793714",
-                []
-            ],
-            [
-                "UBERON:0002010",
-                []
-            ],
-            [
-                "UBERON:0018676",
-                []
-            ],
             [
                 "ILX:0795513",
                 []
             ],
             [
-                "ILX:0795514",
-                []
-            ],
-            [
                 "ILX:0795515",
+                []
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0005479",
+            []
+        ],
+        "name": "superior mesenteric ganglion",
+        "aliases": [
+            [
+                "ILX:0795514",
                 []
             ],
             [
@@ -840,10 +809,6 @@
                 []
             ],
             [
-                "UBERON:0001224",
-                []
-            ],
-            [
                 "UBERON:0003517",
                 []
             ],
@@ -1431,17 +1396,13 @@
     },
     {
         "id": [
-            "ILX:0793658",
+            "UBERON:0001160",
             []
         ],
-        "name": "Proximal stomach",
+        "name": "Fundus of stomach",
         "aliases": [
             [
                 "UBERON:0005477",
-                []
-            ],
-            [
-                "UBERON:0001161",
                 []
             ]
         ]
