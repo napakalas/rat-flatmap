@@ -787,21 +787,13 @@
     },
     {
         "id": [
-            "UBERON:0002113",
+            "UBERON:0002303",
             []
         ],
-        "name": "kidney",
+        "name": "juxtaglomerular apparatus",
         "aliases": [
             [
-                "UBERON:0009773",
-                []
-            ],
-            [
                 "UBERON:0004639",
-                []
-            ],
-            [
-                "UBERON:0002303",
                 []
             ],
             [
@@ -809,31 +801,24 @@
                 []
             ],
             [
-                "UBERON:0003517",
-                []
-            ],
-            [
                 "UBERON:0001230",
-                []
-            ],
-            [
-                "UBERON:0005006",
-                []
-            ],
-            [
-                "UBERON:0001225",
                 []
             ],
             [
                 "UBERON:0006853",
                 []
-            ],
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0001224",
+            []
+        ],
+        "name": "renal pelvis",
+        "aliases": [
             [
-                "UBERON:0006851",
-                []
-            ],
-            [
-                "ILX:0795056",
+                "UBERON:0005006",
                 []
             ]
         ]

@@ -2145,6 +2145,18 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_46-1": {
+            "models": "ILX:0795056",
+            "name": "intramural ganglion of the kidney",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_46-2": {
+            "models": "ILX:0795056",
+            "name": "intramural ganglion of the kidney",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -3663,6 +3675,9 @@
         "urinary_19-1": {
             "class": "urinary_19"
         },
+        "urinary_19-2": {
+            "class": "urinary_19"
+        },
         "urinary_21-1": {
             "class": "urinary_21"
         },
@@ -3673,10 +3688,18 @@
             "class": "urinary_22"
         },
         "urinary_22-2": {
-            "class": "urinary_21"
+            "class": "urinary_22"
         },
         "urinary_23-1": {
             "class": "urinary_23"
+        },
+        "urinary_25-1": {
+            "models": "UBERON:0002303",
+            "name": "juxtaglomerular apparatus"
+        },
+        "urinary_25-2": {
+            "models": "UBERON:0002303",
+            "name": "juxtaglomerular apparatus"
         },
         "urinary_27-1": {
             "models": "UBERON:0001224",
@@ -3685,6 +3708,38 @@
         "urinary_27-2": {
             "models": "UBERON:0001224",
             "name": "renal pelvis"
+        },
+        "urinary_28-1": {
+            "models": "UBERON:0003517",
+            "name": "kidney blood vessel"
+        },
+        "urinary_28-2": {
+            "models": "UBERON:0003517",
+            "name": "kidney blood vessel"
+        },
+        "urinary_31-1": {
+            "models": "UBERON:0001225",
+            "name": "cortex of kidney"
+        },
+        "urinary_31-2": {
+            "models": "UBERON:0001225",
+            "name": "cortex of kidney"
+        },
+        "urinary_32-1": {
+            "models": "UBERON:0009773",
+            "name": "renal tubule"
+        },
+        "urinary_32-2": {
+            "models": "UBERON:0009773",
+            "name": "renal tubule"
+        },
+        "urinary_33-1": {
+            "models": "UBERON:0006851",
+            "name": "renal cortex peritubular capillary"
+        },
+        "urinary_33-2": {
+            "models": "UBERON:0006851",
+            "name": "renal cortex peritubular capillary"
         },
         "ganglion_1-1": {
             "models": "UBERON:0005364",
