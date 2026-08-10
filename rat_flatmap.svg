@@ -15601,9 +15601,6 @@
         </g>
         <g id="centrelines">
             <title>Centerlines</title>
-            <path fill="none" stroke="#AFA202" d="M 2145.043 686.5 C 2158.699 705.352 2165.465 715.585 2169.423 730.838">
-                <title>.centreline id(bolser_31)</title>
-            </path>
             <path fill="none" stroke="#AFA202" d="M 1381.038 592.195 C 1369.634 623.767 1274.604 694.401 1141.838 698.23">
                 <title>.centreline id(n_6)</title>
             </path>
@@ -16255,12 +16252,6 @@
             <path fill="none" stroke="#AFA202" stroke-miterlimit="10" d="M1480.35,681.383    c134.054,15.02,568.442-37.885,594.608,47.679c36.576,119.608,21.177,856.94-15.341,953.211">
                 <title>.centreline id(bolser_1)</title>
             </path>
-            <path fill="none" stroke="#AFA202" d="M2029.428,808.826    c64.588,110.118,95.633,922.46-324.352,878.823">
-                <title>.centreline id(bolser_2)</title>
-            </path>
-            <path fill="none" stroke="#AFA202" d="M2033.342,812.709    c78.657,100.725,121.65,928.611-326.994,887.317">
-                <title>.centreline id(bolser_3)</title>
-            </path>
             <path fill="none" stroke="#AFA202" d="M1728.37,1139.885    c-6.021,88.002,4.941,480-9.176,561.882">
                 <title>.centreline id(bolser_4)</title>
             </path>
@@ -16854,6 +16845,36 @@
             </path>
             <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 2606.95 1167.55 C 2607.2 1166.65 2607.97 1163.94 2611.05 1165.09 C 2614.14 1166.23 2615.47 1172.11 2612.41 1174.67 C 2609.38 1177.25 2608.13 1174.13 2608.07 1174.09">
                 <title>.id(mesenteric_nerve_c)</title>
+            </path>
+            <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 2686.39 572.497 C 2686.73 571.637 2685.88 568.557 2689.69 568.867 C 2693.49 569.167 2696.91 572.827 2696.38 575.157 C 2695.85 577.497 2691.79 578.137 2691.73 578.077">
+                <title>.id(thoracic_splanchnic_nerve_c)</title>
+            </path>
+            <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 2336.73 725.67 C 2336.97 724.76 2337.74 722.06 2340.83 723.2 C 2343.92 724.34 2345.24 730.23 2342.19 732.79 C 2339.15 735.36 2337.9 732.25 2337.83 732.2">
+                <title>.id(esophageal_vagus_trunk_c)</title>
+            </path>
+            <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 2556.95 722.498 C 2557.2 721.582 2557.98 718.863 2561.04 720.011 C 2564.14 721.159 2565.48 727.089 2562.41 729.666 C 2559.37 732.254 2558.12 729.123 2558.06 729.072" style="stroke-width: 1;">
+                <title>.id(abdominal_branch_of_vagus_nerve_c)</title>
+            </path>
+            <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 2499.36 702.595 C 2499.61 701.679 2500.38 698.961 2503.47 700.109 C 2506.55 701.256 2507.88 707.187 2504.84 709.764 C 2501.78 712.351 2500.53 709.22 2500.47 709.17" style="stroke-width: 1;">
+                <title>.id(posterior_abdominal_vagal_trunk_c)</title>
+            </path>
+            <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 2617.11 744.559 C 2617.35 743.653 2618.12 740.935 2621.21 742.073 C 2624.3 743.22 2625.62 749.151 2622.57 751.738 C 2619.53 754.316 2618.28 751.184 2618.21 751.144" style="stroke-width: 1;">
+                <title>.id(anterior_abdominal_vagal_trunk_c)</title>
+            </path>
+            <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 2515.7 784.809 C 2515.95 783.893 2516.7 781.174 2519.79 782.322 C 2522.89 783.47 2524.2 789.4 2521.16 791.978 C 2518.12 794.565 2516.87 791.434 2516.81 791.384" style="stroke-width: 1;">
+                <title>.id(posterior_hepatic_branch_of_vagus_nerve_c)</title>
+            </path>
+            <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 2619.01 784.577 C 2619.26 783.66 2620.01 780.932 2623.08 782.09 C 2626.2 783.237 2627.51 789.158 2624.47 791.735 C 2621.43 794.333 2620.18 791.191 2620.1 791.151" style="stroke-width: 1;">
+                <title>.id(hepatic_branch_of_left_vagus_nerve_c)</title>
+            </path>
+            <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 2490.14 784.5 C 2490.39 783.584 2491.16 780.865 2494.25 782.013 C 2497.34 783.161 2498.66 789.091 2495.61 791.669 C 2492.56 794.256 2491.32 791.125 2491.25 791.075" style="stroke-width: 1;">
+                <title>.id(celiac_branch_of_posterior_vagal_trunk_c)</title>
+            </path>
+            <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 2028.26 454.576 C 2028.6 453.706 2027.74 450.636 2031.56 450.936 C 2035.35 451.236 2038.78 454.896 2038.24 457.226 C 2037.72 459.556 2033.66 460.196 2033.6 460.146" style="stroke-width: 1;">
+                <title>.id(ansa_subclavia_c)</title>
+            </path>
+            <path fill="none" stroke="#595959" stroke-dasharray="3,3" d="M 2554.58 687.004 C 2554.92 686.134 2554.06 683.064 2557.88 683.364 C 2561.67 683.664 2565.1 687.324 2564.56 689.654 C 2564.04 691.984 2559.98 692.624 2559.92 692.574" style="stroke-width: 1;">
+                <title>.id(thoracic_sympathetic_nerve_trunk_c)</title>
             </path>
         </g>
     </g>

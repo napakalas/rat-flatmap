@@ -4019,11 +4019,11 @@
         },
         "vagus_2": {
             "type": "nerve",
-            "models": "ILX:0786624"
+            "models": "ILX:0794142"
         },
         "vagus_3": {
             "type": "nerve",
-            "models": "ILX:0791151"
+            "models": "ILX:0794141"
         },
         "vagus_4": {
             "type": "nerve",
@@ -4407,6 +4407,47 @@
             "type": "nerve",
             "models": "ILX:0793714"
         },
+        "thoracic_splanchnic_nerve_c": {
+            "models": "UBERON:0018679",
+            "name": "thoracic splanchnic nerve",
+            "type": "nerve"
+        },
+        "esophageal_vagus_trunk_c": {
+            "type": "nerve",
+            "models": "ILX:0794853"
+        },
+        "abdominal_branch_of_vagus_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0794473"
+        },
+        "posterior_abdominal_vagal_trunk_c": {
+            "type": "nerve",
+            "models": "ILX:0793827"
+        },
+        "anterior_abdominal_vagal_trunk_c": {
+            "type": "nerve",
+            "models": "ILX:0793826"
+        },
+        "posterior_hepatic_branch_of_vagus_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0794506"
+        },
+        "celiac_branch_of_posterior_vagal_trunk_c": {
+            "type": "nerve",
+            "models": "ILX:0789580"
+        },
+        "hepatic_branch_of_left_vagus_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0790553"
+        },
+        "ansa_subclavia_c": {
+            "type": "nerve",
+            "models": "ILX:0739241"
+        },
+        "thoracic_sympathetic_nerve_trunk_c": {
+            "type": "nerve",
+            "models": "UBERON:0004863"
+        },
         "n_76_c": {
             "type": "nerve"
         },
@@ -4461,14 +4502,6 @@
                     ]
                 },
                 {
-                    "id": "n_8",
-                    "models": "ILX:0791151",
-                    "connects": [
-                        "point_8",
-                        "point_9"
-                    ]
-                },
-                {
                     "id": "n_9",
                     "models": "ILX:0785937",
                     "connects": [
@@ -4490,14 +4523,6 @@
                     "connects": [
                         "point_10",
                         "label_4-1"
-                    ]
-                },
-                {
-                    "id": "n_12",
-                    "models": "ILX:0786624",
-                    "connects": [
-                        "point_6",
-                        "point_7"
                     ]
                 },
                 {
@@ -6369,20 +6394,6 @@
                     "connects": [
                         "ganglion_2-1",
                         "bolser_1_branching_point"
-                    ]
-                },
-                {
-                    "id": "bolser_2",
-                    "connects": [
-                        "point_28",
-                        "respiratory_11-1"
-                    ]
-                },
-                {
-                    "id": "bolser_3",
-                    "connects": [
-                        "point_28",
-                        "respiratory_11-1"
                     ]
                 },
                 {
