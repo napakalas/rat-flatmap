@@ -3855,6 +3855,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_22-1": {
+            "models": "ILX:0795340",
+            "name": "celiac periarterial nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "plexus_24-1": {
             "models": "ILX:0793704",
             "name": "Esophageal nerve plexus",
