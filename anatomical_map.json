@@ -15,10 +15,6 @@
         "term": "UBERON:0001258",
         "name": "neck of urinary bladder"
     },
-    "urinary_5": {
-        "term": "UBERON:0004919",
-        "name": "external urethral sphincter"
-    },
     "urinary_6": {
         "term": "UBERON:0000483",
         "name": "epithelium"
@@ -56,8 +52,8 @@
         "name": "urethra"
     },
     "urinary_15": {
-        "term": "ILX:0793141",
-        "name": "Urethral Rhabdosphincter"
+        "term": "UBERON:0004919",
+        "name": "external urethral sphincter"
     },
     "urinary_16": {
         "term": "UBERON:0002384",
@@ -1495,6 +1491,10 @@
         "term": "UBERON:0007703",
         "name": "spinothalamic tract"
     },
+    "brain_61": {
+        "term": "UBERON:0002872",
+        "name": "inferior salivatory nucleus"
+    },
     "bolser_4": {
         "term": "ILX:0738374",
         "name": "External branch of superior laryngeal nerve"
@@ -1666,6 +1666,10 @@
     "label_35": {
         "term": "UBERON:0001630",
         "name": "muscle organ"
+    },
+    "label_36": {
+        "term": "UBERON:0003729",
+        "name": "mouth mucosa"
     },
     "vagus_n": {
         "term": "UBERON:0001759",

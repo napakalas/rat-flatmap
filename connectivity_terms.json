@@ -1,25 +1,12 @@
 [
     {
         "id": [
-            "ILX:0793234",
-            []
-        ],
-        "name": "interganglionic branch of inferior cervical ganglion to middle cervical ganglion/sympathetic trunk",
-        "aliases": [
-            [
-                "ILX:0738290",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0016578",
             [
                 "UBERON:0006457"
             ]
         ],
-        "name": "",
+        "name": "lamina VII of gray matter of spinal cord / T1 segment of thoracic spinal cord",
         "aliases": [
             [
                 "ILX:0738371",
@@ -34,7 +21,7 @@
                 "UBERON:0006082"
             ]
         ],
-        "name": "",
+        "name": "wall of blood vessel / fundus of urinary bladder",
         "aliases": [
             [
                 "UBERON:0035965",
@@ -214,7 +201,7 @@
                 "UBERON:0006461"
             ]
         ],
-        "name": "",
+        "name": "lamina IX of gray matter of spinal cord / S2 segment of sacral spinal cord",
         "aliases": [
             [
                 "UBERON:0022278",
@@ -224,13 +211,17 @@
     },
     {
         "id": [
-            "ILX:0793141",
+            "UBERON:0004919",
             []
         ],
-        "name": "urethral rhabdosphincter",
+        "name": "external urethral sphincter",
         "aliases": [
             [
                 "UBERON:0011380",
+                []
+            ],
+            [
+                "ILX:0793141",
                 []
             ]
         ]
@@ -499,12 +490,12 @@
     },
     {
         "id": [
-            "UBERON:0011776",
+            "UBERON:0004677",
             [
                 "UBERON:0006450"
             ]
         ],
-        "name": "dorsal commissural nucleus/second lumbar spinal cord segment",
+        "name": "Spinal cord gray commissure/second lumbar spinal cord segment",
         "aliases": [
             [
                 "ILX:0793883",
@@ -514,12 +505,12 @@
     },
     {
         "id": [
-            "UBERON:0011776",
+            "UBERON:0004677",
             [
                 "UBERON:0006448"
             ]
         ],
-        "name": "dorsal commissural nucleus/first lumbar spinal cord segment",
+        "name": "Spinal cord gray commissure/first lumbar spinal cord segment",
         "aliases": [
             [
                 "ILX:0793882",
@@ -645,10 +636,10 @@
     },
     {
         "id": [
-            "UBERON:0000995",
+            "UBERON:0002493",
             []
         ],
-        "name": "uterus",
+        "name": "uterine artery",
         "aliases": [
             [
                 "UBERON:0015173",
@@ -735,19 +726,6 @@
     },
     {
         "id": [
-            "UBERON:0001723",
-            []
-        ],
-        "name": "tongue",
-        "aliases": [
-            [
-                "UBERON:0003729",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0001964",
             []
         ],
@@ -802,7 +780,7 @@
             "UBERON:0002853",
             []
         ],
-        "name": "",
+        "name": "tenth thoracic dorsal root ganglion",
         "aliases": [
             [
                 "ILX:0792508",
@@ -836,7 +814,7 @@
             "UBERON:0002854",
             []
         ],
-        "name": "",
+        "name": "eleventh thoracic dorsal root ganglion",
         "aliases": [
             [
                 "ILX:0792057",
@@ -853,7 +831,7 @@
             "UBERON:0002856",
             []
         ],
-        "name": "",
+        "name": "second lumbar dorsal root ganglion",
         "aliases": [
             [
                 "ILX:0785409",
@@ -866,7 +844,7 @@
             "UBERON:0002855",
             []
         ],
-        "name": "",
+        "name": "twelfth thoracic dorsal root ganglion",
         "aliases": [
             [
                 "ILX:0787810",
@@ -883,7 +861,7 @@
             "UBERON:0002852",
             []
         ],
-        "name": "",
+        "name": "ninth thoracic dorsal root ganglion",
         "aliases": [
             [
                 "ILX:0785729",
@@ -900,7 +878,7 @@
             "ILX:0787779",
             []
         ],
-        "name": "",
+        "name": "Posterior root of first lumbar nerve",
         "aliases": [
             [
                 "ILX:0786788",
@@ -913,7 +891,7 @@
             "ILX:0787665",
             []
         ],
-        "name": "",
+        "name": "Posterior root of twelfth thoracic nerve",
         "aliases": [
             [
                 "ILX:0790414",
@@ -930,7 +908,7 @@
             "ILX:0792058",
             []
         ],
-        "name": "",
+        "name": "Posterior root of second lumbar nerve",
         "aliases": [
             [
                 "ILX:0792342",
@@ -960,7 +938,7 @@
             "ILX:0789892",
             []
         ],
-        "name": "",
+        "name": "Posterior root of tenth thoracic nerve",
         "aliases": [
             [
                 "ILX:0785488",
@@ -977,7 +955,7 @@
             "ILX:0792624",
             []
         ],
-        "name": "",
+        "name": "Posterior root of eighth thoracic nerve",
         "aliases": [
             [
                 "ILX:0784992",
@@ -994,7 +972,7 @@
             "UBERON:0002857",
             []
         ],
-        "name": "",
+        "name": "first lumbar dorsal root ganglion",
         "aliases": [
             [
                 "ILX:0786477",
@@ -1037,11 +1015,13 @@
             "ILX:0784605",
             []
         ],
-        "name": "",
+        "name": "Posterior root of seventh thoracic nerve",
         "aliases": [
             [
                 "ILX:0787781",
-                []
+                [],
+                "Posterior root of right seventh thoracic nerve",
+                "need check"
             ]
         ]
     },
@@ -1050,7 +1030,7 @@
             "UBERON:0002850",
             []
         ],
-        "name": "",
+        "name": "seventh thoracic dorsal root ganglion",
         "aliases": [
             [
                 "ILX:0788647",
@@ -1063,7 +1043,7 @@
             "ILX:0785909",
             []
         ],
-        "name": "",
+        "name": "Posterior root of sixth thoracic nerve",
         "aliases": [
             [
                 "ILX:0785477",
@@ -1076,7 +1056,7 @@
             "UBERON:0005363",
             []
         ],
-        "name": "",
+        "name": "inferior vagus X ganglion",
         "aliases": [
             [
                 "ILX:0790316",

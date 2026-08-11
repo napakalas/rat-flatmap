@@ -2337,6 +2337,9 @@
         "brain_60-1": {
             "class": "brain_60"
         },
+        "brain_61-1": {
+            "class": "brain_61"
+        },
         "brain_6-1": {
             "class": "brain_6"
         },
@@ -4008,6 +4011,10 @@
         "label_35-1": {
             "class": "label_35"
         },
+        "urethral_sphincter": {
+            "models": "UBERON:0004917",
+            "name": "urethral sphincter"
+        },
         "CNVII_c": {
             "type": "nerve",
             "models": "UBERON:0001647"
@@ -4340,7 +4347,7 @@
         },
         "MCG-ICG_sympathetic_cord_c": {
             "type": "nerve",
-            "models": "ILX:0793234"
+            "models": "ILX:0738290"
         },
         "lacrimal_zygomatic_c": {
             "type": "nerve",
@@ -5998,7 +6005,7 @@
                 },
                 {
                     "id": "MCG-ICG_sympathetic_cord",
-                    "models": "ILX:0793234",
+                    "models": "ILX:0738290",
                     "connects": [
                         "ganglion_9-1",
                         "ganglion_10-1"

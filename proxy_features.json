@@ -98,13 +98,6 @@
         ]
     },
     {
-        "feature": "UBERON:0004917",
-        "name": "urethral sphincter",
-        "proxies": [
-            "ILX:0793141"
-        ]
-    },
-    {
         "feature": "UBERON:0001780",
         "name": "spinal nerve",
         "proxies": [
