@@ -1503,10 +1503,6 @@
         "term": "UBERON:0001649",
         "name": "glossopharyngeal nerve"
     },
-    "bolser_8": {
-        "term": "UBERON:0001650",
-        "name": "hypoglossal nerve"
-    },
     "bolser_13": {
         "term": "ILX:0738373",
         "name": "Internal branch of superior laryngeal nerve"

@@ -6441,14 +6441,6 @@
                     ]
                 },
                 {
-                    "id": "bolser_8",
-                    "models": "UBERON:0001650",
-                    "connects": [
-                        "plexus_7-1",
-                        "bolser_8_branching_point"
-                    ]
-                },
-                {
                     "id": "bolser_9",
                     "connects": [
                         "bolser_8_branching_point",
