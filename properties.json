@@ -4011,6 +4011,9 @@
         "label_35-1": {
             "class": "label_35"
         },
+        "label_36-1": {
+            "class": "label_36"
+        },
         "urethral_sphincter": {
             "models": "UBERON:0004917",
             "name": "urethral sphincter"
