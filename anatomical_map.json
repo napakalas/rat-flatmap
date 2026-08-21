@@ -1228,8 +1228,12 @@
         "name": "spinal nerve"
     },
     "spinal_51": {
-        "term": "UBERON:0011776",
-        "name": "Dorsal commissural nucleus"
+        "term": "UBERON:0014631",
+        "name": "dorsal gray commissure of spinal cord"
+    },
+    "spinal_52": {
+        "term": "UBERON:0014630",
+        "name": "ventral gray commissure of spinal cord"
     },
     "spinal_53": {
         "term": "UBERON:0002240",

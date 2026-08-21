@@ -1908,20 +1908,50 @@
         "S51_S4": {
             "class": "spinal_51"
         },
-        "S52_L1": {
+        "S51_L1": {
             "class": "spinal_51"
+        },
+        "S51_L2": {
+            "class": "spinal_51"
+        },
+        "S51_T11": {
+            "class": "spinal_51"
+        },
+        "S51_T12": {
+            "class": "spinal_51"
+        },
+        "S51_T13": {
+            "class": "spinal_51"
+        },
+        "S52_L6": {
+            "class": "spinal_52"
+        },
+        "S52_S1": {
+            "class": "spinal_52"
+        },
+        "S52_S2": {
+            "class": "spinal_52"
+        },
+        "S52_S3": {
+            "class": "spinal_52"
+        },
+        "S52_S4": {
+            "class": "spinal_52"
+        },
+        "S52_L1": {
+            "class": "spinal_52"
         },
         "S52_L2": {
-            "class": "spinal_51"
+            "class": "spinal_52"
         },
         "S52_T11": {
-            "class": "spinal_51"
+            "class": "spinal_52"
         },
         "S52_T12": {
-            "class": "spinal_51"
+            "class": "spinal_52"
         },
         "S52_T13": {
-            "class": "spinal_51"
+            "class": "spinal_52"
         },
         "ganglion_8-1": {
             "models": "UBERON:0001808",
