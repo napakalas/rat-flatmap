@@ -110,5 +110,12 @@
         "proxies": [
             "UBERON:0002394"
         ]
+    },
+    {
+        "feature": "UBERON:0002836",
+        "name": "lumbar dorsal root ganglion",
+        "proxies": [
+            "UBERON:0002858"
+        ]
     }
 ]
