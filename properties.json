@@ -1,17 +1,5 @@
 {
     "classes": {
-        "ganglion_6": {
-            "label": "atrial intracardiac ganglion"
-        },
-        "ganglion_7": {
-            "label": "ventricular intracardiac ganglion"
-        },
-        "label_2": {
-            "label": "posterior wall of external acoustic meatus"
-        },
-        "label_3": {
-            "label": "floor of external acoustic meatus"
-        },
         "label_11": {
             "label": "arytenoideus"
         },
@@ -24,28 +12,10 @@
         "body_1": {
             "tooltip": false
         },
-        "body_2": {
-            "tooltip": false
-        },
-        "body_3": {
-            "tooltip": false
-        },
-        "body_4": {
-            "tooltip": false
-        },
-        "body_5": {
-            "tooltip": false
-        },
         "body_6": {
             "tooltip": false
         },
         "brain_35": {
-            "tooltip": false
-        },
-        "respiratory_6": {
-            "tooltip": false
-        },
-        "respiratory_7": {
             "tooltip": false
         }
     },
@@ -1953,12 +1923,6 @@
         "S52_T13": {
             "class": "spinal_52"
         },
-        "ganglion_8-1": {
-            "models": "UBERON:0001808",
-            "name": "parasympathetic ganglion",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
         "ganglion_9-1": {
             "models": "UBERON:0001990",
             "name": "middle cervical ganglion",
@@ -2052,12 +2016,6 @@
         "ganglion_25-1": {
             "models": "UBERON:0001675",
             "name": "Trigeminal Ganglion",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
-        "ganglion_26-1": {
-            "models": "ILX:0793833",
-            "name": "Ovarian nerve plexus parasympathetic ganglion",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -2322,9 +2280,6 @@
         "brain_43-1": {
             "class": "brain_43"
         },
-        "brain_44-1": {
-            "class": "brain_44"
-        },
         "brain_45-1": {
             "class": "brain_45"
         },
@@ -2394,32 +2349,17 @@
         "cardio_16-1": {
             "class": "cardio_16"
         },
-        "cardio_18-1": {
-            "class": "cardio_18"
-        },
         "cardio_19-1": {
             "class": "cardio_19"
         },
         "cardio_2-1": {
             "class": "cardio_2"
         },
-        "cardio_20-1": {
-            "class": "cardio_20"
-        },
         "cardio_21-1": {
             "class": "cardio_21"
         },
-        "cardio_22-1": {
-            "class": "cardio_22"
-        },
-        "cardio_23-1": {
-            "class": "cardio_23"
-        },
         "cardio_24-1": {
             "class": "cardio_24"
-        },
-        "cardio_25-1": {
-            "class": "cardio_25"
         },
         "cardio_27-1": {
             "class": "cardio_27"
@@ -2451,22 +2391,7 @@
         "cardio_3-1": {
             "class": "cardio_3"
         },
-        "cardio_30-1": {
-            "class": "cardio_30"
-        },
-        "cardio_31-1": {
-            "class": "cardio_31"
-        },
-        "cardio_33-1": {
-            "class": "cardio_33"
-        },
-        "cardio_34-1": {
-            "class": "cardio_34"
-        },
         "cardio_35-1": {
-            "class": "cardio_35"
-        },
-        "cardio_35-2": {
             "class": "cardio_35"
         },
         "cardio_36-1": {
@@ -2495,9 +2420,6 @@
         },
         "cardio_9-1": {
             "class": "cardio_9"
-        },
-        "connection_1-2": {
-            "class": "connection_1"
         },
         "digestive_10-1": {
             "class": "digestive_10"
@@ -2813,7 +2735,6 @@
             "class": "endocrine_5"
         },
         "keast_1-1": {
-            "class": "keast_1",
             "type": "nerve",
             "models": "ILX:0793559"
         },
@@ -2943,12 +2864,6 @@
             "class": "reproductive_19"
         },
         "reproductive_20-1": {
-            "class": "reproductive_20"
-        },
-        "reproductive_20-2": {
-            "class": "reproductive_20"
-        },
-        "reproductive_20-3": {
             "class": "reproductive_20"
         },
         "reproductive_21-1": {
@@ -3654,9 +3569,6 @@
         "spinal_9-1": {
             "class": "spinal_9"
         },
-        "urinary_10-1": {
-            "class": "urinary_10"
-        },
         "urinary_11-1": {
             "class": "urinary_11"
         },
@@ -3855,12 +3767,6 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
-        "plexus_15-1": {
-            "models": "ILX:0793706",
-            "name": "Tympanic plexus",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
         "plexus_16-1": {
             "models": "UBERON:0011194",
             "name": "Ophthalmic plexus",
@@ -4001,9 +3907,6 @@
         },
         "label_22-1": {
             "class": "label_22"
-        },
-        "label_23-1": {
-            "class": "label_23"
         },
         "label_24-1": {
             "class": "label_24"
@@ -6547,13 +6450,6 @@
                     ]
                 },
                 {
-                    "id": "bolser_31",
-                    "connects": [
-                        "point_44",
-                        "point_49"
-                    ]
-                },
-                {
                     "id": "PH_GN",
                     "models": "ILX:0789339",
                     "connects": [
@@ -6709,22 +6605,6 @@
                     "connects": [
                         "ganglion_5-1",
                         "lumbar_end"
-                    ]
-                },
-                {
-                    "id": "tympanic",
-                    "models": "UBERON:0036216",
-                    "connects": [
-                        "ganglion_12-1",
-                        "plexus_15-1"
-                    ]
-                },
-                {
-                    "id": "less_pet",
-                    "models": "ILX:0793722",
-                    "connects": [
-                        "plexus_15-1",
-                        "point_50"
                     ]
                 },
                 {
