@@ -2188,7 +2188,8 @@
             "class": "brain_9"
         },
         "brain_1-1": {
-            "class": "brain_1"
+            "class": "brain_1",
+            "unrouted": true
         },
         "brain_1-2": {
             "class": "brain_1"
