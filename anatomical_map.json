@@ -1159,6 +1159,10 @@
         "term": "UBERON:0001717",
         "name": "spinal nucleus of trigeminal nerve"
     },
+    "brain_53": {
+        "term": "UBERON:0002623",
+        "name": "Cerebral Peduncle"
+    },
     "brain_54": {
         "term": "UBERON:0002945",
         "name": "ventral posteromedial nucleus of thalamus"
