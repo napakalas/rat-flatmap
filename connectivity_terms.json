@@ -1268,14 +1268,50 @@
     },
     {
         "id": [
-            "ILX:0793558",
+            "ILX:0793656",
+            [
+                "ILX:0793558"
+            ]
+        ],
+        "name": "Myenteric nerve plexus of stomach/Distal stomach",
+        "aliases": [
+            [
+                "UBERON:0002439",
+                [
+                    "UBERON:0001165"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0008863",
+            [
+                "ILX:0793558"
+            ]
+        ],
+        "name": "stomach smooth muscle outer longitudinal layer/Distal stomach",
+        "aliases": [
+            [
+                "UBERON:0008863",
+                [
+                    "UBERON:0001165"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0008863",
             []
         ],
         "name": "Distal stomach",
         "aliases": [
             [
-                "UBERON:0001165",
-                []
+                "UBERON:0004782",
+                [
+                    "UBERON:0001165"
+                ]
             ]
         ]
     },
